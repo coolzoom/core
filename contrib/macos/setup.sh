@@ -356,6 +356,22 @@ cmd_db() {
   dump_dir="$(download_world_dump)"
   step "创建数据库，账号 ${MYSQL_USER}"
   mysql_root -e "SET GLOBAL max_allowed_packet=1073741824; SET GLOBAL sql_mode='NO_ENGINE_SUBSTITUTION';"
+  # Local development uses a short password. MySQL 8 rejects it unless the
+  # validate_password policy is relaxed first. Unknown variables are ignored.
+  mysql_root --force -e "
+SET GLOBAL validate_password.policy = 0;
+SET GLOBAL validate_password.length = 4;
+SET GLOBAL validate_password.mixed_case_count = 0;
+SET GLOBAL validate_password.number_count = 0;
+SET GLOBAL validate_password.special_char_count = 0;
+SET GLOBAL validate_password.check_user_name = 0;
+SET GLOBAL validate_password_policy = 0;
+SET GLOBAL validate_password_length = 4;
+SET GLOBAL validate_password_mixed_case_count = 0;
+SET GLOBAL validate_password_number_count = 0;
+SET GLOBAL validate_password_special_char_count = 0;
+SET GLOBAL validate_password_check_user_name = 0;
+" >/dev/null 2>&1 || true
 
   if [[ "$RESET_DB" == "1" ]]; then
     mysql_root -e "DROP DATABASE IF EXISTS realmd; DROP DATABASE IF EXISTS mangos; DROP DATABASE IF EXISTS characters; DROP DATABASE IF EXISTS logs;"
@@ -367,17 +383,8 @@ CREATE DATABASE IF NOT EXISTS mangos DEFAULT CHARACTER SET utf8 COLLATE utf8_gen
 CREATE DATABASE IF NOT EXISTS characters DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 CREATE DATABASE IF NOT EXISTS logs DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 CREATE USER IF NOT EXISTS '$(sql_escape "$MYSQL_USER")'@'127.0.0.1' IDENTIFIED BY '$(sql_escape "$MYSQL_PASS")';
-CREATE USER IF NOT EXISTS '$(sql_escape "$MYSQL_USER")'@'localhost' IDENTIFIED BY '$(sql_escape "$MYSQL_PASS")';
 ALTER USER '$(sql_escape "$MYSQL_USER")'@'127.0.0.1' IDENTIFIED BY '$(sql_escape "$MYSQL_PASS")';
-ALTER USER '$(sql_escape "$MYSQL_USER")'@'localhost' IDENTIFIED BY '$(sql_escape "$MYSQL_PASS")';
-GRANT ALL PRIVILEGES ON realmd.* TO '$(sql_escape "$MYSQL_USER")'@'127.0.0.1';
-GRANT ALL PRIVILEGES ON mangos.* TO '$(sql_escape "$MYSQL_USER")'@'127.0.0.1';
-GRANT ALL PRIVILEGES ON characters.* TO '$(sql_escape "$MYSQL_USER")'@'127.0.0.1';
-GRANT ALL PRIVILEGES ON logs.* TO '$(sql_escape "$MYSQL_USER")'@'127.0.0.1';
-GRANT ALL PRIVILEGES ON realmd.* TO '$(sql_escape "$MYSQL_USER")'@'localhost';
-GRANT ALL PRIVILEGES ON mangos.* TO '$(sql_escape "$MYSQL_USER")'@'localhost';
-GRANT ALL PRIVILEGES ON characters.* TO '$(sql_escape "$MYSQL_USER")'@'localhost';
-GRANT ALL PRIVILEGES ON logs.* TO '$(sql_escape "$MYSQL_USER")'@'localhost';
+GRANT ALL PRIVILEGES ON *.* TO '$(sql_escape "$MYSQL_USER")'@'127.0.0.1' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 SQL
 
