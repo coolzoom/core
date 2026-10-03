@@ -35,6 +35,7 @@
 #   WORLD_PORT        mangosd and realmlist port (default: 8085)
 #   REALM_NAME        realm name (default: VMaNGOS)
 #   REALM_ADDRESS     address sent to the client (default: 127.0.0.1)
+#   REALM_BUILDS      builds accepted by realmlist (default: 5875 6141)
 #   RESET_DB=1        drop and reimport the four databases
 #   FORCE_EXTRACT=1   extract client data even if maps already exist
 #    
@@ -62,6 +63,7 @@ LOGIN_PORT="${LOGIN_PORT:-3724}"
 WORLD_PORT="${WORLD_PORT:-8085}"
 REALM_NAME="${REALM_NAME:-VMaNGOS}"
 REALM_ADDRESS="${REALM_ADDRESS:-127.0.0.1}"
+REALM_BUILDS="${REALM_BUILDS:-5875 6141}"
 DB_REPO="${DB_REPO:-vmangos/core}"
 DB_TAG="${DB_TAG:-db_latest}"
 RESET_DB="${RESET_DB:-0}"
@@ -456,22 +458,24 @@ db_info() {
 }
 
 ensure_realm() {
-  local name address
+  local name address builds
   name="$(sql_escape "$REALM_NAME")"
   address="$(sql_escape "$REALM_ADDRESS")"
+  builds="$(sql_escape "$REALM_BUILDS")"
   local count
   count="$(mysql_root -N -e "SELECT COUNT(*) FROM realmd.realmlist;")"
   if [[ "$count" != "0" ]]; then
-    printf 'realmlist 已有 %s 条记录，保留现有服务器列表。\n' "$count"
+    mysql_root -e "UPDATE realmd.realmlist SET realmbuilds='${builds}' WHERE id=1;"
+    printf '已将 realmlist 可用版本设为 %s。\n' "$REALM_BUILDS"
     return
   fi
   mysql_root <<SQL
 INSERT INTO realmd.realmlist
-  (id, name, address, localAddress, localSubnetMask, port, icon, realmflags, timezone, allowedSecurityLevel, population, flag)
+  (id, name, address, localAddress, localSubnetMask, port, icon, realmflags, timezone, allowedSecurityLevel, population, flag, realmbuilds)
 VALUES
-  (1, '${name}', '${address}', '127.0.0.1', '255.255.255.0', ${WORLD_PORT}, 0, 0, 1, 0, 0, 0);
+  (1, '${name}', '${address}', '127.0.0.1', '255.255.255.0', ${WORLD_PORT}, 0, 0, 1, 0, 0, 0, '${builds}');
 SQL
-  printf '已添加服务器 %s (%s:%s)。\n' "$REALM_NAME" "$REALM_ADDRESS" "$WORLD_PORT"
+  printf '已添加服务器 %s (%s:%s)，可用版本 %s。\n' "$REALM_NAME" "$REALM_ADDRESS" "$WORLD_PORT" "$REALM_BUILDS"
 }
 
 cmd_config() {
@@ -489,7 +493,8 @@ cmd_config() {
     "LoginDatabaseInfo=$(db_info realmd)" \
     "RealmServerPort=${LOGIN_PORT}" \
     "BindIP=\"0.0.0.0\"" \
-    "PidFile=\"${RUN_DIR}/realmd.pid\""
+    "PidFile=\"${RUN_DIR}/realmd.pid\"" \
+    "StrictVersionCheck=0"
 
   patch_conf "$PREFIX/etc/mangosd.conf" \
     "RealmID=1" \
@@ -508,7 +513,18 @@ cmd_config() {
 }
 
 data_ready() {
-  [[ -d "$DATA_DIR/dbc" && -d "$DATA_DIR/maps" && -d "$DATA_DIR/vmaps" && -d "$DATA_DIR/mmaps" ]]
+  [[ -d "$DATA_DIR/$CLIENT_BUILD/dbc" && -d "$DATA_DIR/maps" && -d "$DATA_DIR/vmaps" && -d "$DATA_DIR/mmaps" ]]
+}
+
+place_client_dbc() {
+  local dest="$DATA_DIR/$CLIENT_BUILD/dbc"
+  if [[ -d "$dest" && -n "$(find "$dest" -name '*.dbc' -print -quit 2>/dev/null)" ]]; then
+    return
+  fi
+  [[ -d "$DATA_DIR/dbc" ]] || die "找不到提取出的 dbc 目录。"
+  mkdir -p "$DATA_DIR/$CLIENT_BUILD"
+  rm -rf "$dest"
+  mv "$DATA_DIR/dbc" "$dest"
 }
 
 cmd_extract() {
@@ -523,12 +539,13 @@ cmd_extract() {
   fi
 
   mkdir -p "$DATA_DIR/vmaps" "$DATA_DIR/mmaps"
-  if [[ "$FORCE_EXTRACT" == "1" || ! -d "$DATA_DIR/dbc" || ! -d "$DATA_DIR/maps" ]]; then
+  if [[ "$FORCE_EXTRACT" == "1" || ! -d "$DATA_DIR/$CLIENT_BUILD/dbc" || ! -d "$DATA_DIR/maps" ]]; then
     step "提取地图和 DBC"
     "$extractors/MapExtractor" --silent -i "$WOW_CLIENT" -o "$DATA_DIR"
   else
     printf 'dbc 和 maps 已存在，跳过。\n'
   fi
+  place_client_dbc
 
   if [[ "$FORCE_EXTRACT" == "1" || ! -f "$DATA_DIR/Buildings/dir_bin" ]]; then
     step "提取 vmap 原始数据"
