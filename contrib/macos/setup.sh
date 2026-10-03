@@ -522,21 +522,40 @@ cmd_extract() {
     return
   fi
 
-  mkdir -p "$DATA_DIR"
-  step "提取地图和 DBC"
-  "$extractors/MapExtractor" --silent -i "$WOW_CLIENT" -o "$DATA_DIR"
+  mkdir -p "$DATA_DIR/vmaps" "$DATA_DIR/mmaps"
+  if [[ "$FORCE_EXTRACT" == "1" || ! -d "$DATA_DIR/dbc" || ! -d "$DATA_DIR/maps" ]]; then
+    step "提取地图和 DBC"
+    "$extractors/MapExtractor" --silent -i "$WOW_CLIENT" -o "$DATA_DIR"
+  else
+    printf 'dbc 和 maps 已存在，跳过。\n'
+  fi
 
-  step "提取 vmap 原始数据"
-  (
-    cd "$DATA_DIR"
-    "$extractors/VMapExtractor" --silent -d "$WOW_CLIENT/Data"
-  )
+  if [[ "$FORCE_EXTRACT" == "1" || ! -f "$DATA_DIR/Buildings/dir_bin" ]]; then
+    step "提取 vmap 原始数据"
+    (
+      cd "$DATA_DIR"
+      "$extractors/VMapExtractor" --silent -d "$WOW_CLIENT/Data"
+    )
+  else
+    printf 'Buildings 已存在，跳过。\n'
+  fi
 
-  step "组装 vmaps"
-  (
-    cd "$DATA_DIR"
-    "$extractors/VMapAssembler" --silent Buildings vmaps
-  )
+  if [[ "$FORCE_EXTRACT" == "1" || ! -f "$DATA_DIR/vmaps/000.vmtree" ]]; then
+    step "组装 vmaps"
+    mkdir -p "$DATA_DIR/vmaps"
+    (
+      cd "$DATA_DIR"
+      "$extractors/VMapAssembler" --silent Buildings vmaps
+    )
+  else
+    printf 'vmaps 已存在，跳过。\n'
+  fi
+
+  if [[ "$FORCE_EXTRACT" != "1" && -n "$(find "$DATA_DIR/mmaps" -name '*.mmap' -print -quit 2>/dev/null)" ]]; then
+    printf 'mmaps 已存在，跳过。\n'
+    printf '客户端数据已写入 %s\n' "$DATA_DIR"
+    return
+  fi
 
   step "生成 mmaps（这一步通常要数小时）"
   cp -f "$extractors/offmesh.txt" "$DATA_DIR/offmesh.txt"

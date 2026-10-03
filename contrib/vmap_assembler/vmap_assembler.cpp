@@ -72,6 +72,11 @@ int main(int argc, char* argv[])
     {
         src = args[0];
         dest = args[1];
+#ifdef WIN32
+        mkdir(dest.c_str());
+#else
+        mkdir(dest.c_str(), 0777);
+#endif
     }
 
     std::cout << "using " << src << " as source directory and writing output to " << dest << std::endl;
