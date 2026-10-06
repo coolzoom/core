@@ -83,6 +83,7 @@
 #include "InstanceStatistics.h"
 #include "GuardMgr.h"
 #include "M425.h"
+#include "Talents.h"
 #include "Automat.h"
 #include "TransportMgr.h"
 #include "RealmZone.h"
@@ -1628,6 +1629,7 @@ void World::SetInitialWorldSettings()
     sObjectMgr.LoadPlayerInfo();
     sM425.LoadFromDB();
     sM425Automat.LoadFromDB();
+    sM425Talents.LoadFromDB();
     sLog.Out(LOG_BASIC, LOG_LVL_MINIMAL, ">>> Player Create Info & Level Stats loaded");
     sLog.Out(LOG_BASIC, LOG_LVL_MINIMAL, "");
 

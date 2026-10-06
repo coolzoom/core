@@ -79,6 +79,7 @@
 #include "MovementBroadcaster.h"
 #include "PlayerBroadcaster.h"
 #include "M425.h"
+#include "Talents.h"
 #include "Automat.h"
 #include "CharacterDatabaseCache.h"
 #include "GameEventMgr.h"
@@ -4089,7 +4090,8 @@ bool Player::ResetTalents(bool noCost)
     // not need after this call
     SetCharacterFlag(CHARACTER_FLAG_RESET_TALENTS_ON_LOGIN, false);
 
-    if (m_usedTalentCount == 0)
+    bool const haradon = M425::IsHaradonRace(GetRace());
+    if (haradon ? !sM425Talents.GetSpentPoints(this) : m_usedTalentCount == 0)
     {
         UpdateFreeTalentPoints(false);                      // for fix if need counter
         return false;
@@ -4108,7 +4110,10 @@ bool Player::ResetTalents(bool noCost)
         }
     }
 
-    for (uint32 i = 0; i < sTalentStore.GetNumRows(); ++i)
+    if (haradon)
+        sM425Talents.Unlearn(this);
+
+    for (uint32 i = 0; i < sTalentStore.GetNumRows() && !haradon; ++i)
     {
         TalentEntry const* talentInfo = sTalentStore.LookupEntry(i);
 
@@ -4250,6 +4255,9 @@ TrainerSpellState Player::GetTrainerSpellState(TrainerSpell const* pTrainerSpell
 
     if (!pTrainerSpell->spell)
         return TRAINER_SPELL_RED;
+
+    if (sM425Talents.FindBySpell(pTrainerSpell->spell))
+        return sM425Talents.GetTrainerSpellState(this, pTrainerSpell->spell);
 
     // exist, already checked at loading
     SpellEntry const* spell = sSpellMgr.GetSpellEntry(pTrainerSpell->spell);

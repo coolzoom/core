@@ -55,6 +55,7 @@
 #include "RealmZone.h"
 #include "Utilities/Random.h"
 #include "M425.h"
+#include "Talents.h"
 
 #include <limits>
 
@@ -10659,7 +10660,10 @@ void ObjectMgr::LoadTrainers(char const* tableName, bool isTemplates)
             continue;
         }
 
-        if (spellinfo->Effect[0] != SPELL_EFFECT_LEARN_SPELL)
+        // Haradon talents are taught as themselves, as the 425 talent window shows them
+        bool const haradonTalent = sM425Talents.FindBySpell(spell) != nullptr;
+
+        if (spellinfo->Effect[0] != SPELL_EFFECT_LEARN_SPELL && !haradonTalent)
         {
             sLog.Out(LOG_DBERROR, LOG_LVL_MINIMAL, "Table `%s` for trainer (Entry: %u) has non-learning spell %u, ignore", tableName, entry, spell);
             for (uint32 spell2 = 1; spell2 < sSpellMgr.GetMaxSpellId(); ++spell2)

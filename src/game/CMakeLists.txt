@@ -134,6 +134,9 @@ set (game_SRCS
     M425/AutomatAI.cpp
     M425/AutomatAI.h
     M425/AutomatFunctions.cpp
+    M425/Gossip.cpp
+    M425/Talents.cpp
+    M425/Talents.h
     Mail/Mail.cpp
     Mail/MassMailMgr.cpp
     Maps/GridMap.cpp

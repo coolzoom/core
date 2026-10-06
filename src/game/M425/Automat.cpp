@@ -528,6 +528,8 @@ namespace M425
 
         sLog.Out(LOG_BASIC, LOG_LVL_MINIMAL, ">> M425: %u automata (%u unreadable), %u creature, %u trigger, %u quest bindings, %u waypoints",
             uint32(m_automats.size()), bad, uint32(m_creatureScripts.size()), uint32(m_triggers.size()), uint32(m_questScripts.size()), uint32(m_waypoints.size()));
+
+        LoadGossip();
     }
 
     AutomatData const* AutomatManager::GetAutomat(uint32 scriptId) const

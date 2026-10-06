@@ -36,6 +36,7 @@
 #include "Spell.h"
 #include "Chat.h"
 #include "CharacterDatabaseCache.h"
+#include "Talents.h"
 
 enum StableResultCode
 {
@@ -204,7 +205,7 @@ void WorldSession::SendTrainerList(ObjectGuid guid)
         {
             TrainerSpell const* tSpell = &itr.second;
 
-            uint32 triggerSpell = sSpellMgr.GetSpellEntry(tSpell->spell)->EffectTriggerSpell[0];
+            uint32 triggerSpell = sM425Talents.FindBySpell(tSpell->spell) ? tSpell->spell : sSpellMgr.GetSpellEntry(tSpell->spell)->EffectTriggerSpell[0];
 
             if (!_player->IsSpellFitByClassAndRace(triggerSpell))
                 continue;
@@ -223,7 +224,7 @@ void WorldSession::SendTrainerList(ObjectGuid guid)
         {
             TrainerSpell const* tSpell = &itr.second;
 
-            uint32 triggerSpell = sSpellMgr.GetSpellEntry(tSpell->spell)->EffectTriggerSpell[0];
+            uint32 triggerSpell = sM425Talents.FindBySpell(tSpell->spell) ? tSpell->spell : sSpellMgr.GetSpellEntry(tSpell->spell)->EffectTriggerSpell[0];
 
             if (!_player->IsSpellFitByClassAndRace(triggerSpell))
                 continue;
@@ -312,6 +313,18 @@ void WorldSession::HandleTrainerBuySpellOpcode(WorldPackets::Npc::TrainerBuySpel
     if (_player->GetMoney() < nSpellCost)
     {
         SendTrainingFailure(packet.guid, packet.spellId, TRAIN_FAIL_NOT_ENOUGH_MONEY);
+        return;
+    }
+
+    if (sM425Talents.FindBySpell(trainer_spell->spell))
+    {
+        if (!sM425Talents.Learn(_player, trainer_spell->spell))
+        {
+            SendTrainingFailure(packet.guid, packet.spellId, TRAIN_FAIL_NOT_ENOUGH_SKILL);
+            return;
+        }
+        _player->ModifyMoney(-int32(nSpellCost));
+        SendTrainingSuccess(packet.guid, packet.spellId);
         return;
     }
 

@@ -50,6 +50,7 @@ the server, so creatures standing on 425 building models can be placed at ground
 | Creature / game object guids | 9000000 + 425 spawn id |
 | Quest credit creatures | 1000000 + quest × 4 + objective |
 | Faction templates | 2002 hostile, 2003 friendly, 2006 neutral |
+| `npc_text` / `broadcast_text` | 900000+ |
 
 ## Server changes
 
@@ -73,6 +74,19 @@ the server, so creatures standing on 425 building models can be placed at ground
 
   vmangos still does aggro, threat, chasing and evading; the scripts do spells, talk, summons,
   quest credit, waypoints and dungeon progress.
+- `M425/Gossip.cpp`: the 425 NPC chat menus (`m425_creature_menu`, `m425_menu_variant`,
+  `m425_menu_option`). The generator renders every combination of a menu's quest/aura conditions
+  into its own `npc_text`; the server shows the variant whose conditions hold, runs an option's
+  chat menu scripts and follows its submenu/back/close link. Vendors and trainers get their
+  service options on the root menu.
+- `M425/Talents.*`: 425 talents are taught by the Haradon class trainers (`m425_talent`,
+  `m425_talent_spell`, `npc_trainer`). Trainers list the talent spells themselves; a rank costs one
+  point, a character has level − 4 points, and a new talent needs its tree's required points and
+  its required talents at their last rank. The ranks are read from the character's spells, so
+  nothing extra is saved. A new rank replaces the previous rank's spells, and the class trainer's
+  "reset talents" option forgets them all (the usual respec cost applies). Hooks are in
+  `ObjectMgr::LoadTrainers`, `WorldSession::SendTrainerList` / `HandleTrainerBuySpellOpcode`,
+  `Player::GetTrainerSpellState` and `Player::ResetTalents`.
 
 ## Configuration
 
@@ -81,6 +95,7 @@ either storyline and every cross-storyline feature is disabled.
 
 ## Known limitations
 
+- 425 creatures keep their weapons in the display model, there is no `creature_equip_template` data.
 - Ranged attack script functions return 0; emote and animation functions do nothing.
 - Legend mode and exhaustion functions return 0.
 - `HasCreatureInMap` by entry only searches 250 yards around the script owner.

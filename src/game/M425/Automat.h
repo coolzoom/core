@@ -272,10 +272,30 @@ namespace M425
         uint32 heartBeat = 0;
     };
 
+    // chat_menu rendered by M425Patch Gossip.cs: one variant per combination of the menu text's conditions
+    struct MenuCondition { bool negate; bool aura; uint32 id; bool inLog; };
+    struct MenuOption { std::string label; std::vector<uint8> scripts; int32 link; };
+    struct MenuVariant { std::vector<MenuCondition> conditions; uint32 npcText; std::vector<MenuOption> options; };
+    struct ChatMenu
+    {
+        uint32 scripts[6] = {};
+        uint32 subMenus[6] = {};
+        std::vector<MenuVariant> variants;
+    };
+
+    uint32 const GOSSIP_SENDER_MENU = 0x4250000;    // + menu id
+    uint32 const GOSSIP_ACTION_VENDOR = 1000;
+    uint32 const GOSSIP_ACTION_TRAINER = 1001;
+    uint32 const GOSSIP_ACTION_UNLEARN_TALENTS = 1002;
+
     class AutomatManager
     {
         public:
             void LoadFromDB();
+
+            // creatures with a 425 chat menu (Gossip.cpp); false leaves the gossip to vmangos
+            bool OnGossipHello(Player* player, Creature* creature);
+            bool OnGossipSelect(Player* player, Creature* creature, uint32 sender, uint32 action);
 
             AutomatData const* GetAutomat(uint32 scriptId) const;
             std::string const* GetText(uint32 id) const;
@@ -299,6 +319,9 @@ namespace M425
             void ReportUnknownFunction(char const* name);
 
         private:
+            void LoadGossip();
+            void ShowMenu(Player* player, Creature* creature, uint32 menuId, bool root);
+
             std::unordered_map<uint32, AutomatData> m_automats;
             std::unordered_map<uint32, std::string> m_texts;
             std::unordered_map<uint32, CreatureScripts> m_creatureScripts;
@@ -313,6 +336,12 @@ namespace M425
 
             std::mutex m_unknownLock;
             std::unordered_map<std::string, uint32> m_unknown;
+
+            std::unordered_map<uint32, ChatMenu> m_menus;
+            std::unordered_map<uint32, uint32> m_creatureMenus;
+            // per player: the menus opened from the root, for link_menu=0 (back)
+            std::mutex m_menuLock;
+            std::unordered_map<ObjectGuid, std::vector<uint32>> m_menuStacks;
     };
 
     // AutomatFunctions.cpp: false when the name is not a script function

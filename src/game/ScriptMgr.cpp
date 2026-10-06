@@ -31,6 +31,7 @@
 #include "GameEventMgr.h"
 #include "CreatureGroups.h"
 #include "InstanceData.h"
+#include "Automat.h"
 
 typedef std::vector<Script*> ScriptVector;
 int num_sc_scripts;
@@ -1863,6 +1864,9 @@ AuraScript* ScriptMgr::GetAuraScript(SpellEntry const* pSpell)
 
 bool ScriptMgr::OnGossipHello(Player* pPlayer, Creature* pCreature)
 {
+    if (sM425Automat.OnGossipHello(pPlayer, pCreature))
+        return true;
+
     Script* pTempScript = m_scripts[pCreature->GetScriptId()];
 
     if (!pTempScript || !pTempScript->pGossipHello)
@@ -1888,6 +1892,9 @@ bool ScriptMgr::OnGossipHello(Player* pPlayer, GameObject* pGameObject)
 bool ScriptMgr::OnGossipSelect(Player* pPlayer, Creature* pCreature, uint32 sender, uint32 action, char const* code)
 {
     sLog.Out(LOG_BASIC, LOG_LVL_DEBUG, "Gossip selection%s, sender: %d, action: %d", code ? " with code" : "", sender, action);
+
+    if (!code && sM425Automat.OnGossipSelect(pPlayer, pCreature, sender, action))
+        return true;
 
     Script* pTempScript = m_scripts[pCreature->GetScriptId()];
 
