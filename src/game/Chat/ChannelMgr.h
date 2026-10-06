@@ -52,7 +52,11 @@ class ChannelMgr
 
 class AllianceChannelMgr : public ChannelMgr {};
 class HordeChannelMgr    : public ChannelMgr {};
+class HaradonLightChannelMgr : public ChannelMgr {};
+class HaradonDarkChannelMgr  : public ChannelMgr {};
 
 ChannelMgr* channelMgr(Team team);
+// Haradon characters get their own global channels unless M425.CrossStoryline.Channel is set
+ChannelMgr* channelMgr(Team team, uint8 race);
 
 #endif

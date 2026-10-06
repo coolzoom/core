@@ -32,6 +32,7 @@
 #include "SocialMgr.h"
 #include "Language.h"
 #include "Anticheat.h"
+#include "M425.h"
 
 void WorldSession::HandleGuildQueryOpcode(WorldPackets::Guild::GuildQuery const& packet)
 {
@@ -104,7 +105,8 @@ void WorldSession::HandleGuildInviteOpcode(WorldPackets::Guild::GuildInvite cons
     }
 
     // not let enemies sign guild charter
-    if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) && player->GetTeam() != GetPlayer()->GetTeam())
+    if ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) && player->GetTeam() != GetPlayer()->GetTeam()) ||
+        !sM425.CanInteract(GetPlayer(), player, M425::INTERACTION_GUILD))
     {
         SendGuildCommandResult(GUILD_INVITE_S, packet.invitedName, ERR_GUILD_NOT_ALLIED);
         return;
@@ -208,6 +210,9 @@ void WorldSession::HandleGuildAcceptOpcode(NullClientPacket const& /*packet*/)
 
     // not let enemies sign guild charter
     if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) && player->GetTeam() != sObjectMgr.GetPlayerTeamByGUID(guild->GetLeaderGuid()))
+        return;
+
+    if (!sM425.CanInteract(player->GetRace(), guild->GetLeaderGuid(), M425::INTERACTION_GUILD))
         return;
 
     if (guild->AddMember(GetPlayer()->GetObjectGuid(), guild->GetLowestRank()) != GuildAddStatus::OK)

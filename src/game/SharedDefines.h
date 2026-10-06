@@ -64,15 +64,31 @@ enum Races
     RACE_GNOME              = 7,
     RACE_TROLL              = 8,
     RACE_GOBLIN             = 9,
+    // Haradon storyline (425), see M425/M425.h
+    RACE_M425_HUMAN         = 10,
+    RACE_M425_ELF           = 11,
+    RACE_M425_ORC           = 12,
+    RACE_M425_UNDEAD        = 13,
+    RACE_M425_MENDEL        = 14,
 };
 
 // max+1 for player race
-#define MAX_RACES         9
+#define MAX_RACES         15
 
-#define RACEMASK_ALL_PLAYABLE \
+#define RACEMASK_HARADON_LIGHT \
+    ((1<<(RACE_M425_HUMAN-1)) |(1<<(RACE_M425_ELF-1)) |(1<<(RACE_M425_MENDEL-1)))
+
+#define RACEMASK_HARADON_DARK \
+    ((1<<(RACE_M425_ORC-1))   |(1<<(RACE_M425_UNDEAD-1)))
+
+#define RACEMASK_HARADON (RACEMASK_HARADON_LIGHT | RACEMASK_HARADON_DARK)
+
+#define RACEMASK_AZEROTH \
     ((1<<(RACE_HUMAN-1))    |(1<<(RACE_ORC-1))      |(1<<(RACE_DWARF-1))   | \
     (1<<(RACE_NIGHTELF-1))  |(1<<(RACE_UNDEAD-1))   |(1<<(RACE_TAUREN-1))  | \
     (1<<(RACE_GNOME-1))     |(1<<(RACE_TROLL-1)))
+
+#define RACEMASK_ALL_PLAYABLE (RACEMASK_AZEROTH | RACEMASK_HARADON)
 
 // for most cases batter use ChrRace data for team check as more safe, but when need full mask of team can be use this defines.
 #define RACEMASK_ALLIANCE \

@@ -1406,6 +1406,47 @@ AllowTwoSide.WhoList = 0
 AllowTwoSide.AddFriend = 0
 
 ###################################################################################################################
+# HARADON STORYLINE (M425)
+#
+#    Races 10-14 belong to the Haradon storyline ported from the 425 game (data: sql/custom/m425 and
+#    NetCoreClient/tools/build-m425.sh). Players of different storylines are always hostile to each other.
+#
+#    M425.CharacterCreating
+#        Which storylines new characters may start in (GMs are not restricted)
+#        Default: 0 - both
+#                 1 - Azeroth only
+#                 2 - Haradon only
+#
+#    M425.CrossStoryline.Chat
+#    M425.CrossStoryline.Channel
+#    M425.CrossStoryline.Group
+#    M425.CrossStoryline.Guild
+#    M425.CrossStoryline.Trade
+#    M425.CrossStoryline.Auction
+#    M425.CrossStoryline.Mail
+#    M425.CrossStoryline.WhoList
+#    M425.CrossStoryline.AddFriend
+#    M425.CrossStoryline.Battleground
+#        Allow the feature between Azeroth and Haradon characters. The AllowTwoSide.* options still
+#        apply on top of these between the two sides of one storyline.
+#        Default: 0 - (disabled)
+#                 1 - (enabled)
+#
+###################################################################################################################
+
+M425.CharacterCreating = 0
+M425.CrossStoryline.Chat = 0
+M425.CrossStoryline.Channel = 0
+M425.CrossStoryline.Group = 0
+M425.CrossStoryline.Guild = 0
+M425.CrossStoryline.Trade = 0
+M425.CrossStoryline.Auction = 0
+M425.CrossStoryline.Mail = 0
+M425.CrossStoryline.WhoList = 0
+M425.CrossStoryline.AddFriend = 0
+M425.CrossStoryline.Battleground = 0
+
+###################################################################################################################
 # CREATURE AND GAMEOBJECT SETTINGS
 #
 #    ThreatRadius

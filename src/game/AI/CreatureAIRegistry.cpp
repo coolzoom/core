@@ -34,6 +34,7 @@
 #include "CreatureAIRegistry.h"
 #include "WaypointMovementGenerator.h"
 #include "CyclicMovementGenerator.h"
+#include "AutomatAI.h"
 
 namespace AIRegistry
 {
@@ -48,6 +49,7 @@ void Initialize()
     (new CreatureAIFactory<CreatureEventAI>("EventAI"))->RegisterSelf();
     (new CreatureAIFactory<PetEventAI>("PetEventAI"))->RegisterSelf();
     (new CreatureAIFactory<GuardEventAI>("GuardEventAI"))->RegisterSelf();
+    (new CreatureAIFactory<M425::AutomatAI>("M425AutomatAI"))->RegisterSelf();
 
 
     (new MovementGeneratorFactory<RandomMovementGenerator>(RANDOM_MOTION_TYPE))->RegisterSelf();

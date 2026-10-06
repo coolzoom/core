@@ -35,6 +35,7 @@
 #include "WorldSession.h"
 #include "Mail.h"
 #include "TransactionLog.h"
+#include "M425.h"
 #include "Policies/SingletonImp.h"
 
 INSTANTIATE_SINGLETON_1(AuctionHouseMgr);
@@ -341,6 +342,9 @@ void AuctionHouseMgr::LoadAuctionHouses()
             }
         }
     }
+
+    if (!sM425.IsInteractionAllowed(M425::INTERACTION_AUCTION) && sAuctionHouseStore.LookupEntry(M425::AUCTION_HOUSE))
+        m_mAuctionHouses[M425::AUCTION_HOUSE] = MakeNewAuctionHouseObject();
 }
 
 void AuctionHouseMgr::LoadAuctionItems()
@@ -580,6 +584,14 @@ uint32 AuctionHouseMgr::GetAuctionHouseId(uint32 factionTemplateId)
 AuctionHouseEntry const* AuctionHouseMgr::GetAuctionHouseEntry(Unit* unit)
 {
     uint32 houseId = 1;                                     // dwarf auction house (used for normal cut/etc percents)
+
+    if (!sM425.IsInteractionAllowed(M425::INTERACTION_AUCTION))
+    {
+        bool const haradon = unit->IsPlayer() ? M425::IsHaradonRace(static_cast<Player*>(unit)->GetRace()) : M425::IsHaradonCreature(unit->GetEntry());
+        if (haradon)
+            if (AuctionHouseEntry const* house = sAuctionHouseStore.LookupEntry(M425::AUCTION_HOUSE))
+                return house;
+    }
 
     if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_AUCTION))
     {

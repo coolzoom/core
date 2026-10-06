@@ -32,6 +32,7 @@
 #include "Utilities/Random.h"
 #include "SocialMgr.h"
 #include "Util.h"
+#include "M425.h"
 
 /* differeces from off:
     -you can uninvite yourself - is is useful
@@ -74,7 +75,8 @@ void WorldSession::HandleGroupInviteOpcode(WorldPackets::Group::GroupInvite cons
     }
 
     // Can't group with
-    if (!GetPlayer()->IsGameMaster() && !sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GROUP) && GetPlayer()->GetTeam() != player->GetTeam())
+    if (!GetPlayer()->IsGameMaster() && ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GROUP) && GetPlayer()->GetTeam() != player->GetTeam()) ||
+        !sM425.CanInteract(GetPlayer(), player, M425::INTERACTION_GROUP)))
     {
         SendPartyResult(PARTY_OP_INVITE, packet.memberName, ERR_PLAYER_WRONG_FACTION);
         return;

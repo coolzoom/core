@@ -364,7 +364,7 @@ class Map : public GridRefManager<NGridType>
 
         void MessageBroadcast(Player const*, WorldPacket*, bool to_self);
         void MessageBroadcast(WorldObject const*, WorldPacket*);
-        void MessageDistBroadcast(Player const*, WorldPacket*, float dist, bool to_self, bool own_team_only = false);
+        void MessageDistBroadcast(Player const*, WorldPacket*, float dist, bool to_self, bool own_team_only = false, int8 storyline = -1);
         void MessageDistBroadcast(WorldObject const*, WorldPacket*, float dist);
 
         float GetVisibilityDistance() const { return m_visibilityDistance; }

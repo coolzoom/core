@@ -98,9 +98,10 @@ namespace MaNGOS
         bool i_toSelf;
         bool i_ownTeamOnly;
         float i_dist;
+        int8 i_storyline;                                   // M425::Storyline of the listeners, -1 = everyone
 
-        MessageDistDeliverer(Player const& pl, WorldPacket* msg, float dist, bool to_self, bool ownTeamOnly)
-            : i_player(pl), i_message(msg), i_toSelf(to_self), i_ownTeamOnly(ownTeamOnly), i_dist(dist) {}
+        MessageDistDeliverer(Player const& pl, WorldPacket* msg, float dist, bool to_self, bool ownTeamOnly, int8 storyline = -1)
+            : i_player(pl), i_message(msg), i_toSelf(to_self), i_ownTeamOnly(ownTeamOnly), i_dist(dist), i_storyline(storyline) {}
         void Visit(CameraMapType& m);
         template<class SKIP> void Visit(GridRefManager<SKIP>&) {}
     };

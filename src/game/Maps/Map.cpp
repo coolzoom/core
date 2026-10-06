@@ -56,10 +56,13 @@
 #include "world/world_event_wareffort.h"
 #include "CreatureGroups.h"
 #include "Geometry.h"
+#include "M425.h"
+#include "Automat.h"
 
 Map::~Map()
 {
     UnloadAll(true);
+    sM425Automat.RemoveMap(this);
 
     if (!m_scriptSchedule.empty())
         sScriptMgr.DecreaseScheduledScriptCount(m_scriptSchedule.size());
@@ -645,7 +648,7 @@ void Map::MessageBroadcast(WorldObject const* obj, WorldPacket* msg)
     cell.Visit(p, message, *this, *obj, GetVisibilityDistance());
 }
 
-void Map::MessageDistBroadcast(Player const* player, WorldPacket* msg, float dist, bool to_self, bool own_team_only)
+void Map::MessageDistBroadcast(Player const* player, WorldPacket* msg, float dist, bool to_self, bool own_team_only, int8 storyline)
 {
     CellPair p = MaNGOS::ComputeCellPair(player->GetPositionX(), player->GetPositionY());
 
@@ -661,7 +664,7 @@ void Map::MessageDistBroadcast(Player const* player, WorldPacket* msg, float dis
     if (!loaded(GridPair(cell.data.Part.grid_x, cell.data.Part.grid_y)))
         return;
 
-    MaNGOS::MessageDistDeliverer post_man(*player, msg, dist, to_self, own_team_only);
+    MaNGOS::MessageDistDeliverer post_man(*player, msg, dist, to_self, own_team_only, storyline);
     TypeContainerVisitor<MaNGOS::MessageDistDeliverer , WorldTypeMapContainer > message(post_man);
     cell.Visit(p, message, *this, *player, dist);
 }
@@ -1038,6 +1041,9 @@ void Map::Update(uint32 t_diff)
 
     if (m_data)
         m_data->Update(t_diff);
+
+    if (M425::IsHaradonMap(GetId()))
+        sM425Automat.UpdateMap(this, t_diff);
 
     m_weatherSystem->UpdateWeathers(t_diff);
 

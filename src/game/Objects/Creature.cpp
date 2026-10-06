@@ -54,6 +54,7 @@
 #include "TemporarySummon.h"
 #include "GuardMgr.h"
 #include "Utilities/Random.h"
+#include "M425.h"
 
 uint32 CreatureData::GetRandomRespawnTime() const
 {
@@ -1361,6 +1362,10 @@ bool Creature::IsTrainerOf(Player* pPlayer, bool msg) const
     if (!IsTrainer())
         return false;
 
+    // WoW trainers don't teach Haradon characters and the reverse
+    if (!M425::IsNpcOfStoryline(GetEntry(), pPlayer->GetRace()))
+        return false;
+
     TrainerSpellData const* cSpells = GetTrainerSpells();
     TrainerSpellData const* tSpells = GetTrainerTemplateSpells();
 
@@ -1523,6 +1528,7 @@ bool Creature::CanInteractWithBattleMaster(Player* pPlayer, bool msg) const
 bool Creature::CanTrainAndResetTalentsOf(Player const* pPlayer) const
 {
     return pPlayer->GetLevel() >= 10
+           && M425::IsNpcOfStoryline(GetEntry(), pPlayer->GetRace())
            && GetCreatureInfo()->trainer_type == TRAINER_TYPE_CLASS
            && pPlayer->GetClass() == GetCreatureInfo()->trainer_class;
 }

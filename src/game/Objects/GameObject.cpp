@@ -40,6 +40,7 @@
 #include "BattleGroundAV.h"
 #include "Util.h"
 #include "GameObjectAI.h"
+#include "AutomatAI.h"
 #include "ScriptMgr.h"
 #include "ZoneScript.h"
 #include "DynamicTree.h"
@@ -145,6 +146,8 @@ void GameObject::AIM_Initialize()
 {
     delete m_AI;
     m_AI = sScriptMgr.GetGameObjectAI(this);
+    if (!m_AI)
+        m_AI = M425::CreateGameObjectAI(this);
 }
 
 void GameObject::RemoveFromWorld()

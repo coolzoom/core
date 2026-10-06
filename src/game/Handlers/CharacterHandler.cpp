@@ -43,6 +43,7 @@
 #include "PlayerBotMgr.h"
 #include "MapManager.h"
 #include "AccountMgr.h"
+#include "M425.h"
 
 class LoginQueryHolder : public SqlQueryHolder
 {
@@ -236,6 +237,21 @@ void WorldSession::HandleCharCreateOpcode(WorldPackets::Character::CharCreate co
         return;
     }
 
+    if (GetSecurity() == SEC_PLAYER && !sM425.IsCreationAllowed(packet.race))
+    {
+        sendResponse(CHAR_CREATE_DISABLED);
+        return;
+    }
+
+    if (!M425::IsAllowedRaceClass(packet.race, packet.class_) || !sObjectMgr.GetPlayerInfo(packet.race, packet.class_))
+    {
+        sendResponse(CHAR_CREATE_FAILED);
+        std::stringstream oss;
+        oss << "Attempt to create character of invalid Race (" << int(packet.race) << ") and Class (" << int(packet.class_) << ") combination";
+        ProcessAnticheatAction("PassiveAnticheat", oss.str().c_str(), CHEAT_ACTION_LOG);
+        return;
+    }
+
     if (!Player::ValidateAppearance(packet.race, packet.gender, packet.hairStyle, packet.hairColor, packet.face, packet.facialHair, packet.skin))
     {
         sendResponse(CHAR_CREATE_FAILED);
@@ -286,12 +302,17 @@ void WorldSession::HandleCharCreateOpcode(WorldPackets::Character::CharCreate co
         std::vector<PlayerCacheData const*> characters;
         sObjectMgr.GetPlayerDataForAccount(GetAccountId(), characters);
 
-        if (!characters.empty())
+        // sides are only compared within one storyline, Azeroth and Haradon characters don't restrict each other
+        auto sameStoryline = std::find_if(characters.begin(), characters.end(), [&packet](PlayerCacheData const* cData)
         {
-            PlayerCacheData const* cData = characters.front();
+            return M425::IsSameStoryline(cData->uiRace, packet.race);
+        });
+
+        if (sameStoryline != characters.end())
+        {
             Team team_ = Player::TeamForRace(packet.race);
 
-            uint8 acc_race = cData->uiRace;
+            uint8 acc_race = (*sameStoryline)->uiRace;
 
             // need to check team only for first character
             // TODO: what to if account already has characters of both races?

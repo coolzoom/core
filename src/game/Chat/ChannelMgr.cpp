@@ -24,9 +24,12 @@
 #include "World.h"
 #include "Util.h"
 #include "DBCStores.h"
+#include "M425.h"
 
 INSTANTIATE_SINGLETON_1(AllianceChannelMgr);
 INSTANTIATE_SINGLETON_1(HordeChannelMgr);
+INSTANTIATE_SINGLETON_1(HaradonLightChannelMgr);
+INSTANTIATE_SINGLETON_1(HaradonDarkChannelMgr);
 
 ChannelMgr* channelMgr(Team team)
 {
@@ -39,6 +42,16 @@ ChannelMgr* channelMgr(Team team)
         return &MaNGOS::Singleton<HordeChannelMgr>::Instance();
 
     return nullptr;
+}
+
+ChannelMgr* channelMgr(Team team, uint8 race)
+{
+    if (!M425::IsHaradonRace(race) || sM425.IsInteractionAllowed(M425::INTERACTION_CHANNEL))
+        return channelMgr(team);
+
+    if (sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_CHANNEL) || team == ALLIANCE)
+        return &MaNGOS::Singleton<HaradonLightChannelMgr>::Instance();
+    return &MaNGOS::Singleton<HaradonDarkChannelMgr>::Instance();
 }
 
 ChannelMgr::~ChannelMgr()

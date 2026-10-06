@@ -44,6 +44,7 @@
 #include "Conditions.h"
 #include "Anticheat.h"
 #include "MasterPlayer.h"
+#include "M425.h"
 
 void WorldSession::HandleRepopRequestOpcode(NullClientPacket const& /*packet*/)
 {
@@ -86,6 +87,7 @@ public:
 
         uint32 clientCount = 0;
         Team const team = sess->GetPlayer()->GetTeam();
+        uint8 const race = sess->GetPlayer()->GetRace();
         AccountTypes const security = sess->GetSecurity();
         bool const allowTwoSideWhoList = sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_WHO_LIST);
         bool const showBotsInWhoList = sWorld.getConfig(CONFIG_BOOL_PLAYER_BOT_SHOW_IN_WHO_LIST);
@@ -107,6 +109,9 @@ public:
             {
                 // player can see member of other team only if CONFIG_BOOL_ALLOW_TWO_SIDE_WHO_LIST
                 if (pPlayer->GetTeam() != team && !allowTwoSideWhoList)
+                    continue;
+
+                if (!sM425.CanInteract(race, pPlayer->GetRace(), M425::INTERACTION_WHO_LIST))
                     continue;
 
                 // player can see MODERATOR, GAME MASTER, ADMINISTRATOR only if CONFIG_GM_IN_WHO_LIST
@@ -486,6 +491,8 @@ void WorldSession::HandleAddFriendOpcode(WorldPackets::Misc::AddFriend const& pa
         if (friendGuid == GetMasterPlayer()->GetObjectGuid())
             friendResult = FRIEND_SELF;
         else if (GetMasterPlayer()->GetTeam() != team && !sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_ADD_FRIEND) && GetSecurity() < SEC_MODERATOR)
+            friendResult = FRIEND_ENEMY;
+        else if (!sM425.CanInteract(GetMasterPlayer()->GetRace(), pData->uiRace, M425::INTERACTION_ADD_FRIEND) && GetSecurity() < SEC_MODERATOR)
             friendResult = FRIEND_ENEMY;
         else if (GetMasterPlayer()->GetSocial()->HasFriend(friendGuid))
             friendResult = FRIEND_ALREADY;

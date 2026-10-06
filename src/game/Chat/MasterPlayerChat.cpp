@@ -105,7 +105,7 @@ void MasterPlayer::CleanupChannels()
         Channel* ch = *m_channels.begin();
         m_channels.erase(m_channels.begin());               // remove from player's channel list
         ch->Leave(GetObjectGuid(), false);                  // not send to client, not remove from player's channel list
-        if (ChannelMgr* cMgr = channelMgr(GetTeam()))
+        if (ChannelMgr* cMgr = channelMgr(GetTeam(), GetRace()))
             cMgr->LeftChannel(ch->GetName());               // deleted channel if empty
     }
 }

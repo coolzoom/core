@@ -128,6 +128,12 @@ set (game_SRCS
     LFG/LFGHandler.cpp
     LFG/LFGMgr.cpp
     LFG/LFGQueue.cpp
+    M425/M425.cpp
+    M425/Automat.cpp
+    M425/Automat.h
+    M425/AutomatAI.cpp
+    M425/AutomatAI.h
+    M425/AutomatFunctions.cpp
     Mail/Mail.cpp
     Mail/MassMailMgr.cpp
     Maps/GridMap.cpp
@@ -555,6 +561,7 @@ include_directories(
   ${CMAKE_CURRENT_SOURCE_DIR}/Guild
   ${CMAKE_CURRENT_SOURCE_DIR}/Handlers
   ${CMAKE_CURRENT_SOURCE_DIR}/LFG
+  ${CMAKE_CURRENT_SOURCE_DIR}/M425
   ${CMAKE_CURRENT_SOURCE_DIR}/Mail
   ${CMAKE_CURRENT_SOURCE_DIR}/Maps
   ${CMAKE_CURRENT_SOURCE_DIR}/Maps/Pool

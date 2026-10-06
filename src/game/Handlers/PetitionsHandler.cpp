@@ -32,6 +32,7 @@
 #include "GossipDef.h"
 #include "SocialMgr.h"
 #include "Anticheat.h"
+#include "M425.h"
 
 // Charters ID in item_template
 #define GUILD_CHARTER               5863
@@ -246,8 +247,9 @@ void WorldSession::HandlePetitionSignOpcode(WorldPackets::Petition::PetitionSign
     }
 
     // not let enemies sign guild charter
-    if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) &&
-            GetPlayer()->GetTeam() != petition->GetTeam())
+    if ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) &&
+            GetPlayer()->GetTeam() != petition->GetTeam()) ||
+        !sM425.CanInteract(GetPlayer()->GetRace(), petition->GetOwnerGuid(), M425::INTERACTION_GUILD))
     {
         SendGuildCommandResult(GUILD_CREATE_S, "", ERR_GUILD_NOT_ALLIED);
         return;
@@ -343,7 +345,8 @@ void WorldSession::HandleOfferPetitionOpcode(WorldPackets::Petition::OfferPetiti
     if (!player)
         return;
 
-    if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) && GetPlayer()->GetTeam() != player->GetTeam())
+    if ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_GUILD) && GetPlayer()->GetTeam() != player->GetTeam()) ||
+        !sM425.CanInteract(GetPlayer(), player, M425::INTERACTION_GUILD))
     {
         SendGuildCommandResult(GUILD_CREATE_S, "", ERR_GUILD_NOT_ALLIED);
         return;

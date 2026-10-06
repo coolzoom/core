@@ -36,6 +36,7 @@
 #include "ScriptMgr.h"
 #include "World.h"
 #include "Anticheat.h"
+#include "M425.h"
 
 void WorldSession::HandleBattlemasterHelloOpcode(WorldPackets::Battleground::BattlemasterHello const& packet)
 {
@@ -108,6 +109,10 @@ void WorldSession::RequestBgJoinQueue(ObjectGuid battlemaster, uint32 instanceId
         ProcessAnticheatAction("PassiveAnticheat", "Attempt to queue for AV as group", CHEAT_ACTION_LOG | CHEAT_ACTION_REPORT_GMS);
         return;
     }
+
+    // the WoW battlegrounds are Azeroth only
+    if (M425::IsHaradonRace(GetPlayer()->GetRace()) && !sM425.IsInteractionAllowed(M425::INTERACTION_BATTLEGROUND))
+        return;
 
 #if SUPPORTED_CLIENT_BUILD > CLIENT_BUILD_1_6_1
     if (queuedAtBGPortal)

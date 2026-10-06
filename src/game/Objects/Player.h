@@ -1991,7 +1991,7 @@ class Player final: public Unit
         void SendMessageToSet(std::unique_ptr<ServerPacket const> packet, bool self) const override;
         void SendMessageToSet(WorldPacket* data, bool self) const override;
         void SendMessageToSetInRange(WorldPacket* data, float fist, bool self) const override;
-        void SendMessageToSetInRange(WorldPacket* data, float dist, bool self, bool own_team_only) const;
+        void SendMessageToSetInRange(WorldPacket* data, float dist, bool self, bool own_team_only, int8 storyline = -1) const;
         void SendInitWorldStates(uint32 zone) const;
         void SendUpdateWorldState(uint32 state, uint32 value) const;
         void SendDirectMessage(WorldPacket* data) const;
@@ -2145,6 +2145,8 @@ class Player final: public Unit
         float GetYellRange() const;
         void Say(char const* text, uint32 const language) const;
         void Yell(char const* text, uint32 const language) const;
+        // say/yell delivery, the other storyline gets the message in a language it can't read
+        void SendChatToSetInRange(WorldPacket& data, ChatMsg type, char const* text, uint32 language, float range) const;
         void TextEmote(char const* text) const;
         void SendSysMessage(int32 entry) const;
         void SendSysMessage(char const* str) const;

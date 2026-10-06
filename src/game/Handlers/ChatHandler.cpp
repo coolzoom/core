@@ -40,6 +40,7 @@
 #include "CellImpl.h"
 #include "Anticheat.h"
 #include "AccountMgr.h"
+#include "M425.h"
 
 bool WorldSession::SanitizeChatMessage(std::string& msg, uint32 lang, uint32 msgType)
 {
@@ -256,7 +257,7 @@ void WorldSession::HandleChatMessageOpcode(WorldPackets::Chat::ChatMessage const
         {
             PlayerPointer playerPointer(GetPlayerPointer());
             ASSERT(playerPointer);
-            if (ChannelMgr* cMgr = channelMgr(playerPointer->GetTeam()))
+            if (ChannelMgr* cMgr = channelMgr(playerPointer->GetTeam(), playerPointer->GetRace()))
             {
                 if (Channel *chn = cMgr->GetChannel(packet.whisperTargetOrChannel, playerPointer))
                 {
@@ -429,7 +430,8 @@ void WorldSession::HandleChatMessageOpcode(WorldPackets::Chat::ChatMessage const
 
             if (tSecurity == SEC_PLAYER && pSecurity == SEC_PLAYER)
             {
-                if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_CHAT) && GetPlayer()->GetTeam() != player->GetTeam())
+                if ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_CHAT) && GetPlayer()->GetTeam() != player->GetTeam()) ||
+                    !sM425.CanInteract(GetPlayer()->GetRace(), player->GetRace(), M425::INTERACTION_CHAT))
                 {
                     SendWrongFactionNotice();
                     return;

@@ -54,6 +54,7 @@
 #include "Conditions.h"
 #include "RealmZone.h"
 #include "Utilities/Random.h"
+#include "M425.h"
 
 #include <limits>
 
@@ -5226,15 +5227,18 @@ void ObjectMgr::LoadPlayerInfo()
     }
 }
 
-void ObjectMgr::GetPlayerClassLevelInfo(uint32 class_, uint32 level, PlayerClassLevelInfo* info) const
+void ObjectMgr::GetPlayerClassLevelInfo(uint32 class_, uint32 level, PlayerClassLevelInfo* info, uint32 race) const
 {
     if (level < 1 || class_ >= MAX_CLASSES)
         return;
 
-    PlayerClassInfo const* pInfo = &m_PlayerClassInfo[class_];
-
     if (level > sWorld.getConfig(CONFIG_UINT32_MAX_PLAYER_LEVEL))
         level = sWorld.getConfig(CONFIG_UINT32_MAX_PLAYER_LEVEL);
+
+    if (sM425.GetClassLevelInfo(race, class_, level, info))
+        return;
+
+    PlayerClassInfo const* pInfo = &m_PlayerClassInfo[class_];
 
     *info = pInfo->levelInfo[level - 1];
 }
@@ -8519,8 +8523,11 @@ uint32 ObjectMgr::GetBaseXP(uint32 level) const
     return itr != m_BaseXPMap.end() ? itr->second : 0;
 }
 
-uint32 ObjectMgr::GetXPForLevel(uint32 level) const
+uint32 ObjectMgr::GetXPForLevel(uint32 level, uint32 race) const
 {
+    if (uint32 xp = sM425.GetXPForLevel(race, level))
+        return xp;
+
     if (m_PlayerXPperLevel.empty())
         return 0;
 

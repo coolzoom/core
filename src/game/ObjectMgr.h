@@ -703,7 +703,7 @@ class ObjectMgr
             if (class_ >= MAX_CLASSES) return nullptr;
             return &m_PlayerClassInfo[class_];
         }
-        void GetPlayerClassLevelInfo(uint32 class_,uint32 level, PlayerClassLevelInfo* info) const;
+        void GetPlayerClassLevelInfo(uint32 class_, uint32 level, PlayerClassLevelInfo* info, uint32 race = 0) const; // race selects the Haradon tables
 
         PlayerInfo const* GetPlayerInfo(uint32 race, uint32 class_) const
         {
@@ -970,7 +970,7 @@ class ObjectMgr
         std::string GenerateFreePlayerName();
         std::string GeneratePetName(uint32 entry);
         uint32 GetBaseXP(uint32 level) const;
-        uint32 GetXPForLevel(uint32 level) const;
+        uint32 GetXPForLevel(uint32 level, uint32 race = 0) const;
         uint32 GetXPForPetLevel(uint32 level) const { return GetXPForLevel(level)/4; }
 
         int32 GetFishingBaseSkillLevel(uint32 entry) const

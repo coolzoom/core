@@ -41,6 +41,7 @@
 #include "AccountMgr.h"
 #include "TransactionLog.h"
 #include "Database/DatabaseImpl.h"
+#include "M425.h"
 
 void WorldSession::SendMailResult(uint32 mailId, MailResponseType mailAction, MailResponseResult mailError, uint32 equipError, uint32 item_guid, uint32 item_count)
 {
@@ -263,7 +264,8 @@ void WorldSession::HandleSendMailCallback(WorldSession::AsyncMailSendRequest* re
     }
 
     // check the receiver's Faction...
-    if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_MAIL) && pl->GetTeam() != req->rcTeam && GetSecurity() == SEC_PLAYER)
+    if (GetSecurity() == SEC_PLAYER && ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_MAIL) && pl->GetTeam() != req->rcTeam) ||
+        !sM425.CanInteract(pl->GetRace(), req->receiver, M425::INTERACTION_MAIL)))
     {
         SendMailResult(0, MAIL_SEND, MAIL_ERR_NOT_YOUR_TEAM);
         return;

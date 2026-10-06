@@ -28,6 +28,7 @@
 #include "ObjectAccessor.h"
 #include "BattleGroundMgr.h"
 #include "PlayerBroadcaster.h"
+#include "M425.h"
 
 using namespace MaNGOS;
 
@@ -159,6 +160,7 @@ void MessageDistDeliverer::Visit(CameraMapType& m)
 
         if ((i_toSelf || owner != &i_player) &&
                 (!i_ownTeamOnly || owner->GetTeam() == i_player.GetTeam()) &&
+                (i_storyline < 0 || M425::StorylineForRace(owner->GetRace()) == i_storyline) &&
                 (!i_dist || iter.getSource()->GetBody()->IsWithinDist(&i_player, i_dist)))
         {
             if (WorldSession* session = owner->GetSession())

@@ -55,6 +55,7 @@
 #include "MovementBroadcaster.h"
 #include "PlayerBroadcaster.h"
 #include "Utilities/Random.h"
+#include "M425.h"
 
 ////////////////////////////////////////////////////////////
 // Methods of class MovementInfo
@@ -3657,6 +3658,10 @@ ReputationRank WorldObject::GetReactionTo(WorldObject const* target) const
                                          // however client seems to allow mixed group parties, because in 13850 client it works like:
                                          // return GetFactionReactionTo(GetFactionTemplateEntry(), target);
 
+                // Azeroth and Haradon players are always enemies, NPCs keep their faction rules
+                if (!M425::IsSameStoryline(selfPlayerOwner->GetRace(), targetPlayerOwner->GetRace()))
+                    return REP_HOSTILE;
+
                 // Nostalrius: Hackfix because UNIT_BYTE2_FLAG_FFA_PVP is not implemented yet.
                 if (selfPlayerOwner->IsFFAPvP() && targetPlayerOwner->IsFFAPvP())
                     return REP_HOSTILE;
@@ -3797,6 +3802,10 @@ bool WorldObject::IsValidAttackTarget(Unit const* target, bool checkAlive) const
     if (playerAffectingAttacker && playerAffectingTarget)
     {
         if (playerAffectingAttacker->m_duel && playerAffectingAttacker->m_duel->opponent == playerAffectingTarget && playerAffectingAttacker->m_duel->startTime != 0)
+            return true;
+
+        // no PvP flag needed between storylines
+        if (!M425::IsSameStoryline(playerAffectingAttacker->GetRace(), playerAffectingTarget->GetRace()))
             return true;
 
         if (playerAffectingTarget->IsPvP())

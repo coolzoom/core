@@ -33,6 +33,7 @@
 #include "Util.h"
 #include "Chat.h"
 #include "Anticheat.h"
+#include "M425.h"
 
 // please DO NOT use iterator++, because it is slower than ++iterator!!!
 // post-incrementation is always slower than pre-incrementation !
@@ -46,6 +47,9 @@ void WorldSession::HandleAuctionHelloOpcode(WorldPackets::AuctionHouse::AuctionH
         sLog.Out(LOG_BASIC, LOG_LVL_DEBUG, "WORLD: HandleAuctionHelloOpcode - %s not found or you can't interact with him.", packet.auctioneerGuid.GetString().c_str());
         return;
     }
+
+    if (!sM425.CanUseNpc(GetPlayer()->GetRace(), unit->GetEntry(), M425::INTERACTION_AUCTION))
+        return;
 
     // remove fake death
     if (GetPlayer()->HasUnitState(UNIT_STATE_FEIGN_DEATH))
@@ -220,6 +224,9 @@ AuctionHouseEntry const* WorldSession::GetCheckedAuctionHouseForAuctioneer(Objec
             sLog.Out(LOG_BASIC, LOG_LVL_DEBUG, "Auctioneeer %s accessed in cheating way.", guid.GetString().c_str());
             return nullptr;
         }
+
+        if (!sM425.CanUseNpc(GetPlayer()->GetRace(), auctioneer->GetEntry(), M425::INTERACTION_AUCTION))
+            return nullptr;
     }
 
     // always return pointer

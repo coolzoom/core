@@ -33,6 +33,7 @@
 #include "Map.h"
 #include "TradeData.h"
 #include "TransactionLog.h"
+#include "M425.h"
 
 void WorldSession::SendTradeStatus(TradeStatus status)
 {
@@ -631,7 +632,8 @@ void WorldSession::HandleInitiateTradeOpcode(WorldPackets::Trade::InitiateTrade 
         return;
     }
 
-    if (!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_TRADE) && pOther->GetTeam() != _player->GetTeam())
+    if ((!sWorld.getConfig(CONFIG_BOOL_ALLOW_TWO_SIDE_INTERACTION_TRADE) && pOther->GetTeam() != _player->GetTeam()) ||
+        !sM425.CanInteract(_player, pOther, M425::INTERACTION_TRADE))
     {
         SendTradeStatus(TRADE_STATUS_WRONG_FACTION);
         return;

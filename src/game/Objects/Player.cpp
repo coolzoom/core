@@ -78,6 +78,8 @@
 #include "Anticheat.h"
 #include "MovementBroadcaster.h"
 #include "PlayerBroadcaster.h"
+#include "M425.h"
+#include "Automat.h"
 #include "CharacterDatabaseCache.h"
 #include "GameEventMgr.h"
 #include "world/scourge_invasion.h"
@@ -325,6 +327,10 @@ void Player::CleanupsBeforeDelete()
 
 bool Player::ValidateAppearance(uint8 race, uint8 gender, uint8 hairID, uint8 hairColor, uint8 faceID, uint8 facialHair, uint8 skinColor)
 {
+    // Haradon races have no CharSections rows, their options are numbered 425 styles
+    if (M425::IsHaradonRace(race))
+        return sM425.ValidateAppearance(race, gender, hairID, hairColor, faceID, facialHair, skinColor);
+
     // For Skin type is always 0
     CharSectionsEntry const* skinEntry = GetCharSectionEntry(race, SECTION_TYPE_SKIN, gender, 0, skinColor);
     if (!skinEntry)
@@ -364,6 +370,12 @@ void Player::SelectRandomAppearance(uint8 race, uint8 gender, uint8& hairID, uin
     faceID = 0;
     facialHair = 0;
     skinColor = 0;
+
+    if (M425::IsHaradonRace(race))
+    {
+        sM425.SelectRandomAppearance(race, gender, hairID, hairColor, faceID, facialHair, skinColor);
+        return;
+    }
 
     {
         std::vector<std::pair<uint8, uint8>> validFace;
@@ -443,7 +455,7 @@ bool Player::Create(uint32 guidlow, std::string const& name, uint8 race, uint8 c
         SetLocationInstanceId(sMapMgr.GetContinentInstanceId(GetMapId(), GetPositionX(), GetPositionY()));
     SetMap(sMapMgr.CreateMap(info->mapId, this));
 
-    uint8 powertype = cEntry->powerType;
+    uint8 powertype = sM425.GetPowerType(race, class_);
 
     SetFactionForRace(race);
 
@@ -3162,7 +3174,7 @@ void Player::GiveLevel(uint32 level)
     sObjectMgr.GetPlayerLevelInfo(GetRace(), GetClass(), level, &info);
 
     PlayerClassLevelInfo classInfo;
-    sObjectMgr.GetPlayerClassLevelInfo(GetClass(), level, &classInfo);
+    sObjectMgr.GetPlayerClassLevelInfo(GetClass(), level, &classInfo, GetRace());
 
     uint32 hp = uint32((int32(classInfo.basehealth) - int32(GetCreateHealth()))
         + (int32(GetHealthBonusFromStamina(info.stats[STAT_STAMINA])) - int32(GetHealthBonusFromStamina(GetCreateStat(STAT_STAMINA)))));
@@ -3180,7 +3192,7 @@ void Player::GiveLevel(uint32 level)
 
     GetSession()->SendPacket(std::move(packet));
 
-    SetUInt32Value(PLAYER_NEXT_LEVEL_XP, sObjectMgr.GetXPForLevel(level));
+    SetUInt32Value(PLAYER_NEXT_LEVEL_XP, sObjectMgr.GetXPForLevel(level, GetRace()));
 
     //update level, max level of skills
     m_playedTime[PLAYED_TIME_LEVEL] = 0;               // Level Played Time reset
@@ -3257,12 +3269,12 @@ void Player::InitStatsForLevel(bool reapplyMods)
         _RemoveAllStatBonuses();
 
     PlayerClassLevelInfo classInfo;
-    sObjectMgr.GetPlayerClassLevelInfo(GetClass(), GetLevel(), &classInfo);
+    sObjectMgr.GetPlayerClassLevelInfo(GetClass(), GetLevel(), &classInfo, GetRace());
 
     PlayerLevelInfo info;
     sObjectMgr.GetPlayerLevelInfo(GetRace(), GetClass(), GetLevel(), &info);
 
-    SetUInt32Value(PLAYER_NEXT_LEVEL_XP, sObjectMgr.GetXPForLevel(GetLevel()));
+    SetUInt32Value(PLAYER_NEXT_LEVEL_XP, sObjectMgr.GetXPForLevel(GetLevel(), GetRace()));
 
     // reset before any aura state sources (health set/aura apply)
     SetUInt32Value(UNIT_FIELD_AURASTATE, 0);
@@ -5048,7 +5060,7 @@ void Player::CleanupChannels()
         Channel* ch = *m_channels.begin();
         m_channels.erase(m_channels.begin());               // remove from player's channel list
         ch->Leave(GetObjectGuid(), false);                  // not send to client, not remove from player's channel list
-        if (ChannelMgr* cMgr = channelMgr(GetTeam()))
+        if (ChannelMgr* cMgr = channelMgr(GetTeam(), GetRace()))
             cMgr->LeftChannel(ch->GetName());               // deleted channel if empty
 
     }
@@ -6032,10 +6044,10 @@ void Player::SendMessageToSetInRange(WorldPacket* data, float dist, bool self) c
         GetSession()->SendPacket(data);
 }
 
-void Player::SendMessageToSetInRange(WorldPacket* data, float dist, bool self, bool own_team_only) const
+void Player::SendMessageToSetInRange(WorldPacket* data, float dist, bool self, bool own_team_only, int8 storyline) const
 {
     if (IsInWorld())
-        GetMap()->MessageDistBroadcast(this, data, dist, false, own_team_only);
+        GetMap()->MessageDistBroadcast(this, data, dist, false, own_team_only, storyline);
 
     if (self)
         GetSession()->SendPacket(data);
@@ -12884,6 +12896,7 @@ void Player::AddQuest(Quest const* pQuest, Object* questGiver)
                 sScriptMgr.OnQuestAccept(this, (GameObject*)questGiver, pQuest);
                 break;
         }
+        sM425Automat.OnQuestAccept(this, questGiver->ToWorldObject(), questId);
 
         // starting initial DB quest script
         if (pQuest->GetQuestStartScript() != 0)
@@ -13188,6 +13201,7 @@ void Player::RewardQuest(Quest const* pQuest, uint32 reward, WorldObject* questE
             handled = sScriptMgr.OnQuestRewarded(this, (GameObject*)questEnder, pQuest);
             break;
     }
+    sM425Automat.OnQuestComplete(this, questEnder, questId);
 
     if (!handled && pQuest->GetQuestCompleteScript() != 0)
         GetMap()->ScriptsStart(sQuestEndScripts, pQuest->GetQuestCompleteScript(), questEnder->GetObjectGuid(), GetObjectGuid());
@@ -14039,6 +14053,7 @@ void Player::KilledMonsterCredit(uint32 entry, ObjectGuid guid)
                                 q_status.uState = QUEST_CHANGED;
 
                             SendQuestUpdateAddCreatureOrGo(qInfo, guid, j, q_status.m_creatureOrGOcount[j]);
+                            sM425Automat.OnQuestObjective(this, questid, j);
                         }
 
                         if (CanCompleteQuest(questid))
@@ -16252,14 +16267,15 @@ bool Player::SaveNewPlayer(WorldSession* session, uint32 guidlow, std::string co
     sObjectMgr.GetPlayerLevelInfo(raceId, classId, startingLevel, &levelInfo);
 
     PlayerClassLevelInfo classInfo;
-    sObjectMgr.GetPlayerClassLevelInfo(classId, startingLevel, &classInfo);
+    sObjectMgr.GetPlayerClassLevelInfo(classId, startingLevel, &classInfo, raceId);
 
     uint32 hp = uint32(classInfo.basehealth + GetHealthBonusFromStamina(levelInfo.stats[STAT_STAMINA]));
     uint32 powers[MAX_POWERS] = {};
-    if (cEntry->powerType == POWER_MANA)
+    uint8 const powerType = sM425.GetPowerType(raceId, classId);
+    if (powerType == POWER_MANA)
         powers[POWER_MANA] = uint32(classInfo.basemana + GetManaBonusFromIntellect(levelInfo.stats[STAT_INTELLECT]));
-    else if (cEntry->powerType == POWER_ENERGY)
-        powers[POWER_ENERGY] = 100;
+    else
+        powers[powerType] = sM425.GetStartPower(raceId, classId, powerType);
 
     uberInsert.addUInt32(hp);
 
@@ -17287,7 +17303,23 @@ void Player::Say(char const* text, uint32 const language) const
     WorldPacket data;
     ChatHandler::BuildChatPacket(data, CHAT_MSG_SAY, text, Language(language), GetChatTag(), GetObjectGuid(), GetName());
     float range = std::min(sWorld.getConfig(CONFIG_FLOAT_LISTEN_RANGE_SAY), GetYellRange());
-    SendMessageToSetInRange(&data, range, true);
+    SendChatToSetInRange(data, CHAT_MSG_SAY, text, language, range);
+}
+
+void Player::SendChatToSetInRange(WorldPacket& data, ChatMsg type, char const* text, uint32 language, float range) const
+{
+    if (language == LANG_UNIVERSAL || IsGameMaster() || sM425.IsInteractionAllowed(M425::INTERACTION_CHAT))
+    {
+        SendMessageToSetInRange(&data, range, true);
+        return;
+    }
+
+    // the other storyline hears a language nobody plays (Titan), so its clients show garbled text
+    M425::Storyline const storyline = M425::StorylineForRace(GetRace());
+    SendMessageToSetInRange(&data, range, true, false, storyline);
+    WorldPacket garbled;
+    ChatHandler::BuildChatPacket(garbled, type, text, LANG_TITAN, GetChatTag(), GetObjectGuid(), GetName());
+    SendMessageToSetInRange(&garbled, range, false, false, storyline == M425::STORYLINE_HARADON ? M425::STORYLINE_AZEROTH : M425::STORYLINE_HARADON);
 }
 
 float Player::GetYellRange() const
@@ -17308,7 +17340,7 @@ void Player::Yell(char const* text, uint32 const language) const
 {
     WorldPacket data;
     ChatHandler::BuildChatPacket(data, CHAT_MSG_YELL, text, Language(language), GetChatTag(), GetObjectGuid(), GetName());
-    SendMessageToSetInRange(&data, GetYellRange(), true);
+    SendChatToSetInRange(data, CHAT_MSG_YELL, text, language, GetYellRange());
 }
 
 void Player::TextEmote(char const* text) const
@@ -18297,9 +18329,9 @@ void Player::InitDataForForm(bool reapplyMods)
         {
             SetRegularAttackTime(false);
 
-            ChrClassesEntry const* cEntry = sChrClassesStore.LookupEntry(GetClass());
-            if (cEntry && cEntry->powerType < MAX_POWERS && uint32(GetPowerType()) != cEntry->powerType)
-                SetPowerType(Powers(cEntry->powerType));
+            Powers const classPowerType = Powers(sM425.GetPowerType(GetRace(), GetClass()));
+            if (GetPowerType() != classPowerType)
+                SetPowerType(classPowerType);
 
             break;
         }
@@ -20499,6 +20531,10 @@ void Player::AutoStoreLoot(Loot& loot, bool broadcast, uint8 bag, uint8 slot)
 
 uint32 Player::CalculateTalentsPoints() const
 {
+    // the WoW talent trees don't apply to Haradon classes, 425 talents are ordinary spells
+    if (M425::IsHaradonRace(GetRace()))
+        return 0;
+
     uint32 talentPointsForLevel = GetLevel() < 10 ? 0 : GetLevel() - 9;
     return uint32(talentPointsForLevel * sWorld.getConfig(CONFIG_FLOAT_RATE_TALENT));
 }
