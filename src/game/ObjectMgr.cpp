@@ -6802,7 +6802,9 @@ void ObjectMgr::LoadMapTemplate()
                 continue;
             }
 
-            if (!ghostEntry->IsContinent())
+            // Haradon has no continents 0/1, its open world maps take that role
+            bool const haradonWorld = M425::IsHaradonMap(ghostEntry->id) && !ghostEntry->Instanceable();
+            if (!ghostEntry->IsContinent() && !haradonWorld)
             {
                 sLog.Out(LOG_DBERROR, LOG_LVL_MINIMAL, "ObjectMgr::LoadMapTemplate: ghost entrance not at continent map id %u for instance template %u template, ignored, need be set only for non-continent parents!", ghostEntry->id, itr->id);
                 sMapStorage.EraseEntry(itr->id);
