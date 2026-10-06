@@ -28,11 +28,15 @@ The script:
    and display infos;
 2. writes the world SQL to `sql/custom/m425/` (`00`-`89` install, `99_uninstall.sql` removes
    everything again);
-3. with `--apply`, imports the install files into `$WORLD_DB`.
+3. exports the 425 terrain (heights, holes, water) to `maps/6xxAABB.map` and builds `mmaps/` for those maps
+   with `MoveMapGenerator` (`--skip-mmaps` keeps the existing ones);
+4. with `--apply`, imports the install files into `$WORLD_DB`.
 
-`build-m425.sh --restore --apply` puts the original DBCs back and runs `99_uninstall.sql`.
+`build-m425.sh --restore --apply` puts the original DBCs back, removes the 6xx maps and mmaps and runs
+`99_uninstall.sql`.
 
-The 6xx maps also need `.map`/`.mmap` files in the data directory, exported by `M425MapGen`.
+The 425 maps have no vmaps: line of sight is never blocked there and buildings are not walkable surfaces for
+the server, so creatures standing on 425 building models can be placed at ground height.
 
 ## Id ranges
 
