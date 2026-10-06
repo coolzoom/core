@@ -51,6 +51,7 @@ the server, so creatures standing on 425 building models can be placed at ground
 | Quest credit creatures | 1000000 + quest × 4 + objective |
 | Faction templates | 2002 hostile, 2003 friendly, 2006 neutral |
 | `npc_text` / `broadcast_text` | 900000+ |
+| Storyline portals | spells 39900 (to Haradon) / 39901 (to Azeroth), game objects 899900 / 899901, guids 8999900 / 8999901 |
 
 ## Server changes
 
@@ -87,6 +88,12 @@ the server, so creatures standing on 425 building models can be placed at ground
   "reset talents" option forgets them all (the usual respec cost applies). Hooks are in
   `ObjectMgr::LoadTrainers`, `WorldSession::SendTrainerList` / `HandleTrainerBuySpellOpcode`,
   `Player::GetTrainerSpellState` and `Player::ResetTalents`.
+
+## Crossing between the storylines
+
+`12_portals.sql` puts a portal at the Caverns of Time entrance in Tanaris (map 1) that leads to Middle
+Land (map 604, the 425 transit map), and a portal there that leads back. Any player can use them; a
+character keeps its storyline on the other side, so players of the other storyline stay hostile there.
 
 ## Configuration
 
