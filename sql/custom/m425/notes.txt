@@ -1,0 +1,18 @@
+spell 11926: trigger of effect 1 closes a loop with 11927, made dummy
+spell 11943: trigger of effect 1 closes a loop with 11944, made dummy
+spell 12595: trigger of effect 2 closes a loop with 12429, made dummy
+spell 12489: trigger of effect 1 closes a loop with 12490, made dummy
+spell 12601: trigger of effect 1 closes a loop with 12600, made dummy
+spell 12724: trigger of effect 1 closes a loop with 12723, made dummy
+spell 13274: trigger of effect 2 closes a loop with 12932, made dummy
+spell 13040: trigger of effect 1 closes a loop with 13039, made dummy
+spell 13377: trigger of effect 1 closes a loop with 13378, made dummy
+spell 13932: trigger of effect 2 closes a loop with 13931, made dummy
+spell 14672: trigger of effect 1 closes a loop with 14671, made dummy
+spell 16597: trigger of effect 2 closes a loop with 16498, made dummy
+spell 16692: trigger of effect 1 closes a loop with 16678, made dummy
+spell 16693: trigger of effect 1 closes a loop with 16680, made dummy
+spell 16695: trigger of effect 1 closes a loop with 16691, made dummy
+spell 16739: trigger of effect 1 closes a loop with 16734, made dummy
+spell 17024: trigger of effect 1 closes a loop with 17019, made dummy
+72 scripts rows have no file in /Users/mac/Downloads/混沌与秩序4.2.5客户端/server/gameserver-netdcore/data/scripts
