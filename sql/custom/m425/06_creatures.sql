@@ -54124,6 +54124,7 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (52324,0,1,2,1,1.14286,2,0),
 (52325,0,0.5,1.5,1,1.14286,2,0),
 (52326,0,3,1.5,1,1.14286,2,0),
+(52328,0,0.5,1.5,1,1.14286,2,0),
 (52334,0,3,3.5,1,1.14286,2,0),
 (52335,0,3,3.5,1,1.14286,2,0),
 (52336,0,3,3.5,1,1.14286,2,0),
@@ -54614,9 +54615,9 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (52873,0,2,1,1,1.14286,2,0),
 (52874,0,2,1,1,1.14286,2,0),
 (52875,0,2,3,1,1.14286,2,0),
-(52876,0,2,3,1,1.14286,2,0),
-(52877,0,3,2,1,1.14286,2,0);
+(52876,0,2,3,1,1.14286,2,0);
 INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(52877,0,3,2,1,1.14286,2,0),
 (52878,0,3,1.5,1,1.14286,2,0),
 (52879,0,2,1.5,1,1.14286,2,0),
 (52880,0,2,1.5,1,1.14286,2,0),
@@ -55115,9 +55116,9 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (53389,0,1,2,1,1.14286,2,0),
 (53390,0,2,1.5,1,1.14286,2,0),
 (53391,0,2,1.5,1,1.14286,2,0),
-(53392,0,2,1.5,1,1.14286,2,0),
-(53393,0,3,1.5,1,1.14286,2,0);
+(53392,0,2,1.5,1,1.14286,2,0);
 INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(53393,0,3,1.5,1,1.14286,2,0),
 (53394,0,0.5,1.5,1,1.14286,2,0),
 (53395,0,0.5,1.5,1,1.14286,2,0),
 (53396,0,2,1.5,1,1.14286,2,0),
@@ -55616,9 +55617,9 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (54009,0,0.5,1.5,1,1.14286,2,0),
 (54010,0,0.5,1.5,1,1.14286,2,0),
 (54011,0,0.5,1.5,1,1.14286,2,0),
-(54012,0,0.5,1.5,1,1.14286,2,0),
-(54013,0,0.5,1.5,1,1.14286,2,0);
+(54012,0,0.5,1.5,1,1.14286,2,0);
 INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(54013,0,0.5,1.5,1,1.14286,2,0),
 (54014,0,2,2,1,1.14286,2,0),
 (54015,0,2,25,1,1.14286,2,0),
 (54016,0,2,2,1,1.14286,2,0),
@@ -55708,6 +55709,9 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (54107,0,3,2,1,1.14286,2,0),
 (54108,0,0.5,1.5,1,1.14286,2,0),
 (54109,0,0.5,1.5,1,1.14286,2,0),
+(54111,0,0.5,1.5,1,1.14286,2,0),
+(54114,0,0.5,1.5,1,1.14286,2,0),
+(54117,0,0.5,1.5,1,1.14286,2,0),
 (54119,0,0.5,1.5,1,1.14286,2,0),
 (54120,0,0.5,1.5,1,1.14286,2,0),
 (54121,0,0.5,1.5,1,1.14286,2,0),
@@ -56090,6 +56094,7 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (54520,0,0.5,1.5,1,1.14286,2,0),
 (54521,0,0.5,1.5,1,1.14286,2,0),
 (54522,0,0.5,1.5,1,1.14286,2,0),
+(54524,0,0.5,1.5,1,1.14286,2,0),
 (54530,0,0.5,1.5,1,1.14286,2,0),
 (54531,0,0.5,1.5,1,1.14286,2,0),
 (54532,0,0.5,1.5,1,1.14286,2,0),
@@ -56113,13 +56118,13 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (54554,0,1,40,1,1.14286,2,0),
 (54555,0,1,40,1,1.14286,2,0),
 (54556,0,2,2,1,1.14286,2,0),
-(54557,0,3,2,1,1.14286,2,0),
+(54557,0,3,2,1,1.14286,2,0);
+INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
 (54558,0,2,2,1,1.14286,2,0),
 (54559,0,0.5,2,1,1.14286,2,0),
 (54560,0,1,1,1,1.14286,2,0),
 (54561,0,1,1,1,1.14286,2,0),
-(54562,0,1,1,1,1.14286,2,0);
-INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(54562,0,1,1,1,1.14286,2,0),
 (54563,0,1,1,1,1.14286,2,0),
 (54564,0,0.5,2,1,1.14286,2,0),
 (54565,0,0.5,2,1,1.14286,2,0),
@@ -56614,13 +56619,13 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (55067,0,2,3,1,1.14286,2,0),
 (55068,0,3,3,1,1.14286,2,0),
 (55069,0,0.5,1.5,1,1.14286,2,0),
-(55070,0,4,4,1,1.14286,2,0),
+(55070,0,4,4,1,1.14286,2,0);
+INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
 (55080,0,0.5,1.5,1,1.14286,2,0),
 (55082,0,0.5,1.5,1,1.14286,2,0),
 (55083,0,0.5,1.5,1,1.14286,2,0),
 (55084,0,0.5,1.5,1,1.14286,2,0),
-(55085,0,0.5,1.5,1,1.14286,2,0);
-INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(55085,0,0.5,1.5,1,1.14286,2,0),
 (55086,0,0.5,1.5,1,1.14286,2,0),
 (55087,0,0.5,1.5,1,1.14286,2,0),
 (55088,0,0.5,1.5,1,1.14286,2,0),
@@ -56843,7 +56848,10 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (55310,0,0.5,1.5,1,1.14286,2,0),
 (55311,0,0.5,1.5,1,1.14286,2,0),
 (55312,0,1,1,1,1.14286,2,0),
+(55315,0,0.5,1.5,1,1.14286,2,0),
+(55316,0,0.5,1.5,1,1.14286,2,0),
 (55317,0,0.5,1.5,1,1.14286,2,0),
+(55326,0,0.5,1.5,1,1.14286,2,0),
 (55330,0,0.5,1.5,1,1.14286,2,0),
 (55331,0,0.5,1.5,1,1.14286,2,0),
 (55332,0,0.5,1.5,1,1.14286,2,0),
@@ -57112,7 +57120,8 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (55618,0,0.5,1.5,1,1.14286,2,0),
 (55619,0,0.5,1.5,1,1.14286,2,0),
 (55620,0,0.5,1.5,1,1.14286,2,0),
-(55621,0,0.5,1.5,1,1.14286,2,0),
+(55621,0,0.5,1.5,1,1.14286,2,0);
+INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
 (55622,0,0.5,1.5,1,1.14286,2,0),
 (55623,0,0.5,1.5,1,1.14286,2,0),
 (55624,0,0.5,1.5,1,1.14286,2,0),
@@ -57120,8 +57129,7 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (55626,0,0.5,1.5,1,1.14286,2,0),
 (55627,0,0.5,1.5,1,1.14286,2,0),
 (55628,0,0.5,1.5,1,1.14286,2,0),
-(55629,0,0.5,1.5,1,1.14286,2,0);
-INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(55629,0,0.5,1.5,1,1.14286,2,0),
 (55630,0,0.5,1.5,1,1.14286,2,0),
 (55631,0,0.5,2,1,1.14286,2,0),
 (55632,0,3,5,1,1.14286,2,0),
@@ -57613,7 +57621,8 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (56141,0,1,2,1,1.14286,2,0),
 (56142,0,2,3,1,1.14286,2,0),
 (56143,0,2,3,1,1.14286,2,0),
-(56144,0,2,3,1,1.14286,2,0),
+(56144,0,2,3,1,1.14286,2,0);
+INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
 (56145,0,0.5,1.5,1,1.14286,2,0),
 (56146,0,2,3,1,1.14286,2,0),
 (56147,0,0.5,1.5,1,1.14286,2,0),
@@ -57621,8 +57630,7 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (56149,0,3,4,1,1.14286,2,0),
 (56150,0,0.5,1.5,1,1.14286,2,0),
 (56154,0,0.5,1.5,1,1.14286,2,0),
-(56158,0,1,2,1,1.14286,2,0);
-INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(56158,0,1,2,1,1.14286,2,0),
 (56159,0,1,2,1,1.14286,2,0),
 (56160,0,1,2,1,1.14286,2,0),
 (56161,0,1,2,1,1.14286,2,0),
@@ -58114,7 +58122,8 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (56690,0,2,3,1,1.14286,2,0),
 (56691,0,0.5,1.5,1,1.14286,2,0),
 (56692,0,0.5,1.5,1,1.14286,2,0),
-(56693,0,0.5,1.5,1,1.14286,2,0),
+(56693,0,0.5,1.5,1,1.14286,2,0);
+INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
 (56694,0,0.5,1.5,1,1.14286,2,0),
 (56695,0,0.5,1.5,1,1.14286,2,0),
 (56696,0,2,3,1,1.14286,2,0),
@@ -58122,8 +58131,7 @@ INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius
 (56698,0,2,3,1,1.14286,2,0),
 (56699,0,2,3,1,1.14286,2,0),
 (56700,0,0.5,2,1,1.14286,2,0),
-(56701,0,1,2.5,1,1.14286,2,0);
-INSERT INTO `creature_display_info_addon` (`display_id`,`build`,`bounding_radius`,`combat_reach`,`speed_walk`,`speed_run`,`gender`,`display_id_other_gender`) VALUES
+(56701,0,1,2.5,1,1.14286,2,0),
 (56702,0,0.5,1.5,1,1.14286,2,0),
 (56703,0,0.5,1.5,1,1.14286,2,0),
 (56704,0,0.5,1.5,1,1.14286,2,0),

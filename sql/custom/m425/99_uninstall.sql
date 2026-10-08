@@ -45,5 +45,6 @@ DELETE FROM `spell_template` WHERE `entry` IN (39900, 39901);
 DELETE FROM `spell_target_position` WHERE `id` IN (39900, 39901);
 DELETE FROM `gameobject_template` WHERE `entry` IN (899900, 899901);
 DELETE FROM `gameobject` WHERE `guid` IN (8999900, 8999901);
+DELETE FROM `creature_template` WHERE `entry` BETWEEN 1100000 AND 2099999;
 DROP TABLE IF EXISTS `m425_class`, `m425_classlevelstats`, `m425_xp_for_level`, `m425_appearance`, `m425_creature_stats`, `m425_automat`, `m425_script_text`, `m425_creature_script`, `m425_gameobject_trigger`, `m425_quest_script`, `m425_waypoint`, `m425_creature_waypoint`, `m425_map_script`, `m425_chat_menu`, `m425_creature_menu`, `m425_menu_variant`, `m425_menu_option`, `m425_talent`, `m425_talent_spell`;
 

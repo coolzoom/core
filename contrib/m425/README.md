@@ -49,6 +49,8 @@ the server, so creatures standing on 425 building models can be placed at ground
 | Creatures / game objects | 900000+ |
 | Creature / game object guids | 9000000 + 425 spawn id |
 | Quest credit creatures | 1000000 + quest × 4 + objective |
+| Mount creatures (`13_mounts.sql`, aura 78 misc value) | 1100000 + 425 mountprototype id |
+| Mounts no 425 spell rides | spells 61900+ |
 | Faction templates | 2002 hostile, 2003 friendly, 2006 neutral |
 | `npc_text` / `broadcast_text` | 900000+ |
 | Storyline portals | spells 39900 (to Haradon) / 39901 (to Azeroth), game objects 899900 / 899901, guids 8999900 / 8999901 |
@@ -94,6 +96,13 @@ the server, so creatures standing on 425 building models can be placed at ground
 `12_portals.sql` puts a portal at the Caverns of Time entrance in Tanaris (map 1) that leads to Middle
 Land (map 604, the 425 transit map), and a portal there that leads back. Any player can use them; a
 character keeps its storyline on the other side, so players of the other storyline stay hostile there.
+
+## Mounts
+
+`13_mounts.sql` adds one creature per 425 `mountprototype` (250 mounts), with the 425 model as its
+display. 425 mount effects (`spell_effect` type 1 / sub type 50) become `SPELL_AURA_MOUNTED` with the
+mount creature as misc value, and the speed-up effect becomes `SPELL_AURA_MOD_INCREASE_MOUNTED_SPEED`.
+Mounts no 425 spell rides get a spell of their own (61900+, `.learn` them to test).
 
 ## Configuration
 

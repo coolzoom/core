@@ -1,3 +1,4 @@
+mount 4307: no display with skin dragonsoul_knight_lightblue.tga, using display 3682
 spell 11926: trigger of effect 1 closes a loop with 11927, made dummy
 spell 11943: trigger of effect 1 closes a loop with 11944, made dummy
 spell 12595: trigger of effect 2 closes a loop with 12429, made dummy
