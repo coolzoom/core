@@ -24,19 +24,28 @@ NetCoreClient/tools/build-m425.sh --apply
 The script:
 
 1. copies the server DBCs it changes to `dbc.orig/` next to `dbc/` on the first run, and extends
-   them (always starting from those originals) with the 425 races, spells, factions, maps, areas
-   and display infos;
+   them (always starting from those originals) with the 425 races, spells, factions, maps, areas,
+   display infos and creature emote states (`Emotes.dbc` 1000+);
 2. writes the world SQL to `sql/custom/m425/` (`00`-`89` install, `99_uninstall.sql` removes
    everything again);
-3. exports the 425 terrain (heights, holes, water) to `maps/6xxAABB.map` and builds `mmaps/` for those maps
-   with `MoveMapGenerator` (`--skip-mmaps` keeps the existing ones);
+3. exports the 425 terrain (heights, holes, water) to `maps/6xxAABB.map`, the collision of the 425 map
+   models (`.phy`: bridges, houses, platforms) as raw vmaps assembled with `VMapAssembler` into
+   `vmaps/6xx*` and `m425_*.vmo`, and builds `mmaps/` for those maps with `MoveMapGenerator`
+   (`--skip-mmaps` keeps the existing ones);
 4. with `--apply`, imports the install files into `$WORLD_DB`.
 
-`build-m425.sh --restore --apply` puts the original DBCs back, removes the 6xx maps and mmaps and runs
+`build-m425.sh --restore --apply` puts the original DBCs back, removes the 6xx maps, vmaps and mmaps and runs
 `99_uninstall.sql`.
 
-The 425 maps have no vmaps: line of sight is never blocked there and buildings are not walkable surfaces for
-the server, so creatures standing on 425 building models can be placed at ground height.
+Creatures follow the 425 spawn settings (`Creature::Init`): a `waypointid` chain is walked by the
+automat AI, else a non-zero `idletype` wanders within `move_range`, else the creature stands at its
+spawn point. Facings convert as `-o` (425 o = π − atan2(dir.x, dir.z)). `emote_state` becomes
+`creature_addon.emote_state` = 1000 + the `c_animationdata` id; the client loops that animation while
+the creature stands out of combat.
+
+`sql/custom/m425_creature_idle.sql` and `sql/custom/m425_creature_facing_emote.sql` bring a world
+database installed from older generated SQL up to date without a full reinstall (only 425 rows; safe
+to run again). The facing/emote one needs the `Emotes.dbc` rows from step 1.
 
 ## Id ranges
 
@@ -53,6 +62,7 @@ the server, so creatures standing on 425 building models can be placed at ground
 | Mounts no 425 spell rides | spells 61900+ |
 | Faction templates | 2002 hostile, 2003 friendly, 2006 neutral |
 | `npc_text` / `broadcast_text` | 900000+ |
+| Creature emote states (`Emotes.dbc`, `creature_addon.emote_state`) | 1000 + 425 `c_animationdata` id |
 | Storyline portals | spells 39900 (to Haradon) / 39901 (to Azeroth), game objects 899900 / 899901, guids 8999900 / 8999901 |
 
 ## Server changes

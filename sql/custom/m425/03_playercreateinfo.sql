@@ -9,7 +9,7 @@ DELETE FROM `playercreateinfo_action` WHERE `race` BETWEEN 10 AND 14;
 DELETE FROM `player_levelstats` WHERE `race` BETWEEN 10 AND 14;
 
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(10,1,601,4001,-56.75,-1.8,7,0.011592627);
+(10,1,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (10,1,40001,0,5875,'m425'),
 (10,1,40002,0,5875,'m425'),
@@ -161,7 +161,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (10,1,59,118,74,107,35,0),
 (10,1,60,120,75,109,36,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(10,8,601,4001,-56.75,-1.8,7,0.011592627);
+(10,8,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (10,8,40001,0,5875,'m425'),
 (10,8,40002,0,5875,'m425'),
@@ -304,7 +304,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (10,8,59,19,33,44,126,0),
 (10,8,60,20,33,44,128,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(10,3,601,4001,-56.75,-1.8,7,0.011592627);
+(10,3,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (10,3,40001,0,5875,'m425'),
 (10,3,40002,0,5875,'m425'),
@@ -453,7 +453,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (10,3,59,59,125,85,48,0),
 (10,3,60,61,127,86,49,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(10,5,601,4001,-56.75,-1.8,7,0.011592627);
+(10,5,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (10,5,40001,0,5875,'m425'),
 (10,5,40002,0,5875,'m425'),
@@ -590,7 +590,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (10,5,59,85,76,80,103,0),
 (10,5,60,87,78,82,105,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(11,1,601,4001,-56.75,-1.8,7,0.011592627);
+(11,1,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (11,1,40001,0,5875,'m425'),
 (11,1,40002,0,5875,'m425'),
@@ -742,7 +742,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (11,1,59,116,77,105,36,0),
 (11,1,60,118,78,107,37,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(11,8,601,4001,-56.75,-1.8,7,0.011592627);
+(11,8,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (11,8,40001,0,5875,'m425'),
 (11,8,40002,0,5875,'m425'),
@@ -885,7 +885,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (11,8,59,17,36,42,127,0),
 (11,8,60,18,36,42,129,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(11,3,601,4001,-56.75,-1.8,7,0.011592627);
+(11,3,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (11,3,40001,0,5875,'m425'),
 (11,3,40002,0,5875,'m425'),
@@ -1034,7 +1034,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (11,3,59,57,128,83,49,0),
 (11,3,60,59,130,84,50,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(11,5,601,4001,-56.75,-1.8,7,0.011592627);
+(11,5,601,4001,-56.75,-1.8,7,3.1531854);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (11,5,40001,0,5875,'m425'),
 (11,5,40002,0,5875,'m425'),
@@ -1171,7 +1171,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (11,5,59,83,79,78,104,0),
 (11,5,60,85,81,80,106,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(12,1,607,4007,-100,2639,32,4.724778);
+(12,1,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (12,1,40001,0,5875,'m425'),
 (12,1,40002,0,5875,'m425'),
@@ -1323,7 +1323,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (12,1,59,121,71,110,32,0),
 (12,1,60,123,72,112,33,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(12,8,607,4007,-100,2639,32,4.724778);
+(12,8,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (12,8,40001,0,5875,'m425'),
 (12,8,40002,0,5875,'m425'),
@@ -1466,7 +1466,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (12,8,59,22,30,47,123,0),
 (12,8,60,23,30,47,125,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(12,3,607,4007,-100,2639,32,4.724778);
+(12,3,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (12,3,40001,0,5875,'m425'),
 (12,3,40002,0,5875,'m425'),
@@ -1615,7 +1615,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (12,3,59,62,122,88,45,0),
 (12,3,60,64,124,89,46,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(12,5,607,4007,-100,2639,32,4.724778);
+(12,5,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (12,5,40001,0,5875,'m425'),
 (12,5,40002,0,5875,'m425'),
@@ -1752,7 +1752,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (12,5,59,88,73,83,100,0),
 (12,5,60,90,75,85,102,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(13,1,607,4007,-100,2639,32,4.724778);
+(13,1,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (13,1,40001,0,5875,'m425'),
 (13,1,40002,0,5875,'m425'),
@@ -1904,7 +1904,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (13,1,59,117,73,106,38,0),
 (13,1,60,119,74,108,39,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(13,8,607,4007,-100,2639,32,4.724778);
+(13,8,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (13,8,40001,0,5875,'m425'),
 (13,8,40002,0,5875,'m425'),
@@ -2047,7 +2047,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (13,8,59,18,32,43,129,0),
 (13,8,60,19,32,43,131,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(13,3,607,4007,-100,2639,32,4.724778);
+(13,3,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (13,3,40001,0,5875,'m425'),
 (13,3,40002,0,5875,'m425'),
@@ -2196,7 +2196,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (13,3,59,58,124,84,51,0),
 (13,3,60,60,126,85,52,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(13,5,607,4007,-100,2639,32,4.724778);
+(13,5,607,4007,-100,2639,32,1.5831857);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (13,5,40001,0,5875,'m425'),
 (13,5,40002,0,5875,'m425'),
@@ -2333,7 +2333,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (13,5,59,84,75,79,106,0),
 (13,5,60,86,77,81,108,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(14,1,606,4006,-18.96,858.52,-7.55,3.1415927);
+(14,1,606,4006,-18.96,858.52,-7.55,-0);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (14,1,40001,0,5875,'m425'),
 (14,1,40002,0,5875,'m425'),
@@ -2485,7 +2485,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (14,1,59,117,75,108,34,0),
 (14,1,60,119,76,110,35,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(14,8,606,4006,-18.96,858.52,-7.55,3.1415927);
+(14,8,606,4006,-18.96,858.52,-7.55,-0);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (14,8,40001,0,5875,'m425'),
 (14,8,40002,0,5875,'m425'),
@@ -2628,7 +2628,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (14,8,59,18,34,45,125,0),
 (14,8,60,19,34,45,127,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(14,3,606,4006,-18.96,858.52,-7.55,3.1415927);
+(14,3,606,4006,-18.96,858.52,-7.55,-0);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (14,3,40001,0,5875,'m425'),
 (14,3,40002,0,5875,'m425'),
@@ -2777,7 +2777,7 @@ INSERT INTO `player_levelstats` (`race`,`class`,`level`,`str`,`agi`,`sta`,`inte`
 (14,3,59,58,126,86,47,0),
 (14,3,60,60,128,87,48,0);
 INSERT INTO `playercreateinfo` (`race`,`class`,`map`,`zone`,`position_x`,`position_y`,`position_z`,`orientation`) VALUES
-(14,5,606,4006,-18.96,858.52,-7.55,3.1415927);
+(14,5,606,4006,-18.96,858.52,-7.55,-0);
 INSERT INTO `playercreateinfo_spell` (`race`,`class`,`spell`,`build_min`,`build_max`,`note`) VALUES
 (14,5,40001,0,5875,'m425'),
 (14,5,40002,0,5875,'m425'),

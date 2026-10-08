@@ -904,3267 +904,3267 @@ INSERT INTO `area_template` (`entry`,`map_id`,`zone_id`,`explore_flag`,`flags`,`
 (6846,651,6695,1813,0,1,'异晶矿场',0,0),
 (6847,651,4051,1814,0,0,'区域 1847',0,0);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5002,3.1415927);
+(5002,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5002,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5003,3.1415927);
+(5003,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5003,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5004,3.1415927);
+(5004,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5004,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5005,3.1415927);
+(5005,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5005,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5006,3.1415927);
+(5006,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5006,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5008,3.1415927);
+(5008,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5008,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5010,3.1415927);
+(5010,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5010,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5011,3.1415927);
+(5011,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5011,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5012,3.1415927);
+(5012,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5012,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5013,3.1415927);
+(5013,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5013,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5014,3.1415927);
+(5014,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5014,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5015,3.1415927);
+(5015,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5015,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5016,3.1415927);
+(5016,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5016,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5017,3.1415927);
+(5017,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5017,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5018,3.1415927);
+(5018,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5018,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5019,3.1415927);
+(5019,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5019,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5020,3.1415927);
+(5020,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5020,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5021,3.1415927);
+(5021,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5021,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5022,3.1415927);
+(5022,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5022,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5031,3.1415927);
+(5031,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5031,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5032,3.1415927);
+(5032,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5032,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5033,3.1415927);
+(5033,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5033,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5035,3.1415927);
+(5035,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5035,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5036,3.1415927);
+(5036,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5036,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5037,3.1415927);
+(5037,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5037,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5038,3.1415927);
+(5038,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5038,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5039,3.1415927);
+(5039,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5039,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5040,3.1415927);
+(5040,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5040,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5041,3.1415927);
+(5041,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5041,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5044,3.1415927);
+(5044,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5044,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5046,3.1415927);
+(5046,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5046,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5047,3.1415927);
+(5047,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5047,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5048,3.1415927);
+(5048,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5048,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5049,3.1415927);
+(5049,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5049,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5050,3.1415927);
+(5050,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5050,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5051,3.1415927);
+(5051,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5051,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5052,3.1415927);
+(5052,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5052,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5053,3.1415927);
+(5053,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5053,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5054,3.1415927);
+(5054,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5054,4007,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5055,3.1415927);
+(5055,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5055,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5056,3.1415927);
+(5056,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5056,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5057,3.1415927);
+(5057,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5057,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5058,3.1415927);
+(5058,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5058,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5059,3.1415927);
+(5059,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5059,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5060,3.1415927);
+(5060,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5060,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5061,3.1415927);
+(5061,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5061,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5062,3.1415927);
+(5062,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5062,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5064,3.1415927);
+(5064,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5064,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5065,3.1415927);
+(5065,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5065,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5067,3.1415927);
+(5067,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5067,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5068,3.1415927);
+(5068,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5068,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5069,3.1415927);
+(5069,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5069,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5070,3.1415927);
+(5070,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5070,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5071,3.1415927);
+(5071,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5071,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5072,3.1415927);
+(5072,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5072,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5076,3.1415927);
+(5076,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5076,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5077,3.1415927);
+(5077,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5077,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5078,3.1415927);
+(5078,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5078,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5079,3.1415927);
+(5079,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5079,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5081,3.1415927);
+(5081,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5081,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5082,3.1415927);
+(5082,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5082,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5083,3.1415927);
+(5083,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5083,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5084,3.1415927);
+(5084,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5084,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5085,3.1415927);
+(5085,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5085,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5086,3.1415927);
+(5086,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5086,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5087,3.1415927);
+(5087,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5087,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5088,3.1415927);
+(5088,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5088,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5089,3.1415927);
+(5089,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5089,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5090,3.1415927);
+(5090,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5090,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5093,3.1415927);
+(5093,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5093,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5096,3.1415927);
+(5096,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5096,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5097,3.1415927);
+(5097,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5097,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5099,3.1415927);
+(5099,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5099,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5100,3.1415927);
+(5100,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5100,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5101,3.1415927);
+(5101,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5101,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5102,3.1415927);
+(5102,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5102,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5103,3.1415927);
+(5103,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5103,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5104,3.1415927);
+(5104,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5104,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5105,3.1415927);
+(5105,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5105,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5106,3.1415927);
+(5106,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5106,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5107,3.1415927);
+(5107,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5107,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5108,3.1415927);
+(5108,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5108,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5109,3.1415927);
+(5109,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5109,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5111,3.1415927);
+(5111,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5111,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5113,3.1415927);
+(5113,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5113,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5115,3.1415927);
+(5115,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5115,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5116,3.1415927);
+(5116,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5116,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5117,3.1415927);
+(5117,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5117,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5118,3.1415927);
+(5118,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5118,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5119,3.1415927);
+(5119,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5119,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5121,3.1415927);
+(5121,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5121,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5122,3.1415927);
+(5122,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5122,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5123,3.1415927);
+(5123,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5123,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5124,3.1415927);
+(5124,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5124,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5125,3.1415927);
+(5125,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5125,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5126,3.1415927);
+(5126,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5126,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5127,3.1415927);
+(5127,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5127,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5128,3.1415927);
+(5128,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5128,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5129,3.1415927);
+(5129,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5129,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5130,3.1415927);
+(5130,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5130,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5132,3.1415927);
+(5132,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5132,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5133,3.1415927);
+(5133,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5133,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5134,3.1415927);
+(5134,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5134,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5135,3.1415927);
+(5135,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5135,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5136,3.1415927);
+(5136,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5136,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5137,3.1415927);
+(5137,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5137,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5138,3.1415927);
+(5138,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5138,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5139,3.1415927);
+(5139,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5139,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5140,3.1415927);
+(5140,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5140,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5141,3.1415927);
+(5141,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5141,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5142,3.1415927);
+(5142,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5142,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5143,3.1415927);
+(5143,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5143,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5144,3.1415927);
+(5144,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5144,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5145,3.1415927);
+(5145,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5145,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5146,3.1415927);
+(5146,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5146,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5148,3.1415927);
+(5148,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5148,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5149,3.1415927);
+(5149,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5149,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5150,3.1415927);
+(5150,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5150,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5151,3.1415927);
+(5151,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5151,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5153,3.1415927);
+(5153,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5153,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5154,3.1415927);
+(5154,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5154,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5155,3.1415927);
+(5155,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5155,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5156,3.1415927);
+(5156,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5156,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5157,3.1415927);
+(5157,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5157,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5158,3.1415927);
+(5158,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5158,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5159,3.1415927);
+(5159,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5159,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5160,3.1415927);
+(5160,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5160,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5161,3.1415927);
+(5161,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5161,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5162,3.1415927);
+(5162,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5162,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5163,3.1415927);
+(5163,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5163,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5164,3.1415927);
+(5164,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5164,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5165,3.1415927);
+(5165,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5165,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5166,3.1415927);
+(5166,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5166,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5167,3.1415927);
+(5167,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5167,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5169,3.1415927);
+(5169,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5169,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5170,3.1415927);
+(5170,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5170,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5171,3.1415927);
+(5171,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5171,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5172,3.1415927);
+(5172,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5172,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5173,3.1415927);
+(5173,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5173,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5174,3.1415927);
+(5174,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5174,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5175,3.1415927);
+(5175,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5175,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5176,3.1415927);
+(5176,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5176,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5177,3.1415927);
+(5177,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5177,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5178,3.1415927);
+(5178,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5178,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5179,3.1415927);
+(5179,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5179,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5180,3.1415927);
+(5180,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5180,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5181,3.1415927);
+(5181,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5181,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5182,3.1415927);
+(5182,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5182,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5183,3.1415927);
+(5183,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5183,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5184,3.1415927);
+(5184,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5184,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5185,3.1415927);
+(5185,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5185,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5186,3.1415927);
+(5186,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5186,4009,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5187,3.1415927);
+(5187,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5187,4013,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5188,3.1415927);
+(5188,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5188,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5189,3.1415927);
+(5189,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5189,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5190,3.1415927);
+(5190,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5190,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5191,3.1415927);
+(5191,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5191,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5192,3.1415927);
+(5192,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5192,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5193,3.1415927);
+(5193,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5193,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5194,3.1415927);
+(5194,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5194,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5195,3.1415927);
+(5195,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5195,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5197,3.1415927);
+(5197,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5197,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5199,3.1415927);
+(5199,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5199,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5200,3.1415927);
+(5200,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5200,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5202,3.1415927);
+(5202,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5202,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5203,3.1415927);
+(5203,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5203,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5204,3.1415927);
+(5204,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5204,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5206,3.1415927);
+(5206,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5206,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5208,3.1415927);
+(5208,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5208,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5209,3.1415927);
+(5209,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5209,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5210,3.1415927);
+(5210,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5210,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5211,3.1415927);
+(5211,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5211,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5212,3.1415927);
+(5212,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5212,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5213,3.1415927);
+(5213,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5213,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5214,3.1415927);
+(5214,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5214,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5215,3.1415927);
+(5215,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5215,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5216,3.1415927);
+(5216,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5216,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5217,3.1415927);
+(5217,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5217,4020,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5222,3.1415927);
+(5222,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5222,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5231,3.1415927);
+(5231,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5231,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5232,3.1415927);
+(5232,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5232,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5233,3.1415927);
+(5233,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5233,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5234,3.1415927);
+(5234,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5234,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5235,3.1415927);
+(5235,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5235,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5236,3.1415927);
+(5236,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5236,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5237,3.1415927);
+(5237,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5237,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5238,3.1415927);
+(5238,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5238,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5239,3.1415927);
+(5239,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5239,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5240,3.1415927);
+(5240,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5240,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5241,3.1415927);
+(5241,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5241,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5242,3.1415927);
+(5242,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5242,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5243,3.1415927);
+(5243,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5243,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5244,3.1415927);
+(5244,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5244,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5245,3.1415927);
+(5245,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5245,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5246,3.1415927);
+(5246,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5246,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5247,3.1415927);
+(5247,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5247,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5248,3.1415927);
+(5248,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5248,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5249,3.1415927);
+(5249,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5249,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5250,3.1415927);
+(5250,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5250,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5251,3.1415927);
+(5251,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5251,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5252,3.1415927);
+(5252,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5252,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5253,3.1415927);
+(5253,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5253,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5254,3.1415927);
+(5254,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5254,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5255,3.1415927);
+(5255,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5255,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5256,3.1415927);
+(5256,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5256,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5257,3.1415927);
+(5257,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5257,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5258,3.1415927);
+(5258,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5258,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5259,3.1415927);
+(5259,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5259,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5260,3.1415927);
+(5260,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5260,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5261,3.1415927);
+(5261,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5261,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5263,3.1415927);
+(5263,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5263,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5264,3.1415927);
+(5264,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5264,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5265,3.1415927);
+(5265,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5265,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5266,3.1415927);
+(5266,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5266,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5267,3.1415927);
+(5267,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5267,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5268,3.1415927);
+(5268,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5268,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5269,3.1415927);
+(5269,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5269,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5270,3.1415927);
+(5270,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5270,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5271,3.1415927);
+(5271,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5271,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5273,3.1415927);
+(5273,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5273,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5274,3.1415927);
+(5274,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5274,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5275,3.1415927);
+(5275,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5275,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5276,3.1415927);
+(5276,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5276,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5277,3.1415927);
+(5277,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5277,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5278,3.1415927);
+(5278,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5278,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5279,3.1415927);
+(5279,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5279,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5280,3.1415927);
+(5280,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5280,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5281,3.1415927);
+(5281,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5281,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5283,3.1415927);
+(5283,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5283,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5284,3.1415927);
+(5284,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5284,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5285,3.1415927);
+(5285,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5285,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5286,3.1415927);
+(5286,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5286,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5287,3.1415927);
+(5287,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5287,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5288,3.1415927);
+(5288,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5288,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5291,3.1415927);
+(5291,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5291,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5292,3.1415927);
+(5292,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5292,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5293,3.1415927);
+(5293,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5293,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5294,3.1415927);
+(5294,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5294,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5295,3.1415927);
+(5295,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5295,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5296,3.1415927);
+(5296,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5296,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5297,3.1415927);
+(5297,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5297,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5298,3.1415927);
+(5298,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5298,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5299,3.1415927);
+(5299,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5299,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5300,3.1415927);
+(5300,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5300,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5301,3.1415927);
+(5301,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5301,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5302,3.1415927);
+(5302,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5302,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5303,3.1415927);
+(5303,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5303,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5304,3.1415927);
+(5304,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5304,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5305,3.1415927);
+(5305,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5305,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5306,3.1415927);
+(5306,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5306,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5307,3.1415927);
+(5307,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5307,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5308,3.1415927);
+(5308,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5308,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5309,3.1415927);
+(5309,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5309,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5310,3.1415927);
+(5310,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5310,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5312,3.1415927);
+(5312,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5312,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5313,3.1415927);
+(5313,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5313,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5314,3.1415927);
+(5314,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5314,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5315,3.1415927);
+(5315,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5315,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5316,3.1415927);
+(5316,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5316,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5317,3.1415927);
+(5317,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5317,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5318,3.1415927);
+(5318,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5318,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5319,3.1415927);
+(5319,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5319,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5320,3.1415927);
+(5320,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5320,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5321,3.1415927);
+(5321,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5321,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5324,3.1415927);
+(5324,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5324,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5325,3.1415927);
+(5325,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5325,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5326,3.1415927);
+(5326,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5326,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5327,3.1415927);
+(5327,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5327,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5328,3.1415927);
+(5328,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5328,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5330,3.1415927);
+(5330,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5330,4036,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5332,3.1415927);
+(5332,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5332,4030,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5334,3.1415927);
+(5334,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5334,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5335,3.1415927);
+(5335,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5335,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5338,3.1415927);
+(5338,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5338,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5340,3.1415927);
+(5340,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5340,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5341,3.1415927);
+(5341,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5341,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5342,3.1415927);
+(5342,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5342,4038,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5343,3.1415927);
+(5343,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5343,4045,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5344,3.1415927);
+(5344,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5344,4046,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5345,3.1415927);
+(5345,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5345,4023,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5346,3.1415927);
+(5346,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5346,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5347,3.1415927);
+(5347,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5347,4006,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5348,3.1415927);
+(5348,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5348,4001,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5350,3.1415927);
+(5350,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5350,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5351,3.1415927);
+(5351,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5351,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5352,3.1415927);
+(5352,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5352,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5353,3.1415927);
+(5353,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5353,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5354,3.1415927);
+(5354,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5354,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5355,3.1415927);
+(5355,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5355,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5356,3.1415927);
+(5356,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5356,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5357,3.1415927);
+(5357,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5357,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5359,3.1415927);
+(5359,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5359,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5360,3.1415927);
+(5360,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5360,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5361,3.1415927);
+(5361,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5361,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5362,3.1415927);
+(5362,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5362,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5363,3.1415927);
+(5363,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5363,4004,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5364,3.1415927);
+(5364,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5364,4045,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5366,3.1415927);
+(5366,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5366,4051,0,0,10);
 INSERT INTO `world_safe_locs_facing` (`id`,`orientation`) VALUES
-(5367,3.1415927);
+(5367,-0);
 INSERT INTO `game_graveyard_zone` (`id`,`ghost_zone`,`faction`,`patch_min`,`patch_max`) VALUES
 (5367,4051,0,0,10);
 INSERT INTO `areatrigger_template` (`id`,`build`,`name`,`map_id`,`x`,`y`,`z`,`radius`,`box_x`,`box_y`,`box_z`,`box_orientation`,`cooldown`,`condition_id`,`script_id`,`script_name`) VALUES
-(9001,5875,'m425 quest zone 1',601,163.515,-174.743,45.3965,0,8,15,8,3.1415927,0,0,0,''),
-(9002,5875,'m425 quest zone 2',601,284.301,5.66093,0.54998,0,8,8,8,3.1415927,0,0,0,''),
-(9003,5875,'m425 quest zone 3',601,125.197,1140.9,0,0,30,50,8,3.1415927,0,0,0,''),
-(9004,5875,'m425 quest zone 4',601,19.3701,-87.9224,13.2896,0,1,1,1,3.1415927,0,0,0,''),
-(9005,5875,'m425 quest zone 5',601,-62.4626,4.16378,8.32404,0,4,4,1,3.1415927,0,0,0,''),
-(9006,5875,'m425 quest zone 6',601,-62.4313,-7.87665,6.76123,0,3,3,3,3.1415927,0,0,0,''),
-(9007,5875,'m425 quest zone 7',601,-56.6638,5.44892,6.78498,0,4,4,2,3.1415927,0,0,0,''),
-(9008,5875,'m425 quest zone 8',601,165.671,0.774867,16.677,0,25,60,3,3.1415927,0,0,0,''),
-(9009,5875,'m425 quest zone 9',601,41.8493,-130.186,14.066,0,37,20,8,3.1415927,0,0,0,''),
-(9010,5875,'m425 quest zone 10',601,14.321,-85.2246,7.13049,0,30,35,8,3.1415927,0,0,0,''),
-(9011,5875,'m425 quest zone 11',601,-58.9197,-108.123,-2.36794,0,8,8,8,3.1415927,0,0,0,''),
-(9012,5875,'m425 quest zone 12',601,-29.5143,-90.8969,1.11966,0,4,4,4,3.1415927,0,0,0,''),
-(9013,5875,'m425 quest zone 13',601,66.361,-52.8374,1.92826,0,3,3,3,3.1415927,0,0,0,''),
-(9014,5875,'m425 quest zone 14',601,-23.5861,50.5205,-0.144527,0,8,8,8,3.1415927,0,0,0,''),
-(9015,5875,'m425 quest zone 15',601,1.27147,60.7985,3.53031,0,8,8,8,3.1415927,0,0,0,''),
-(9016,5875,'m425 quest zone 16',601,42.2197,14.7454,1.92369,0,30,30,5,3.1415927,0,0,0,''),
-(9017,5875,'m425 quest zone 17',601,121.914,30.2379,10.8632,0,8,12,8,3.1415927,0,0,0,''),
-(9018,5875,'m425 quest zone 18',601,119.704,66.3444,13.6322,0,8,8,8,3.1415927,0,0,0,''),
-(9019,5875,'m425 quest zone 19',601,-24.0567,-10.1457,2.51223,0,1,1,1,3.1415927,0,0,0,''),
-(9020,5875,'m425 quest zone 20',601,-0.18065,-25.9145,3.10781,0,5.5,5.5,5,3.1415927,0,0,0,''),
-(9021,5875,'m425 quest zone 21',601,3.6775,-17.8235,2.95329,0,5.5,5.5,5,3.1415927,0,0,0,''),
-(9022,5875,'m425 quest zone 22',601,-2.63197,-27.1208,2.4418,0,1.5,1.5,1,3.1415927,0,0,0,''),
-(9023,5875,'m425 quest zone 23',601,-10.2184,14.6129,3.68459,0,8,8,1,3.1415927,0,0,0,''),
-(9024,5875,'m425 quest zone 24',601,-14.9045,83.5199,2.27103,0,1,1,1,3.1415927,0,0,0,''),
-(9025,5875,'m425 quest zone 25',601,-199.304,512.727,38.7716,0,3,3,3,3.1415927,0,0,0,''),
-(9026,5875,'m425 quest zone 26',601,-26.7266,397.103,1,0,60,32,1,3.1415927,0,0,0,''),
-(9027,5875,'m425 quest zone 27',601,-9.94376,343.271,20.2884,0,1,1,1,3.1415927,0,0,0,''),
-(9028,5875,'m425 quest zone 28',601,-170.048,588.229,4.20836,0,10,10,4,3.1415927,0,0,0,''),
-(9029,5875,'m425 quest zone 29',601,-194.27,594.743,8.15778,0,55,10,10,3.1415927,0,0,0,''),
-(9030,5875,'m425 quest zone 30',601,-130.142,504.148,5,0,1,1,1,3.1415927,0,0,0,''),
-(9031,5875,'m425 quest zone 31',601,-127.344,502.708,5,0,1,1,1,3.1415927,0,0,0,''),
-(9032,5875,'m425 quest zone 32',601,-126.453,497.659,5.0139,0,1,1,1,3.1415927,0,0,0,''),
-(9033,5875,'m425 quest zone 33',601,-80.8638,571.505,10.2842,0,1,1,1,3.1415927,0,0,0,''),
-(9034,5875,'m425 quest zone 34',601,-133.298,600.89,5,0,1,1,1,3.1415927,0,0,0,''),
-(9035,5875,'m425 quest zone 35',601,-131.391,708.165,0.00116806,0,20,50,5,3.1415927,0,0,0,''),
-(9036,5875,'m425 quest zone 36',601,-151.072,776.6,15.3028,0,10,10,5,3.1415927,0,0,0,''),
-(9037,5875,'m425 quest zone 37',601,-337.977,779.582,40,0,6,2,2,3.1415927,0,0,0,''),
-(9038,5875,'m425 quest zone 38',601,-328.519,780.266,40.9778,0,1,1,1,3.1415927,0,0,0,''),
-(9039,5875,'m425 quest zone 39',601,12.1385,941.76,39.6617,0,3,3,3,3.1415927,0,0,0,''),
-(9040,5875,'m425 quest zone 40',601,14.4286,937.611,39.8465,0,3,3,3,6.1672783,0,0,0,''),
-(9041,5875,'m425 quest zone 41',601,158.091,462.886,72.6123,0,80,60,20,3.1415927,0,0,0,''),
-(9042,5875,'m425 quest zone 42',601,-239.266,929.725,9.90728,0,8,8,8,3.1415927,0,0,0,''),
-(9043,5875,'m425 quest zone 43',601,-57.1643,772.142,0,0,8,8,8,3.1415927,0,0,0,''),
-(9044,5875,'m425 quest zone 44',601,9.62866,605.294,6.83857,0,40,20,5,3.1415927,0,0,0,''),
-(9045,5875,'m425 quest zone 45',601,-77.5413,895.146,11.417,0,20,30,8,3.1415927,0,0,0,''),
-(9046,5875,'m425 quest zone 46',601,-222.214,853.016,5.26332,0,50,30,20,3.1415927,0,0,0,''),
-(9047,5875,'m425 quest zone 47',601,-315.857,761.927,40,0,60,60,2,3.1415927,0,0,0,''),
-(9048,5875,'m425 quest zone 48',601,-22.7,1145,20.3,0,1,1,1,3.1415927,0,0,0,''),
-(9049,5875,'m425 quest zone 49',601,-17.8,1149.8,20.2,0,1,1,1,3.1415927,0,0,0,''),
-(9050,5875,'m425 quest zone 50',601,-21,1140.8,20.1,0,1,1,1,3.1415927,0,0,0,''),
-(9051,5875,'m425 quest zone 51',601,-174.11,1116.61,80,0,2,2,2,3.1415927,0,0,0,''),
-(9052,5875,'m425 quest zone 52',601,-43.0746,1212.57,0,0,2,2,2,3.1415927,0,0,0,''),
-(9054,5875,'m425 quest zone 54',601,-35.5119,1243.84,-0.685215,0,40,120,12,3.1415927,0,0,0,''),
-(9055,5875,'m425 quest zone 55',601,123.05,1345.89,7.05887,0,1,1,1,3.1241395,0,0,0,''),
-(9056,5875,'m425 quest zone 56',601,-82.1543,562.481,10,0,1,1,1,3.1415927,0,0,0,''),
-(9057,5875,'m425 quest zone 57',601,-87.4869,568.815,10,0,1,1,1,3.1415927,0,0,0,''),
-(9058,5875,'m425 quest zone 58',601,-115.958,555.232,4.86926,0,1,1,1,3.1415927,0,0,0,''),
-(9059,5875,'m425 quest zone 59',601,-78.9862,574.581,15.3108,0,4,4,4,3.1415927,0,0,0,''),
-(9060,5875,'m425 quest zone 60',601,-54.1057,725.375,5.59922,0,10,10,5,3.1415927,0,0,0,''),
-(9061,5875,'m425 quest zone 61',601,-16.9393,1447.26,19.3429,0,8,8,8,3.1415927,0,0,0,''),
-(9062,5875,'m425 quest zone 62',601,29.4594,942.997,46.7027,0,3,3,3,3.1415927,0,0,0,''),
-(9063,5875,'m425 quest zone 63',601,71.6837,904.518,29.457,0,8,8,8,3.1415927,0,0,0,''),
-(9064,5875,'m425 quest zone 64',601,-20.2868,1263.99,6.53139,0,8,8,8,3.1415927,0,0,0,''),
-(9065,5875,'m425 quest zone 65',601,27.8676,948.168,40,0,8,8,8,3.1415927,0,0,0,''),
-(9066,5875,'m425 quest zone 66',601,106.626,-89.7716,11.5475,0,8,8,8,3.1415927,0,0,0,''),
-(9067,5875,'m425 quest zone 67',601,10.9351,42.4431,6.41777,0,8,8,8,3.1415927,0,0,0,''),
-(9068,5875,'m425 quest zone 68',601,89.7358,48.0102,10.7742,0,50,30,8,3.1415927,0,0,0,''),
-(9069,5875,'m425 quest zone 69',601,112.875,903.511,30,0,8,8,8,3.1415927,0,0,0,''),
-(9070,5875,'m425 quest zone 70',601,56.9818,741.333,8.32482,0,60,40,8,3.1415927,0,0,0,''),
-(9071,5875,'m425 quest zone 71',601,-124.432,571.912,5,0,8,8,8,3.1415927,0,0,0,''),
-(9072,5875,'m425 quest zone 72',601,147.069,1003.04,1.53433,0,8,8,8,3.1415927,0,0,0,''),
-(9073,5875,'m425 quest zone 73',601,145.446,886.741,26.2814,0,8,8,8,3.1415927,0,0,0,''),
-(9074,5875,'m425 quest zone 74',601,267.001,880.261,80,0,8,8,8,3.1415927,0,0,0,''),
-(9081,5875,'m425 quest zone 81',601,-20.4133,1446.57,17.2554,0,8,8,8,3.1415927,0,0,0,''),
-(9082,5875,'m425 quest zone 82',601,166.976,1425.59,54.0863,0,8,8,8,3.1415927,0,0,0,''),
-(9083,5875,'m425 quest zone 83',601,-91.8906,2229.53,-5,0,8,8,8,3.1415927,0,0,0,''),
-(9084,5875,'m425 quest zone 84',601,-115.791,1759.81,2.71988,0,8,8,8,3.1415927,0,0,0,''),
-(9085,5875,'m425 quest zone 85',601,-517.276,1834.14,20.1895,0,100,50,40,3.1415927,0,0,0,''),
-(9086,5875,'m425 quest zone 86',601,-491.361,1779.09,18.9535,0,4,4,4,1.3962628,0,0,0,''),
-(9087,5875,'m425 quest zone 87',601,-339.689,1625.66,5.40929,0,64,180,20,3.1415927,0,0,0,''),
-(9088,5875,'m425 quest zone 88',601,-277.877,1563.31,3,0,4,4,4,3.1415927,0,0,0,''),
-(9089,5875,'m425 quest zone 89',601,-616.518,1622.92,6.49927,0,60,120,15,3.1415927,0,0,0,''),
-(9090,5875,'m425 quest zone 90',601,-475.305,1783.08,19.1807,0,4,4,4,5.5272484,0,0,0,''),
-(9091,5875,'m425 quest zone 91',601,809.916,1996.98,23.4828,0,10,10,4,3.1415927,0,0,0,''),
-(9092,5875,'m425 quest zone 92',601,928.434,2172.59,1.4686,0,60,50,10,3.1415927,0,0,0,''),
-(9094,5875,'m425 quest zone 94',601,3.36822,1222.41,1.33188,0,8,8,8,3.1415927,0,0,0,''),
-(9095,5875,'m425 quest zone 95',601,89.834,1207.67,5.2455,0,8,8,8,3.1415927,0,0,0,''),
-(9096,5875,'m425 quest zone 96',601,11.7359,1244.47,2.2066,0,50,10,8,3.1415927,0,0,0,''),
-(9097,5875,'m425 quest zone 97',601,59.0452,1236.43,-3.35341,0,8,8,8,3.1415927,0,0,0,''),
-(9098,5875,'m425 quest zone 98',601,104.759,1244.22,9.32307,0,8,8,8,3.1415927,0,0,0,''),
-(9099,5875,'m425 quest zone 99',601,105.391,1235.96,9.36832,0,8,8,8,3.1415927,0,0,0,''),
-(9100,5875,'m425 quest zone 100',601,85.2264,1089.53,2.88549,0,40,20,8,2.9088838,0,0,0,''),
-(9101,5875,'m425 quest zone 101',601,145.48,664.454,27.4,0,8,8,8,3.1415927,0,0,0,''),
-(9102,5875,'m425 quest zone 102',601,141.751,668.8,27.4,0,8,8,8,3.1415927,0,0,0,''),
-(9103,5875,'m425 quest zone 103',601,129.744,466.824,65.0147,0,8,8,8,3.1415927,0,0,0,''),
-(9104,5875,'m425 quest zone 104',601,122.825,563.213,28.7391,0,8,8,8,3.1415927,0,0,0,''),
-(9105,5875,'m425 quest zone 105',601,134.611,583.062,24.3067,0,40,60,8,3.1415927,0,0,0,''),
-(9106,5875,'m425 quest zone 106',601,-89.9373,1323.89,5.5,0,8,8,8,3.1415927,0,0,0,''),
-(9107,5875,'m425 quest zone 107',601,-3.17119,1183.71,21.9148,0,4,4,4,3.1415927,0,0,0,''),
-(9108,5875,'m425 quest zone 108',601,25.3647,805.26,5.81015,0,3,3,3,3.1415927,0,0,0,''),
-(9109,5875,'m425 quest zone 109',601,-72.3553,2173.68,20.1219,0,2,2,2,2.8507047,0,0,0,''),
-(9110,5875,'m425 quest zone 110',601,-61.229,2168.96,22.2942,0,6,6,2,1.1054428,0,0,0,''),
-(9111,5875,'m425 quest zone 111',601,30.9553,2134.32,23.6978,0,8,8,2,3.1415927,0,0,0,''),
-(9112,5875,'m425 quest zone 112',601,49.6267,2162.9,16.6936,0,8,8,8,3.1415927,0,0,0,''),
-(9113,5875,'m425 quest zone 113',601,33.3359,2189.04,28.4399,0,2,2,2,0.058172703,0,0,0,''),
-(9114,5875,'m425 quest zone 114',601,-18.2932,2146.02,19.8532,0,2,2,2,0.058172703,0,0,0,''),
-(9115,5875,'m425 quest zone 115',601,-91.2711,2116.65,17.1728,0,8,8,8,3.1415927,0,0,0,''),
-(9116,5875,'m425 quest zone 116',601,-17.66,2090.96,38.1394,0,2,2,2,1.7744228,0,0,0,''),
-(9117,5875,'m425 quest zone 117',601,385.072,2684.32,38.4436,0,2,2,2,3.1415927,0,0,0,''),
-(9118,5875,'m425 quest zone 118',601,398.833,2668,40.7089,0,2,2,2,3.1415927,0,0,0,''),
-(9119,5875,'m425 quest zone 119',601,237.607,2697.91,-0.634853,0,30,20,8,3.1415927,0,0,0,''),
-(9120,5875,'m425 quest zone 120',601,793.328,1861.07,41.3519,0,8,8,8,3.1415927,0,0,0,''),
-(9121,5875,'m425 quest zone 121',601,778.286,1868,44.4905,0,2,2,2,3.1415927,0,0,0,''),
-(9122,5875,'m425 quest zone 122',601,-3.36679,2346.53,1,0,8,8,8,3.1415927,0,0,0,''),
-(9123,5875,'m425 quest zone 123',601,-44.5594,2383.49,-0.640614,0,2,2,2,3.1415927,0,0,0,''),
-(9124,5875,'m425 quest zone 124',601,-256.092,1974.33,0.975877,0,30,50,8,2.4725497,0,0,0,''),
-(9125,5875,'m425 quest zone 125',601,455.01,2303.12,36.5467,0,8,8,8,3.1415927,0,0,0,''),
-(9127,5875,'m425 quest zone 127',601,452.657,2340.85,40.5622,0,2,2,2,3.1415927,0,0,0,''),
-(9128,5875,'m425 quest zone 128',601,-429.379,1795.14,16.018,0,8,8,8,3.1415927,0,0,0,''),
-(9129,5875,'m425 quest zone 129',601,-442.742,1725.28,20.602,0,8,8,8,3.1415927,0,0,0,''),
-(9130,5875,'m425 quest zone 130',601,1815.17,1322.01,-3.31564,0,20,20,5,3.1415927,0,0,0,''),
-(9131,5875,'m425 quest zone 131',601,2192.24,1370.85,9.06748,0,5,5,5,3.1415927,0,0,0,''),
-(9132,5875,'m425 quest zone 132',601,2279.54,1419.84,3,0,5,5,5,3.1415927,0,0,0,''),
-(9133,5875,'m425 quest zone 133',601,2264.13,1436.59,9.90018,0,5,5,5,3.1415927,0,0,0,''),
-(9134,5875,'m425 quest zone 134',601,2298.48,1422.53,17.3648,0,5,5,5,3.1415927,0,0,0,''),
-(9135,5875,'m425 quest zone 135',601,2250,1311,3,0,5,5,5,3.1415927,0,0,0,''),
-(9136,5875,'m425 quest zone 136',601,2227.72,1271.07,-14.7629,0,70,50,30,2.0653028,0,0,0,''),
-(9137,5875,'m425 quest zone 137',601,2059.51,1248.74,41.0656,0,40,60,5,3.1415927,0,0,0,''),
-(9138,5875,'m425 quest zone 138',601,2204.25,1407.1,35.0105,0,5,5,5,3.1415927,0,0,0,''),
-(9139,5875,'m425 quest zone 139',601,1859.23,1506.26,11.5749,0,18,18,20,2.8797936,0,0,0,''),
-(9140,5875,'m425 quest zone 140',601,2276.29,1178.69,21.2617,0,5,5,5,3.1415927,0,0,0,''),
-(9141,5875,'m425 quest zone 141',601,2335.61,760.754,-6.86056,0,5,5,5,3.1415927,0,0,0,''),
-(9142,5875,'m425 quest zone 142',601,1461.74,1311,15,0,5,5,5,3.1415927,0,0,0,''),
-(9143,5875,'m425 quest zone 143',601,1454.6,1311,15,0,5,5,5,3.1415927,0,0,0,''),
-(9144,5875,'m425 quest zone 144',601,1463.07,1311,15,0,5,5,5,3.1415927,0,0,0,''),
-(9145,5875,'m425 quest zone 145',601,1924.67,314.095,3.18662,0,60,100,5,0.29089284,0,0,0,''),
-(9146,5875,'m425 quest zone 146',601,2288.54,463.555,0.394371,0,50,80,5,3.1415927,0,0,0,''),
-(9147,5875,'m425 quest zone 147',601,2555.67,978.341,19.2952,0,5,5,5,2.3852837,0,0,0,''),
-(9148,5875,'m425 quest zone 148',601,-321.02,2061.42,0.914489,0,4,4,4,3.1415927,0,0,0,''),
-(9149,5875,'m425 quest zone 149',601,2120.81,756.019,-8.61751,0,70,120,5,3.1415927,0,0,0,''),
-(9150,5875,'m425 quest zone 150',601,-471.872,1774.14,20.1885,0,2,2,2,3.1415927,0,0,0,''),
-(9151,5875,'m425 quest zone 151',601,-458.409,1981.81,2.17406,0,40,24,8,1.3962628,0,0,0,''),
-(9152,5875,'m425 quest zone 152',601,-330.567,1905.87,11.4828,0,24,24,8,3.1415927,0,0,0,''),
-(9153,5875,'m425 quest zone 153',601,-465.291,1931,7.88932,0,40,40,8,3.1415927,0,0,0,''),
-(9154,5875,'m425 quest zone 154',601,-473.572,1764.04,20.6662,0,2,2,2,3.3743083,0,0,0,''),
-(9155,5875,'m425 quest zone 155',601,2364.44,852.879,8.30691,0,5,5,5,3.1415927,0,0,0,''),
-(9156,5875,'m425 quest zone 156',601,2275.99,1178.45,22.0126,0,5,5,5,3.1415927,0,0,0,''),
-(9157,5875,'m425 quest zone 157',601,2517.68,1270.47,5.55688,0,50,70,5,3.1415927,0,0,0,''),
-(9158,5875,'m425 quest zone 158',601,2189.35,833.371,0.77516,0,5,5,5,3.1415927,0,0,0,''),
-(9159,5875,'m425 quest zone 159',601,1286.55,1321.7,18.6475,0,5,5,5,3.1415927,0,0,0,''),
-(9160,5875,'m425 quest zone 160',601,1261.88,1490.12,-4.17731,0,150,60,15,3.1415927,0,0,0,''),
-(9161,5875,'m425 quest zone 161',601,456.633,2321.65,39.6733,0,2,2,2,0.18109274,0,0,0,''),
-(9162,5875,'m425 quest zone 162',601,592.403,2123.65,-10.3847,0,8,8,8,3.1415927,0,0,0,''),
-(9163,5875,'m425 quest zone 163',601,537.696,2018.71,7.9253,0,8,8,8,3.1415927,0,0,0,''),
-(9164,5875,'m425 quest zone 164',601,443.006,2327.66,39.7073,0,2,2,2,3.1415927,0,0,0,''),
-(9167,5875,'m425 quest zone 167',601,-89.5512,2129.03,22.9289,0,16,16,8,3.1415927,0,0,0,''),
-(9168,5875,'m425 quest zone 168',601,-90.281,2101.39,20,0,8,8,8,3.1415927,0,0,0,''),
-(9169,5875,'m425 quest zone 169',601,829.418,1892.03,37.138,0,40,80,8,2.5307279,0,0,0,''),
-(9170,5875,'m425 quest zone 170',601,849.802,1737.74,38.3633,0,8,60,8,2.3561947,0,0,0,''),
-(9171,5875,'m425 quest zone 171',601,1.43235,2351.58,0.992649,0,1,1,1,3.1415927,0,0,0,''),
-(9172,5875,'m425 quest zone 172',601,253.091,1673.71,40.1188,0,8,8,8,3.1415927,0,0,0,''),
-(9173,5875,'m425 quest zone 173',601,462.363,2313.8,40,0,2,2,2,3.1415927,0,0,0,''),
-(9174,5875,'m425 quest zone 174',601,25.3651,2190.63,27.9172,0,1,1,1,3.1415927,0,0,0,''),
-(9175,5875,'m425 quest zone 175',601,959.581,2116.63,0.235063,0,16,16,8,3.1415927,0,0,0,''),
-(9177,5875,'m425 quest zone 177',604,-148.577,-1589.16,0,0,8,8,8,3.1415927,0,0,0,''),
-(9178,5875,'m425 quest zone 178',604,-164.341,-1591.84,-1.24665,0,8,8,8,3.1415927,0,0,0,''),
-(9179,5875,'m425 quest zone 179',601,1482.82,1499.41,-3.22113,0,40,100,15,1.9171427,0,0,0,''),
-(9180,5875,'m425 quest zone 180',604,-353.333,-1273.29,1.60079,0,8,8,8,3.1415927,0,0,0,''),
-(9181,5875,'m425 quest zone 181',604,-365.153,-1263.53,1.16936,0,8,8,8,3.1415927,0,0,0,''),
-(9182,5875,'m425 quest zone 182',604,-584.002,-775.455,9.60996,0,8,8,8,3.1415927,0,0,0,''),
-(9183,5875,'m425 quest zone 183',604,-95.6583,-1488.05,0.954232,0,100,60,8,3.1415927,0,0,0,''),
-(9184,5875,'m425 quest zone 184',604,-301.747,-1435.24,-0.273248,0,60,60,8,3.1415927,0,0,0,''),
-(9185,5875,'m425 quest zone 185',604,74.9299,-1483.66,0,0,8,8,8,3.1415927,0,0,0,''),
-(9186,5875,'m425 quest zone 186',604,-277.31,-839.415,0.5,0,8,8,8,3.1415927,0,0,0,''),
-(9187,5875,'m425 quest zone 187',601,27.8721,2149.71,23.8238,0,2,2,2,3.1415927,0,0,0,''),
-(9188,5875,'m425 quest zone 188',601,-5.57807,2183.86,28.282,0,2,2,2,3.1415927,0,0,0,''),
-(9189,5875,'m425 quest zone 189',601,-37.7076,2147.82,20.0774,0,5,5,2,3.1415927,0,0,0,''),
-(9190,5875,'m425 quest zone 190',601,15.7466,2149.23,24.3672,0,1,1,1,3.1415927,0,0,0,''),
-(9191,5875,'m425 quest zone 191',601,58.9158,2086.98,40,0,2,2,2,3.0834134,0,0,0,''),
-(9192,5875,'m425 quest zone 192',601,63.1141,2065.22,40,0,2,2,2,3.1415927,0,0,0,''),
-(9193,5875,'m425 quest zone 193',601,54.2806,2091.29,39.0366,0,3,3,2,3.1415927,0,0,0,''),
-(9194,5875,'m425 quest zone 194',601,52.5773,2066.03,40,0,8,8,8,3.1415927,0,0,0,''),
-(9195,5875,'m425 quest zone 195',601,44.5289,2075.25,40,0,1,1,1,3.1415927,0,0,0,''),
-(9196,5875,'m425 quest zone 196',601,47.6398,2088.11,40.3332,0,2,2,2,3.1415927,0,0,0,''),
-(9197,5875,'m425 quest zone 197',607,-96.8768,2630.44,32.4782,0,2,2,2,1.5998827,0,0,0,''),
-(9198,5875,'m425 quest zone 198',607,-102.235,2652.74,32.4782,0,8,1.5,2,6.1086583,0,0,0,''),
-(9199,5875,'m425 quest zone 199',607,-110.025,2639.48,32.4782,0,1,4,1,3.1415927,0,0,0,''),
-(9200,5875,'m425 quest zone 200',607,-89.1127,2643.71,32.4782,0,1,4,1,3.1415927,0,0,0,''),
-(9201,5875,'m425 quest zone 201',607,-98.5496,2760.76,19.897,0,4,4,4,3.1415927,0,0,0,''),
-(9202,5875,'m425 quest zone 202',607,32.0519,2705.49,10.0102,0,20,30,8,3.1415927,0,0,0,''),
-(9203,5875,'m425 quest zone 203',607,-16.3233,2717.27,10,0,30,30,8,3.1415927,0,0,0,''),
-(9204,5875,'m425 quest zone 204',607,-88.0378,2753.14,20,0,2,2,2,3.1415927,0,0,0,''),
-(9205,5875,'m425 quest zone 205',607,51.272,2712.65,11.4174,0,4,4,4,3.1415927,0,0,0,''),
-(9206,5875,'m425 quest zone 206',607,-1.03796,2757.17,-2.4482,0,8,50,8,2.2107508,0,0,0,''),
-(9207,5875,'m425 quest zone 207',607,-128.367,2688.19,30,0,2,2,2,3.1415927,0,0,0,''),
-(9208,5875,'m425 quest zone 208',607,-37.2616,2743.39,9.31866,0,4,4,4,3.1415927,0,0,0,''),
-(9209,5875,'m425 quest zone 209',607,66.371,2604.91,0.560931,0,50,30,8,3.1415927,0,0,0,''),
-(9210,5875,'m425 quest zone 210',607,48.2409,2654.86,9.06217,0,2,2,2,3.1415927,0,0,0,''),
-(9211,5875,'m425 quest zone 211',607,47.7571,2784.89,5,0,50,50,8,3.1415927,0,0,0,''),
-(9212,5875,'m425 quest zone 212',607,-111.906,2685.2,29.7169,0,2,2,2,3.1415927,0,0,0,''),
-(9213,5875,'m425 quest zone 213',607,-41.1531,2743.79,10.6828,0,2,2,2,3.1415927,0,0,0,''),
-(9214,5875,'m425 quest zone 214',607,14.6568,2564.19,10,0,40,40,8,3.1415927,0,0,0,''),
-(9215,5875,'m425 quest zone 215',607,9.9915,2731.63,4.38933,0,2,2,2,3.1415927,0,0,0,''),
-(9216,5875,'m425 quest zone 216',604,144.155,-1884.08,20,0,8,8,8,3.1415927,0,0,0,''),
-(9217,5875,'m425 quest zone 217',604,155.765,-1830.51,20.5273,0,100,150,8,3.1415927,0,0,0,''),
-(9218,5875,'m425 quest zone 218',604,-309.715,-1435.54,-18.0098,0,8,8,8,3.1415927,0,0,0,''),
-(9219,5875,'m425 quest zone 219',604,-739.057,-712.352,0.269413,0,50,120,8,2.4143727,0,0,0,''),
-(9220,5875,'m425 quest zone 220',604,-791.534,-591.116,0,0,100,200,8,3.1415927,0,0,0,''),
-(9221,5875,'m425 quest zone 221',604,-599.336,-774.2,10,0,8,8,8,3.1415927,0,0,0,''),
-(9222,5875,'m425 quest zone 222',604,-563.056,-764.156,10,0,8,8,4,3.1415927,0,0,0,''),
-(9223,5875,'m425 quest zone 223',604,-551.782,-763.807,10,0,4,4,4,3.1415927,0,0,0,''),
-(9224,5875,'m425 quest zone 224',604,-547.47,-782.031,10.0646,0,4,4,4,3.1415927,0,0,0,''),
-(9225,5875,'m425 quest zone 225',604,-761.501,-656.638,0,0,100,200,30,3.1415927,0,0,0,''),
-(9226,5875,'m425 quest zone 226',604,-751.23,-529.341,0.809567,0,8,8,8,3.1415927,0,0,0,''),
-(9227,5875,'m425 quest zone 227',604,-663.477,-393.223,5,0,8,8,8,3.1415927,0,0,0,''),
-(9228,5875,'m425 quest zone 228',604,-638.657,-404.058,1.44209,0,100,80,8,1.8325927,0,0,0,''),
-(9229,5875,'m425 quest zone 229',604,-596.138,-757.973,10,0,8,8,8,3.1415927,0,0,0,''),
-(9230,5875,'m425 quest zone 230',604,-488.261,-639.347,-0.932529,0,15,15,8,2.8216157,0,0,0,''),
-(9231,5875,'m425 quest zone 231',604,-0.534543,-999.093,0,0,50,70,8,3.1415927,0,0,0,''),
-(9232,5875,'m425 quest zone 232',604,185.931,-963.846,2.49309,0,50,50,5,3.1415927,0,0,0,''),
-(9233,5875,'m425 quest zone 233',604,23.7588,-570.301,-8.88477,0,8,8,8,3.1415927,0,0,0,''),
-(9234,5875,'m425 quest zone 234',604,28.6512,-581.921,-6.48573,0,8,8,8,3.1415927,0,0,0,''),
-(9235,5875,'m425 quest zone 235',604,134.446,-985.343,0,0,200,150,15,3.1415927,0,0,0,''),
-(9236,5875,'m425 quest zone 236',604,-420.195,-451.74,-2.76282,0,90,100,8,2.1525726,0,0,0,''),
-(9237,5875,'m425 quest zone 237',604,14.4628,-578.967,-5.88113,0,8,8,8,3.1415927,0,0,0,''),
-(9238,5875,'m425 quest zone 238',604,189.229,-550.899,6.01089,0,8,8,8,3.1415927,0,0,0,''),
-(9239,5875,'m425 quest zone 239',604,235.389,-573.172,4.91443,0,6,6,4,3.1415927,0,0,0,''),
-(9240,5875,'m425 quest zone 240',604,18.463,-556.726,-4.60053,0,8,8,8,3.1415927,0,0,0,''),
-(9241,5875,'m425 quest zone 241',604,42.4958,-569.669,-7.19035,0,8,8,6,3.1415927,0,0,0,''),
-(9242,5875,'m425 quest zone 242',604,280.099,-596.777,0.0761657,0,8,8,8,3.1415927,0,0,0,''),
-(9243,5875,'m425 quest zone 243',604,281.112,-594.799,5.78617,0,8,8,8,3.1415927,0,0,0,''),
-(9244,5875,'m425 quest zone 244',601,1289.87,1633.74,2.9904,0,8,8,8,3.1415927,0,0,0,''),
-(9245,5875,'m425 quest zone 245',601,1291.71,1603.41,-1.90097,0,100,60,30,0.57893276,0,0,0,''),
-(9246,5875,'m425 quest zone 246',601,1293.52,1311.4,14.9915,0,8,8,8,3.1415927,0,0,0,''),
-(9247,5875,'m425 quest zone 247',601,1516.9,1524.77,-3,0,8,8,8,3.1415927,0,0,0,''),
-(9248,5875,'m425 quest zone 248',604,1224.34,-2755.31,39,0,8,8,8,3.1415927,0,0,0,''),
-(9249,5875,'m425 quest zone 249',604,-1051.65,-605.124,19.2282,0,8,8,2,1.6289728,0,0,0,''),
-(9250,5875,'m425 quest zone 250',604,-1034.14,-578.55,16.7913,0,8,8,8,3.1415927,0,0,0,''),
-(9251,5875,'m425 quest zone 251',604,-1048.38,-596.015,20,0,2,2,2,3.1415927,0,0,0,''),
-(9252,5875,'m425 quest zone 252',604,-1047.32,-616.412,18.7717,0,4,4,4,0.1163528,0,0,0,''),
-(9253,5875,'m425 quest zone 253',604,-1201.52,-458.928,10,0,80,80,8,3.1415927,0,0,0,''),
-(9254,5875,'m425 quest zone 254',604,-1198.95,-565.576,10,0,80,80,8,3.1415927,0,0,0,''),
-(9255,5875,'m425 quest zone 255',604,-1079.6,-130.089,2.02649,0,80,120,8,3.1415927,0,0,0,''),
-(9256,5875,'m425 quest zone 256',601,1302.84,1392.23,-8.36462,0,60,180,8,5.6086283,0,0,0,''),
-(9257,5875,'m425 quest zone 257',601,1292.83,1292.47,15,0,8,8,8,3.1415927,0,0,0,''),
-(9258,5875,'m425 quest zone 258',601,1817.52,1326.76,-3.70669,0,8,8,8,3.1415927,0,0,0,''),
-(9259,5875,'m425 quest zone 259',601,2044.12,1081.65,-4.57796,0,8,8,8,3.1415927,0,0,0,''),
-(9261,5875,'m425 quest zone 261',601,2097.29,1109.98,-3.84684,0,8,8,8,3.1415927,0,0,0,''),
-(9262,5875,'m425 quest zone 262',601,2047.23,1111.85,-4.97225,0,8,8,8,3.1415927,0,0,0,''),
-(9263,5875,'m425 quest zone 263',601,2063.83,1088.75,-6.44773,0,8,10,8,3.1415927,0,0,0,''),
-(9264,5875,'m425 quest zone 264',601,2073.28,1089.37,-6.21971,0,70,50,8,3.1415927,0,0,0,''),
-(9265,5875,'m425 quest zone 265',601,2096,1184.01,-7.69799,0,100,160,8,1.4086528,0,0,0,''),
-(9266,5875,'m425 quest zone 266',601,2206.53,1553.61,-4.09221,0,8,8,8,3.1415927,0,0,0,''),
-(9267,5875,'m425 quest zone 267',601,2261.73,1659.23,-5.25209,0,8,8,8,3.1415927,0,0,0,''),
-(9268,5875,'m425 quest zone 268',601,2216.52,1520.96,-5.87356,0,8,8,8,3.1415927,0,0,0,''),
-(9269,5875,'m425 quest zone 269',601,2371.23,1615.79,0,0,40,150,8,0.70631266,0,0,0,''),
-(9270,5875,'m425 quest zone 270',601,2412.46,1563.63,-0.634599,0,8,8,8,3.1415927,0,0,0,''),
-(9271,5875,'m425 quest zone 271',601,2376.14,804.772,8.78503,0,8,8,8,3.1415927,0,0,0,''),
-(9272,5875,'m425 quest zone 272',604,1766.62,-2751.84,5.02448,0,8,8,8,3.1415927,0,0,0,''),
-(9273,5875,'m425 quest zone 273',604,1779.08,-2748.86,5.10442,0,8,8,8,3.1415927,0,0,0,''),
-(9274,5875,'m425 quest zone 274',604,2219.71,-2686.83,39,0,2,2,2,3.1415927,0,0,0,''),
-(9275,5875,'m425 quest zone 275',604,2218.61,-2662.23,39,0,8,8,8,3.1415927,0,0,0,''),
-(9276,5875,'m425 quest zone 276',604,1028.8,-1992.52,3.5,0,8,8,8,3.1415927,0,0,0,''),
-(9277,5875,'m425 quest zone 277',604,1098.79,-2712.99,11.5053,0,8,8,8,3.1415927,0,0,0,''),
-(9278,5875,'m425 quest zone 278',604,1291.63,-1839.91,15.0582,0,8,8,8,3.1415927,0,0,0,''),
-(9279,5875,'m425 quest zone 279',604,1316.81,-1838.48,32.278,0,8,8,8,3.1415927,0,0,0,''),
-(9280,5875,'m425 quest zone 280',604,1065.32,-2720.26,5.78853,0,8,8,8,3.1415927,0,0,0,''),
-(9281,5875,'m425 quest zone 281',604,1066.95,-2700.6,6.13651,0,8,8,8,3.1415927,0,0,0,''),
-(9282,5875,'m425 quest zone 282',604,854.354,-2733.13,65,0,8,8,8,3.1415927,0,0,0,''),
-(9283,5875,'m425 quest zone 283',604,1073.13,-2736.67,6.13651,0,8,8,8,3.1415927,0,0,0,''),
-(9284,5875,'m425 quest zone 284',604,1048.59,-2718.97,6.13651,0,8,8,8,3.1415927,0,0,0,''),
-(9286,5875,'m425 quest zone 286',604,1769.15,-2687.58,23.1855,0,40,120,8,1.2508228,0,0,0,''),
-(9287,5875,'m425 quest zone 287',604,1795.85,-2786.38,8.54501,0,8,8,8,3.1415927,0,0,0,''),
-(9288,5875,'m425 quest zone 288',604,1788.6,-2756.48,5.50797,0,8,8,8,3.1415927,0,0,0,''),
-(9289,5875,'m425 quest zone 289',604,1770.76,-2750.59,4.0174,0,8,8,8,1.9198627,0,0,0,''),
-(9290,5875,'m425 quest zone 290',604,1894.17,-2660.52,5.53362,0,50,120,8,3.1415927,0,0,0,''),
-(9291,5875,'m425 quest zone 291',604,2202.86,-2519.06,33.5393,0,120,220,8,0.69813275,0,0,0,''),
-(9292,5875,'m425 quest zone 292',604,-1076.11,-125.885,5,0,8,8,8,3.1415927,0,0,0,''),
-(9293,5875,'m425 quest zone 293',604,-1399.36,-436.684,-6.73685,0,8,8,8,3.1415927,0,0,0,''),
-(9294,5875,'m425 quest zone 294',604,-1345.96,-135.8,0,0,60,60,8,3.1415927,0,0,0,''),
-(9295,5875,'m425 quest zone 295',604,-1389.61,-415.601,-7.12555,0,8,8,8,3.1415927,0,0,0,''),
-(9296,5875,'m425 quest zone 296',604,-1376.52,-403.09,-3.18165,0,2,2,2,3.1415927,0,0,0,''),
-(9297,5875,'m425 quest zone 297',601,-57.1867,2155.64,20.2034,0,2,2,2,1.9489528,0,0,0,''),
-(9298,5875,'m425 quest zone 298',601,-33.1585,1803.58,-0.964202,0,80,80,8,3.1415927,0,0,0,''),
-(9299,5875,'m425 quest zone 299',604,2312.74,-2415.09,43.9378,0,15,15,15,1.5361028,0,0,0,''),
-(9300,5875,'m425 quest zone 300',604,-1389.15,-386.39,-6.51894,0,40,40,8,3.1415927,0,0,0,''),
-(9301,5875,'m425 quest zone 301',604,1793.85,-2638.56,40.5831,0,80,80,8,2.4143727,0,0,0,''),
-(9302,5875,'m425 quest zone 302',604,2382.75,-2014.66,21.5298,0,8,8,8,3.1415927,0,0,0,''),
-(9303,5875,'m425 quest zone 303',604,-1461.37,-504.992,11.9044,0,40,40,8,3.1415927,0,0,0,''),
-(9304,5875,'m425 quest zone 304',604,-1561.17,322.411,50,0,80,80,8,3.1415927,0,0,0,''),
-(9306,5875,'m425 quest zone 306',604,-1682.44,494.8,30,0,80,80,8,3.1415927,0,0,0,''),
-(9307,5875,'m425 quest zone 307',604,-1947.22,458.707,49.5047,0,3,3,3,3.1415927,0,0,0,''),
-(9308,5875,'m425 quest zone 308',604,-1913.53,-255.425,55,0,2,2,2,3.1415927,0,0,0,''),
-(9309,5875,'m425 quest zone 309',604,-1916.41,-243.159,55,0,2,2,2,3.1415927,0,0,0,''),
-(9310,5875,'m425 quest zone 310',604,-1649.5,-421.768,30.8126,0,80,70,8,3.1415927,0,0,0,''),
-(9311,5875,'m425 quest zone 311',604,-1947.81,-474.083,35.0008,0,80,80,8,3.1415927,0,0,0,''),
-(9312,5875,'m425 quest zone 312',604,2331.9,-2159.51,7.15759,0,50,60,8,0.23271275,0,0,0,''),
-(9313,5875,'m425 quest zone 313',604,-1784.26,-310.11,50.3634,0,8,8,2,3.1415927,0,0,0,''),
-(9314,5875,'m425 quest zone 314',604,-1718,-399.399,33,0,2,2,2,3.1415927,0,0,0,''),
-(9315,5875,'m425 quest zone 315',604,2322.04,-2594.27,29.9681,0,20,20,8,3.1415927,0,0,0,''),
-(9316,5875,'m425 quest zone 316',604,2060.61,-2724.13,44.2572,0,4,4,4,3.1415927,0,0,0,''),
-(9317,5875,'m425 quest zone 317',604,-2089.92,205.985,48.6624,0,8,8,8,3.1415927,0,0,0,''),
-(9318,5875,'m425 quest zone 318',604,-1984.75,229.22,38.4429,0,8,8,8,3.1415927,0,0,0,''),
-(9319,5875,'m425 quest zone 319',604,-1920.94,-270.455,55,0,2,2,2,3.1415927,0,0,0,''),
-(9320,5875,'m425 quest zone 320',604,-1939.57,-260.911,55,0,2,2,2,3.1415927,0,0,0,''),
-(9321,5875,'m425 quest zone 321',604,-1490.92,-380.28,10.3008,0,100,150,8,3.1415927,0,0,0,''),
-(9322,5875,'m425 quest zone 322',604,1272.79,-2649.6,14.2338,0,150,100,25,3.1415927,0,0,0,''),
-(9323,5875,'m425 quest zone 323',604,-1972.26,270.806,20,0,8,8,8,3.1415927,0,0,0,''),
-(9324,5875,'m425 quest zone 324',604,-2086.78,430.981,20,0,8,8,8,3.1415927,0,0,0,''),
-(9325,5875,'m425 quest zone 325',604,-1740.74,2.21456,5.54691,0,80,80,20,3.1415927,0,0,0,''),
-(9326,5875,'m425 quest zone 326',604,1310.51,-2706.19,25.3142,0,200,160,40,3.1415927,0,0,0,''),
-(9327,5875,'m425 quest zone 327',604,1342.56,-2544.38,26.4657,0,8,8,8,3.1415927,0,0,0,''),
-(9328,5875,'m425 quest zone 328',604,1383.3,-2655.78,27.5257,0,70,80,30,3.1415927,0,0,0,''),
-(9329,5875,'m425 quest zone 329',604,1440.88,-2526.27,2.97725,0,140,150,8,0.61087275,0,0,0,''),
-(9330,5875,'m425 quest zone 330',604,1526.37,-3202.82,48.649,0,8,8,8,3.1415927,0,0,0,''),
-(9331,5875,'m425 quest zone 331',604,1520.97,-2631.28,30.9877,0,90,90,8,0.17453265,0,0,0,''),
-(9332,5875,'m425 quest zone 332',604,1149.31,-1934.65,3.83583,0,110,200,8,3.1415927,0,0,0,''),
-(9333,5875,'m425 quest zone 333',604,1218.95,-1781.8,4.66151,0,80,80,12,3.1415927,0,0,0,''),
-(9334,5875,'m425 quest zone 334',604,1390.82,-1718.25,29.2439,0,8,8,8,3.1415927,0,0,0,''),
-(9335,5875,'m425 quest zone 335',604,1486.41,-1844.24,25,0,100,100,15,3.1415927,0,0,0,''),
-(9336,5875,'m425 quest zone 336',604,1532.19,-2034.11,83.5862,0,8,8,8,3.1415927,0,0,0,''),
-(9337,5875,'m425 quest zone 337',604,867.146,-2698.98,78.7023,0,130,50,8,0.40724277,0,0,0,''),
-(9345,5875,'m425 quest zone 345',601,-203.688,975.676,2.332,0,8,8,8,3.1415927,0,0,0,''),
-(9346,5875,'m425 quest zone 346',601,-235.047,913.956,10,0,30,40,8,3.1415927,0,0,0,''),
-(9347,5875,'m425 quest zone 347',601,-81.834,1154.86,3.66596,0,45,55,15,3.1415927,0,0,0,''),
-(9348,5875,'m425 quest zone 348',601,198.562,733.222,4.84195,0,8,8,8,3.1415927,0,0,0,''),
-(9349,5875,'m425 quest zone 349',601,-202.061,488.353,-4.11602,0,8,8,8,3.1415927,0,0,0,''),
-(9350,5875,'m425 quest zone 350',601,-64.3721,-5.18014,6.95087,0,2,2,4,3.1415927,0,0,0,''),
-(9351,5875,'m425 quest zone 351',601,-64.8476,1.0091,7.00009,0,2,2,4,3.1415927,0,0,0,''),
-(9352,5875,'m425 quest zone 352',601,-84.8381,564.321,10.0855,0,1,1,1,3.1415927,0,0,0,''),
-(9353,5875,'m425 quest zone 353',607,-120.722,2730.73,28.2967,0,1,1,1,3.1415927,0,0,0,''),
-(9354,5875,'m425 quest zone 354',601,-142.414,581.08,5.10506,0,8,8,8,3.1415927,0,0,0,''),
-(9355,5875,'m425 quest zone 355',601,-118.626,503.585,5.06623,0,8,8,8,3.1415927,0,0,0,''),
-(9356,5875,'m425 quest zone 356',601,-142.051,564.433,5.02269,0,8,8,8,3.1415927,0,0,0,''),
-(9357,5875,'m425 quest zone 357',601,-123.721,483.549,4.99721,0,8,8,8,3.1415927,0,0,0,''),
-(9358,5875,'m425 quest zone 358',604,-1875.05,471.074,11.9806,0,70,80,8,3.1415927,0,0,0,''),
-(9359,5875,'m425 quest zone 359',604,-1738.45,320.602,10,0,2,2,2,3.1415927,0,0,0,''),
-(9360,5875,'m425 quest zone 360',604,-1738.09,299.211,10,0,4,4,2,3.1415927,0,0,0,''),
-(9361,5875,'m425 quest zone 361',601,178.728,1902.59,0,0,160,60,8,3.1415927,0,0,0,''),
-(9362,5875,'m425 quest zone 362',601,70.5883,1875.02,0.710009,0,2,2,2,3.1415927,0,0,0,''),
-(9363,5875,'m425 quest zone 363',601,277.889,1700.43,40,0,30,50,8,3.1415927,0,0,0,''),
-(9364,5875,'m425 quest zone 364',604,-1951.51,210.498,48.1092,0,2,2,2,3.1415927,0,0,0,''),
-(9365,5875,'m425 quest zone 365',601,287.424,1500,50,0,2,2,2,3.1415927,0,0,0,''),
-(9366,5875,'m425 quest zone 366',601,206.153,1501.17,50.5961,0,4,4,1,3.1415927,0,0,0,''),
-(9367,5875,'m425 quest zone 367',601,-55.5886,1734.23,13.2766,0,8,8,8,3.0834134,0,0,0,''),
-(9368,5875,'m425 quest zone 368',601,-95.8422,1191.6,5,0,5,5,2,2.5889058,0,0,0,''),
-(9369,5875,'m425 quest zone 369',601,-84.8499,314.168,15,0,8,8,8,3.1415927,0,0,0,''),
-(9370,5875,'m425 quest zone 370',601,-50.209,369.295,0.196868,0,8,8,8,3.1415927,0,0,0,''),
-(9371,5875,'m425 quest zone 371',601,408.956,2343.72,50.8794,0,2,2,1,3.1415927,0,0,0,''),
-(9372,5875,'m425 quest zone 372',604,-1756.2,-135.163,11.1633,0,240,140,8,3.1415927,0,0,0,''),
-(9373,5875,'m425 quest zone 373',604,-2022.09,554.196,50.7889,0,80,80,8,3.1415927,0,0,0,''),
-(9374,5875,'m425 quest zone 374',604,-1937.67,499.651,50,0,4,4,2,3.1415927,0,0,0,''),
-(9375,5875,'m425 quest zone 375',604,-1948.25,497.364,50,0,4,4,2,3.1415927,0,0,0,''),
-(9376,5875,'m425 quest zone 376',604,-1924.62,383.013,42.2369,0,60,70,8,3.1415927,0,0,0,''),
-(9377,5875,'m425 quest zone 377',604,-1916.53,358.479,50.4707,0,8,8,8,3.1415927,0,0,0,''),
-(9378,5875,'m425 quest zone 378',604,-1999.46,453.186,45.6544,0,8,8,8,0.6690428,0,0,0,''),
-(9379,5875,'m425 quest zone 379',604,-2150.18,698.134,19.9831,0,8,8,8,3.1415927,0,0,0,''),
-(9380,5875,'m425 quest zone 380',604,-2204.69,670.328,18.4351,0,80,100,18,3.1415927,0,0,0,''),
-(9381,5875,'m425 quest zone 381',601,48.1926,1269,1.74805,0,100,40,10,3.1415927,0,0,0,''),
-(9382,5875,'m425 quest zone 382',601,8.49696,1114.35,-0.112353,0,90,60,8,3.1415927,0,0,0,''),
-(9383,5875,'m425 quest zone 383',601,4.72343,1247.91,5.47486,0,30,80,8,3.1415927,0,0,0,''),
-(9384,5875,'m425 quest zone 384',601,-118.678,1151.18,5,0,8,8,8,3.1415927,0,0,0,''),
-(9385,5875,'m425 quest zone 385',601,117.551,1193.57,16.0765,0,8,8,8,3.1415927,0,0,0,''),
-(9386,5875,'m425 quest zone 386',604,-1639.34,397.335,29.156,0,4,4,4,3.1415927,0,0,0,''),
-(9387,5875,'m425 quest zone 387',601,-103.379,1069,30.7361,0,8,8,8,3.1415927,0,0,0,''),
-(9388,5875,'m425 quest zone 388',604,-1613.24,29.7862,31.2347,0,80,80,8,3.1415927,0,0,0,''),
-(9389,5875,'m425 quest zone 389',604,-1584.94,-48.4287,20,0,2,2,2,3.1415927,0,0,0,''),
-(9390,5875,'m425 quest zone 390',604,-1646.1,-1.43997,20.0369,0,2,2,2,3.1415927,0,0,0,''),
-(9391,5875,'m425 quest zone 391',604,-1633.33,531.116,40,0,2,2,2,3.1415927,0,0,0,''),
-(9392,5875,'m425 quest zone 392',604,-1913.8,436.206,11.2487,0,8,8,8,3.1415927,0,0,0,''),
-(9393,5875,'m425 quest zone 393',604,-1813.57,620.818,39.6617,0,40,80,8,3.1415927,0,0,0,''),
-(9394,5875,'m425 quest zone 394',604,-1808.26,580.842,40,0,2,2,2,3.1415927,0,0,0,''),
-(9395,5875,'m425 quest zone 395',601,2256.04,1385.36,20.9853,0,8,8,8,3.1415927,0,0,0,''),
-(9396,5875,'m425 quest zone 396',601,244.483,2677.76,0,0,8,8,8,3.1415927,0,0,0,''),
-(9397,5875,'m425 quest zone 397',601,377.9,2108.57,20,0,8,8,8,3.1415927,0,0,0,''),
-(9398,5875,'m425 quest zone 398',601,421.988,2078,20.6073,0,8,8,8,3.1415927,0,0,0,''),
-(9399,5875,'m425 quest zone 399',601,282.027,2527.83,20.1921,0,40,80,8,3.1415927,0,0,0,''),
-(9400,5875,'m425 quest zone 400',601,-21.1151,2157.46,20.8419,0,2,2,1,3.1415927,0,0,0,''),
-(9401,5875,'m425 quest zone 401',601,71.4199,1983.28,1.84189,0,2,2,2,3.1415927,0,0,0,''),
-(9402,5875,'m425 quest zone 402',601,1967.11,1158.1,-9.09408,0,3,3,3,3.1415927,0,0,0,''),
-(9403,5875,'m425 quest zone 403',601,2090.97,1281.6,-8.68205,0,8,8,8,3.1415927,0,0,0,''),
-(9404,5875,'m425 quest zone 404',601,1897.45,683.714,-6.98936,0,2,2,3,3.1415927,0,0,0,''),
-(9405,5875,'m425 quest zone 405',601,1721.39,710.439,-6.25064,0,2,2,2,2.4725497,0,0,0,''),
-(9406,5875,'m425 quest zone 406',601,1717.29,707.932,-3.12919,0,8,8,8,3.1415927,0,0,0,''),
-(9407,5875,'m425 quest zone 407',601,2195.49,1538.28,-4.11384,0,3,3,3,3.1415927,0,0,0,''),
-(9408,5875,'m425 quest zone 408',604,1824.84,-2807.61,4.36285,0,8,8,8,3.1415927,0,0,0,''),
-(9409,5875,'m425 quest zone 409',604,-1960.58,486.073,50,0,2,2,2,3.1415927,0,0,0,''),
-(9410,5875,'m425 quest zone 410',604,-1884.89,583.282,-4.33798,0,8,8,8,3.1415927,0,0,0,''),
-(9411,5875,'m425 quest zone 411',604,2303.78,-2609.52,43.3332,0,3,3,3,3.1415927,0,0,0,''),
-(9412,5875,'m425 quest zone 412',604,1185.91,-2787.23,38.2585,0,8,8,8,3.1415927,0,0,0,''),
-(9413,5875,'m425 quest zone 413',601,1570.94,1509.68,-9.2,0,65,65,5,3.1415927,0,0,0,''),
-(9414,5875,'m425 quest zone 414',601,1719.43,713.032,-6.25064,0,8,8,8,3.1415927,0,0,0,''),
-(9415,5875,'m425 quest zone 415',601,9.60116,2191.72,28.591,0,2,2,2,3.1415927,0,0,0,''),
-(9416,5875,'m425 quest zone 416',604,-1579.43,382.251,50,0,2,2,2,3.1415927,0,0,0,''),
-(9417,5875,'m425 quest zone 417',601,1842.74,1174.34,1.48871,0,180,100,15,3.1415927,0,0,0,''),
-(9418,5875,'m425 quest zone 418',601,1849.59,1465.66,1.79162,0,8,8,8,3.1415927,0,0,0,''),
-(9419,5875,'m425 quest zone 419',601,1100.02,2750.37,80,0,8,8,8,3.1415927,0,0,0,''),
-(9420,5875,'m425 quest zone 420',601,2179.83,1493.05,-2.63907,0,8,8,8,3.1415927,0,0,0,''),
-(9421,5875,'m425 quest zone 421',604,896.821,-2638.2,25.7618,0,50,50,8,2.8507047,0,0,0,''),
-(9422,5875,'m425 quest zone 422',604,925.557,-2684.72,38.2828,0,4,4,4,3.1415927,0,0,0,''),
-(9423,5875,'m425 quest zone 423',604,900.743,-2701.77,37,0,8,8,8,3.1415927,0,0,0,''),
-(9424,5875,'m425 quest zone 424',604,885.341,-2522.63,14.3885,0,70,35,8,2.5598168,0,0,0,''),
-(9425,5875,'m425 quest zone 425',604,904.504,-2775.29,8.7608,0,70,55,20,3.8978984,0,0,0,''),
-(9426,5875,'m425 quest zone 426',604,837.879,-2588.21,61.9007,0,8,8,8,3.1415927,0,0,0,''),
-(9427,5875,'m425 quest zone 427',604,953.409,-2630.65,38.9684,0,8,8,8,3.1415927,0,0,0,''),
-(9428,5875,'m425 quest zone 428',604,692.845,-2716.4,75,0,8,8,8,3.1415927,0,0,0,''),
-(9429,5875,'m425 quest zone 429',604,777.482,-2683.41,94.4489,0,6,6,6,3.1415927,0,0,0,''),
-(9430,5875,'m425 quest zone 430',604,135.712,-801.552,-5,0,100,140,8,3.1415927,0,0,0,''),
-(9431,5875,'m425 quest zone 431',604,-1044.29,-571.69,20,0,8,8,8,3.1415927,0,0,0,''),
-(9432,5875,'m425 quest zone 432',604,-1100.65,1.15971,5,0,8,8,8,3.1415927,0,0,0,''),
-(9433,5875,'m425 quest zone 433',604,-671.323,-716.138,1.75188,0,30,100,8,2.7110786,0,0,0,''),
-(9434,5875,'m425 quest zone 434',604,-550.367,-799.818,10.0188,0,4,4,4,3.1415927,0,0,0,''),
-(9435,5875,'m425 quest zone 435',604,-497.582,-188.026,4.07372,0,4,4,4,3.1415927,0,0,0,''),
-(9436,5875,'m425 quest zone 436',604,-383.67,-727.153,-0.5181,0,20,100,10,2.8797936,0,0,0,''),
-(9437,5875,'m425 quest zone 437',604,-287.58,-507.136,2.69935,0,40,20,4,2.3852837,0,0,0,''),
-(9438,5875,'m425 quest zone 438',604,-776.211,-358.478,0,0,25,25,4,3.1415927,0,0,0,''),
-(9439,5875,'m425 quest zone 439',604,-1393.69,-524.044,10,0,80,80,8,3.1415927,0,0,0,''),
-(9440,5875,'m425 quest zone 440',604,-1639.49,180.55,43.8315,0,50,50,8,3.1415927,0,0,0,''),
-(9441,5875,'m425 quest zone 441',604,-1815.47,-410.023,44.8704,0,80,50,8,3.1415927,0,0,0,''),
-(9442,5875,'m425 quest zone 442',604,-1893.56,763.133,5.93274,0,80,30,8,3.1415927,0,0,0,''),
-(9443,5875,'m425 quest zone 443',604,123.889,-684.559,-0.346926,0,30,30,8,3.1415927,0,0,0,''),
-(9444,5875,'m425 quest zone 444',604,-492.038,-1001.37,8.09637,0,1,1,1,3.1415927,0,0,0,''),
-(9445,5875,'m425 quest zone 445',604,-181.498,-328.163,40,0,8,8,8,3.1415927,0,0,0,''),
-(9446,5875,'m425 quest zone 446',604,-549.008,-804.548,9.34523,0,4,4,4,3.1415927,0,0,0,''),
-(9447,5875,'m425 quest zone 447',604,-286.96,-633.479,-1.56791,0,8,8,8,3.1415927,0,0,0,''),
-(9448,5875,'m425 quest zone 448',604,242.912,-518.179,10,0,8,8,8,3.1415927,0,0,0,''),
-(9449,5875,'m425 quest zone 449',604,-819.311,-672.271,0,0,50,150,8,0.55268264,0,0,0,''),
-(9450,5875,'m425 quest zone 450',604,76.0687,-816.042,-2.28757,0,30,150,8,3.1415927,0,0,0,''),
-(9451,5875,'m425 quest zone 451',604,169.845,-840.563,-2.70854,0,50,140,8,2.8216157,0,0,0,''),
-(9452,5875,'m425 quest zone 452',604,187.601,-966.916,-0.321918,0,10,10,8,3.1415927,0,0,0,''),
-(9453,5875,'m425 quest zone 453',604,230.298,-1011.71,5.99007,0,8,8,8,3.1415927,0,0,0,''),
-(9454,5875,'m425 quest zone 454',604,110.772,-982.027,0,0,8,8,8,3.1415927,0,0,0,''),
-(9455,5875,'m425 quest zone 455',604,-145.242,-375.523,-42.3526,0,200,200,100,3.1415927,0,0,0,''),
-(9456,5875,'m425 quest zone 456',604,-268.197,-572.851,3.14404,0,150,60,8,3.1415927,0,0,0,''),
-(9457,5875,'m425 quest zone 457',604,-273.274,-608.724,0.0876247,0,8,8,8,3.1415927,0,0,0,''),
-(9458,5875,'m425 quest zone 458',604,-286.945,-514.081,4.97095,0,30,60,8,3.1415927,0,0,0,''),
-(9459,5875,'m425 quest zone 459',604,-239.793,-496.487,3.15286,0,40,100,20,0.29089284,0,0,0,''),
-(9460,5875,'m425 quest zone 460',604,46.8211,-520.861,1.05757,0,40,90,8,1.1635528,0,0,0,''),
-(9461,5875,'m425 quest zone 461',604,76.4132,-437.668,-0.735331,0,130,100,10,0.8144827,0,0,0,''),
-(9462,5875,'m425 quest zone 462',604,264.733,-582.962,-0.606064,0,8,8,8,3.1415927,0,0,0,''),
-(9463,5875,'m425 quest zone 463',604,-483.756,-131.019,0.5,0,50,80,8,3.1415927,0,0,0,''),
-(9464,5875,'m425 quest zone 464',604,-710.627,-1012.67,-0.405835,0,10,10,8,3.1415927,0,0,0,''),
-(9465,5875,'m425 quest zone 465',604,-767.187,-1217.94,5.8842,0,60,100,8,3.1415927,0,0,0,''),
-(9466,5875,'m425 quest zone 466',604,169.503,-1975,20.5112,0,8,8,8,3.1415927,0,0,0,''),
-(9467,5875,'m425 quest zone 467',604,170.662,-1932.07,20.7463,0,50,50,8,3.1415927,0,0,0,''),
-(9468,5875,'m425 quest zone 468',604,-458.815,-44.1983,-2,0,110,80,8,3.1415927,0,0,0,''),
-(9469,5875,'m425 quest zone 469',604,24.4666,-574.701,-5,0,30,10,8,3.1415927,0,0,0,''),
-(9470,5875,'m425 quest zone 470',604,-75.9857,-489.658,-1.49898,0,60,100,8,2.6179938,0,0,0,''),
-(9471,5875,'m425 quest zone 471',604,1626.59,-3092.02,51.8352,0,4,4,4,3.1415927,0,0,0,''),
-(9472,5875,'m425 quest zone 472',604,1500.87,-2633.71,28.841,0,8,8,8,3.1415927,0,0,0,''),
-(9473,5875,'m425 quest zone 473',604,1648.35,-2807.7,-2.2076,0,130,150,60,2.4902968,0,0,0,''),
-(9474,5875,'m425 quest zone 474',604,2029.13,-2601.16,6.30852,0,100,80,8,3.1415927,0,0,0,''),
-(9475,5875,'m425 quest zone 475',604,1597.01,-1820.71,6.63027,0,70,140,20,0.23271275,0,0,0,''),
-(9476,5875,'m425 quest zone 476',601,2196.21,1508.85,-2.33104,0,35,100,8,1.0181127,0,0,0,''),
-(9477,5875,'m425 quest zone 477',601,2440.81,1176.02,-9.99882,0,220,300,8,3.1415927,0,0,0,''),
-(9478,5875,'m425 quest zone 478',601,2345.21,1551.13,-1.18725,0,30,30,8,2.5598168,0,0,0,''),
-(9479,5875,'m425 quest zone 479',601,1849.31,1582.17,-1.65284,0,60,150,8,4.741478,0,0,0,''),
-(9480,5875,'m425 quest zone 480',601,1853.97,1406.32,-7.54703,0,150,70,8,3.1415927,0,0,0,''),
-(9481,5875,'m425 quest zone 481',604,636.097,-2569.42,69.9297,0,30,30,20,3.1415927,0,0,0,''),
-(9482,5875,'m425 quest zone 482',601,403.043,2320.4,49,0,8,8,8,3.1415927,0,0,0,''),
-(9483,5875,'m425 quest zone 483',601,440.298,2316.5,40,0,2,2,2,3.1415927,0,0,0,''),
-(9484,5875,'m425 quest zone 484',604,2216.72,-2683.17,39,0,2,2,2,3.1415927,0,0,0,''),
-(9485,5875,'m425 quest zone 485',604,-1408.52,157.903,78,0,3,3,2,3.1415927,0,0,0,''),
-(9486,5875,'m425 quest zone 486',604,1339.2,-2751.14,39.3644,0,120,100,20,3.1415927,0,0,0,''),
-(9487,5875,'m425 quest zone 487',604,-1477.85,131.738,64,0,2,2,2,3.1415927,0,0,0,''),
-(9488,5875,'m425 quest zone 488',604,-1436.49,158.877,73.5988,0,2,2,2,3.1415927,0,0,0,''),
-(9489,5875,'m425 quest zone 489',604,1174.07,-2798.21,40.7496,0,3,3,3,3.1415927,0,0,0,''),
-(9490,5875,'m425 quest zone 490',604,-1449.75,161.218,69,0,8,16,8,3.1415927,0,0,0,''),
-(9491,5875,'m425 quest zone 491',604,-1496.05,156.671,64,0,8,8,8,3.1415927,0,0,0,''),
-(9492,5875,'m425 quest zone 492',601,1264.42,1532.68,2.58193,0,150,150,20,4.6364584,0,0,0,''),
-(9493,5875,'m425 quest zone 493',601,1964.26,458.018,11.0954,0,3,3,3,3.1415927,0,0,0,''),
-(9494,5875,'m425 quest zone 494',601,1966.39,479.152,11.0954,0,3,3,3,3.1415927,0,0,0,''),
-(9495,5875,'m425 quest zone 495',601,1971.58,465.253,11.0954,0,3,3,3,3.1415927,0,0,0,''),
-(9496,5875,'m425 quest zone 496',601,1962.11,468.94,17.4263,0,3,3,3,3.1415927,0,0,0,''),
-(9497,5875,'m425 quest zone 497',601,1969.86,468.475,17.4263,0,3,3,3,3.1415927,0,0,0,''),
-(9498,5875,'m425 quest zone 498',604,-505.85,-1039.79,12,0,130,130,8,1.8907727,0,0,0,''),
-(9499,5875,'m425 quest zone 499',604,546.572,-2415.97,35.3595,0,8,8,8,3.1415927,0,0,0,''),
-(9500,5875,'m425 quest zone 500',604,392.754,-2362.96,5.01802,0,8,8,8,0.5817728,0,0,0,''),
-(9501,5875,'m425 quest zone 501',604,415.379,-2339.99,5.00287,0,100,200,8,0.31997275,0,0,0,''),
-(9502,5875,'m425 quest zone 502',604,-2.75212,-1862.77,0.773561,0,8,8,8,3.1415927,0,0,0,''),
-(9503,5875,'m425 quest zone 503',601,2059.07,821.787,-7.03138,0,70,150,8,2.8507047,0,0,0,''),
-(9504,5875,'m425 quest zone 504',604,-1881.75,549.387,2.0709,0,20,60,8,0.43497276,0,0,0,''),
-(9505,5875,'m425 quest zone 505',604,180.183,-485.478,0.0984103,0,3,3,3,3.1415927,0,0,0,''),
-(9507,5875,'m425 quest zone 507',613,-128.261,13.0441,-5.60963,0,5,5,5,3.1415927,0,0,0,''),
-(9508,5875,'m425 quest zone 508',604,181.038,-538.185,5.806,0,8,8,8,3.1415927,0,0,0,''),
-(9509,5875,'m425 quest zone 509',604,202.644,-499.733,0.0440445,0,8,8,8,3.1415927,0,0,0,''),
-(9510,5875,'m425 quest zone 510',604,195.172,-373.388,0,0,50,50,3,3.1415927,0,0,0,''),
-(9511,5875,'m425 quest zone 511',601,-284.679,1959.81,2,0,2,2,2,3.1415927,0,0,0,''),
-(9512,5875,'m425 quest zone 512',601,28.7314,2154.33,24,0,8,8,8,3.1415927,0,0,0,''),
-(9513,5875,'m425 quest zone 513',601,12.1136,2226.67,4,0,2,2,2,3.1415927,0,0,0,''),
-(9514,5875,'m425 quest zone 514',604,-1627.34,-42.2961,20.0404,0,2,2,2,3.1415927,0,0,0,''),
-(9515,5875,'m425 quest zone 515',604,-1645.66,70.8544,30.0051,0,2,2,2,3.1415927,0,0,0,''),
-(9516,5875,'m425 quest zone 516',604,-1604.21,74.5521,30.7989,0,2,2,2,3.1415927,0,0,0,''),
-(9517,5875,'m425 quest zone 517',604,-1910.17,-426.755,44.1556,0,2,2,2,3.1415927,0,0,0,''),
-(9518,5875,'m425 quest zone 518',604,-1921.56,-476.573,35.0774,0,2,2,2,3.1415927,0,0,0,''),
-(9519,5875,'m425 quest zone 519',604,-1980.28,-510.183,43,0,2,2,2,3.1415927,0,0,0,''),
-(9520,5875,'m425 quest zone 520',604,-2228.44,645.38,30,0,8,8,8,3.1415927,0,0,0,''),
-(9521,5875,'m425 quest zone 521',604,-2180.73,655.544,29.9499,0,8,8,8,3.1415927,0,0,0,''),
-(9522,5875,'m425 quest zone 522',604,-2215.23,713.275,35,0,8,8,8,3.1415927,0,0,0,''),
-(9523,5875,'m425 quest zone 523',604,-630.224,-730.521,1.80421,0,30,180,8,2.8507047,0,0,0,'');
+(9001,5875,'m425 quest zone 1',601,163.515,-174.743,45.3965,0,8,15,8,-0,0,0,0,''),
+(9002,5875,'m425 quest zone 2',601,284.301,5.66093,0.54998,0,8,8,8,-0,0,0,0,''),
+(9003,5875,'m425 quest zone 3',601,125.197,1140.9,0,0,30,50,8,-0,0,0,0,''),
+(9004,5875,'m425 quest zone 4',601,19.3701,-87.9224,13.2896,0,1,1,1,-0,0,0,0,''),
+(9005,5875,'m425 quest zone 5',601,-62.4626,4.16378,8.32404,0,4,4,1,-0,0,0,0,''),
+(9006,5875,'m425 quest zone 6',601,-62.4313,-7.87665,6.76123,0,3,3,3,-0,0,0,0,''),
+(9007,5875,'m425 quest zone 7',601,-56.6638,5.44892,6.78498,0,4,4,2,-0,0,0,0,''),
+(9008,5875,'m425 quest zone 8',601,165.671,0.774867,16.677,0,25,60,3,-0,0,0,0,''),
+(9009,5875,'m425 quest zone 9',601,41.8493,-130.186,14.066,0,37,20,8,-0,0,0,0,''),
+(9010,5875,'m425 quest zone 10',601,14.321,-85.2246,7.13049,0,30,35,8,-0,0,0,0,''),
+(9011,5875,'m425 quest zone 11',601,-58.9197,-108.123,-2.36794,0,8,8,8,-0,0,0,0,''),
+(9012,5875,'m425 quest zone 12',601,-29.5143,-90.8969,1.11966,0,4,4,4,-0,0,0,0,''),
+(9013,5875,'m425 quest zone 13',601,66.361,-52.8374,1.92826,0,3,3,3,-0,0,0,0,''),
+(9014,5875,'m425 quest zone 14',601,-23.5861,50.5205,-0.144527,0,8,8,8,-0,0,0,0,''),
+(9015,5875,'m425 quest zone 15',601,1.27147,60.7985,3.53031,0,8,8,8,-0,0,0,0,''),
+(9016,5875,'m425 quest zone 16',601,42.2197,14.7454,1.92369,0,30,30,5,-0,0,0,0,''),
+(9017,5875,'m425 quest zone 17',601,121.914,30.2379,10.8632,0,8,12,8,-0,0,0,0,''),
+(9018,5875,'m425 quest zone 18',601,119.704,66.3444,13.6322,0,8,8,8,-0,0,0,0,''),
+(9019,5875,'m425 quest zone 19',601,-24.0567,-10.1457,2.51223,0,1,1,1,-0,0,0,0,''),
+(9020,5875,'m425 quest zone 20',601,-0.18065,-25.9145,3.10781,0,5.5,5.5,5,-0,0,0,0,''),
+(9021,5875,'m425 quest zone 21',601,3.6775,-17.8235,2.95329,0,5.5,5.5,5,-0,0,0,0,''),
+(9022,5875,'m425 quest zone 22',601,-2.63197,-27.1208,2.4418,0,1.5,1.5,1,-0,0,0,0,''),
+(9023,5875,'m425 quest zone 23',601,-10.2184,14.6129,3.68459,0,8,8,1,-0,0,0,0,''),
+(9024,5875,'m425 quest zone 24',601,-14.9045,83.5199,2.27103,0,1,1,1,-0,0,0,0,''),
+(9025,5875,'m425 quest zone 25',601,-199.304,512.727,38.7716,0,3,3,3,-0,0,0,0,''),
+(9026,5875,'m425 quest zone 26',601,-26.7266,397.103,1,0,60,32,1,-0,0,0,0,''),
+(9027,5875,'m425 quest zone 27',601,-9.94376,343.271,20.2884,0,1,1,1,-0,0,0,0,''),
+(9028,5875,'m425 quest zone 28',601,-170.048,588.229,4.20836,0,10,10,4,-0,0,0,0,''),
+(9029,5875,'m425 quest zone 29',601,-194.27,594.743,8.15778,0,55,10,10,-0,0,0,0,''),
+(9030,5875,'m425 quest zone 30',601,-130.142,504.148,5,0,1,1,1,-0,0,0,0,''),
+(9031,5875,'m425 quest zone 31',601,-127.344,502.708,5,0,1,1,1,-0,0,0,0,''),
+(9032,5875,'m425 quest zone 32',601,-126.453,497.659,5.0139,0,1,1,1,-0,0,0,0,''),
+(9033,5875,'m425 quest zone 33',601,-80.8638,571.505,10.2842,0,1,1,1,-0,0,0,0,''),
+(9034,5875,'m425 quest zone 34',601,-133.298,600.89,5,0,1,1,1,-0,0,0,0,''),
+(9035,5875,'m425 quest zone 35',601,-131.391,708.165,0.00116806,0,20,50,5,-0,0,0,0,''),
+(9036,5875,'m425 quest zone 36',601,-151.072,776.6,15.3028,0,10,10,5,-0,0,0,0,''),
+(9037,5875,'m425 quest zone 37',601,-337.977,779.582,40,0,6,2,2,-0,0,0,0,''),
+(9038,5875,'m425 quest zone 38',601,-328.519,780.266,40.9778,0,1,1,1,-0,0,0,0,''),
+(9039,5875,'m425 quest zone 39',601,12.1385,941.76,39.6617,0,3,3,3,-0,0,0,0,''),
+(9040,5875,'m425 quest zone 40',601,14.4286,937.611,39.8465,0,3,3,3,3.0256855,0,0,0,''),
+(9041,5875,'m425 quest zone 41',601,158.091,462.886,72.6123,0,80,60,20,-0,0,0,0,''),
+(9042,5875,'m425 quest zone 42',601,-239.266,929.725,9.90728,0,8,8,8,-0,0,0,0,''),
+(9043,5875,'m425 quest zone 43',601,-57.1643,772.142,0,0,8,8,8,-0,0,0,0,''),
+(9044,5875,'m425 quest zone 44',601,9.62866,605.294,6.83857,0,40,20,5,-0,0,0,0,''),
+(9045,5875,'m425 quest zone 45',601,-77.5413,895.146,11.417,0,20,30,8,-0,0,0,0,''),
+(9046,5875,'m425 quest zone 46',601,-222.214,853.016,5.26332,0,50,30,20,-0,0,0,0,''),
+(9047,5875,'m425 quest zone 47',601,-315.857,761.927,40,0,60,60,2,-0,0,0,0,''),
+(9048,5875,'m425 quest zone 48',601,-22.7,1145,20.3,0,1,1,1,-0,0,0,0,''),
+(9049,5875,'m425 quest zone 49',601,-17.8,1149.8,20.2,0,1,1,1,-0,0,0,0,''),
+(9050,5875,'m425 quest zone 50',601,-21,1140.8,20.1,0,1,1,1,-0,0,0,0,''),
+(9051,5875,'m425 quest zone 51',601,-174.11,1116.61,80,0,2,2,2,-0,0,0,0,''),
+(9052,5875,'m425 quest zone 52',601,-43.0746,1212.57,0,0,2,2,2,-0,0,0,0,''),
+(9054,5875,'m425 quest zone 54',601,-35.5119,1243.84,-0.685215,0,40,120,12,-0,0,0,0,''),
+(9055,5875,'m425 quest zone 55',601,123.05,1345.89,7.05887,0,1,1,1,6.2657323,0,0,0,''),
+(9056,5875,'m425 quest zone 56',601,-82.1543,562.481,10,0,1,1,1,-0,0,0,0,''),
+(9057,5875,'m425 quest zone 57',601,-87.4869,568.815,10,0,1,1,1,-0,0,0,0,''),
+(9058,5875,'m425 quest zone 58',601,-115.958,555.232,4.86926,0,1,1,1,-0,0,0,0,''),
+(9059,5875,'m425 quest zone 59',601,-78.9862,574.581,15.3108,0,4,4,4,-0,0,0,0,''),
+(9060,5875,'m425 quest zone 60',601,-54.1057,725.375,5.59922,0,10,10,5,-0,0,0,0,''),
+(9061,5875,'m425 quest zone 61',601,-16.9393,1447.26,19.3429,0,8,8,8,-0,0,0,0,''),
+(9062,5875,'m425 quest zone 62',601,29.4594,942.997,46.7027,0,3,3,3,-0,0,0,0,''),
+(9063,5875,'m425 quest zone 63',601,71.6837,904.518,29.457,0,8,8,8,-0,0,0,0,''),
+(9064,5875,'m425 quest zone 64',601,-20.2868,1263.99,6.53139,0,8,8,8,-0,0,0,0,''),
+(9065,5875,'m425 quest zone 65',601,27.8676,948.168,40,0,8,8,8,-0,0,0,0,''),
+(9066,5875,'m425 quest zone 66',601,106.626,-89.7716,11.5475,0,8,8,8,-0,0,0,0,''),
+(9067,5875,'m425 quest zone 67',601,10.9351,42.4431,6.41777,0,8,8,8,-0,0,0,0,''),
+(9068,5875,'m425 quest zone 68',601,89.7358,48.0102,10.7742,0,50,30,8,-0,0,0,0,''),
+(9069,5875,'m425 quest zone 69',601,112.875,903.511,30,0,8,8,8,-0,0,0,0,''),
+(9070,5875,'m425 quest zone 70',601,56.9818,741.333,8.32482,0,60,40,8,-0,0,0,0,''),
+(9071,5875,'m425 quest zone 71',601,-124.432,571.912,5,0,8,8,8,-0,0,0,0,''),
+(9072,5875,'m425 quest zone 72',601,147.069,1003.04,1.53433,0,8,8,8,-0,0,0,0,''),
+(9073,5875,'m425 quest zone 73',601,145.446,886.741,26.2814,0,8,8,8,-0,0,0,0,''),
+(9074,5875,'m425 quest zone 74',601,267.001,880.261,80,0,8,8,8,-0,0,0,0,''),
+(9081,5875,'m425 quest zone 81',601,-20.4133,1446.57,17.2554,0,8,8,8,-0,0,0,0,''),
+(9082,5875,'m425 quest zone 82',601,166.976,1425.59,54.0863,0,8,8,8,-0,0,0,0,''),
+(9083,5875,'m425 quest zone 83',601,-91.8906,2229.53,-5,0,8,8,8,-0,0,0,0,''),
+(9084,5875,'m425 quest zone 84',601,-115.791,1759.81,2.71988,0,8,8,8,-0,0,0,0,''),
+(9085,5875,'m425 quest zone 85',601,-517.276,1834.14,20.1895,0,100,50,40,-0,0,0,0,''),
+(9086,5875,'m425 quest zone 86',601,-491.361,1779.09,18.9535,0,4,4,4,4.5378556,0,0,0,''),
+(9087,5875,'m425 quest zone 87',601,-339.689,1625.66,5.40929,0,64,180,20,-0,0,0,0,''),
+(9088,5875,'m425 quest zone 88',601,-277.877,1563.31,3,0,4,4,4,-0,0,0,0,''),
+(9089,5875,'m425 quest zone 89',601,-616.518,1622.92,6.49927,0,60,120,15,-0,0,0,0,''),
+(9090,5875,'m425 quest zone 90',601,-475.305,1783.08,19.1807,0,4,4,4,2.3856554,0,0,0,''),
+(9091,5875,'m425 quest zone 91',601,809.916,1996.98,23.4828,0,10,10,4,-0,0,0,0,''),
+(9092,5875,'m425 quest zone 92',601,928.434,2172.59,1.4686,0,60,50,10,-0,0,0,0,''),
+(9094,5875,'m425 quest zone 94',601,3.36822,1222.41,1.33188,0,8,8,8,-0,0,0,0,''),
+(9095,5875,'m425 quest zone 95',601,89.834,1207.67,5.2455,0,8,8,8,-0,0,0,0,''),
+(9096,5875,'m425 quest zone 96',601,11.7359,1244.47,2.2066,0,50,10,8,-0,0,0,0,''),
+(9097,5875,'m425 quest zone 97',601,59.0452,1236.43,-3.35341,0,8,8,8,-0,0,0,0,''),
+(9098,5875,'m425 quest zone 98',601,104.759,1244.22,9.32307,0,8,8,8,-0,0,0,0,''),
+(9099,5875,'m425 quest zone 99',601,105.391,1235.96,9.36832,0,8,8,8,-0,0,0,0,''),
+(9100,5875,'m425 quest zone 100',601,85.2264,1089.53,2.88549,0,40,20,8,6.0504766,0,0,0,''),
+(9101,5875,'m425 quest zone 101',601,145.48,664.454,27.4,0,8,8,8,-0,0,0,0,''),
+(9102,5875,'m425 quest zone 102',601,141.751,668.8,27.4,0,8,8,8,-0,0,0,0,''),
+(9103,5875,'m425 quest zone 103',601,129.744,466.824,65.0147,0,8,8,8,-0,0,0,0,''),
+(9104,5875,'m425 quest zone 104',601,122.825,563.213,28.7391,0,8,8,8,-0,0,0,0,''),
+(9105,5875,'m425 quest zone 105',601,134.611,583.062,24.3067,0,40,60,8,-0,0,0,0,''),
+(9106,5875,'m425 quest zone 106',601,-89.9373,1323.89,5.5,0,8,8,8,-0,0,0,0,''),
+(9107,5875,'m425 quest zone 107',601,-3.17119,1183.71,21.9148,0,4,4,4,-0,0,0,0,''),
+(9108,5875,'m425 quest zone 108',601,25.3647,805.26,5.81015,0,3,3,3,-0,0,0,0,''),
+(9109,5875,'m425 quest zone 109',601,-72.3553,2173.68,20.1219,0,2,2,2,5.9922976,0,0,0,''),
+(9110,5875,'m425 quest zone 110',601,-61.229,2168.96,22.2942,0,6,6,2,4.2470355,0,0,0,''),
+(9111,5875,'m425 quest zone 111',601,30.9553,2134.32,23.6978,0,8,8,2,-0,0,0,0,''),
+(9112,5875,'m425 quest zone 112',601,49.6267,2162.9,16.6936,0,8,8,8,-0,0,0,0,''),
+(9113,5875,'m425 quest zone 113',601,33.3359,2189.04,28.4399,0,2,2,2,3.1997654,0,0,0,''),
+(9114,5875,'m425 quest zone 114',601,-18.2932,2146.02,19.8532,0,2,2,2,3.1997654,0,0,0,''),
+(9115,5875,'m425 quest zone 115',601,-91.2711,2116.65,17.1728,0,8,8,8,-0,0,0,0,''),
+(9116,5875,'m425 quest zone 116',601,-17.66,2090.96,38.1394,0,2,2,2,4.9160156,0,0,0,''),
+(9117,5875,'m425 quest zone 117',601,385.072,2684.32,38.4436,0,2,2,2,-0,0,0,0,''),
+(9118,5875,'m425 quest zone 118',601,398.833,2668,40.7089,0,2,2,2,-0,0,0,0,''),
+(9119,5875,'m425 quest zone 119',601,237.607,2697.91,-0.634853,0,30,20,8,-0,0,0,0,''),
+(9120,5875,'m425 quest zone 120',601,793.328,1861.07,41.3519,0,8,8,8,-0,0,0,0,''),
+(9121,5875,'m425 quest zone 121',601,778.286,1868,44.4905,0,2,2,2,-0,0,0,0,''),
+(9122,5875,'m425 quest zone 122',601,-3.36679,2346.53,1,0,8,8,8,-0,0,0,0,''),
+(9123,5875,'m425 quest zone 123',601,-44.5594,2383.49,-0.640614,0,2,2,2,-0,0,0,0,''),
+(9124,5875,'m425 quest zone 124',601,-256.092,1974.33,0.975877,0,30,50,8,5.6141424,0,0,0,''),
+(9125,5875,'m425 quest zone 125',601,455.01,2303.12,36.5467,0,8,8,8,-0,0,0,0,''),
+(9127,5875,'m425 quest zone 127',601,452.657,2340.85,40.5622,0,2,2,2,-0,0,0,0,''),
+(9128,5875,'m425 quest zone 128',601,-429.379,1795.14,16.018,0,8,8,8,-0,0,0,0,''),
+(9129,5875,'m425 quest zone 129',601,-442.742,1725.28,20.602,0,8,8,8,-0,0,0,0,''),
+(9130,5875,'m425 quest zone 130',601,1815.17,1322.01,-3.31564,0,20,20,5,-0,0,0,0,''),
+(9131,5875,'m425 quest zone 131',601,2192.24,1370.85,9.06748,0,5,5,5,-0,0,0,0,''),
+(9132,5875,'m425 quest zone 132',601,2279.54,1419.84,3,0,5,5,5,-0,0,0,0,''),
+(9133,5875,'m425 quest zone 133',601,2264.13,1436.59,9.90018,0,5,5,5,-0,0,0,0,''),
+(9134,5875,'m425 quest zone 134',601,2298.48,1422.53,17.3648,0,5,5,5,-0,0,0,0,''),
+(9135,5875,'m425 quest zone 135',601,2250,1311,3,0,5,5,5,-0,0,0,0,''),
+(9136,5875,'m425 quest zone 136',601,2227.72,1271.07,-14.7629,0,70,50,30,5.2068954,0,0,0,''),
+(9137,5875,'m425 quest zone 137',601,2059.51,1248.74,41.0656,0,40,60,5,-0,0,0,0,''),
+(9138,5875,'m425 quest zone 138',601,2204.25,1407.1,35.0105,0,5,5,5,-0,0,0,0,''),
+(9139,5875,'m425 quest zone 139',601,1859.23,1506.26,11.5749,0,18,18,20,6.0213866,0,0,0,''),
+(9140,5875,'m425 quest zone 140',601,2276.29,1178.69,21.2617,0,5,5,5,-0,0,0,0,''),
+(9141,5875,'m425 quest zone 141',601,2335.61,760.754,-6.86056,0,5,5,5,-0,0,0,0,''),
+(9142,5875,'m425 quest zone 142',601,1461.74,1311,15,0,5,5,5,-0,0,0,0,''),
+(9143,5875,'m425 quest zone 143',601,1454.6,1311,15,0,5,5,5,-0,0,0,0,''),
+(9144,5875,'m425 quest zone 144',601,1463.07,1311,15,0,5,5,5,-0,0,0,0,''),
+(9145,5875,'m425 quest zone 145',601,1924.67,314.095,3.18662,0,60,100,5,3.4324856,0,0,0,''),
+(9146,5875,'m425 quest zone 146',601,2288.54,463.555,0.394371,0,50,80,5,-0,0,0,0,''),
+(9147,5875,'m425 quest zone 147',601,2555.67,978.341,19.2952,0,5,5,5,5.5268764,0,0,0,''),
+(9148,5875,'m425 quest zone 148',601,-321.02,2061.42,0.914489,0,4,4,4,-0,0,0,0,''),
+(9149,5875,'m425 quest zone 149',601,2120.81,756.019,-8.61751,0,70,120,5,-0,0,0,0,''),
+(9150,5875,'m425 quest zone 150',601,-471.872,1774.14,20.1885,0,2,2,2,-0,0,0,0,''),
+(9151,5875,'m425 quest zone 151',601,-458.409,1981.81,2.17406,0,40,24,8,4.5378556,0,0,0,''),
+(9152,5875,'m425 quest zone 152',601,-330.567,1905.87,11.4828,0,24,24,8,-0,0,0,0,''),
+(9153,5875,'m425 quest zone 153',601,-465.291,1931,7.88932,0,40,40,8,-0,0,0,0,''),
+(9154,5875,'m425 quest zone 154',601,-473.572,1764.04,20.6662,0,2,2,2,0.2327156,0,0,0,''),
+(9155,5875,'m425 quest zone 155',601,2364.44,852.879,8.30691,0,5,5,5,-0,0,0,0,''),
+(9156,5875,'m425 quest zone 156',601,2275.99,1178.45,22.0126,0,5,5,5,-0,0,0,0,''),
+(9157,5875,'m425 quest zone 157',601,2517.68,1270.47,5.55688,0,50,70,5,-0,0,0,0,''),
+(9158,5875,'m425 quest zone 158',601,2189.35,833.371,0.77516,0,5,5,5,-0,0,0,0,''),
+(9159,5875,'m425 quest zone 159',601,1286.55,1321.7,18.6475,0,5,5,5,-0,0,0,0,''),
+(9160,5875,'m425 quest zone 160',601,1261.88,1490.12,-4.17731,0,150,60,15,-0,0,0,0,''),
+(9161,5875,'m425 quest zone 161',601,456.633,2321.65,39.6733,0,2,2,2,3.3226855,0,0,0,''),
+(9162,5875,'m425 quest zone 162',601,592.403,2123.65,-10.3847,0,8,8,8,-0,0,0,0,''),
+(9163,5875,'m425 quest zone 163',601,537.696,2018.71,7.9253,0,8,8,8,-0,0,0,0,''),
+(9164,5875,'m425 quest zone 164',601,443.006,2327.66,39.7073,0,2,2,2,-0,0,0,0,''),
+(9167,5875,'m425 quest zone 167',601,-89.5512,2129.03,22.9289,0,16,16,8,-0,0,0,0,''),
+(9168,5875,'m425 quest zone 168',601,-90.281,2101.39,20,0,8,8,8,-0,0,0,0,''),
+(9169,5875,'m425 quest zone 169',601,829.418,1892.03,37.138,0,40,80,8,5.6723204,0,0,0,''),
+(9170,5875,'m425 quest zone 170',601,849.802,1737.74,38.3633,0,8,60,8,5.4977875,0,0,0,''),
+(9171,5875,'m425 quest zone 171',601,1.43235,2351.58,0.992649,0,1,1,1,-0,0,0,0,''),
+(9172,5875,'m425 quest zone 172',601,253.091,1673.71,40.1188,0,8,8,8,-0,0,0,0,''),
+(9173,5875,'m425 quest zone 173',601,462.363,2313.8,40,0,2,2,2,-0,0,0,0,''),
+(9174,5875,'m425 quest zone 174',601,25.3651,2190.63,27.9172,0,1,1,1,-0,0,0,0,''),
+(9175,5875,'m425 quest zone 175',601,959.581,2116.63,0.235063,0,16,16,8,-0,0,0,0,''),
+(9177,5875,'m425 quest zone 177',604,-148.577,-1589.16,0,0,8,8,8,-0,0,0,0,''),
+(9178,5875,'m425 quest zone 178',604,-164.341,-1591.84,-1.24665,0,8,8,8,-0,0,0,0,''),
+(9179,5875,'m425 quest zone 179',601,1482.82,1499.41,-3.22113,0,40,100,15,5.0587354,0,0,0,''),
+(9180,5875,'m425 quest zone 180',604,-353.333,-1273.29,1.60079,0,8,8,8,-0,0,0,0,''),
+(9181,5875,'m425 quest zone 181',604,-365.153,-1263.53,1.16936,0,8,8,8,-0,0,0,0,''),
+(9182,5875,'m425 quest zone 182',604,-584.002,-775.455,9.60996,0,8,8,8,-0,0,0,0,''),
+(9183,5875,'m425 quest zone 183',604,-95.6583,-1488.05,0.954232,0,100,60,8,-0,0,0,0,''),
+(9184,5875,'m425 quest zone 184',604,-301.747,-1435.24,-0.273248,0,60,60,8,-0,0,0,0,''),
+(9185,5875,'m425 quest zone 185',604,74.9299,-1483.66,0,0,8,8,8,-0,0,0,0,''),
+(9186,5875,'m425 quest zone 186',604,-277.31,-839.415,0.5,0,8,8,8,-0,0,0,0,''),
+(9187,5875,'m425 quest zone 187',601,27.8721,2149.71,23.8238,0,2,2,2,-0,0,0,0,''),
+(9188,5875,'m425 quest zone 188',601,-5.57807,2183.86,28.282,0,2,2,2,-0,0,0,0,''),
+(9189,5875,'m425 quest zone 189',601,-37.7076,2147.82,20.0774,0,5,5,2,-0,0,0,0,''),
+(9190,5875,'m425 quest zone 190',601,15.7466,2149.23,24.3672,0,1,1,1,-0,0,0,0,''),
+(9191,5875,'m425 quest zone 191',601,58.9158,2086.98,40,0,2,2,2,6.225006,0,0,0,''),
+(9192,5875,'m425 quest zone 192',601,63.1141,2065.22,40,0,2,2,2,-0,0,0,0,''),
+(9193,5875,'m425 quest zone 193',601,54.2806,2091.29,39.0366,0,3,3,2,-0,0,0,0,''),
+(9194,5875,'m425 quest zone 194',601,52.5773,2066.03,40,0,8,8,8,-0,0,0,0,''),
+(9195,5875,'m425 quest zone 195',601,44.5289,2075.25,40,0,1,1,1,-0,0,0,0,''),
+(9196,5875,'m425 quest zone 196',601,47.6398,2088.11,40.3332,0,2,2,2,-0,0,0,0,''),
+(9197,5875,'m425 quest zone 197',607,-96.8768,2630.44,32.4782,0,2,2,2,4.7414756,0,0,0,''),
+(9198,5875,'m425 quest zone 198',607,-102.235,2652.74,32.4782,0,8,1.5,2,2.9670656,0,0,0,''),
+(9199,5875,'m425 quest zone 199',607,-110.025,2639.48,32.4782,0,1,4,1,-0,0,0,0,''),
+(9200,5875,'m425 quest zone 200',607,-89.1127,2643.71,32.4782,0,1,4,1,-0,0,0,0,''),
+(9201,5875,'m425 quest zone 201',607,-98.5496,2760.76,19.897,0,4,4,4,-0,0,0,0,''),
+(9202,5875,'m425 quest zone 202',607,32.0519,2705.49,10.0102,0,20,30,8,-0,0,0,0,''),
+(9203,5875,'m425 quest zone 203',607,-16.3233,2717.27,10,0,30,30,8,-0,0,0,0,''),
+(9204,5875,'m425 quest zone 204',607,-88.0378,2753.14,20,0,2,2,2,-0,0,0,0,''),
+(9205,5875,'m425 quest zone 205',607,51.272,2712.65,11.4174,0,4,4,4,-0,0,0,0,''),
+(9206,5875,'m425 quest zone 206',607,-1.03796,2757.17,-2.4482,0,8,50,8,5.3523436,0,0,0,''),
+(9207,5875,'m425 quest zone 207',607,-128.367,2688.19,30,0,2,2,2,-0,0,0,0,''),
+(9208,5875,'m425 quest zone 208',607,-37.2616,2743.39,9.31866,0,4,4,4,-0,0,0,0,''),
+(9209,5875,'m425 quest zone 209',607,66.371,2604.91,0.560931,0,50,30,8,-0,0,0,0,''),
+(9210,5875,'m425 quest zone 210',607,48.2409,2654.86,9.06217,0,2,2,2,-0,0,0,0,''),
+(9211,5875,'m425 quest zone 211',607,47.7571,2784.89,5,0,50,50,8,-0,0,0,0,''),
+(9212,5875,'m425 quest zone 212',607,-111.906,2685.2,29.7169,0,2,2,2,-0,0,0,0,''),
+(9213,5875,'m425 quest zone 213',607,-41.1531,2743.79,10.6828,0,2,2,2,-0,0,0,0,''),
+(9214,5875,'m425 quest zone 214',607,14.6568,2564.19,10,0,40,40,8,-0,0,0,0,''),
+(9215,5875,'m425 quest zone 215',607,9.9915,2731.63,4.38933,0,2,2,2,-0,0,0,0,''),
+(9216,5875,'m425 quest zone 216',604,144.155,-1884.08,20,0,8,8,8,-0,0,0,0,''),
+(9217,5875,'m425 quest zone 217',604,155.765,-1830.51,20.5273,0,100,150,8,-0,0,0,0,''),
+(9218,5875,'m425 quest zone 218',604,-309.715,-1435.54,-18.0098,0,8,8,8,-0,0,0,0,''),
+(9219,5875,'m425 quest zone 219',604,-739.057,-712.352,0.269413,0,50,120,8,5.5559654,0,0,0,''),
+(9220,5875,'m425 quest zone 220',604,-791.534,-591.116,0,0,100,200,8,-0,0,0,0,''),
+(9221,5875,'m425 quest zone 221',604,-599.336,-774.2,10,0,8,8,8,-0,0,0,0,''),
+(9222,5875,'m425 quest zone 222',604,-563.056,-764.156,10,0,8,8,4,-0,0,0,0,''),
+(9223,5875,'m425 quest zone 223',604,-551.782,-763.807,10,0,4,4,4,-0,0,0,0,''),
+(9224,5875,'m425 quest zone 224',604,-547.47,-782.031,10.0646,0,4,4,4,-0,0,0,0,''),
+(9225,5875,'m425 quest zone 225',604,-761.501,-656.638,0,0,100,200,30,-0,0,0,0,''),
+(9226,5875,'m425 quest zone 226',604,-751.23,-529.341,0.809567,0,8,8,8,-0,0,0,0,''),
+(9227,5875,'m425 quest zone 227',604,-663.477,-393.223,5,0,8,8,8,-0,0,0,0,''),
+(9228,5875,'m425 quest zone 228',604,-638.657,-404.058,1.44209,0,100,80,8,4.9741855,0,0,0,''),
+(9229,5875,'m425 quest zone 229',604,-596.138,-757.973,10,0,8,8,8,-0,0,0,0,''),
+(9230,5875,'m425 quest zone 230',604,-488.261,-639.347,-0.932529,0,15,15,8,5.9632087,0,0,0,''),
+(9231,5875,'m425 quest zone 231',604,-0.534543,-999.093,0,0,50,70,8,-0,0,0,0,''),
+(9232,5875,'m425 quest zone 232',604,185.931,-963.846,2.49309,0,50,50,5,-0,0,0,0,''),
+(9233,5875,'m425 quest zone 233',604,23.7588,-570.301,-8.88477,0,8,8,8,-0,0,0,0,''),
+(9234,5875,'m425 quest zone 234',604,28.6512,-581.921,-6.48573,0,8,8,8,-0,0,0,0,''),
+(9235,5875,'m425 quest zone 235',604,134.446,-985.343,0,0,200,150,15,-0,0,0,0,''),
+(9236,5875,'m425 quest zone 236',604,-420.195,-451.74,-2.76282,0,90,100,8,5.2941656,0,0,0,''),
+(9237,5875,'m425 quest zone 237',604,14.4628,-578.967,-5.88113,0,8,8,8,-0,0,0,0,''),
+(9238,5875,'m425 quest zone 238',604,189.229,-550.899,6.01089,0,8,8,8,-0,0,0,0,''),
+(9239,5875,'m425 quest zone 239',604,235.389,-573.172,4.91443,0,6,6,4,-0,0,0,0,''),
+(9240,5875,'m425 quest zone 240',604,18.463,-556.726,-4.60053,0,8,8,8,-0,0,0,0,''),
+(9241,5875,'m425 quest zone 241',604,42.4958,-569.669,-7.19035,0,8,8,6,-0,0,0,0,''),
+(9242,5875,'m425 quest zone 242',604,280.099,-596.777,0.0761657,0,8,8,8,-0,0,0,0,''),
+(9243,5875,'m425 quest zone 243',604,281.112,-594.799,5.78617,0,8,8,8,-0,0,0,0,''),
+(9244,5875,'m425 quest zone 244',601,1289.87,1633.74,2.9904,0,8,8,8,-0,0,0,0,''),
+(9245,5875,'m425 quest zone 245',601,1291.71,1603.41,-1.90097,0,100,60,30,3.7205255,0,0,0,''),
+(9246,5875,'m425 quest zone 246',601,1293.52,1311.4,14.9915,0,8,8,8,-0,0,0,0,''),
+(9247,5875,'m425 quest zone 247',601,1516.9,1524.77,-3,0,8,8,8,-0,0,0,0,''),
+(9248,5875,'m425 quest zone 248',604,1224.34,-2755.31,39,0,8,8,8,-0,0,0,0,''),
+(9249,5875,'m425 quest zone 249',604,-1051.65,-605.124,19.2282,0,8,8,2,4.7705655,0,0,0,''),
+(9250,5875,'m425 quest zone 250',604,-1034.14,-578.55,16.7913,0,8,8,8,-0,0,0,0,''),
+(9251,5875,'m425 quest zone 251',604,-1048.38,-596.015,20,0,2,2,2,-0,0,0,0,''),
+(9252,5875,'m425 quest zone 252',604,-1047.32,-616.412,18.7717,0,4,4,4,3.2579455,0,0,0,''),
+(9253,5875,'m425 quest zone 253',604,-1201.52,-458.928,10,0,80,80,8,-0,0,0,0,''),
+(9254,5875,'m425 quest zone 254',604,-1198.95,-565.576,10,0,80,80,8,-0,0,0,0,''),
+(9255,5875,'m425 quest zone 255',604,-1079.6,-130.089,2.02649,0,80,120,8,-0,0,0,0,''),
+(9256,5875,'m425 quest zone 256',601,1302.84,1392.23,-8.36462,0,60,180,8,2.4670355,0,0,0,''),
+(9257,5875,'m425 quest zone 257',601,1292.83,1292.47,15,0,8,8,8,-0,0,0,0,''),
+(9258,5875,'m425 quest zone 258',601,1817.52,1326.76,-3.70669,0,8,8,8,-0,0,0,0,''),
+(9259,5875,'m425 quest zone 259',601,2044.12,1081.65,-4.57796,0,8,8,8,-0,0,0,0,''),
+(9261,5875,'m425 quest zone 261',601,2097.29,1109.98,-3.84684,0,8,8,8,-0,0,0,0,''),
+(9262,5875,'m425 quest zone 262',601,2047.23,1111.85,-4.97225,0,8,8,8,-0,0,0,0,''),
+(9263,5875,'m425 quest zone 263',601,2063.83,1088.75,-6.44773,0,8,10,8,-0,0,0,0,''),
+(9264,5875,'m425 quest zone 264',601,2073.28,1089.37,-6.21971,0,70,50,8,-0,0,0,0,''),
+(9265,5875,'m425 quest zone 265',601,2096,1184.01,-7.69799,0,100,160,8,4.5502453,0,0,0,''),
+(9266,5875,'m425 quest zone 266',601,2206.53,1553.61,-4.09221,0,8,8,8,-0,0,0,0,''),
+(9267,5875,'m425 quest zone 267',601,2261.73,1659.23,-5.25209,0,8,8,8,-0,0,0,0,''),
+(9268,5875,'m425 quest zone 268',601,2216.52,1520.96,-5.87356,0,8,8,8,-0,0,0,0,''),
+(9269,5875,'m425 quest zone 269',601,2371.23,1615.79,0,0,40,150,8,3.8479054,0,0,0,''),
+(9270,5875,'m425 quest zone 270',601,2412.46,1563.63,-0.634599,0,8,8,8,-0,0,0,0,''),
+(9271,5875,'m425 quest zone 271',601,2376.14,804.772,8.78503,0,8,8,8,-0,0,0,0,''),
+(9272,5875,'m425 quest zone 272',604,1766.62,-2751.84,5.02448,0,8,8,8,-0,0,0,0,''),
+(9273,5875,'m425 quest zone 273',604,1779.08,-2748.86,5.10442,0,8,8,8,-0,0,0,0,''),
+(9274,5875,'m425 quest zone 274',604,2219.71,-2686.83,39,0,2,2,2,-0,0,0,0,''),
+(9275,5875,'m425 quest zone 275',604,2218.61,-2662.23,39,0,8,8,8,-0,0,0,0,''),
+(9276,5875,'m425 quest zone 276',604,1028.8,-1992.52,3.5,0,8,8,8,-0,0,0,0,''),
+(9277,5875,'m425 quest zone 277',604,1098.79,-2712.99,11.5053,0,8,8,8,-0,0,0,0,''),
+(9278,5875,'m425 quest zone 278',604,1291.63,-1839.91,15.0582,0,8,8,8,-0,0,0,0,''),
+(9279,5875,'m425 quest zone 279',604,1316.81,-1838.48,32.278,0,8,8,8,-0,0,0,0,''),
+(9280,5875,'m425 quest zone 280',604,1065.32,-2720.26,5.78853,0,8,8,8,-0,0,0,0,''),
+(9281,5875,'m425 quest zone 281',604,1066.95,-2700.6,6.13651,0,8,8,8,-0,0,0,0,''),
+(9282,5875,'m425 quest zone 282',604,854.354,-2733.13,65,0,8,8,8,-0,0,0,0,''),
+(9283,5875,'m425 quest zone 283',604,1073.13,-2736.67,6.13651,0,8,8,8,-0,0,0,0,''),
+(9284,5875,'m425 quest zone 284',604,1048.59,-2718.97,6.13651,0,8,8,8,-0,0,0,0,''),
+(9286,5875,'m425 quest zone 286',604,1769.15,-2687.58,23.1855,0,40,120,8,4.3924155,0,0,0,''),
+(9287,5875,'m425 quest zone 287',604,1795.85,-2786.38,8.54501,0,8,8,8,-0,0,0,0,''),
+(9288,5875,'m425 quest zone 288',604,1788.6,-2756.48,5.50797,0,8,8,8,-0,0,0,0,''),
+(9289,5875,'m425 quest zone 289',604,1770.76,-2750.59,4.0174,0,8,8,8,5.0614557,0,0,0,''),
+(9290,5875,'m425 quest zone 290',604,1894.17,-2660.52,5.53362,0,50,120,8,-0,0,0,0,''),
+(9291,5875,'m425 quest zone 291',604,2202.86,-2519.06,33.5393,0,120,220,8,3.8397255,0,0,0,''),
+(9292,5875,'m425 quest zone 292',604,-1076.11,-125.885,5,0,8,8,8,-0,0,0,0,''),
+(9293,5875,'m425 quest zone 293',604,-1399.36,-436.684,-6.73685,0,8,8,8,-0,0,0,0,''),
+(9294,5875,'m425 quest zone 294',604,-1345.96,-135.8,0,0,60,60,8,-0,0,0,0,''),
+(9295,5875,'m425 quest zone 295',604,-1389.61,-415.601,-7.12555,0,8,8,8,-0,0,0,0,''),
+(9296,5875,'m425 quest zone 296',604,-1376.52,-403.09,-3.18165,0,2,2,2,-0,0,0,0,''),
+(9297,5875,'m425 quest zone 297',601,-57.1867,2155.64,20.2034,0,2,2,2,5.0905457,0,0,0,''),
+(9298,5875,'m425 quest zone 298',601,-33.1585,1803.58,-0.964202,0,80,80,8,-0,0,0,0,''),
+(9299,5875,'m425 quest zone 299',604,2312.74,-2415.09,43.9378,0,15,15,15,4.6776953,0,0,0,''),
+(9300,5875,'m425 quest zone 300',604,-1389.15,-386.39,-6.51894,0,40,40,8,-0,0,0,0,''),
+(9301,5875,'m425 quest zone 301',604,1793.85,-2638.56,40.5831,0,80,80,8,5.5559654,0,0,0,''),
+(9302,5875,'m425 quest zone 302',604,2382.75,-2014.66,21.5298,0,8,8,8,-0,0,0,0,''),
+(9303,5875,'m425 quest zone 303',604,-1461.37,-504.992,11.9044,0,40,40,8,-0,0,0,0,''),
+(9304,5875,'m425 quest zone 304',604,-1561.17,322.411,50,0,80,80,8,-0,0,0,0,''),
+(9306,5875,'m425 quest zone 306',604,-1682.44,494.8,30,0,80,80,8,-0,0,0,0,''),
+(9307,5875,'m425 quest zone 307',604,-1947.22,458.707,49.5047,0,3,3,3,-0,0,0,0,''),
+(9308,5875,'m425 quest zone 308',604,-1913.53,-255.425,55,0,2,2,2,-0,0,0,0,''),
+(9309,5875,'m425 quest zone 309',604,-1916.41,-243.159,55,0,2,2,2,-0,0,0,0,''),
+(9310,5875,'m425 quest zone 310',604,-1649.5,-421.768,30.8126,0,80,70,8,-0,0,0,0,''),
+(9311,5875,'m425 quest zone 311',604,-1947.81,-474.083,35.0008,0,80,80,8,-0,0,0,0,''),
+(9312,5875,'m425 quest zone 312',604,2331.9,-2159.51,7.15759,0,50,60,8,3.3743055,0,0,0,''),
+(9313,5875,'m425 quest zone 313',604,-1784.26,-310.11,50.3634,0,8,8,2,-0,0,0,0,''),
+(9314,5875,'m425 quest zone 314',604,-1718,-399.399,33,0,2,2,2,-0,0,0,0,''),
+(9315,5875,'m425 quest zone 315',604,2322.04,-2594.27,29.9681,0,20,20,8,-0,0,0,0,''),
+(9316,5875,'m425 quest zone 316',604,2060.61,-2724.13,44.2572,0,4,4,4,-0,0,0,0,''),
+(9317,5875,'m425 quest zone 317',604,-2089.92,205.985,48.6624,0,8,8,8,-0,0,0,0,''),
+(9318,5875,'m425 quest zone 318',604,-1984.75,229.22,38.4429,0,8,8,8,-0,0,0,0,''),
+(9319,5875,'m425 quest zone 319',604,-1920.94,-270.455,55,0,2,2,2,-0,0,0,0,''),
+(9320,5875,'m425 quest zone 320',604,-1939.57,-260.911,55,0,2,2,2,-0,0,0,0,''),
+(9321,5875,'m425 quest zone 321',604,-1490.92,-380.28,10.3008,0,100,150,8,-0,0,0,0,''),
+(9322,5875,'m425 quest zone 322',604,1272.79,-2649.6,14.2338,0,150,100,25,-0,0,0,0,''),
+(9323,5875,'m425 quest zone 323',604,-1972.26,270.806,20,0,8,8,8,-0,0,0,0,''),
+(9324,5875,'m425 quest zone 324',604,-2086.78,430.981,20,0,8,8,8,-0,0,0,0,''),
+(9325,5875,'m425 quest zone 325',604,-1740.74,2.21456,5.54691,0,80,80,20,-0,0,0,0,''),
+(9326,5875,'m425 quest zone 326',604,1310.51,-2706.19,25.3142,0,200,160,40,-0,0,0,0,''),
+(9327,5875,'m425 quest zone 327',604,1342.56,-2544.38,26.4657,0,8,8,8,-0,0,0,0,''),
+(9328,5875,'m425 quest zone 328',604,1383.3,-2655.78,27.5257,0,70,80,30,-0,0,0,0,''),
+(9329,5875,'m425 quest zone 329',604,1440.88,-2526.27,2.97725,0,140,150,8,3.7524655,0,0,0,''),
+(9330,5875,'m425 quest zone 330',604,1526.37,-3202.82,48.649,0,8,8,8,-0,0,0,0,''),
+(9331,5875,'m425 quest zone 331',604,1520.97,-2631.28,30.9877,0,90,90,8,3.3161254,0,0,0,''),
+(9332,5875,'m425 quest zone 332',604,1149.31,-1934.65,3.83583,0,110,200,8,-0,0,0,0,''),
+(9333,5875,'m425 quest zone 333',604,1218.95,-1781.8,4.66151,0,80,80,12,-0,0,0,0,''),
+(9334,5875,'m425 quest zone 334',604,1390.82,-1718.25,29.2439,0,8,8,8,-0,0,0,0,''),
+(9335,5875,'m425 quest zone 335',604,1486.41,-1844.24,25,0,100,100,15,-0,0,0,0,''),
+(9336,5875,'m425 quest zone 336',604,1532.19,-2034.11,83.5862,0,8,8,8,-0,0,0,0,''),
+(9337,5875,'m425 quest zone 337',604,867.146,-2698.98,78.7023,0,130,50,8,3.5488355,0,0,0,''),
+(9345,5875,'m425 quest zone 345',601,-203.688,975.676,2.332,0,8,8,8,-0,0,0,0,''),
+(9346,5875,'m425 quest zone 346',601,-235.047,913.956,10,0,30,40,8,-0,0,0,0,''),
+(9347,5875,'m425 quest zone 347',601,-81.834,1154.86,3.66596,0,45,55,15,-0,0,0,0,''),
+(9348,5875,'m425 quest zone 348',601,198.562,733.222,4.84195,0,8,8,8,-0,0,0,0,''),
+(9349,5875,'m425 quest zone 349',601,-202.061,488.353,-4.11602,0,8,8,8,-0,0,0,0,''),
+(9350,5875,'m425 quest zone 350',601,-64.3721,-5.18014,6.95087,0,2,2,4,-0,0,0,0,''),
+(9351,5875,'m425 quest zone 351',601,-64.8476,1.0091,7.00009,0,2,2,4,-0,0,0,0,''),
+(9352,5875,'m425 quest zone 352',601,-84.8381,564.321,10.0855,0,1,1,1,-0,0,0,0,''),
+(9353,5875,'m425 quest zone 353',607,-120.722,2730.73,28.2967,0,1,1,1,-0,0,0,0,''),
+(9354,5875,'m425 quest zone 354',601,-142.414,581.08,5.10506,0,8,8,8,-0,0,0,0,''),
+(9355,5875,'m425 quest zone 355',601,-118.626,503.585,5.06623,0,8,8,8,-0,0,0,0,''),
+(9356,5875,'m425 quest zone 356',601,-142.051,564.433,5.02269,0,8,8,8,-0,0,0,0,''),
+(9357,5875,'m425 quest zone 357',601,-123.721,483.549,4.99721,0,8,8,8,-0,0,0,0,''),
+(9358,5875,'m425 quest zone 358',604,-1875.05,471.074,11.9806,0,70,80,8,-0,0,0,0,''),
+(9359,5875,'m425 quest zone 359',604,-1738.45,320.602,10,0,2,2,2,-0,0,0,0,''),
+(9360,5875,'m425 quest zone 360',604,-1738.09,299.211,10,0,4,4,2,-0,0,0,0,''),
+(9361,5875,'m425 quest zone 361',601,178.728,1902.59,0,0,160,60,8,-0,0,0,0,''),
+(9362,5875,'m425 quest zone 362',601,70.5883,1875.02,0.710009,0,2,2,2,-0,0,0,0,''),
+(9363,5875,'m425 quest zone 363',601,277.889,1700.43,40,0,30,50,8,-0,0,0,0,''),
+(9364,5875,'m425 quest zone 364',604,-1951.51,210.498,48.1092,0,2,2,2,-0,0,0,0,''),
+(9365,5875,'m425 quest zone 365',601,287.424,1500,50,0,2,2,2,-0,0,0,0,''),
+(9366,5875,'m425 quest zone 366',601,206.153,1501.17,50.5961,0,4,4,1,-0,0,0,0,''),
+(9367,5875,'m425 quest zone 367',601,-55.5886,1734.23,13.2766,0,8,8,8,6.225006,0,0,0,''),
+(9368,5875,'m425 quest zone 368',601,-95.8422,1191.6,5,0,5,5,2,5.7304983,0,0,0,''),
+(9369,5875,'m425 quest zone 369',601,-84.8499,314.168,15,0,8,8,8,-0,0,0,0,''),
+(9370,5875,'m425 quest zone 370',601,-50.209,369.295,0.196868,0,8,8,8,-0,0,0,0,''),
+(9371,5875,'m425 quest zone 371',601,408.956,2343.72,50.8794,0,2,2,1,-0,0,0,0,''),
+(9372,5875,'m425 quest zone 372',604,-1756.2,-135.163,11.1633,0,240,140,8,-0,0,0,0,''),
+(9373,5875,'m425 quest zone 373',604,-2022.09,554.196,50.7889,0,80,80,8,-0,0,0,0,''),
+(9374,5875,'m425 quest zone 374',604,-1937.67,499.651,50,0,4,4,2,-0,0,0,0,''),
+(9375,5875,'m425 quest zone 375',604,-1948.25,497.364,50,0,4,4,2,-0,0,0,0,''),
+(9376,5875,'m425 quest zone 376',604,-1924.62,383.013,42.2369,0,60,70,8,-0,0,0,0,''),
+(9377,5875,'m425 quest zone 377',604,-1916.53,358.479,50.4707,0,8,8,8,-0,0,0,0,''),
+(9378,5875,'m425 quest zone 378',604,-1999.46,453.186,45.6544,0,8,8,8,3.8106356,0,0,0,''),
+(9379,5875,'m425 quest zone 379',604,-2150.18,698.134,19.9831,0,8,8,8,-0,0,0,0,''),
+(9380,5875,'m425 quest zone 380',604,-2204.69,670.328,18.4351,0,80,100,18,-0,0,0,0,''),
+(9381,5875,'m425 quest zone 381',601,48.1926,1269,1.74805,0,100,40,10,-0,0,0,0,''),
+(9382,5875,'m425 quest zone 382',601,8.49696,1114.35,-0.112353,0,90,60,8,-0,0,0,0,''),
+(9383,5875,'m425 quest zone 383',601,4.72343,1247.91,5.47486,0,30,80,8,-0,0,0,0,''),
+(9384,5875,'m425 quest zone 384',601,-118.678,1151.18,5,0,8,8,8,-0,0,0,0,''),
+(9385,5875,'m425 quest zone 385',601,117.551,1193.57,16.0765,0,8,8,8,-0,0,0,0,''),
+(9386,5875,'m425 quest zone 386',604,-1639.34,397.335,29.156,0,4,4,4,-0,0,0,0,''),
+(9387,5875,'m425 quest zone 387',601,-103.379,1069,30.7361,0,8,8,8,-0,0,0,0,''),
+(9388,5875,'m425 quest zone 388',604,-1613.24,29.7862,31.2347,0,80,80,8,-0,0,0,0,''),
+(9389,5875,'m425 quest zone 389',604,-1584.94,-48.4287,20,0,2,2,2,-0,0,0,0,''),
+(9390,5875,'m425 quest zone 390',604,-1646.1,-1.43997,20.0369,0,2,2,2,-0,0,0,0,''),
+(9391,5875,'m425 quest zone 391',604,-1633.33,531.116,40,0,2,2,2,-0,0,0,0,''),
+(9392,5875,'m425 quest zone 392',604,-1913.8,436.206,11.2487,0,8,8,8,-0,0,0,0,''),
+(9393,5875,'m425 quest zone 393',604,-1813.57,620.818,39.6617,0,40,80,8,-0,0,0,0,''),
+(9394,5875,'m425 quest zone 394',604,-1808.26,580.842,40,0,2,2,2,-0,0,0,0,''),
+(9395,5875,'m425 quest zone 395',601,2256.04,1385.36,20.9853,0,8,8,8,-0,0,0,0,''),
+(9396,5875,'m425 quest zone 396',601,244.483,2677.76,0,0,8,8,8,-0,0,0,0,''),
+(9397,5875,'m425 quest zone 397',601,377.9,2108.57,20,0,8,8,8,-0,0,0,0,''),
+(9398,5875,'m425 quest zone 398',601,421.988,2078,20.6073,0,8,8,8,-0,0,0,0,''),
+(9399,5875,'m425 quest zone 399',601,282.027,2527.83,20.1921,0,40,80,8,-0,0,0,0,''),
+(9400,5875,'m425 quest zone 400',601,-21.1151,2157.46,20.8419,0,2,2,1,-0,0,0,0,''),
+(9401,5875,'m425 quest zone 401',601,71.4199,1983.28,1.84189,0,2,2,2,-0,0,0,0,''),
+(9402,5875,'m425 quest zone 402',601,1967.11,1158.1,-9.09408,0,3,3,3,-0,0,0,0,''),
+(9403,5875,'m425 quest zone 403',601,2090.97,1281.6,-8.68205,0,8,8,8,-0,0,0,0,''),
+(9404,5875,'m425 quest zone 404',601,1897.45,683.714,-6.98936,0,2,2,3,-0,0,0,0,''),
+(9405,5875,'m425 quest zone 405',601,1721.39,710.439,-6.25064,0,2,2,2,5.6141424,0,0,0,''),
+(9406,5875,'m425 quest zone 406',601,1717.29,707.932,-3.12919,0,8,8,8,-0,0,0,0,''),
+(9407,5875,'m425 quest zone 407',601,2195.49,1538.28,-4.11384,0,3,3,3,-0,0,0,0,''),
+(9408,5875,'m425 quest zone 408',604,1824.84,-2807.61,4.36285,0,8,8,8,-0,0,0,0,''),
+(9409,5875,'m425 quest zone 409',604,-1960.58,486.073,50,0,2,2,2,-0,0,0,0,''),
+(9410,5875,'m425 quest zone 410',604,-1884.89,583.282,-4.33798,0,8,8,8,-0,0,0,0,''),
+(9411,5875,'m425 quest zone 411',604,2303.78,-2609.52,43.3332,0,3,3,3,-0,0,0,0,''),
+(9412,5875,'m425 quest zone 412',604,1185.91,-2787.23,38.2585,0,8,8,8,-0,0,0,0,''),
+(9413,5875,'m425 quest zone 413',601,1570.94,1509.68,-9.2,0,65,65,5,-0,0,0,0,''),
+(9414,5875,'m425 quest zone 414',601,1719.43,713.032,-6.25064,0,8,8,8,-0,0,0,0,''),
+(9415,5875,'m425 quest zone 415',601,9.60116,2191.72,28.591,0,2,2,2,-0,0,0,0,''),
+(9416,5875,'m425 quest zone 416',604,-1579.43,382.251,50,0,2,2,2,-0,0,0,0,''),
+(9417,5875,'m425 quest zone 417',601,1842.74,1174.34,1.48871,0,180,100,15,-0,0,0,0,''),
+(9418,5875,'m425 quest zone 418',601,1849.59,1465.66,1.79162,0,8,8,8,-0,0,0,0,''),
+(9419,5875,'m425 quest zone 419',601,1100.02,2750.37,80,0,8,8,8,-0,0,0,0,''),
+(9420,5875,'m425 quest zone 420',601,2179.83,1493.05,-2.63907,0,8,8,8,-0,0,0,0,''),
+(9421,5875,'m425 quest zone 421',604,896.821,-2638.2,25.7618,0,50,50,8,5.9922976,0,0,0,''),
+(9422,5875,'m425 quest zone 422',604,925.557,-2684.72,38.2828,0,4,4,4,-0,0,0,0,''),
+(9423,5875,'m425 quest zone 423',604,900.743,-2701.77,37,0,8,8,8,-0,0,0,0,''),
+(9424,5875,'m425 quest zone 424',604,885.341,-2522.63,14.3885,0,70,35,8,5.7014093,0,0,0,''),
+(9425,5875,'m425 quest zone 425',604,904.504,-2775.29,8.7608,0,70,55,20,0.7563057,0,0,0,''),
+(9426,5875,'m425 quest zone 426',604,837.879,-2588.21,61.9007,0,8,8,8,-0,0,0,0,''),
+(9427,5875,'m425 quest zone 427',604,953.409,-2630.65,38.9684,0,8,8,8,-0,0,0,0,''),
+(9428,5875,'m425 quest zone 428',604,692.845,-2716.4,75,0,8,8,8,-0,0,0,0,''),
+(9429,5875,'m425 quest zone 429',604,777.482,-2683.41,94.4489,0,6,6,6,-0,0,0,0,''),
+(9430,5875,'m425 quest zone 430',604,135.712,-801.552,-5,0,100,140,8,-0,0,0,0,''),
+(9431,5875,'m425 quest zone 431',604,-1044.29,-571.69,20,0,8,8,8,-0,0,0,0,''),
+(9432,5875,'m425 quest zone 432',604,-1100.65,1.15971,5,0,8,8,8,-0,0,0,0,''),
+(9433,5875,'m425 quest zone 433',604,-671.323,-716.138,1.75188,0,30,100,8,5.8526716,0,0,0,''),
+(9434,5875,'m425 quest zone 434',604,-550.367,-799.818,10.0188,0,4,4,4,-0,0,0,0,''),
+(9435,5875,'m425 quest zone 435',604,-497.582,-188.026,4.07372,0,4,4,4,-0,0,0,0,''),
+(9436,5875,'m425 quest zone 436',604,-383.67,-727.153,-0.5181,0,20,100,10,6.0213866,0,0,0,''),
+(9437,5875,'m425 quest zone 437',604,-287.58,-507.136,2.69935,0,40,20,4,5.5268764,0,0,0,''),
+(9438,5875,'m425 quest zone 438',604,-776.211,-358.478,0,0,25,25,4,-0,0,0,0,''),
+(9439,5875,'m425 quest zone 439',604,-1393.69,-524.044,10,0,80,80,8,-0,0,0,0,''),
+(9440,5875,'m425 quest zone 440',604,-1639.49,180.55,43.8315,0,50,50,8,-0,0,0,0,''),
+(9441,5875,'m425 quest zone 441',604,-1815.47,-410.023,44.8704,0,80,50,8,-0,0,0,0,''),
+(9442,5875,'m425 quest zone 442',604,-1893.56,763.133,5.93274,0,80,30,8,-0,0,0,0,''),
+(9443,5875,'m425 quest zone 443',604,123.889,-684.559,-0.346926,0,30,30,8,-0,0,0,0,''),
+(9444,5875,'m425 quest zone 444',604,-492.038,-1001.37,8.09637,0,1,1,1,-0,0,0,0,''),
+(9445,5875,'m425 quest zone 445',604,-181.498,-328.163,40,0,8,8,8,-0,0,0,0,''),
+(9446,5875,'m425 quest zone 446',604,-549.008,-804.548,9.34523,0,4,4,4,-0,0,0,0,''),
+(9447,5875,'m425 quest zone 447',604,-286.96,-633.479,-1.56791,0,8,8,8,-0,0,0,0,''),
+(9448,5875,'m425 quest zone 448',604,242.912,-518.179,10,0,8,8,8,-0,0,0,0,''),
+(9449,5875,'m425 quest zone 449',604,-819.311,-672.271,0,0,50,150,8,3.6942754,0,0,0,''),
+(9450,5875,'m425 quest zone 450',604,76.0687,-816.042,-2.28757,0,30,150,8,-0,0,0,0,''),
+(9451,5875,'m425 quest zone 451',604,169.845,-840.563,-2.70854,0,50,140,8,5.9632087,0,0,0,''),
+(9452,5875,'m425 quest zone 452',604,187.601,-966.916,-0.321918,0,10,10,8,-0,0,0,0,''),
+(9453,5875,'m425 quest zone 453',604,230.298,-1011.71,5.99007,0,8,8,8,-0,0,0,0,''),
+(9454,5875,'m425 quest zone 454',604,110.772,-982.027,0,0,8,8,8,-0,0,0,0,''),
+(9455,5875,'m425 quest zone 455',604,-145.242,-375.523,-42.3526,0,200,200,100,-0,0,0,0,''),
+(9456,5875,'m425 quest zone 456',604,-268.197,-572.851,3.14404,0,150,60,8,-0,0,0,0,''),
+(9457,5875,'m425 quest zone 457',604,-273.274,-608.724,0.0876247,0,8,8,8,-0,0,0,0,''),
+(9458,5875,'m425 quest zone 458',604,-286.945,-514.081,4.97095,0,30,60,8,-0,0,0,0,''),
+(9459,5875,'m425 quest zone 459',604,-239.793,-496.487,3.15286,0,40,100,20,3.4324856,0,0,0,''),
+(9460,5875,'m425 quest zone 460',604,46.8211,-520.861,1.05757,0,40,90,8,4.3051453,0,0,0,''),
+(9461,5875,'m425 quest zone 461',604,76.4132,-437.668,-0.735331,0,130,100,10,3.9560754,0,0,0,''),
+(9462,5875,'m425 quest zone 462',604,264.733,-582.962,-0.606064,0,8,8,8,-0,0,0,0,''),
+(9463,5875,'m425 quest zone 463',604,-483.756,-131.019,0.5,0,50,80,8,-0,0,0,0,''),
+(9464,5875,'m425 quest zone 464',604,-710.627,-1012.67,-0.405835,0,10,10,8,-0,0,0,0,''),
+(9465,5875,'m425 quest zone 465',604,-767.187,-1217.94,5.8842,0,60,100,8,-0,0,0,0,''),
+(9466,5875,'m425 quest zone 466',604,169.503,-1975,20.5112,0,8,8,8,-0,0,0,0,''),
+(9467,5875,'m425 quest zone 467',604,170.662,-1932.07,20.7463,0,50,50,8,-0,0,0,0,''),
+(9468,5875,'m425 quest zone 468',604,-458.815,-44.1983,-2,0,110,80,8,-0,0,0,0,''),
+(9469,5875,'m425 quest zone 469',604,24.4666,-574.701,-5,0,30,10,8,-0,0,0,0,''),
+(9470,5875,'m425 quest zone 470',604,-75.9857,-489.658,-1.49898,0,60,100,8,5.7595863,0,0,0,''),
+(9471,5875,'m425 quest zone 471',604,1626.59,-3092.02,51.8352,0,4,4,4,-0,0,0,0,''),
+(9472,5875,'m425 quest zone 472',604,1500.87,-2633.71,28.841,0,8,8,8,-0,0,0,0,''),
+(9473,5875,'m425 quest zone 473',604,1648.35,-2807.7,-2.2076,0,130,150,60,5.6318893,0,0,0,''),
+(9474,5875,'m425 quest zone 474',604,2029.13,-2601.16,6.30852,0,100,80,8,-0,0,0,0,''),
+(9475,5875,'m425 quest zone 475',604,1597.01,-1820.71,6.63027,0,70,140,20,3.3743055,0,0,0,''),
+(9476,5875,'m425 quest zone 476',601,2196.21,1508.85,-2.33104,0,35,100,8,4.159705,0,0,0,''),
+(9477,5875,'m425 quest zone 477',601,2440.81,1176.02,-9.99882,0,220,300,8,-0,0,0,0,''),
+(9478,5875,'m425 quest zone 478',601,2345.21,1551.13,-1.18725,0,30,30,8,5.7014093,0,0,0,''),
+(9479,5875,'m425 quest zone 479',601,1849.31,1582.17,-1.65284,0,60,150,8,1.5998855,0,0,0,''),
+(9480,5875,'m425 quest zone 480',601,1853.97,1406.32,-7.54703,0,150,70,8,-0,0,0,0,''),
+(9481,5875,'m425 quest zone 481',604,636.097,-2569.42,69.9297,0,30,30,20,-0,0,0,0,''),
+(9482,5875,'m425 quest zone 482',601,403.043,2320.4,49,0,8,8,8,-0,0,0,0,''),
+(9483,5875,'m425 quest zone 483',601,440.298,2316.5,40,0,2,2,2,-0,0,0,0,''),
+(9484,5875,'m425 quest zone 484',604,2216.72,-2683.17,39,0,2,2,2,-0,0,0,0,''),
+(9485,5875,'m425 quest zone 485',604,-1408.52,157.903,78,0,3,3,2,-0,0,0,0,''),
+(9486,5875,'m425 quest zone 486',604,1339.2,-2751.14,39.3644,0,120,100,20,-0,0,0,0,''),
+(9487,5875,'m425 quest zone 487',604,-1477.85,131.738,64,0,2,2,2,-0,0,0,0,''),
+(9488,5875,'m425 quest zone 488',604,-1436.49,158.877,73.5988,0,2,2,2,-0,0,0,0,''),
+(9489,5875,'m425 quest zone 489',604,1174.07,-2798.21,40.7496,0,3,3,3,-0,0,0,0,''),
+(9490,5875,'m425 quest zone 490',604,-1449.75,161.218,69,0,8,16,8,-0,0,0,0,''),
+(9491,5875,'m425 quest zone 491',604,-1496.05,156.671,64,0,8,8,8,-0,0,0,0,''),
+(9492,5875,'m425 quest zone 492',601,1264.42,1532.68,2.58193,0,150,150,20,1.4948654,0,0,0,''),
+(9493,5875,'m425 quest zone 493',601,1964.26,458.018,11.0954,0,3,3,3,-0,0,0,0,''),
+(9494,5875,'m425 quest zone 494',601,1966.39,479.152,11.0954,0,3,3,3,-0,0,0,0,''),
+(9495,5875,'m425 quest zone 495',601,1971.58,465.253,11.0954,0,3,3,3,-0,0,0,0,''),
+(9496,5875,'m425 quest zone 496',601,1962.11,468.94,17.4263,0,3,3,3,-0,0,0,0,''),
+(9497,5875,'m425 quest zone 497',601,1969.86,468.475,17.4263,0,3,3,3,-0,0,0,0,''),
+(9498,5875,'m425 quest zone 498',604,-505.85,-1039.79,12,0,130,130,8,5.0323653,0,0,0,''),
+(9499,5875,'m425 quest zone 499',604,546.572,-2415.97,35.3595,0,8,8,8,-0,0,0,0,''),
+(9500,5875,'m425 quest zone 500',604,392.754,-2362.96,5.01802,0,8,8,8,3.7233655,0,0,0,''),
+(9501,5875,'m425 quest zone 501',604,415.379,-2339.99,5.00287,0,100,200,8,3.4615655,0,0,0,''),
+(9502,5875,'m425 quest zone 502',604,-2.75212,-1862.77,0.773561,0,8,8,8,-0,0,0,0,''),
+(9503,5875,'m425 quest zone 503',601,2059.07,821.787,-7.03138,0,70,150,8,5.9922976,0,0,0,''),
+(9504,5875,'m425 quest zone 504',604,-1881.75,549.387,2.0709,0,20,60,8,3.5765655,0,0,0,''),
+(9505,5875,'m425 quest zone 505',604,180.183,-485.478,0.0984103,0,3,3,3,-0,0,0,0,''),
+(9507,5875,'m425 quest zone 507',613,-128.261,13.0441,-5.60963,0,5,5,5,-0,0,0,0,''),
+(9508,5875,'m425 quest zone 508',604,181.038,-538.185,5.806,0,8,8,8,-0,0,0,0,''),
+(9509,5875,'m425 quest zone 509',604,202.644,-499.733,0.0440445,0,8,8,8,-0,0,0,0,''),
+(9510,5875,'m425 quest zone 510',604,195.172,-373.388,0,0,50,50,3,-0,0,0,0,''),
+(9511,5875,'m425 quest zone 511',601,-284.679,1959.81,2,0,2,2,2,-0,0,0,0,''),
+(9512,5875,'m425 quest zone 512',601,28.7314,2154.33,24,0,8,8,8,-0,0,0,0,''),
+(9513,5875,'m425 quest zone 513',601,12.1136,2226.67,4,0,2,2,2,-0,0,0,0,''),
+(9514,5875,'m425 quest zone 514',604,-1627.34,-42.2961,20.0404,0,2,2,2,-0,0,0,0,''),
+(9515,5875,'m425 quest zone 515',604,-1645.66,70.8544,30.0051,0,2,2,2,-0,0,0,0,''),
+(9516,5875,'m425 quest zone 516',604,-1604.21,74.5521,30.7989,0,2,2,2,-0,0,0,0,''),
+(9517,5875,'m425 quest zone 517',604,-1910.17,-426.755,44.1556,0,2,2,2,-0,0,0,0,''),
+(9518,5875,'m425 quest zone 518',604,-1921.56,-476.573,35.0774,0,2,2,2,-0,0,0,0,''),
+(9519,5875,'m425 quest zone 519',604,-1980.28,-510.183,43,0,2,2,2,-0,0,0,0,''),
+(9520,5875,'m425 quest zone 520',604,-2228.44,645.38,30,0,8,8,8,-0,0,0,0,''),
+(9521,5875,'m425 quest zone 521',604,-2180.73,655.544,29.9499,0,8,8,8,-0,0,0,0,''),
+(9522,5875,'m425 quest zone 522',604,-2215.23,713.275,35,0,8,8,8,-0,0,0,0,''),
+(9523,5875,'m425 quest zone 523',604,-630.224,-730.521,1.80421,0,30,180,8,5.9922976,0,0,0,'');
 INSERT INTO `areatrigger_template` (`id`,`build`,`name`,`map_id`,`x`,`y`,`z`,`radius`,`box_x`,`box_y`,`box_z`,`box_orientation`,`cooldown`,`condition_id`,`script_id`,`script_name`) VALUES
-(9524,5875,'m425 quest zone 524',604,-148.765,-354.595,35.9415,0,45,5,8,3.1415927,0,0,0,''),
-(9525,5875,'m425 quest zone 525',601,2256.17,1297.16,12,0,35,15,8,1.4835328,0,0,0,''),
-(9526,5875,'m425 quest zone 526',604,51.8194,-575.597,-4.76641,0,8,8,8,3.1415927,0,0,0,''),
-(9527,5875,'m425 quest zone 527',601,2359.06,858.042,8.30229,0,8,8,8,3.1415927,0,0,0,''),
-(9528,5875,'m425 quest zone 528',601,2230.01,645.572,39,0,8,8,8,3.1415927,0,0,0,''),
-(9529,5875,'m425 quest zone 529',601,2231.63,643.345,-4.9713,0,80,50,8,1.3089927,0,0,0,''),
-(9530,5875,'m425 quest zone 530',604,-1475.01,162.309,64,0,60,60,5,3.1415927,0,0,0,''),
-(9531,5875,'m425 quest zone 531',604,-55.5319,-824.799,20,0,8,8,8,2.3271058,0,0,0,''),
-(9532,5875,'m425 quest zone 532',601,2351.49,1625.64,0.268096,0,8,8,8,3.1415927,0,0,0,''),
-(9533,5875,'m425 quest zone 533',601,2291.39,1632.22,-13.1876,0,8,8,8,3.1415927,0,0,0,''),
-(9534,5875,'m425 quest zone 534',601,1266.43,1564.86,10,0,8,8,8,3.1415927,0,0,0,''),
-(9535,5875,'m425 quest zone 535',601,1289.48,1622.2,2.35323,0,8,8,8,3.1415927,0,0,0,''),
-(9536,5875,'m425 quest zone 536',601,1317.41,1613.8,12.0138,0,8,8,8,3.1415927,0,0,0,''),
-(9537,5875,'m425 quest zone 537',601,2507.59,976.063,20,0,8,8,8,3.1415927,0,0,0,''),
-(9538,5875,'m425 quest zone 538',601,2515.8,1002.17,20.3122,0,8,8,8,3.1415927,0,0,0,''),
-(9539,5875,'m425 quest zone 539',601,2563.3,984.69,20,0,22,35,8,1.3962628,0,0,0,''),
-(9540,5875,'m425 quest zone 540',601,2559.8,1006.65,20,0,8,8,8,3.1415927,0,0,0,''),
-(9541,5875,'m425 quest zone 541',601,-277.792,1563.62,4.36192,0,8,8,8,3.1415927,0,0,0,''),
-(9542,5875,'m425 quest zone 542',604,2028.54,-2542.49,3.24571,0,20,15,8,3.1415927,0,0,0,''),
-(9543,5875,'m425 quest zone 543',604,-1929.53,805.24,4.61517,0,8,8,8,3.1415927,0,0,0,''),
-(9544,5875,'m425 quest zone 544',601,1961.78,461.174,17.429,0,3,3,3,3.1415927,0,0,0,''),
-(9545,5875,'m425 quest zone 545',601,2085.65,1097.11,-3.7781,0,3,3,3,3.1415927,0,0,0,''),
-(9546,5875,'m425 quest zone 546',601,1813.79,1318.12,-4.5993,0,3,3,3,3.1415927,0,0,0,''),
-(9547,5875,'m425 quest zone 547',604,1764.39,-2762.6,5.05607,0,3,3,3,3.1415927,0,0,0,''),
-(9548,5875,'m425 quest zone 548',604,1234.11,-2749.77,39,0,3,3,3,3.1415927,0,0,0,''),
-(9549,5875,'m425 quest zone 549',604,-1053.87,-587.046,20,0,2,2,2,3.1415927,0,0,0,''),
-(9550,5875,'m425 quest zone 550',604,-1912.44,-251.686,55,0,2,2,2,3.1415927,0,0,0,''),
-(9551,5875,'m425 quest zone 551',604,915.408,-2691.54,38.1265,0,3,3,3,3.1415927,0,0,0,''),
-(9552,5875,'m425 quest zone 552',604,-1940.86,482.058,50,0,2,2,2,3.1415927,0,0,0,''),
-(9553,5875,'m425 quest zone 553',601,-345.555,771.931,39.633,0,8,8,8,3.1415927,0,0,0,''),
-(9554,5875,'m425 quest zone 554',604,1193.47,-2794.29,39.8071,0,8,8,8,3.1415927,0,0,0,''),
-(9555,5875,'m425 quest zone 555',604,1744.37,-2775.64,7.0218,0,3,3,3,3.1415927,0,0,0,''),
-(9556,5875,'m425 quest zone 556',604,-355.624,-1234.4,2,0,8,8,8,3.1415927,0,0,0,''),
-(9557,5875,'m425 quest zone 557',601,2242.64,1487.48,-4.3841,0,8,8,8,2.0362127,0,0,0,''),
-(9558,5875,'m425 quest zone 558',601,815.003,1992.33,25,0,2,2,2,3.1415927,0,0,0,''),
-(9559,5875,'m425 quest zone 559',601,2243.22,642.674,-3.6888,0,8,8,8,3.1415927,0,0,0,''),
-(9560,5875,'m425 quest zone 560',601,18.9606,700.301,4,0,8,8,8,3.1415927,0,0,0,''),
-(9561,5875,'m425 quest zone 561',604,775.872,-2678.81,106.038,0,10,12,4,5.963208,0,0,0,''),
-(9562,5875,'m425 quest zone 562',604,526.111,-2437.13,36.8867,0,4,4,4,3.1415927,0,0,0,''),
-(9563,5875,'m425 quest zone 563',601,-15.5994,1091.08,1.72367,0,2,2,4,3.1415927,0,0,0,''),
-(9564,5875,'m425 quest zone 564',601,17.0399,1135.16,0.482772,0,4,4,4,3.1415927,0,0,0,''),
-(9565,5875,'m425 quest zone 565',601,-12.4243,1127.7,1.42045,0,4,4,4,3.1415927,0,0,0,''),
-(9566,5875,'m425 quest zone 566',604,1309.57,-2655.33,7.03667,0,180,100,30,3.1415927,0,0,0,''),
-(9567,5875,'m425 quest zone 567',601,283.13,935.528,60,0,5,5,5,3.1415927,0,0,0,''),
-(9568,5875,'m425 quest zone 568',601,-136.547,557.914,5.0553,0,2,2,2,3.1415927,0,0,0,''),
-(9569,5875,'m425 quest zone 569',601,-132.337,546.765,4.90056,0,2,2,2,3.1415927,0,0,0,''),
-(9570,5875,'m425 quest zone 570',601,-103.8,535.678,5.02322,0,2,2,2,3.1415927,0,0,0,''),
-(9571,5875,'m425 quest zone 571',601,-135.928,585.225,5.13499,0,2,2,2,3.1415927,0,0,0,''),
-(9572,5875,'m425 quest zone 572',601,-14.2294,1446.58,20.0663,0,4,4,4,3.1415927,0,0,0,''),
-(9574,5875,'m425 quest zone 574',601,2205.02,724.207,-8.88146,0,50,80,8,2.7634387,0,0,0,''),
-(9575,5875,'m425 quest zone 575',604,396.268,-2385.33,5.66757,0,8,8,8,3.1415927,0,0,0,''),
-(9577,5875,'m425 quest zone 577',604,431.669,-2437.26,4.28764,0,8,8,8,3.1415927,0,0,0,''),
-(9578,5875,'m425 quest zone 578',613,-231.538,172.929,5.12028,0,4,4,4,3.1415927,0,0,0,''),
-(9579,5875,'m425 quest zone 579',604,-2107.98,166.26,50,0,8,8,8,3.1415927,0,0,0,''),
-(9580,5875,'m425 quest zone 580',601,1.32708,1214.03,4.89916,0,8,8,8,3.1415927,0,0,0,''),
-(9581,5875,'m425 quest zone 581',601,6.20378,1273.92,5.54777,0,8,8,8,3.1415927,0,0,0,''),
-(9582,5875,'m425 quest zone 582',604,-1320.06,-96.9565,0.000584717,0,8,8,8,3.1415927,0,0,0,''),
-(9583,5875,'m425 quest zone 583',604,-162.818,-475.381,-11.3878,0,8,8,8,3.1415927,0,0,0,''),
-(9584,5875,'m425 quest zone 584',604,-0.0804415,-373.109,18.5519,0,8,8,8,3.1415927,0,0,0,''),
-(9585,5875,'m425 quest zone 585',604,-80.802,-386.837,2.32193,0,80,150,40,1.8907727,0,0,0,''),
-(9586,5875,'m425 quest zone 586',601,-570.047,1778.92,10.0108,0,8,8,8,3.1415927,0,0,0,''),
-(9587,5875,'m425 quest zone 587',601,329.908,913.26,63.0587,0,8,8,8,3.1415927,0,0,0,''),
-(9588,5875,'m425 quest zone 588',601,1957.1,425.797,1.88519,0,8,8,8,3.1415927,0,0,0,''),
-(9589,5875,'m425 quest zone 589',604,127.098,-801.543,-5,0,8,8,8,3.1415927,0,0,0,''),
-(9590,5875,'m425 quest zone 590',604,-784.841,-1237.85,11.7798,0,8,8,8,3.1415927,0,0,0,''),
-(9591,5875,'m425 quest zone 591',604,24.6932,-582.764,-6.89765,0,8,8,8,3.1415927,0,0,0,''),
-(9592,5875,'m425 quest zone 592',604,-301.815,-631.805,0,0,8,8,8,3.1415927,0,0,0,''),
-(9593,5875,'m425 quest zone 593',601,582.121,2081.35,-19.9972,0,150,200,50,3.1415927,0,0,0,''),
-(9594,5875,'m425 quest zone 594',604,280.473,-604.13,-0.48501,0,4,4,4,3.1415927,0,0,0,''),
-(9595,5875,'m425 quest zone 595',601,1917.68,885.581,-7.31036,0,1,1,1,3.1415927,0,0,0,''),
-(9596,5875,'m425 quest zone 596',607,8.48186,2723.17,5.5286,0,8,8,8,3.1415927,0,0,0,''),
-(9597,5875,'m425 quest zone 597',601,1818.32,1207.94,2.13353,0,200,200,15,2.7634387,0,0,0,''),
-(9598,5875,'m425 quest zone 598',614,2348.56,642.077,1.2075,0,8,8,8,3.1415927,0,0,0,''),
-(9599,5875,'m425 quest zone 599',601,589.908,2693.17,43.3021,0,8,8,8,3.1415927,0,0,0,''),
-(9600,5875,'m425 quest zone 600',601,591.382,2696.41,39.0574,0,8,8,8,2.6761718,0,0,0,''),
-(9601,5875,'m425 quest zone 601',601,43.3926,2162.22,20.1729,0,8,8,8,3.1415927,0,0,0,''),
-(9602,5875,'m425 quest zone 602',601,170.968,857.378,29.1314,0,4,4,4,3.1415927,0,0,0,''),
-(9603,5875,'m425 quest zone 603',617,-155.387,122.549,-10,0,3,3,3,3.1415927,0,0,0,''),
-(9607,5875,'m425 quest zone 607',604,1491.14,-1824.74,25.7241,0,10,10,8,3.1415927,0,0,0,''),
-(9608,5875,'m425 quest zone 608',604,1295.26,-1808.09,15,0,6,6,6,3.1415927,0,0,0,''),
-(9609,5875,'m425 quest zone 609',617,-293.404,-181.159,102.47,0,8,8,8,3.1415927,0,0,0,''),
-(9610,5875,'m425 quest zone 610',604,1033.11,-1901.47,2.51919,0,8,8,8,3.1415927,0,0,0,''),
-(9611,5875,'m425 quest zone 611',604,903.911,-2777.48,20.1958,0,60,70,10,5.4977884,0,0,0,''),
-(9612,5875,'m425 quest zone 612',604,780.165,-2698.36,93,0,65,60,20,3.1415927,0,0,0,''),
-(9613,5875,'m425 quest zone 613',604,898.7,-2679.56,38.8306,0,25,25,8,3.1415927,0,0,0,''),
-(9614,5875,'m425 quest zone 614',604,814.325,-2472.39,54.6184,0,8,8,8,3.1415927,0,0,0,''),
-(9615,5875,'m425 quest zone 615',604,812.343,-2482.26,54.7386,0,8,8,8,3.1415927,0,0,0,''),
-(9616,5875,'m425 quest zone 616',601,1366.68,1325.27,-10.4863,0,8,8,8,3.1415927,0,0,0,''),
-(9617,5875,'m425 quest zone 617',601,1860.19,1494.3,9.14393,0,6,6,4,3.1415927,0,0,0,''),
-(9618,5875,'m425 quest zone 618',601,1187.08,1318.96,17.3253,0,4,4,4,3.1415927,0,0,0,''),
-(9619,5875,'m425 quest zone 619',601,1487.82,1343.6,1.62852,0,8,8,8,3.1415927,0,0,0,''),
-(9620,5875,'m425 quest zone 620',601,1530.79,1496.69,-3.10719,0,8,8,8,3.1415927,0,0,0,''),
-(9621,5875,'m425 quest zone 621',604,1893.48,-2787.51,30,0,8,8,8,3.1415927,0,0,0,''),
-(9622,5875,'m425 quest zone 622',604,1977.71,-2756.44,26.1583,0,50,40,8,3.1415927,0,0,0,''),
-(9623,5875,'m425 quest zone 623',604,1852.12,-2768.37,4.40996,0,4,4,4,3.1415927,0,0,0,''),
-(9624,5875,'m425 quest zone 624',604,1753.66,-2851.49,30.8847,0,8,8,8,3.1415927,0,0,0,''),
-(9625,5875,'m425 quest zone 625',604,1845.57,-2795.33,4.357,0,8,8,8,3.1415927,0,0,0,''),
-(9626,5875,'m425 quest zone 626',604,2210.14,-2677.42,39,0,8,8,8,3.1415927,0,0,0,''),
-(9627,5875,'m425 quest zone 627',604,2012.53,-2683.89,41.2053,0,4,4,4,1.1635528,0,0,0,''),
-(9628,5875,'m425 quest zone 628',604,2201.27,-2663.19,37.8025,0,8,8,8,3.1415927,0,0,0,''),
-(9629,5875,'m425 quest zone 629',604,509.059,-2436.76,35,0,8,8,8,3.1415927,0,0,0,''),
-(9630,5875,'m425 quest zone 630',604,608.531,-2400.36,60.4785,0,8,8,8,3.1415927,0,0,0,''),
-(9631,5875,'m425 quest zone 631',601,1575.86,1597.95,0,0,60,60,8,3.1415927,0,0,0,''),
-(9632,5875,'m425 quest zone 632',601,1563.02,1628.07,0.141929,0,120,120,8,3.1415927,0,0,0,''),
-(9633,5875,'m425 quest zone 633',604,2447.87,-2445.18,4.81366,0,90,220,8,3.1415927,0,0,0,''),
-(9634,5875,'m425 quest zone 634',609,9.39137,-24.3053,-9.28822,0,40,20,10,3.1415927,0,0,0,''),
-(9635,5875,'m425 quest zone 635',609,33.7292,27.0227,-10,0,30,20,8,3.1415927,0,0,0,''),
-(9636,5875,'m425 quest zone 636',609,-14.8621,2.03899,-10,0,20,15,8,3.1415927,0,0,0,''),
-(9637,5875,'m425 quest zone 637',609,40.8052,-15.3589,-10,0,15,15,8,3.1415927,0,0,0,''),
-(9638,5875,'m425 quest zone 638',609,-45.3521,27.7522,-10,0,8,8,8,3.1415927,0,0,0,''),
-(9639,5875,'m425 quest zone 639',601,164.423,856.6,29,0,4,4,4,3.1415927,0,0,0,''),
-(9640,5875,'m425 quest zone 640',601,1790.67,314.763,3.1841,0,120,150,8,3.1415927,0,0,0,''),
-(9644,5875,'m425 quest zone 644',604,-564.821,-1440.45,0.316439,0,100,110,8,2.6470828,0,0,0,''),
-(9645,5875,'m425 quest zone 645',604,-1635.02,695.107,48.3214,0,300,130,8,3.1415927,0,0,0,''),
-(9646,5875,'m425 quest zone 646',601,494.951,1696.84,3.14071,0,180,300,8,3.1415927,0,0,0,''),
-(9647,5875,'m425 quest zone 647',604,536.776,-2275.28,9.4301,0,20,40,8,2.9961476,0,0,0,''),
-(9648,5875,'m425 quest zone 648',604,-1902.75,255.233,0.379381,0,4,4,4,3.1415927,0,0,0,''),
-(9649,5875,'m425 quest zone 649',604,-1912.91,266.552,0.379527,0,4,4,4,3.1415927,0,0,0,''),
-(9650,5875,'m425 quest zone 650',604,-1852.8,171.704,-6.43231,0,8,8,8,3.1415927,0,0,0,''),
-(9651,5875,'m425 quest zone 651',604,-1946.96,453.093,49.1079,0,3,3,3,3.1415927,0,0,0,''),
-(9652,5875,'m425 quest zone 652',604,-1989.74,207.983,29.5827,0,120,100,20,3.1415927,0,0,0,''),
-(9653,5875,'m425 quest zone 653',601,2110.34,1574.62,-30.7157,0,8,8,8,3.1415927,0,0,0,''),
-(9654,5875,'m425 quest zone 654',604,-1740.91,110.161,9.13528,0,8,8,8,3.1415927,0,0,0,''),
-(9655,5875,'m425 quest zone 655',604,-1676.76,120.242,22.7026,0,8,8,8,3.1415927,0,0,0,''),
-(9656,5875,'m425 quest zone 656',604,1167.6,-2158.7,5.3681,0,8,8,8,2.4725497,0,0,0,''),
-(9660,5875,'m425 quest zone 660',618,842.583,-1503.51,27.2431,0,20,20,8,3.1415927,0,0,0,''),
-(9661,5875,'m425 quest zone 661',618,887.196,-1343.54,17.0186,0,25,25,8,3.1415927,0,0,0,''),
-(9662,5875,'m425 quest zone 662',618,888.179,-1343.73,17.0045,0,8,8,8,3.1415927,0,0,0,''),
-(9663,5875,'m425 quest zone 663',604,965.82,-2919.06,4.66598,0,2,2,2,3.1415927,0,0,0,''),
-(9664,5875,'m425 quest zone 664',604,1000.38,-2837.18,2.22934,0,90,70,8,3.1415927,0,0,0,''),
-(9665,5875,'m425 quest zone 665',604,1103.52,-2962.38,4.40246,0,60,80,20,3.1415927,0,0,0,''),
-(9666,5875,'m425 quest zone 666',604,978.011,-2909.1,4.08977,0,4,4,8,3.1415927,0,0,0,''),
-(9667,5875,'m425 quest zone 667',604,1033.9,-3080.32,5.20447,0,6,4,4,3.1415927,0,0,0,''),
-(9668,5875,'m425 quest zone 668',604,964.19,-3178.65,13.0505,0,4,4,4,3.1415927,0,0,0,''),
-(9669,5875,'m425 quest zone 669',604,974.448,-2969.13,4.37896,0,60,40,10,3.1415927,0,0,0,''),
-(9670,5875,'m425 quest zone 670',604,1039.17,-3134.14,-0.645684,0,120,80,8,3.1415927,0,0,0,''),
-(9671,5875,'m425 quest zone 671',604,1067.27,-3214.26,18.4062,0,8,8,8,3.1415927,0,0,0,''),
-(9672,5875,'m425 quest zone 672',604,1103.51,-2901.1,25.5452,0,8,8,8,3.1415927,0,0,0,''),
-(9673,5875,'m425 quest zone 673',613,-69.6361,120.127,5,0,8,8,8,3.1415927,0,0,0,''),
-(9674,5875,'m425 quest zone 674',601,167.811,855.479,29,0,4,4,4,3.1415927,0,0,0,''),
-(9675,5875,'m425 quest zone 675',613,-199.849,107.125,-12.5,0,8,4,4,3.1415927,0,0,0,''),
-(9676,5875,'m425 quest zone 676',613,-187.706,252.201,5.13673,0,4,4,4,3.1415927,0,0,0,''),
-(9677,5875,'m425 quest zone 677',613,-28.7593,170.894,-5,0,4,4,4,3.1415927,0,0,0,''),
-(9678,5875,'m425 quest zone 678',604,180.157,-1078.48,0,0,4,4,4,3.1415927,0,0,0,''),
-(9679,5875,'m425 quest zone 679',604,80.7345,-1088.46,0,0,3,3,3,3.1415927,0,0,0,''),
-(9680,5875,'m425 quest zone 680',604,78.9217,-1085.27,0,0,3,3,3,3.1415927,0,0,0,''),
-(9681,5875,'m425 quest zone 681',604,115.956,-1127.88,1.01361,0,3,3,3,3.1415927,0,0,0,''),
-(9682,5875,'m425 quest zone 682',604,21.2807,-580.5,-5,0,8,8,8,3.1415927,0,0,0,''),
-(9683,5875,'m425 quest zone 683',604,239.944,-609.078,0,0,6,6,6,3.1415927,0,0,0,''),
-(9684,5875,'m425 quest zone 684',604,237.547,-624.847,-1,0,16,16,8,3.1415927,0,0,0,''),
-(9685,5875,'m425 quest zone 685',604,1.57967,-648.315,0.0786209,0,8,8,8,3.1415927,0,0,0,''),
-(9686,5875,'m425 quest zone 686',604,-601.761,-850.233,0,0,8,8,8,3.1415927,0,0,0,''),
-(9687,5875,'m425 quest zone 687',604,-567.271,-718.533,1.81864,0,8,8,8,3.1415927,0,0,0,''),
-(9688,5875,'m425 quest zone 688',604,-253.048,-399.624,12,0,8,8,8,3.1415927,0,0,0,''),
-(9689,5875,'m425 quest zone 689',604,-31.6836,-579.276,-5,0,15,6,8,3.1415927,0,0,0,''),
-(9690,5875,'m425 quest zone 690',619,789.092,-1091.01,-68.582,0,12,12,8,3.1415927,0,0,0,''),
-(9691,5875,'m425 quest zone 691',604,129.046,-1193.05,7.67723,0,4,4,4,3.1415927,0,0,0,''),
-(9692,5875,'m425 quest zone 692',601,163.333,853.912,29.0498,0,4,4,4,3.1415927,0,0,0,''),
-(9693,5875,'m425 quest zone 693',604,102.178,-636.069,-1.82839,0,80,60,20,3.1415927,0,0,0,''),
-(9694,5875,'m425 quest zone 694',604,211.716,-701.639,1.27192,0,80,90,10,3.1415927,0,0,0,''),
-(9695,5875,'m425 quest zone 695',604,235.88,-586.817,0,0,5,5,5,3.1415927,0,0,0,''),
-(9696,5875,'m425 quest zone 696',604,-198.703,-597.807,3.45116,0,8,8,8,3.1415927,0,0,0,''),
-(9697,5875,'m425 quest zone 697',613,-186.97,228.442,4.57226,0,3,3,3,3.1415927,0,0,0,''),
-(9698,5875,'m425 quest zone 698',613,-128.435,345.399,-6.02152,0,3,3,3,3.1415927,0,0,0,''),
-(9699,5875,'m425 quest zone 699',613,-189.298,-43.048,9.76563,0,3,3,4,3.1415927,0,0,0,''),
-(9700,5875,'m425 quest zone 700',604,-1851.53,-156.26,9.68987,0,3,3,3,3.1415927,0,0,0,''),
-(9701,5875,'m425 quest zone 701',613,-85.2371,116.828,5,0,3,3,3,3.1415927,0,0,0,''),
-(9702,5875,'m425 quest zone 702',620,-524.716,-2416.41,145.773,0,4,4,4,3.1415927,0,0,0,''),
-(9703,5875,'m425 quest zone 703',620,-555.433,-2212.79,200.613,0,4,4,4,3.1415927,0,0,0,''),
-(9704,5875,'m425 quest zone 704',620,-535.357,-2248.05,152.696,0,70,20,40,3.1415927,0,0,0,''),
-(9705,5875,'m425 quest zone 705',620,-547.372,-2212.9,200.246,0,4,4,4,3.1415927,0,0,0,''),
-(9706,5875,'m425 quest zone 706',620,-409.595,-2099.67,224.396,0,4,4,4,3.1415927,0,0,0,''),
-(9707,5875,'m425 quest zone 707',620,-489.737,-1914.6,196.544,0,4,4,4,3.1415927,0,0,0,''),
-(9708,5875,'m425 quest zone 708',620,-494.069,-2152.08,207.734,0,80,100,8,0.9599328,0,0,0,''),
-(9709,5875,'m425 quest zone 709',620,-461.497,-1823.92,188.838,0,112,72,40,3.1415927,0,0,0,''),
-(9710,5875,'m425 quest zone 710',620,-640.75,-1776.1,219.673,0,8,8,8,3.1415927,0,0,0,''),
-(9711,5875,'m425 quest zone 711',620,-769.759,-1739.8,219.618,0,4,4,8,3.1415927,0,0,0,''),
-(9712,5875,'m425 quest zone 712',620,-989.398,-1636.02,235.101,0,4,4,4,3.1415927,0,0,0,''),
-(9713,5875,'m425 quest zone 713',620,-905.152,-1510.3,240,0,4,4,4,3.1415927,0,0,0,''),
-(9714,5875,'m425 quest zone 714',620,-534.254,-1457.68,292,0,4,4,4,3.1415927,0,0,0,''),
-(9715,5875,'m425 quest zone 715',620,-460.37,-1425.59,295.284,0,3,3,3,3.1415927,0,0,0,''),
-(9716,5875,'m425 quest zone 716',620,-545.864,-1427.19,292,0,3,3,3,3.1415927,0,0,0,''),
-(9717,5875,'m425 quest zone 717',606,-603.01,667.06,34.847,0,3,3,3,3.1415927,0,0,0,''),
-(9718,5875,'m425 quest zone 718',620,-156.329,-1117.17,-10,0,4,4,4,3.1415927,0,0,0,''),
-(9719,5875,'m425 quest zone 719',606,-562.604,723.214,17.002,0,90,140,15,1.3752227,0,0,0,''),
-(9720,5875,'m425 quest zone 720',606,-433.568,595.768,6.3505,0,150,150,25,3.1415927,0,0,0,''),
-(9721,5875,'m425 quest zone 721',606,-489.871,605.705,20.2798,0,8,8,8,3.1415927,0,0,0,''),
-(9722,5875,'m425 quest zone 722',606,-512.136,671.71,20,0,8,8,8,3.1415927,0,0,0,''),
-(9723,5875,'m425 quest zone 723',606,-385.882,557.94,20.1477,0,8,8,8,3.1415927,0,0,0,''),
-(9724,5875,'m425 quest zone 724',606,-218.938,681.051,18.5,0,8,8,8,3.1415927,0,0,0,''),
-(9725,5875,'m425 quest zone 725',606,-174.531,848.446,21.3,0,8,8,8,3.1415927,0,0,0,''),
-(9726,5875,'m425 quest zone 726',606,-239.012,850.653,20.6055,0,60,80,8,2.9088817,0,0,0,''),
-(9727,5875,'m425 quest zone 727',606,-294.82,912.742,20.8299,0,180,40,8,3.0834134,0,0,0,''),
-(9728,5875,'m425 quest zone 728',606,-285.845,869.658,38.8216,0,8,8,8,3.1415927,0,0,0,''),
-(9729,5875,'m425 quest zone 729',606,-339.575,813.127,35.0735,0,8,8,8,3.1415927,0,0,0,''),
-(9730,5875,'m425 quest zone 730',606,-554.939,599.252,33,0,8,8,8,3.1415927,0,0,0,''),
-(9731,5875,'m425 quest zone 731',606,-290.283,627.139,16.2028,0,70,100,8,2.9088817,0,0,0,''),
-(9732,5875,'m425 quest zone 732',604,520.888,-1432.71,30.2785,0,8,8,8,3.1415927,0,0,0,''),
-(9733,5875,'m425 quest zone 733',604,635.6,-1324.8,49.2823,0,80,80,8,1.7074528,0,0,0,''),
-(9734,5875,'m425 quest zone 734',604,517.263,-1379.76,39.0148,0,8,8,8,3.1415927,0,0,0,''),
-(9735,5875,'m425 quest zone 735',604,526.552,-1377.25,39.0105,0,8,8,8,3.1415927,0,0,0,''),
-(9736,5875,'m425 quest zone 736',604,664.187,-1278.76,55.4202,0,8,8,8,3.1415927,0,0,0,''),
-(9737,5875,'m425 quest zone 737',604,665.481,-1295.14,53.8621,0,50,90,8,3.8978984,0,0,0,''),
-(9738,5875,'m425 quest zone 738',604,710.116,-1241.29,40.1155,0,80,80,8,2.9961476,0,0,0,''),
-(9739,5875,'m425 quest zone 739',606,-245.608,822.309,21.0945,0,90,40,8,2.9670587,0,0,0,''),
-(9740,5875,'m425 quest zone 740',606,-242.513,711.796,18.5239,0,30,150,8,2.9379718,0,0,0,''),
-(9741,5875,'m425 quest zone 741',606,-477.439,609.207,-8.93089,0,60,60,35,3.1415927,0,0,0,''),
-(9742,5875,'m425 quest zone 742',620,-1003.19,-1585.83,237.293,0,150,150,8,2.1525726,0,0,0,''),
-(9743,5875,'m425 quest zone 743',604,522.657,-1391.68,39.0389,0,8,8,8,3.1415927,0,0,0,''),
-(9744,5875,'m425 quest zone 744',604,-579.658,-766.703,12,0,4,4,4,3.1415927,0,0,0,''),
-(9745,5875,'m425 quest zone 745',604,-1408.17,-424.628,-3,0,4,4,4,3.1415927,0,0,0,''),
-(9746,5875,'m425 quest zone 746',604,-1416.17,-147.502,14,0,4,4,4,3.1415927,0,0,0,''),
-(9747,5875,'m425 quest zone 747',604,-1464.43,194.348,64,0,4,4,4,3.1415927,0,0,0,''),
-(9748,5875,'m425 quest zone 748',604,-1761.95,386.297,10.3403,0,4,4,4,3.1415927,0,0,0,''),
-(9749,5875,'m425 quest zone 749',620,-396.841,-1634.67,216.843,0,4,4,4,3.1415927,0,0,0,''),
-(9750,5875,'m425 quest zone 750',620,-384.678,-1993.84,200,0,4,4,4,3.1415927,0,0,0,''),
-(9751,5875,'m425 quest zone 751',620,-510.978,-1464.71,292,0,40,20,8,3.1415927,0,0,0,''),
-(9752,5875,'m425 quest zone 752',604,656.618,-1325.1,50.7289,0,8,8,8,3.1415927,0,0,0,''),
-(9753,5875,'m425 quest zone 753',606,-323.819,64.9613,39.5034,0,100,80,8,3.1415927,0,0,0,''),
-(9754,5875,'m425 quest zone 754',606,-221.699,65.8552,31.1053,0,8,8,8,3.1415927,0,0,0,''),
-(9755,5875,'m425 quest zone 755',606,-508.453,-54.4503,54.817,0,8,8,8,3.1415927,0,0,0,''),
-(9756,5875,'m425 quest zone 756',606,-301.669,-57.6282,36.547,0,8,8,8,2.3561947,0,0,0,''),
-(9757,5875,'m425 quest zone 757',606,-511.321,-51.9891,55.0096,0,8,8,8,2.5598168,0,0,0,''),
-(9758,5875,'m425 quest zone 758',606,-350.263,-78.5465,33.6466,0,70,60,30,2.2689278,0,0,0,''),
-(9759,5875,'m425 quest zone 759',606,-376.06,-116.774,53.842,0,8,8,8,3.1415927,0,0,0,''),
-(9760,5875,'m425 quest zone 760',606,-419.015,247.967,49.9445,0,8,8,8,3.1415927,0,0,0,''),
-(9761,5875,'m425 quest zone 761',606,-279.664,227.91,50,0,8,8,8,3.1415927,0,0,0,''),
-(9762,5875,'m425 quest zone 762',606,-373.473,376.726,75.699,0,8,8,8,0.84357285,0,0,0,''),
-(9763,5875,'m425 quest zone 763',606,-369.396,300.433,46.7121,0,150,75,40,2.6179938,0,0,0,''),
-(9764,5875,'m425 quest zone 764',606,-319.879,219.336,50.356,0,8,8,8,3.1415927,0,0,0,''),
-(9765,5875,'m425 quest zone 765',606,-515.072,205.427,50,0,8,8,8,3.1415927,0,0,0,''),
-(9766,5875,'m425 quest zone 766',606,-376.339,-117.155,53.8075,0,8,8,8,3.1415927,0,0,0,''),
-(9767,5875,'m425 quest zone 767',606,-390.833,162.794,53.2482,0,8,8,8,3.1415927,0,0,0,''),
-(9768,5875,'m425 quest zone 768',606,-481.686,82.8137,52.2045,0,50,50,8,3.1415927,0,0,0,''),
-(9769,5875,'m425 quest zone 769',606,171.908,797.189,-6.48529,0,8,8,8,3.1415927,0,0,0,''),
-(9770,5875,'m425 quest zone 770',606,5.21066,865.299,-9.89233,0,8,8,8,3.1415927,0,0,0,''),
-(9771,5875,'m425 quest zone 771',606,5.13882,858.712,-9.86857,0,8,8,8,3.1415927,0,0,0,''),
-(9772,5875,'m425 quest zone 772',606,21.0584,869.017,33.1943,0,8,8,8,3.1415927,0,0,0,''),
-(9773,5875,'m425 quest zone 773',606,0.71279,921.155,24.7488,0,8,8,8,3.1415927,0,0,0,''),
-(9774,5875,'m425 quest zone 774',606,-39.1682,885.271,-9.88105,0,8,8,8,3.1415927,0,0,0,''),
-(9775,5875,'m425 quest zone 775',606,89.5761,899.352,-9.60057,0,10,30,50,3.1415927,0,0,0,''),
-(9776,5875,'m425 quest zone 776',606,-5.42392,911.641,-10.0568,0,40,50,40,3.1415927,0,0,0,''),
-(9777,5875,'m425 quest zone 777',606,53.7609,784.486,0,0,30,20,8,3.1415927,0,0,0,''),
-(9778,5875,'m425 quest zone 778',606,205.018,841.262,-6.88748,0,20,30,8,3.1415927,0,0,0,''),
-(9779,5875,'m425 quest zone 779',606,181.651,917.636,-6.94941,0,15,28,8,3.1415927,0,0,0,''),
-(9780,5875,'m425 quest zone 780',606,149.841,956.592,-6.47939,0,8,30,8,2.4143727,0,0,0,''),
-(9781,5875,'m425 quest zone 781',606,117.294,980.544,-6.79724,0,25,8,8,2.3852837,0,0,0,''),
-(9782,5875,'m425 quest zone 782',606,103.369,750.483,-6.85965,0,8,8,8,3.1415927,0,0,0,''),
-(9783,5875,'m425 quest zone 783',606,195.403,876.433,-6.45732,0,8,8,8,3.1415927,0,0,0,''),
-(9784,5875,'m425 quest zone 784',606,151.891,946.543,-6.93845,0,8,8,8,3.1415927,0,0,0,''),
-(9785,5875,'m425 quest zone 785',606,-510.969,-41.6162,55.1417,0,20,8,8,3.1415927,0,0,0,''),
-(9786,5875,'m425 quest zone 786',606,-521.026,-71.2302,55.9436,0,20,20,8,3.1415927,0,0,0,''),
-(9787,5875,'m425 quest zone 787',606,-24.6117,857.245,-7.7753,0,4,4,8,3.1415927,0,0,0,''),
-(9788,5875,'m425 quest zone 788',606,-255.247,821.867,20.0183,0,70,20,8,2.5889049,0,0,0,''),
-(9789,5875,'m425 quest zone 789',606,-230.336,804.266,22.1041,0,8,8,8,3.1415927,0,0,0,''),
-(9790,5875,'m425 quest zone 790',606,-286.198,837.168,20.6303,0,4,4,4,3.1415927,0,0,0,''),
-(9791,5875,'m425 quest zone 791',606,125.248,9.80813,45,0,8,8,8,3.1415927,0,0,0,''),
-(9792,5875,'m425 quest zone 792',606,283.615,53.4663,20.7566,0,40,200,8,3.2579482,0,0,0,''),
-(9794,5875,'m425 quest zone 794',606,144.168,-61.9783,45,0,8,8,8,3.1415927,0,0,0,''),
-(9795,5875,'m425 quest zone 795',606,99.4206,-70.7339,34.7737,0,8,8,8,3.1415927,0,0,0,''),
-(9796,5875,'m425 quest zone 796',606,70.6687,0.419502,35,0,8,8,8,3.1415927,0,0,0,''),
-(9797,5875,'m425 quest zone 797',606,69.6352,-94.5986,33.7352,0,8,8,8,3.1415927,0,0,0,''),
-(9799,5875,'m425 quest zone 799',606,-59.1248,-32.6017,33.4438,0,100,80,8,3.1415927,0,0,0,''),
-(9800,5875,'m425 quest zone 800',606,-68.8885,65.123,45.4443,0,40,40,20,3.1415927,0,0,0,''),
-(9801,5875,'m425 quest zone 801',606,39.7122,89.4276,33.2298,0,8,8,8,3.1415927,0,0,0,''),
-(9802,5875,'m425 quest zone 802',606,108.773,302.9,20,0,8,8,8,3.1415927,0,0,0,''),
-(9803,5875,'m425 quest zone 803',606,103.834,224.997,25,0,40,30,8,3.1415927,0,0,0,''),
-(9804,5875,'m425 quest zone 804',606,180.48,247.248,25,0,30,40,8,3.1415927,0,0,0,''),
-(9805,5875,'m425 quest zone 805',606,278.979,183.349,20.4762,0,8,8,8,3.1415927,0,0,0,''),
-(9806,5875,'m425 quest zone 806',606,402,372.235,49.3326,0,8,8,8,3.1415927,0,0,0,''),
-(9807,5875,'m425 quest zone 807',606,407.535,445.044,20,0,60,30,8,3.1415927,0,0,0,''),
-(9808,5875,'m425 quest zone 808',606,407.66,313.873,20.2181,0,60,30,8,3.1415927,0,0,0,''),
-(9809,5875,'m425 quest zone 809',606,200.649,307.231,25.9316,0,8,8,8,3.1415927,0,0,0,''),
-(9810,5875,'m425 quest zone 810',606,8.32627,-485.794,32,0,8,8,8,3.1415927,0,0,0,''),
-(9811,5875,'m425 quest zone 811',606,71.6279,-461.561,34.708,0,40,40,8,3.1415927,0,0,0,''),
-(9812,5875,'m425 quest zone 812',606,398.59,-606.09,70,0,40,80,8,2.4143727,0,0,0,''),
-(9814,5875,'m425 quest zone 814',606,478.771,-457.901,70,0,30,60,8,3.1415927,0,0,0,''),
-(9815,5875,'m425 quest zone 815',606,356.618,-509.733,49.7479,0,8,8,8,3.1415927,0,0,0,''),
-(9816,5875,'m425 quest zone 816',606,344.24,-413.652,50.0556,0,8,30,8,2.5307279,0,0,0,''),
-(9817,5875,'m425 quest zone 817',606,164.783,-574.101,48,0,8,8,8,3.1415927,0,0,0,''),
-(9818,5875,'m425 quest zone 818',606,152.472,-630.824,50.6571,0,8,8,8,3.1415927,0,0,0,''),
-(9819,5875,'m425 quest zone 819',606,30.5412,-490.521,32,0,8,8,8,3.1415927,0,0,0,''),
-(9820,5875,'m425 quest zone 820',606,125.735,-594.604,43.2196,0,60,60,8,3.1415927,0,0,0,''),
-(9821,5875,'m425 quest zone 821',606,462.333,-652.349,78.9804,0,50,50,8,3.1415927,0,0,0,''),
-(9822,5875,'m425 quest zone 822',606,291.128,-613.154,60,0,40,40,8,2.4143727,0,0,0,''),
-(9823,5875,'m425 quest zone 823',606,388.166,-529.715,60,0,20,40,8,2.3271058,0,0,0,''),
-(9824,5875,'m425 quest zone 824',606,435.542,-380.104,60,0,40,60,8,3.1415927,0,0,0,''),
-(9825,5875,'m425 quest zone 825',606,394.17,-245.564,58.0637,0,40,40,8,3.1415927,0,0,0,''),
-(9826,5875,'m425 quest zone 826',606,286.486,-672.152,60,0,8,8,8,3.1415927,0,0,0,''),
-(9827,5875,'m425 quest zone 827',606,254.564,-272.131,56.8893,0,200,60,20,3.1415927,0,0,0,''),
-(9828,5875,'m425 quest zone 828',606,371.724,-485.46,50.0266,0,8,8,8,3.1415927,0,0,0,''),
-(9829,5875,'m425 quest zone 829',606,231.195,-250.968,80.6119,0,8,8,8,3.1415927,0,0,0,''),
-(9830,5875,'m425 quest zone 830',606,164.475,-272.331,80.9432,0,8,8,8,3.1415927,0,0,0,''),
-(9831,5875,'m425 quest zone 831',606,200.874,-312.186,80.3809,0,8,8,8,3.1415927,0,0,0,''),
-(9832,5875,'m425 quest zone 832',606,221.632,-275.866,67.3589,0,8,8,8,3.1415927,0,0,0,''),
-(9833,5875,'m425 quest zone 833',606,203.364,-275.155,79.6929,0,15,15,8,3.1415927,0,0,0,''),
-(9834,5875,'m425 quest zone 834',606,35.6827,-479.162,32,0,8,8,8,3.1415927,0,0,0,''),
-(9836,5875,'m425 quest zone 836',604,515.588,-1388.06,38.9994,0,8,8,8,3.1415927,0,0,0,''),
-(9837,5875,'m425 quest zone 837',606,-20.9257,868.531,-7.03492,0,4,4,4,3.1415927,0,0,0,''),
-(9838,5875,'m425 quest zone 838',606,361.158,469.985,43.3211,0,8,8,8,3.1415927,0,0,0,''),
-(9839,5875,'m425 quest zone 839',606,383.63,-497.38,50,0,8,8,8,3.1415927,0,0,0,''),
-(9840,5875,'m425 quest zone 840',606,312.956,-221.227,66.4077,0,8,8,8,3.1415927,0,0,0,''),
-(9841,5875,'m425 quest zone 841',606,-81.5993,80.7024,60,0,8,8,8,3.1415927,0,0,0,''),
-(9842,5875,'m425 quest zone 842',606,527.16,384.184,30.585,0,60,30,8,1.5998827,0,0,0,''),
-(9843,5875,'m425 quest zone 843',606,419.417,292.98,43.3211,0,60,20,8,3.1415927,0,0,0,''),
-(9844,5875,'m425 quest zone 844',606,-332.442,808.308,35.3227,0,2,2,2,3.1415927,0,0,0,''),
-(9845,5875,'m425 quest zone 845',604,-1523.12,250.082,50.3433,0,8,8,8,3.1415927,0,0,0,''),
-(9846,5875,'m425 quest zone 846',604,585.965,-1520.96,4.84054,0,8,8,8,3.1415927,0,0,0,''),
-(9847,5875,'m425 quest zone 847',604,548.586,-1494.3,32.3581,0,8,20,8,2.3852837,0,0,0,''),
-(9848,5875,'m425 quest zone 848',606,-281.471,842.204,20.7079,0,4,4,4,3.1415927,0,0,0,''),
-(9849,5875,'m425 quest zone 849',606,-260.376,820.751,20.025,0,4,4,4,3.1415927,0,0,0,''),
-(9850,5875,'m425 quest zone 850',606,195.483,832.169,-6.52627,0,8,8,8,3.1415927,0,0,0,''),
-(9851,5875,'m425 quest zone 851',606,183.731,904.1,-7.45144,0,8,8,8,3.1415927,0,0,0,''),
-(9852,5875,'m425 quest zone 852',606,158.157,966.705,-6.35037,0,8,8,8,3.1415927,0,0,0,''),
-(9853,5875,'m425 quest zone 853',606,137.708,944.611,-6.5581,0,8,8,8,3.1415927,0,0,0,''),
-(9854,5875,'m425 quest zone 854',606,-662.786,-297.657,25,0,250,200,43,3.1415927,0,0,0,''),
-(9855,5875,'m425 quest zone 855',606,-585.48,-372.854,51.7538,0,8,8,8,3.1415927,0,0,0,''),
-(9856,5875,'m425 quest zone 856',606,-670.721,-351.548,29.4681,0,50,150,45,1.1950828,0,0,0,''),
-(9857,5875,'m425 quest zone 857',606,-637.27,-297.152,46.7217,0,40,40,8,3.1415927,0,0,0,''),
-(9858,5875,'m425 quest zone 858',606,-637.504,-296.631,49.4859,0,8,8,8,3.1415927,0,0,0,''),
-(9859,5875,'m425 quest zone 859',606,-504.665,-369.869,45,0,8,8,8,3.1415927,0,0,0,''),
-(9860,5875,'m425 quest zone 860',606,-497.545,-376.333,45,0,8,8,8,3.1415927,0,0,0,''),
-(9861,5875,'m425 quest zone 861',606,-76.415,-1424.81,37.2394,0,8,8,8,3.1415927,0,0,0,''),
-(9862,5875,'m425 quest zone 862',606,-300.727,-218.707,74.0377,0,8,8,8,3.1415927,0,0,0,''),
-(9863,5875,'m425 quest zone 863',606,-335.191,-197.275,59.7834,0,45,86,15,2.6470828,0,0,0,''),
-(9864,5875,'m425 quest zone 864',606,-371.553,-312.437,59.971,0,40,175,30,2.9379706,0,0,0,''),
-(9865,5875,'m425 quest zone 865',606,-322.558,-400.016,68,0,58,115,24,0.69813275,0,0,0,''),
-(9866,5875,'m425 quest zone 866',606,-335.906,-410.306,67.0945,0,30,125,22,0.75631285,0,0,0,''),
-(9867,5875,'m425 quest zone 867',606,-295.477,-209.519,75.4656,0,8,8,8,3.1415927,0,0,0,''),
-(9868,5875,'m425 quest zone 868',606,-195.805,-420.907,86.8605,0,8,8,8,1.9489528,0,0,0,''),
-(9869,5875,'m425 quest zone 869',606,-270.187,-213.117,74.1124,0,8,8,8,3.1415927,0,0,0,''),
-(9870,5875,'m425 quest zone 870',606,-233.69,-244.579,75,0,8,8,8,3.1415927,0,0,0,''),
-(9871,5875,'m425 quest zone 871',606,-255.781,-247.876,75,0,8,8,8,3.1415927,0,0,0,''),
-(9872,5875,'m425 quest zone 872',606,-248.612,-195.776,75.1708,0,8,8,8,3.1415927,0,0,0,''),
-(9873,5875,'m425 quest zone 873',604,190.057,-1298.47,12.1537,0,8,8,8,3.1415927,0,0,0,''),
-(9874,5875,'m425 quest zone 874',604,227.591,-1392.91,-2.75479,0,80,105,8,0.4945128,0,0,0,''),
-(9875,5875,'m425 quest zone 875',604,326.464,-1392.69,16.5393,0,40,70,8,3.1415927,0,0,0,''),
-(9876,5875,'m425 quest zone 876',604,295.321,-1321.34,7.74959,0,100,50,30,3.1415927,0,0,0,''),
-(9877,5875,'m425 quest zone 877',604,208.969,-1296.32,12.16,0,8,8,8,3.1415927,0,0,0,''),
-(9878,5875,'m425 quest zone 878',604,188.896,-1472.52,-10.7412,0,60,64,8,3.0834134,0,0,0,''),
-(9879,5875,'m425 quest zone 879',604,198.275,-1309.58,11.6036,0,8,8,8,3.1415927,0,0,0,''),
-(9880,5875,'m425 quest zone 880',604,333.994,-1339.91,17.1156,0,40,30,20,3.1415927,0,0,0,''),
-(9881,5875,'m425 quest zone 881',604,340.054,-1450.89,17.9061,0,40,30,20,3.1415927,0,0,0,''),
-(9882,5875,'m425 quest zone 882',604,259.172,-1483.28,32.2394,0,8,8,8,3.1415927,0,0,0,''),
-(9883,5875,'m425 quest zone 883',604,249.115,-1148.7,-85.7991,0,8,8,8,3.1415927,0,0,0,''),
-(9884,5875,'m425 quest zone 884',606,-112.199,-786.163,50.394,0,40,40,4,3.1415927,0,0,0,''),
-(9885,5875,'m425 quest zone 885',606,-55.0056,-657.417,29.1713,0,40,160,15,0.5236027,0,0,0,''),
-(9886,5875,'m425 quest zone 886',606,-195.813,-683.442,28.59,0,60,170,15,2.8797936,0,0,0,''),
-(9887,5875,'m425 quest zone 887',606,-121.821,-686.939,26.2065,0,180,100,15,3.1415927,0,0,0,''),
-(9888,5875,'m425 quest zone 888',606,-18.2347,-896.358,52.1708,0,150,150,20,3.1415927,0,0,0,''),
-(9889,5875,'m425 quest zone 889',606,-70.8099,-941.059,69.7832,0,8,8,8,3.1415927,0,0,0,''),
-(9890,5875,'m425 quest zone 890',606,-259.568,-1015.41,63,0,8,8,8,3.1415927,0,0,0,''),
-(9891,5875,'m425 quest zone 891',606,-113.781,-776.22,50,0,8,8,8,3.1415927,0,0,0,''),
-(9892,5875,'m425 quest zone 892',606,197.082,-1329.31,39.025,0,150,200,8,2.2980168,0,0,0,''),
-(9893,5875,'m425 quest zone 893',606,-129.437,-1348.06,38.4348,0,40,150,15,6.079568,0,0,0,''),
-(9894,5875,'m425 quest zone 894',606,-77.8501,-1336.55,38.0403,0,50,100,20,2.2398398,0,0,0,''),
-(9895,5875,'m425 quest zone 895',606,-44.1549,-1350.16,38.0402,0,40,30,8,2.6470828,0,0,0,''),
-(9896,5875,'m425 quest zone 896',606,75.3358,-1406.92,35.7987,0,200,75,8,3.1415927,0,0,0,''),
-(9897,5875,'m425 quest zone 897',606,265.08,-1406.41,36.7828,0,200,80,8,3.868818,0,0,0,''),
-(9898,5875,'m425 quest zone 898',606,-247.885,-1014.14,63.155,0,8,8,8,3.1415927,0,0,0,''),
-(9899,5875,'m425 quest zone 899',606,-241.624,-1027.42,63,0,8,8,8,3.1415927,0,0,0,''),
-(9900,5875,'m425 quest zone 900',606,-257.412,-1031.58,63.6171,0,8,8,8,3.1415927,0,0,0,''),
-(9901,5875,'m425 quest zone 901',606,-345.899,-930.656,38.1122,0,80,150,20,2.8216157,0,0,0,''),
-(9902,5875,'m425 quest zone 902',606,-229.957,-873.498,43.5962,0,100,220,25,1.0181127,0,0,0,''),
-(9903,5875,'m425 quest zone 903',606,-250.68,-1145.74,37.6758,0,130,150,20,3.1415927,0,0,0,''),
-(9905,5875,'m425 quest zone 905',606,-370.544,-1127.14,35.217,0,18,16,8,3.1415927,0,0,0,''),
-(9906,5875,'m425 quest zone 906',606,-508.52,-913.964,34.2423,0,8,8,8,3.1415927,0,0,0,''),
-(9907,5875,'m425 quest zone 907',606,260.829,-993.398,29.9819,0,4,4,4,3.1415927,0,0,0,''),
-(9908,5875,'m425 quest zone 908',606,253.363,-981.419,30,0,4,4,4,3.1415927,0,0,0,''),
-(9909,5875,'m425 quest zone 909',606,111.042,-952.965,51.5325,0,80,60,20,3.1415927,0,0,0,''),
-(9910,5875,'m425 quest zone 910',606,243.027,-950.968,32.2397,0,15,15,8,3.1415927,0,0,0,''),
-(9911,5875,'m425 quest zone 911',606,389.548,-1131.79,36.1556,0,120,180,8,3.1415927,0,0,0,''),
-(9912,5875,'m425 quest zone 912',606,180.765,-955.144,51.8981,0,8,8,8,3.1415927,0,0,0,''),
-(9913,5875,'m425 quest zone 913',606,206.561,-1098.48,51.935,0,14,14,8,3.1415927,0,0,0,''),
-(9914,5875,'m425 quest zone 914',606,327.252,-994.537,42.7423,0,14,14,8,3.1415927,0,0,0,''),
-(9915,5875,'m425 quest zone 915',606,-478.056,-943.814,33.58,0,8,8,8,3.1415927,0,0,0,''),
-(9916,5875,'m425 quest zone 916',606,-241.654,-1341.75,36.1982,0,4,4,4,3.1415927,0,0,0,''),
-(9917,5875,'m425 quest zone 917',606,-237.567,-1343.66,36.0881,0,4,4,4,3.1415927,0,0,0,''),
-(9918,5875,'m425 quest zone 918',606,-38.1168,-1088.85,57.7056,0,8,8,8,3.1415927,0,0,0,''),
-(9919,5875,'m425 quest zone 919',606,-109.778,-1091.56,60.1519,0,120,120,15,3.1415927,0,0,0,''),
-(9920,5875,'m425 quest zone 920',606,-22.5156,-1212.75,51.9201,0,130,130,21,3.1415927,0,0,0,''),
-(9921,5875,'m425 quest zone 921',623,-537.659,1686.6,-8.6,0,8,8,8,3.1415927,0,0,0,''),
-(9922,5875,'m425 quest zone 922',623,-392.248,1709.05,-31.0203,0,60,70,10,3.1415927,0,0,0,''),
-(9923,5875,'m425 quest zone 923',623,-539.066,1679.46,-8.69011,0,8,8,8,3.1415927,0,0,0,''),
-(9924,5875,'m425 quest zone 924',623,-365.851,1696.22,-30.4673,0,8,8,8,3.1415927,0,0,0,''),
-(9925,5875,'m425 quest zone 925',623,-388.198,1672.19,-29.9991,0,8,8,8,3.1415927,0,0,0,''),
-(9926,5875,'m425 quest zone 926',623,-540.396,1669.34,-11.3555,0,30,80,8,2.3271058,0,0,0,''),
-(9927,5875,'m425 quest zone 927',623,-549.072,1664.07,-9.60182,0,8,8,8,3.1415927,0,0,0,''),
-(9928,5875,'m425 quest zone 928',623,-464.309,1656.45,-18.5,0,80,60,8,3.1415927,0,0,0,''),
-(9929,5875,'m425 quest zone 929',623,-525.794,1698.05,-8.6,0,8,8,8,3.1415927,0,0,0,''),
-(9930,5875,'m425 quest zone 930',623,-514.825,1505.78,-58.3772,0,160,50,8,3.1415927,0,0,0,''),
-(9931,5875,'m425 quest zone 931',623,-522.268,1685.02,-8.51246,0,10,25,8,2.1525726,0,0,0,''),
-(9932,5875,'m425 quest zone 932',623,-518.627,1399.98,-59.6125,0,8,8,8,3.1415927,0,0,0,''),
-(9933,5875,'m425 quest zone 933',623,-525.9,1145.15,-62,0,20,20,8,3.1415927,0,0,0,''),
-(9934,5875,'m425 quest zone 934',623,-526.392,1068.19,-62,0,8,8,8,3.1415927,0,0,0,''),
-(9935,5875,'m425 quest zone 935',623,-485.411,1243.23,-61.1057,0,40,150,8,3.1415927,0,0,0,''),
-(9936,5875,'m425 quest zone 936',623,-465.046,1363.46,-50,0,8,8,8,3.1415927,0,0,0,''),
-(9937,5875,'m425 quest zone 937',623,-501.899,1354.79,-41.8877,0,8,8,8,3.1415927,0,0,0,''),
-(9938,5875,'m425 quest zone 938',623,-382.11,1225.65,-44.0056,0,70,70,8,2.2689278,0,0,0,''),
-(9939,5875,'m425 quest zone 939',623,-440.665,1084.33,-61.6838,0,60,100,8,3.1415927,0,0,0,''),
-(9940,5875,'m425 quest zone 940',623,-590.983,1394.7,-58.9074,0,8,8,8,3.1415927,0,0,0,''),
-(9941,5875,'m425 quest zone 941',623,-287.546,803.061,20.0279,0,8,8,8,3.1415927,0,0,0,''),
-(9942,5875,'m425 quest zone 942',623,-490.007,1363.21,-45,0,8,8,8,3.1415927,0,0,0,''),
-(9943,5875,'m425 quest zone 943',623,-453.392,1340.41,-50,0,8,8,8,3.1415927,0,0,0,''),
-(9944,5875,'m425 quest zone 944',623,-296.202,868.097,5.06671,0,225,60,20,3.1415927,0,0,0,''),
-(9945,5875,'m425 quest zone 945',623,-108.533,905.498,9.50296,0,105,50,8,0.75631285,0,0,0,''),
-(9946,5875,'m425 quest zone 946',623,-100.054,984.488,0,0,60,100,20,3.1415927,0,0,0,''),
-(9947,5875,'m425 quest zone 947',623,-363.604,1160.35,-40.0844,0,120,70,8,2.9379706,0,0,0,''),
-(9948,5875,'m425 quest zone 948',623,-429.133,1259.95,-54.0886,0,50,40,8,3.1415927,0,0,0,''),
-(9949,5875,'m425 quest zone 949',623,-300.583,1040.5,-3.96201,0,130,105,15,3.1415927,0,0,0,''),
-(9950,5875,'m425 quest zone 950',623,-603.829,1386.85,-58.4226,0,8,8,8,3.1415927,0,0,0,''),
-(9951,5875,'m425 quest zone 951',623,-531.433,1397.95,-58.9982,0,8,8,8,3.1415927,0,0,0,''),
-(9952,5875,'m425 quest zone 952',623,-277.601,1125.21,-0.517279,0,8,8,8,3.1415927,0,0,0,''),
-(9953,5875,'m425 quest zone 953',623,-328.455,1163.63,0.337781,0,17,13,8,2.0653028,0,0,0,''),
-(9954,5875,'m425 quest zone 954',623,-485.408,1354.98,-44.9479,0,8,8,8,3.1415927,0,0,0,''),
-(9955,5875,'m425 quest zone 955',623,-544.014,1376.4,-58.8605,0,8,8,8,3.1415927,0,0,0,''),
-(9956,5875,'m425 quest zone 956',623,-516.405,1354.24,-42.1585,0,8,8,8,3.1415927,0,0,0,''),
-(9957,5875,'m425 quest zone 957',623,-376.526,1307.61,-60.9415,0,30,150,20,0.8726628,0,0,0,''),
-(9958,5875,'m425 quest zone 958',623,-372.145,1294.04,-60.3277,0,65,160,30,3.665188,0,0,0,''),
-(9959,5875,'m425 quest zone 959',623,-309.554,1297.87,-45.1568,0,70,40,8,2.8797936,0,0,0,''),
-(9960,5875,'m425 quest zone 960',623,-551.175,799.624,-10.5547,0,8,8,8,3.1415927,0,0,0,''),
-(9961,5875,'m425 quest zone 961',623,-547.097,766.362,-6.68961,0,55,40,8,1.0181127,0,0,0,''),
-(9962,5875,'m425 quest zone 962',623,-468.04,697.792,-4.79069,0,8,30,8,2.0362127,0,0,0,''),
-(9963,5875,'m425 quest zone 963',623,-266.804,1297.13,-45.6483,0,8,8,8,3.1415927,0,0,0,''),
-(9964,5875,'m425 quest zone 964',623,-270.311,1207.66,-41.7264,0,8,8,8,3.1415927,0,0,0,''),
-(9965,5875,'m425 quest zone 965',623,-325.354,1149.4,-37.4747,0,8,8,8,3.1415927,0,0,0,''),
-(9966,5875,'m425 quest zone 966',623,-354.524,1251.76,-44.6521,0,8,35,15,3.1415927,0,0,0,''),
-(9967,5875,'m425 quest zone 967',623,-511.794,731.823,-6.21145,0,170,60,8,2.3561947,0,0,0,''),
-(9968,5875,'m425 quest zone 968',604,294.733,-1240.43,-46.1139,0,8,8,8,3.1415927,0,0,0,''),
-(9969,5875,'m425 quest zone 969',604,326.904,-1229.12,-57.5159,0,8,8,8,3.1415927,0,0,0,''),
-(9970,5875,'m425 quest zone 970',604,318.85,-1225.29,-57.3712,0,8,8,8,3.1415927,0,0,0,''),
-(9973,5875,'m425 quest zone 973',623,-224.544,1441.02,-51.5122,0,80,80,15,2.6761718,0,0,0,''),
-(9974,5875,'m425 quest zone 974',623,-329.507,1474.86,-48.7199,0,40,50,15,1.0762827,0,0,0,''),
-(9975,5875,'m425 quest zone 975',623,-314.617,1538.63,-40.0671,0,30,60,8,3.1415927,0,0,0,''),
-(9976,5875,'m425 quest zone 976',623,-284.729,1475.82,-41.3947,0,50,120,8,2.9670608,0,0,0,''),
-(9977,5875,'m425 quest zone 977',623,-258.613,1568.59,-29.8157,0,8,8,8,3.1415927,0,0,0,''),
-(9978,5875,'m425 quest zone 978',623,-281.266,1384.74,-50.5,0,100,50,8,2.7634387,0,0,0,''),
-(9979,5875,'m425 quest zone 979',623,-161.901,1399.39,-49.0283,0,100,60,8,0.8144827,0,0,0,''),
-(9980,5875,'m425 quest zone 980',623,1119.86,1502.08,24.1049,0,8,8,8,3.1415927,0,0,0,''),
-(9981,5875,'m425 quest zone 981',623,1117.6,1492.71,23.88,0,8,8,8,3.1415927,0,0,0,''),
-(9982,5875,'m425 quest zone 982',623,-240.546,1815.75,-45.4946,0,8,8,8,3.1415927,0,0,0,''),
-(9983,5875,'m425 quest zone 983',623,803.995,1598.45,46.6826,0,100,60,40,3.1415927,0,0,0,''),
-(9984,5875,'m425 quest zone 984',623,-141.858,1922.3,30.9161,0,8,8,8,3.1415927,0,0,0,''),
-(9985,5875,'m425 quest zone 985',623,-113.842,1954.56,-10.2876,0,120,120,50,3.1415927,0,0,0,''),
-(9986,5875,'m425 quest zone 986',623,-168.046,1881.18,-49.9188,0,200,130,50,1.9198627,0,0,0,''),
-(9987,5875,'m425 quest zone 987',623,-281.775,1710.01,-41.9456,0,80,160,8,2.9379706,0,0,0,''),
-(9988,5875,'m425 quest zone 988',623,754.514,1960.86,90.5896,0,8,8,8,3.1415927,0,0,0,''),
-(9989,5875,'m425 quest zone 989',623,738.629,1879.71,83.07,0,8,8,8,3.1415927,0,0,0,''),
-(9990,5875,'m425 quest zone 990',623,738.701,1934.32,88.3611,0,8,8,8,3.1415927,0,0,0,''),
-(9991,5875,'m425 quest zone 991',623,696.85,1868.51,86.2768,0,8,8,8,2.6470828,0,0,0,''),
-(9992,5875,'m425 quest zone 992',623,750.878,1809.03,55,0,8,8,8,2.8797936,0,0,0,''),
-(9993,5875,'m425 quest zone 993',623,660.23,1795.72,43,0,8,8,8,3.1415927,0,0,0,''),
-(9994,5875,'m425 quest zone 994',623,760.406,1843.4,50.7206,0,100,110,50,2.6179938,0,0,0,''),
-(9995,5875,'m425 quest zone 995',623,712.485,1521.19,6.99052,0,120,120,80,3.1415927,0,0,0,''),
-(9996,5875,'m425 quest zone 996',623,782.18,1363.77,54.02,0,80,120,50,3.1415927,0,0,0,''),
-(9997,5875,'m425 quest zone 997',623,720.651,1184.06,45.3328,0,100,140,50,3.1415927,0,0,0,''),
-(9998,5875,'m425 quest zone 998',623,1105.23,1482.92,23.88,0,8,8,8,3.1415927,0,0,0,''),
-(9999,5875,'m425 quest zone 999',623,547.416,1575.4,10.2073,0,80,80,8,2.9961476,0,0,0,''),
-(10000,5875,'m425 quest zone 1000',623,817.486,1524.03,47.8914,0,15,17,8,3.1415927,0,0,0,''),
-(10001,5875,'m425 quest zone 1001',623,871.959,1522.98,46.9058,0,50,15,8,3.1415927,0,0,0,''),
-(10002,5875,'m425 quest zone 1002',623,901.549,1310.06,58.6494,0,8,8,8,3.1415927,0,0,0,''),
-(10003,5875,'m425 quest zone 1003',623,449.681,1574.35,-0.01,0,8,8,8,3.1415927,0,0,0,''),
-(10004,5875,'m425 quest zone 1004',623,438.58,1584.54,0,0,8,8,8,3.1415927,0,0,0,''),
-(10005,5875,'m425 quest zone 1005',623,450.259,1583.33,0,0,8,8,8,3.1415927,0,0,0,''),
-(10006,5875,'m425 quest zone 1006',623,873.667,1432.97,50.9675,0,70,65,50,3.1415927,0,0,0,''),
-(10007,5875,'m425 quest zone 1007',623,866.842,1510.49,45.9938,0,60,15,30,3.1415927,0,0,0,''),
-(10008,5875,'m425 quest zone 1008',623,851.723,1492.99,46.289,0,30,40,30,3.1415927,0,0,0,''),
-(10009,5875,'m425 quest zone 1009',623,1108.41,1514.59,23.88,0,8,8,8,3.1415927,0,0,0,''),
-(10010,5875,'m425 quest zone 1010',623,-194.04,1485.45,-32.3403,0,3,3,3,3.1415927,0,0,0,''),
-(10011,5875,'m425 quest zone 1011',623,-145.516,1968.98,2.62845,0,8,8,8,3.1415927,0,0,0,''),
-(10012,5875,'m425 quest zone 1012',623,860.437,1264.47,58.9288,0,55,55,25,3.1415927,0,0,0,''),
-(10013,5875,'m425 quest zone 1013',623,-227.807,1497.59,-32.5188,0,8,8,8,3.1415927,0,0,0,''),
-(10014,5875,'m425 quest zone 1014',623,-202.788,1490.95,-32.8924,0,4,4,4,3.1415927,0,0,0,''),
-(10015,5875,'m425 quest zone 1015',623,-258.784,1550.93,-42.1164,0,100,150,20,2.8216157,0,0,0,''),
-(10016,5875,'m425 quest zone 1016',623,-247.289,1569.59,-43.4386,0,80,80,20,3.1415927,0,0,0,''),
-(10017,5875,'m425 quest zone 1017',623,-202.851,1482.07,-32.0352,0,3,3,3,3.1415927,0,0,0,''),
-(10018,5875,'m425 quest zone 1018',623,-205.94,1482.51,-32.2274,0,3,3,3,3.1415927,0,0,0,''),
-(10019,5875,'m425 quest zone 1019',623,811.083,1182.74,54.4243,0,50,50,20,3.1415927,0,0,0,''),
-(10020,5875,'m425 quest zone 1020',623,772.336,1127.72,59.5119,0,40,90,20,3.1415927,0,0,0,''),
-(10021,5875,'m425 quest zone 1021',623,456.219,1590.82,0,0,8,8,8,3.1415927,0,0,0,''),
-(10022,5875,'m425 quest zone 1022',623,623.949,1581.56,27.7445,0,100,100,15,2.2398398,0,0,0,''),
-(10023,5875,'m425 quest zone 1023',623,873.741,1052.57,64.5558,0,8,8,8,3.1415927,0,0,0,''),
-(10024,5875,'m425 quest zone 1024',623,871.889,1048.48,64.5541,0,8,8,8,3.1415927,0,0,0,''),
-(10025,5875,'m425 quest zone 1025',623,1117.12,1043,58.6539,0,130,70,15,3.1415927,0,0,0,''),
-(10026,5875,'m425 quest zone 1026',623,967.368,1089.02,66.8084,0,70,80,40,3.1415927,0,0,0,''),
-(10027,5875,'m425 quest zone 1027',623,949.661,1146.8,93,0,40,50,10,3.1415927,0,0,0,''),
-(10028,5875,'m425 quest zone 1028',623,482.085,1469.61,11.2186,0,3,3,3,3.1415927,0,0,0,''),
-(10029,5875,'m425 quest zone 1029',623,478.47,1471.81,11.2186,0,3,3,3,3.1415927,0,0,0,''),
-(10030,5875,'m425 quest zone 1030',623,483.261,1471.79,11.2186,0,3,3,3,3.1415927,0,0,0,''),
-(10031,5875,'m425 quest zone 1031',623,-448.792,1347.16,-50,0,8,8,8,3.1415927,0,0,0,''),
-(10032,5875,'m425 quest zone 1032',623,449.687,1144.73,13,0,200,300,30,0.75631285,0,0,0,''),
-(10033,5875,'m425 quest zone 1033',623,93.0145,1613.14,-3.40825,0,60,100,20,3.1415927,0,0,0,''),
-(10034,5875,'m425 quest zone 1034',623,505.464,1852.67,23.1552,0,8,8,8,3.1415927,0,0,0,''),
-(10035,5875,'m425 quest zone 1035',623,905.538,992.508,58.0245,0,150,80,10,3.461568,0,0,0,''),
-(10036,5875,'m425 quest zone 1036',623,1010.23,976.151,62.9021,0,190,40,8,3.461568,0,0,0,''),
-(10037,5875,'m425 quest zone 1037',623,1007.53,1026.06,62.8036,0,70,60,8,3.461568,0,0,0,''),
-(10038,5875,'m425 quest zone 1038',623,357.336,1059.76,25.0342,0,8,8,8,3.1415927,0,0,0,''),
-(10039,5875,'m425 quest zone 1039',623,104.509,1542.27,5.8052,0,8,8,8,3.1415927,0,0,0,''),
-(10040,5875,'m425 quest zone 1040',623,683.461,958.875,77.2932,0,8,8,8,3.1415927,0,0,0,''),
-(10041,5875,'m425 quest zone 1041',623,496.046,1645.2,-3.50077,0,200,100,20,2.7925267,0,0,0,'');
+(9524,5875,'m425 quest zone 524',604,-148.765,-354.595,35.9415,0,45,5,8,-0,0,0,0,''),
+(9525,5875,'m425 quest zone 525',601,2256.17,1297.16,12,0,35,15,8,4.6251254,0,0,0,''),
+(9526,5875,'m425 quest zone 526',604,51.8194,-575.597,-4.76641,0,8,8,8,-0,0,0,0,''),
+(9527,5875,'m425 quest zone 527',601,2359.06,858.042,8.30229,0,8,8,8,-0,0,0,0,''),
+(9528,5875,'m425 quest zone 528',601,2230.01,645.572,39,0,8,8,8,-0,0,0,0,''),
+(9529,5875,'m425 quest zone 529',601,2231.63,643.345,-4.9713,0,80,50,8,4.4505854,0,0,0,''),
+(9530,5875,'m425 quest zone 530',604,-1475.01,162.309,64,0,60,60,5,-0,0,0,0,''),
+(9531,5875,'m425 quest zone 531',604,-55.5319,-824.799,20,0,8,8,8,5.4686985,0,0,0,''),
+(9532,5875,'m425 quest zone 532',601,2351.49,1625.64,0.268096,0,8,8,8,-0,0,0,0,''),
+(9533,5875,'m425 quest zone 533',601,2291.39,1632.22,-13.1876,0,8,8,8,-0,0,0,0,''),
+(9534,5875,'m425 quest zone 534',601,1266.43,1564.86,10,0,8,8,8,-0,0,0,0,''),
+(9535,5875,'m425 quest zone 535',601,1289.48,1622.2,2.35323,0,8,8,8,-0,0,0,0,''),
+(9536,5875,'m425 quest zone 536',601,1317.41,1613.8,12.0138,0,8,8,8,-0,0,0,0,''),
+(9537,5875,'m425 quest zone 537',601,2507.59,976.063,20,0,8,8,8,-0,0,0,0,''),
+(9538,5875,'m425 quest zone 538',601,2515.8,1002.17,20.3122,0,8,8,8,-0,0,0,0,''),
+(9539,5875,'m425 quest zone 539',601,2563.3,984.69,20,0,22,35,8,4.5378556,0,0,0,''),
+(9540,5875,'m425 quest zone 540',601,2559.8,1006.65,20,0,8,8,8,-0,0,0,0,''),
+(9541,5875,'m425 quest zone 541',601,-277.792,1563.62,4.36192,0,8,8,8,-0,0,0,0,''),
+(9542,5875,'m425 quest zone 542',604,2028.54,-2542.49,3.24571,0,20,15,8,-0,0,0,0,''),
+(9543,5875,'m425 quest zone 543',604,-1929.53,805.24,4.61517,0,8,8,8,-0,0,0,0,''),
+(9544,5875,'m425 quest zone 544',601,1961.78,461.174,17.429,0,3,3,3,-0,0,0,0,''),
+(9545,5875,'m425 quest zone 545',601,2085.65,1097.11,-3.7781,0,3,3,3,-0,0,0,0,''),
+(9546,5875,'m425 quest zone 546',601,1813.79,1318.12,-4.5993,0,3,3,3,-0,0,0,0,''),
+(9547,5875,'m425 quest zone 547',604,1764.39,-2762.6,5.05607,0,3,3,3,-0,0,0,0,''),
+(9548,5875,'m425 quest zone 548',604,1234.11,-2749.77,39,0,3,3,3,-0,0,0,0,''),
+(9549,5875,'m425 quest zone 549',604,-1053.87,-587.046,20,0,2,2,2,-0,0,0,0,''),
+(9550,5875,'m425 quest zone 550',604,-1912.44,-251.686,55,0,2,2,2,-0,0,0,0,''),
+(9551,5875,'m425 quest zone 551',604,915.408,-2691.54,38.1265,0,3,3,3,-0,0,0,0,''),
+(9552,5875,'m425 quest zone 552',604,-1940.86,482.058,50,0,2,2,2,-0,0,0,0,''),
+(9553,5875,'m425 quest zone 553',601,-345.555,771.931,39.633,0,8,8,8,-0,0,0,0,''),
+(9554,5875,'m425 quest zone 554',604,1193.47,-2794.29,39.8071,0,8,8,8,-0,0,0,0,''),
+(9555,5875,'m425 quest zone 555',604,1744.37,-2775.64,7.0218,0,3,3,3,-0,0,0,0,''),
+(9556,5875,'m425 quest zone 556',604,-355.624,-1234.4,2,0,8,8,8,-0,0,0,0,''),
+(9557,5875,'m425 quest zone 557',601,2242.64,1487.48,-4.3841,0,8,8,8,5.1778054,0,0,0,''),
+(9558,5875,'m425 quest zone 558',601,815.003,1992.33,25,0,2,2,2,-0,0,0,0,''),
+(9559,5875,'m425 quest zone 559',601,2243.22,642.674,-3.6888,0,8,8,8,-0,0,0,0,''),
+(9560,5875,'m425 quest zone 560',601,18.9606,700.301,4,0,8,8,8,-0,0,0,0,''),
+(9561,5875,'m425 quest zone 561',604,775.872,-2678.81,106.038,0,10,12,4,2.8216155,0,0,0,''),
+(9562,5875,'m425 quest zone 562',604,526.111,-2437.13,36.8867,0,4,4,4,-0,0,0,0,''),
+(9563,5875,'m425 quest zone 563',601,-15.5994,1091.08,1.72367,0,2,2,4,-0,0,0,0,''),
+(9564,5875,'m425 quest zone 564',601,17.0399,1135.16,0.482772,0,4,4,4,-0,0,0,0,''),
+(9565,5875,'m425 quest zone 565',601,-12.4243,1127.7,1.42045,0,4,4,4,-0,0,0,0,''),
+(9566,5875,'m425 quest zone 566',604,1309.57,-2655.33,7.03667,0,180,100,30,-0,0,0,0,''),
+(9567,5875,'m425 quest zone 567',601,283.13,935.528,60,0,5,5,5,-0,0,0,0,''),
+(9568,5875,'m425 quest zone 568',601,-136.547,557.914,5.0553,0,2,2,2,-0,0,0,0,''),
+(9569,5875,'m425 quest zone 569',601,-132.337,546.765,4.90056,0,2,2,2,-0,0,0,0,''),
+(9570,5875,'m425 quest zone 570',601,-103.8,535.678,5.02322,0,2,2,2,-0,0,0,0,''),
+(9571,5875,'m425 quest zone 571',601,-135.928,585.225,5.13499,0,2,2,2,-0,0,0,0,''),
+(9572,5875,'m425 quest zone 572',601,-14.2294,1446.58,20.0663,0,4,4,4,-0,0,0,0,''),
+(9574,5875,'m425 quest zone 574',601,2205.02,724.207,-8.88146,0,50,80,8,5.9050317,0,0,0,''),
+(9575,5875,'m425 quest zone 575',604,396.268,-2385.33,5.66757,0,8,8,8,-0,0,0,0,''),
+(9577,5875,'m425 quest zone 577',604,431.669,-2437.26,4.28764,0,8,8,8,-0,0,0,0,''),
+(9578,5875,'m425 quest zone 578',613,-231.538,172.929,5.12028,0,4,4,4,-0,0,0,0,''),
+(9579,5875,'m425 quest zone 579',604,-2107.98,166.26,50,0,8,8,8,-0,0,0,0,''),
+(9580,5875,'m425 quest zone 580',601,1.32708,1214.03,4.89916,0,8,8,8,-0,0,0,0,''),
+(9581,5875,'m425 quest zone 581',601,6.20378,1273.92,5.54777,0,8,8,8,-0,0,0,0,''),
+(9582,5875,'m425 quest zone 582',604,-1320.06,-96.9565,0.000584717,0,8,8,8,-0,0,0,0,''),
+(9583,5875,'m425 quest zone 583',604,-162.818,-475.381,-11.3878,0,8,8,8,-0,0,0,0,''),
+(9584,5875,'m425 quest zone 584',604,-0.0804415,-373.109,18.5519,0,8,8,8,-0,0,0,0,''),
+(9585,5875,'m425 quest zone 585',604,-80.802,-386.837,2.32193,0,80,150,40,5.0323653,0,0,0,''),
+(9586,5875,'m425 quest zone 586',601,-570.047,1778.92,10.0108,0,8,8,8,-0,0,0,0,''),
+(9587,5875,'m425 quest zone 587',601,329.908,913.26,63.0587,0,8,8,8,-0,0,0,0,''),
+(9588,5875,'m425 quest zone 588',601,1957.1,425.797,1.88519,0,8,8,8,-0,0,0,0,''),
+(9589,5875,'m425 quest zone 589',604,127.098,-801.543,-5,0,8,8,8,-0,0,0,0,''),
+(9590,5875,'m425 quest zone 590',604,-784.841,-1237.85,11.7798,0,8,8,8,-0,0,0,0,''),
+(9591,5875,'m425 quest zone 591',604,24.6932,-582.764,-6.89765,0,8,8,8,-0,0,0,0,''),
+(9592,5875,'m425 quest zone 592',604,-301.815,-631.805,0,0,8,8,8,-0,0,0,0,''),
+(9593,5875,'m425 quest zone 593',601,582.121,2081.35,-19.9972,0,150,200,50,-0,0,0,0,''),
+(9594,5875,'m425 quest zone 594',604,280.473,-604.13,-0.48501,0,4,4,4,-0,0,0,0,''),
+(9595,5875,'m425 quest zone 595',601,1917.68,885.581,-7.31036,0,1,1,1,-0,0,0,0,''),
+(9596,5875,'m425 quest zone 596',607,8.48186,2723.17,5.5286,0,8,8,8,-0,0,0,0,''),
+(9597,5875,'m425 quest zone 597',601,1818.32,1207.94,2.13353,0,200,200,15,5.9050317,0,0,0,''),
+(9598,5875,'m425 quest zone 598',614,2348.56,642.077,1.2075,0,8,8,8,-0,0,0,0,''),
+(9599,5875,'m425 quest zone 599',601,589.908,2693.17,43.3021,0,8,8,8,-0,0,0,0,''),
+(9600,5875,'m425 quest zone 600',601,591.382,2696.41,39.0574,0,8,8,8,5.8177643,0,0,0,''),
+(9601,5875,'m425 quest zone 601',601,43.3926,2162.22,20.1729,0,8,8,8,-0,0,0,0,''),
+(9602,5875,'m425 quest zone 602',601,170.968,857.378,29.1314,0,4,4,4,-0,0,0,0,''),
+(9603,5875,'m425 quest zone 603',617,-155.387,122.549,-10,0,3,3,3,-0,0,0,0,''),
+(9607,5875,'m425 quest zone 607',604,1491.14,-1824.74,25.7241,0,10,10,8,-0,0,0,0,''),
+(9608,5875,'m425 quest zone 608',604,1295.26,-1808.09,15,0,6,6,6,-0,0,0,0,''),
+(9609,5875,'m425 quest zone 609',617,-293.404,-181.159,102.47,0,8,8,8,-0,0,0,0,''),
+(9610,5875,'m425 quest zone 610',604,1033.11,-1901.47,2.51919,0,8,8,8,-0,0,0,0,''),
+(9611,5875,'m425 quest zone 611',604,903.911,-2777.48,20.1958,0,60,70,10,2.3561954,0,0,0,''),
+(9612,5875,'m425 quest zone 612',604,780.165,-2698.36,93,0,65,60,20,-0,0,0,0,''),
+(9613,5875,'m425 quest zone 613',604,898.7,-2679.56,38.8306,0,25,25,8,-0,0,0,0,''),
+(9614,5875,'m425 quest zone 614',604,814.325,-2472.39,54.6184,0,8,8,8,-0,0,0,0,''),
+(9615,5875,'m425 quest zone 615',604,812.343,-2482.26,54.7386,0,8,8,8,-0,0,0,0,''),
+(9616,5875,'m425 quest zone 616',601,1366.68,1325.27,-10.4863,0,8,8,8,-0,0,0,0,''),
+(9617,5875,'m425 quest zone 617',601,1860.19,1494.3,9.14393,0,6,6,4,-0,0,0,0,''),
+(9618,5875,'m425 quest zone 618',601,1187.08,1318.96,17.3253,0,4,4,4,-0,0,0,0,''),
+(9619,5875,'m425 quest zone 619',601,1487.82,1343.6,1.62852,0,8,8,8,-0,0,0,0,''),
+(9620,5875,'m425 quest zone 620',601,1530.79,1496.69,-3.10719,0,8,8,8,-0,0,0,0,''),
+(9621,5875,'m425 quest zone 621',604,1893.48,-2787.51,30,0,8,8,8,-0,0,0,0,''),
+(9622,5875,'m425 quest zone 622',604,1977.71,-2756.44,26.1583,0,50,40,8,-0,0,0,0,''),
+(9623,5875,'m425 quest zone 623',604,1852.12,-2768.37,4.40996,0,4,4,4,-0,0,0,0,''),
+(9624,5875,'m425 quest zone 624',604,1753.66,-2851.49,30.8847,0,8,8,8,-0,0,0,0,''),
+(9625,5875,'m425 quest zone 625',604,1845.57,-2795.33,4.357,0,8,8,8,-0,0,0,0,''),
+(9626,5875,'m425 quest zone 626',604,2210.14,-2677.42,39,0,8,8,8,-0,0,0,0,''),
+(9627,5875,'m425 quest zone 627',604,2012.53,-2683.89,41.2053,0,4,4,4,4.3051453,0,0,0,''),
+(9628,5875,'m425 quest zone 628',604,2201.27,-2663.19,37.8025,0,8,8,8,-0,0,0,0,''),
+(9629,5875,'m425 quest zone 629',604,509.059,-2436.76,35,0,8,8,8,-0,0,0,0,''),
+(9630,5875,'m425 quest zone 630',604,608.531,-2400.36,60.4785,0,8,8,8,-0,0,0,0,''),
+(9631,5875,'m425 quest zone 631',601,1575.86,1597.95,0,0,60,60,8,-0,0,0,0,''),
+(9632,5875,'m425 quest zone 632',601,1563.02,1628.07,0.141929,0,120,120,8,-0,0,0,0,''),
+(9633,5875,'m425 quest zone 633',604,2447.87,-2445.18,4.81366,0,90,220,8,-0,0,0,0,''),
+(9634,5875,'m425 quest zone 634',609,9.39137,-24.3053,-9.28822,0,40,20,10,-0,0,0,0,''),
+(9635,5875,'m425 quest zone 635',609,33.7292,27.0227,-10,0,30,20,8,-0,0,0,0,''),
+(9636,5875,'m425 quest zone 636',609,-14.8621,2.03899,-10,0,20,15,8,-0,0,0,0,''),
+(9637,5875,'m425 quest zone 637',609,40.8052,-15.3589,-10,0,15,15,8,-0,0,0,0,''),
+(9638,5875,'m425 quest zone 638',609,-45.3521,27.7522,-10,0,8,8,8,-0,0,0,0,''),
+(9639,5875,'m425 quest zone 639',601,164.423,856.6,29,0,4,4,4,-0,0,0,0,''),
+(9640,5875,'m425 quest zone 640',601,1790.67,314.763,3.1841,0,120,150,8,-0,0,0,0,''),
+(9644,5875,'m425 quest zone 644',604,-564.821,-1440.45,0.316439,0,100,110,8,5.7886753,0,0,0,''),
+(9645,5875,'m425 quest zone 645',604,-1635.02,695.107,48.3214,0,300,130,8,-0,0,0,0,''),
+(9646,5875,'m425 quest zone 646',601,494.951,1696.84,3.14071,0,180,300,8,-0,0,0,0,''),
+(9647,5875,'m425 quest zone 647',604,536.776,-2275.28,9.4301,0,20,40,8,6.1377406,0,0,0,''),
+(9648,5875,'m425 quest zone 648',604,-1902.75,255.233,0.379381,0,4,4,4,-0,0,0,0,''),
+(9649,5875,'m425 quest zone 649',604,-1912.91,266.552,0.379527,0,4,4,4,-0,0,0,0,''),
+(9650,5875,'m425 quest zone 650',604,-1852.8,171.704,-6.43231,0,8,8,8,-0,0,0,0,''),
+(9651,5875,'m425 quest zone 651',604,-1946.96,453.093,49.1079,0,3,3,3,-0,0,0,0,''),
+(9652,5875,'m425 quest zone 652',604,-1989.74,207.983,29.5827,0,120,100,20,-0,0,0,0,''),
+(9653,5875,'m425 quest zone 653',601,2110.34,1574.62,-30.7157,0,8,8,8,-0,0,0,0,''),
+(9654,5875,'m425 quest zone 654',604,-1740.91,110.161,9.13528,0,8,8,8,-0,0,0,0,''),
+(9655,5875,'m425 quest zone 655',604,-1676.76,120.242,22.7026,0,8,8,8,-0,0,0,0,''),
+(9656,5875,'m425 quest zone 656',604,1167.6,-2158.7,5.3681,0,8,8,8,5.6141424,0,0,0,''),
+(9660,5875,'m425 quest zone 660',618,842.583,-1503.51,27.2431,0,20,20,8,-0,0,0,0,''),
+(9661,5875,'m425 quest zone 661',618,887.196,-1343.54,17.0186,0,25,25,8,-0,0,0,0,''),
+(9662,5875,'m425 quest zone 662',618,888.179,-1343.73,17.0045,0,8,8,8,-0,0,0,0,''),
+(9663,5875,'m425 quest zone 663',604,965.82,-2919.06,4.66598,0,2,2,2,-0,0,0,0,''),
+(9664,5875,'m425 quest zone 664',604,1000.38,-2837.18,2.22934,0,90,70,8,-0,0,0,0,''),
+(9665,5875,'m425 quest zone 665',604,1103.52,-2962.38,4.40246,0,60,80,20,-0,0,0,0,''),
+(9666,5875,'m425 quest zone 666',604,978.011,-2909.1,4.08977,0,4,4,8,-0,0,0,0,''),
+(9667,5875,'m425 quest zone 667',604,1033.9,-3080.32,5.20447,0,6,4,4,-0,0,0,0,''),
+(9668,5875,'m425 quest zone 668',604,964.19,-3178.65,13.0505,0,4,4,4,-0,0,0,0,''),
+(9669,5875,'m425 quest zone 669',604,974.448,-2969.13,4.37896,0,60,40,10,-0,0,0,0,''),
+(9670,5875,'m425 quest zone 670',604,1039.17,-3134.14,-0.645684,0,120,80,8,-0,0,0,0,''),
+(9671,5875,'m425 quest zone 671',604,1067.27,-3214.26,18.4062,0,8,8,8,-0,0,0,0,''),
+(9672,5875,'m425 quest zone 672',604,1103.51,-2901.1,25.5452,0,8,8,8,-0,0,0,0,''),
+(9673,5875,'m425 quest zone 673',613,-69.6361,120.127,5,0,8,8,8,-0,0,0,0,''),
+(9674,5875,'m425 quest zone 674',601,167.811,855.479,29,0,4,4,4,-0,0,0,0,''),
+(9675,5875,'m425 quest zone 675',613,-199.849,107.125,-12.5,0,8,4,4,-0,0,0,0,''),
+(9676,5875,'m425 quest zone 676',613,-187.706,252.201,5.13673,0,4,4,4,-0,0,0,0,''),
+(9677,5875,'m425 quest zone 677',613,-28.7593,170.894,-5,0,4,4,4,-0,0,0,0,''),
+(9678,5875,'m425 quest zone 678',604,180.157,-1078.48,0,0,4,4,4,-0,0,0,0,''),
+(9679,5875,'m425 quest zone 679',604,80.7345,-1088.46,0,0,3,3,3,-0,0,0,0,''),
+(9680,5875,'m425 quest zone 680',604,78.9217,-1085.27,0,0,3,3,3,-0,0,0,0,''),
+(9681,5875,'m425 quest zone 681',604,115.956,-1127.88,1.01361,0,3,3,3,-0,0,0,0,''),
+(9682,5875,'m425 quest zone 682',604,21.2807,-580.5,-5,0,8,8,8,-0,0,0,0,''),
+(9683,5875,'m425 quest zone 683',604,239.944,-609.078,0,0,6,6,6,-0,0,0,0,''),
+(9684,5875,'m425 quest zone 684',604,237.547,-624.847,-1,0,16,16,8,-0,0,0,0,''),
+(9685,5875,'m425 quest zone 685',604,1.57967,-648.315,0.0786209,0,8,8,8,-0,0,0,0,''),
+(9686,5875,'m425 quest zone 686',604,-601.761,-850.233,0,0,8,8,8,-0,0,0,0,''),
+(9687,5875,'m425 quest zone 687',604,-567.271,-718.533,1.81864,0,8,8,8,-0,0,0,0,''),
+(9688,5875,'m425 quest zone 688',604,-253.048,-399.624,12,0,8,8,8,-0,0,0,0,''),
+(9689,5875,'m425 quest zone 689',604,-31.6836,-579.276,-5,0,15,6,8,-0,0,0,0,''),
+(9690,5875,'m425 quest zone 690',619,789.092,-1091.01,-68.582,0,12,12,8,-0,0,0,0,''),
+(9691,5875,'m425 quest zone 691',604,129.046,-1193.05,7.67723,0,4,4,4,-0,0,0,0,''),
+(9692,5875,'m425 quest zone 692',601,163.333,853.912,29.0498,0,4,4,4,-0,0,0,0,''),
+(9693,5875,'m425 quest zone 693',604,102.178,-636.069,-1.82839,0,80,60,20,-0,0,0,0,''),
+(9694,5875,'m425 quest zone 694',604,211.716,-701.639,1.27192,0,80,90,10,-0,0,0,0,''),
+(9695,5875,'m425 quest zone 695',604,235.88,-586.817,0,0,5,5,5,-0,0,0,0,''),
+(9696,5875,'m425 quest zone 696',604,-198.703,-597.807,3.45116,0,8,8,8,-0,0,0,0,''),
+(9697,5875,'m425 quest zone 697',613,-186.97,228.442,4.57226,0,3,3,3,-0,0,0,0,''),
+(9698,5875,'m425 quest zone 698',613,-128.435,345.399,-6.02152,0,3,3,3,-0,0,0,0,''),
+(9699,5875,'m425 quest zone 699',613,-189.298,-43.048,9.76563,0,3,3,4,-0,0,0,0,''),
+(9700,5875,'m425 quest zone 700',604,-1851.53,-156.26,9.68987,0,3,3,3,-0,0,0,0,''),
+(9701,5875,'m425 quest zone 701',613,-85.2371,116.828,5,0,3,3,3,-0,0,0,0,''),
+(9702,5875,'m425 quest zone 702',620,-524.716,-2416.41,145.773,0,4,4,4,-0,0,0,0,''),
+(9703,5875,'m425 quest zone 703',620,-555.433,-2212.79,200.613,0,4,4,4,-0,0,0,0,''),
+(9704,5875,'m425 quest zone 704',620,-535.357,-2248.05,152.696,0,70,20,40,-0,0,0,0,''),
+(9705,5875,'m425 quest zone 705',620,-547.372,-2212.9,200.246,0,4,4,4,-0,0,0,0,''),
+(9706,5875,'m425 quest zone 706',620,-409.595,-2099.67,224.396,0,4,4,4,-0,0,0,0,''),
+(9707,5875,'m425 quest zone 707',620,-489.737,-1914.6,196.544,0,4,4,4,-0,0,0,0,''),
+(9708,5875,'m425 quest zone 708',620,-494.069,-2152.08,207.734,0,80,100,8,4.1015253,0,0,0,''),
+(9709,5875,'m425 quest zone 709',620,-461.497,-1823.92,188.838,0,112,72,40,-0,0,0,0,''),
+(9710,5875,'m425 quest zone 710',620,-640.75,-1776.1,219.673,0,8,8,8,-0,0,0,0,''),
+(9711,5875,'m425 quest zone 711',620,-769.759,-1739.8,219.618,0,4,4,8,-0,0,0,0,''),
+(9712,5875,'m425 quest zone 712',620,-989.398,-1636.02,235.101,0,4,4,4,-0,0,0,0,''),
+(9713,5875,'m425 quest zone 713',620,-905.152,-1510.3,240,0,4,4,4,-0,0,0,0,''),
+(9714,5875,'m425 quest zone 714',620,-534.254,-1457.68,292,0,4,4,4,-0,0,0,0,''),
+(9715,5875,'m425 quest zone 715',620,-460.37,-1425.59,295.284,0,3,3,3,-0,0,0,0,''),
+(9716,5875,'m425 quest zone 716',620,-545.864,-1427.19,292,0,3,3,3,-0,0,0,0,''),
+(9717,5875,'m425 quest zone 717',606,-603.01,667.06,34.847,0,3,3,3,-0,0,0,0,''),
+(9718,5875,'m425 quest zone 718',620,-156.329,-1117.17,-10,0,4,4,4,-0,0,0,0,''),
+(9719,5875,'m425 quest zone 719',606,-562.604,723.214,17.002,0,90,140,15,4.516815,0,0,0,''),
+(9720,5875,'m425 quest zone 720',606,-433.568,595.768,6.3505,0,150,150,25,-0,0,0,0,''),
+(9721,5875,'m425 quest zone 721',606,-489.871,605.705,20.2798,0,8,8,8,-0,0,0,0,''),
+(9722,5875,'m425 quest zone 722',606,-512.136,671.71,20,0,8,8,8,-0,0,0,0,''),
+(9723,5875,'m425 quest zone 723',606,-385.882,557.94,20.1477,0,8,8,8,-0,0,0,0,''),
+(9724,5875,'m425 quest zone 724',606,-218.938,681.051,18.5,0,8,8,8,-0,0,0,0,''),
+(9725,5875,'m425 quest zone 725',606,-174.531,848.446,21.3,0,8,8,8,-0,0,0,0,''),
+(9726,5875,'m425 quest zone 726',606,-239.012,850.653,20.6055,0,60,80,8,6.0504746,0,0,0,''),
+(9727,5875,'m425 quest zone 727',606,-294.82,912.742,20.8299,0,180,40,8,6.225006,0,0,0,''),
+(9728,5875,'m425 quest zone 728',606,-285.845,869.658,38.8216,0,8,8,8,-0,0,0,0,''),
+(9729,5875,'m425 quest zone 729',606,-339.575,813.127,35.0735,0,8,8,8,-0,0,0,0,''),
+(9730,5875,'m425 quest zone 730',606,-554.939,599.252,33,0,8,8,8,-0,0,0,0,''),
+(9731,5875,'m425 quest zone 731',606,-290.283,627.139,16.2028,0,70,100,8,6.0504746,0,0,0,''),
+(9732,5875,'m425 quest zone 732',604,520.888,-1432.71,30.2785,0,8,8,8,-0,0,0,0,''),
+(9733,5875,'m425 quest zone 733',604,635.6,-1324.8,49.2823,0,80,80,8,4.8490458,0,0,0,''),
+(9734,5875,'m425 quest zone 734',604,517.263,-1379.76,39.0148,0,8,8,8,-0,0,0,0,''),
+(9735,5875,'m425 quest zone 735',604,526.552,-1377.25,39.0105,0,8,8,8,-0,0,0,0,''),
+(9736,5875,'m425 quest zone 736',604,664.187,-1278.76,55.4202,0,8,8,8,-0,0,0,0,''),
+(9737,5875,'m425 quest zone 737',604,665.481,-1295.14,53.8621,0,50,90,8,0.7563057,0,0,0,''),
+(9738,5875,'m425 quest zone 738',604,710.116,-1241.29,40.1155,0,80,80,8,6.1377406,0,0,0,''),
+(9739,5875,'m425 quest zone 739',606,-245.608,822.309,21.0945,0,90,40,8,6.1086516,0,0,0,''),
+(9740,5875,'m425 quest zone 740',606,-242.513,711.796,18.5239,0,30,150,8,6.0795646,0,0,0,''),
+(9741,5875,'m425 quest zone 741',606,-477.439,609.207,-8.93089,0,60,60,35,-0,0,0,0,''),
+(9742,5875,'m425 quest zone 742',620,-1003.19,-1585.83,237.293,0,150,150,8,5.2941656,0,0,0,''),
+(9743,5875,'m425 quest zone 743',604,522.657,-1391.68,39.0389,0,8,8,8,-0,0,0,0,''),
+(9744,5875,'m425 quest zone 744',604,-579.658,-766.703,12,0,4,4,4,-0,0,0,0,''),
+(9745,5875,'m425 quest zone 745',604,-1408.17,-424.628,-3,0,4,4,4,-0,0,0,0,''),
+(9746,5875,'m425 quest zone 746',604,-1416.17,-147.502,14,0,4,4,4,-0,0,0,0,''),
+(9747,5875,'m425 quest zone 747',604,-1464.43,194.348,64,0,4,4,4,-0,0,0,0,''),
+(9748,5875,'m425 quest zone 748',604,-1761.95,386.297,10.3403,0,4,4,4,-0,0,0,0,''),
+(9749,5875,'m425 quest zone 749',620,-396.841,-1634.67,216.843,0,4,4,4,-0,0,0,0,''),
+(9750,5875,'m425 quest zone 750',620,-384.678,-1993.84,200,0,4,4,4,-0,0,0,0,''),
+(9751,5875,'m425 quest zone 751',620,-510.978,-1464.71,292,0,40,20,8,-0,0,0,0,''),
+(9752,5875,'m425 quest zone 752',604,656.618,-1325.1,50.7289,0,8,8,8,-0,0,0,0,''),
+(9753,5875,'m425 quest zone 753',606,-323.819,64.9613,39.5034,0,100,80,8,-0,0,0,0,''),
+(9754,5875,'m425 quest zone 754',606,-221.699,65.8552,31.1053,0,8,8,8,-0,0,0,0,''),
+(9755,5875,'m425 quest zone 755',606,-508.453,-54.4503,54.817,0,8,8,8,-0,0,0,0,''),
+(9756,5875,'m425 quest zone 756',606,-301.669,-57.6282,36.547,0,8,8,8,5.4977875,0,0,0,''),
+(9757,5875,'m425 quest zone 757',606,-511.321,-51.9891,55.0096,0,8,8,8,5.7014093,0,0,0,''),
+(9758,5875,'m425 quest zone 758',606,-350.263,-78.5465,33.6466,0,70,60,30,5.4105206,0,0,0,''),
+(9759,5875,'m425 quest zone 759',606,-376.06,-116.774,53.842,0,8,8,8,-0,0,0,0,''),
+(9760,5875,'m425 quest zone 760',606,-419.015,247.967,49.9445,0,8,8,8,-0,0,0,0,''),
+(9761,5875,'m425 quest zone 761',606,-279.664,227.91,50,0,8,8,8,-0,0,0,0,''),
+(9762,5875,'m425 quest zone 762',606,-373.473,376.726,75.699,0,8,8,8,3.9851656,0,0,0,''),
+(9763,5875,'m425 quest zone 763',606,-369.396,300.433,46.7121,0,150,75,40,5.7595863,0,0,0,''),
+(9764,5875,'m425 quest zone 764',606,-319.879,219.336,50.356,0,8,8,8,-0,0,0,0,''),
+(9765,5875,'m425 quest zone 765',606,-515.072,205.427,50,0,8,8,8,-0,0,0,0,''),
+(9766,5875,'m425 quest zone 766',606,-376.339,-117.155,53.8075,0,8,8,8,-0,0,0,0,''),
+(9767,5875,'m425 quest zone 767',606,-390.833,162.794,53.2482,0,8,8,8,-0,0,0,0,''),
+(9768,5875,'m425 quest zone 768',606,-481.686,82.8137,52.2045,0,50,50,8,-0,0,0,0,''),
+(9769,5875,'m425 quest zone 769',606,171.908,797.189,-6.48529,0,8,8,8,-0,0,0,0,''),
+(9770,5875,'m425 quest zone 770',606,5.21066,865.299,-9.89233,0,8,8,8,-0,0,0,0,''),
+(9771,5875,'m425 quest zone 771',606,5.13882,858.712,-9.86857,0,8,8,8,-0,0,0,0,''),
+(9772,5875,'m425 quest zone 772',606,21.0584,869.017,33.1943,0,8,8,8,-0,0,0,0,''),
+(9773,5875,'m425 quest zone 773',606,0.71279,921.155,24.7488,0,8,8,8,-0,0,0,0,''),
+(9774,5875,'m425 quest zone 774',606,-39.1682,885.271,-9.88105,0,8,8,8,-0,0,0,0,''),
+(9775,5875,'m425 quest zone 775',606,89.5761,899.352,-9.60057,0,10,30,50,-0,0,0,0,''),
+(9776,5875,'m425 quest zone 776',606,-5.42392,911.641,-10.0568,0,40,50,40,-0,0,0,0,''),
+(9777,5875,'m425 quest zone 777',606,53.7609,784.486,0,0,30,20,8,-0,0,0,0,''),
+(9778,5875,'m425 quest zone 778',606,205.018,841.262,-6.88748,0,20,30,8,-0,0,0,0,''),
+(9779,5875,'m425 quest zone 779',606,181.651,917.636,-6.94941,0,15,28,8,-0,0,0,0,''),
+(9780,5875,'m425 quest zone 780',606,149.841,956.592,-6.47939,0,8,30,8,5.5559654,0,0,0,''),
+(9781,5875,'m425 quest zone 781',606,117.294,980.544,-6.79724,0,25,8,8,5.5268764,0,0,0,''),
+(9782,5875,'m425 quest zone 782',606,103.369,750.483,-6.85965,0,8,8,8,-0,0,0,0,''),
+(9783,5875,'m425 quest zone 783',606,195.403,876.433,-6.45732,0,8,8,8,-0,0,0,0,''),
+(9784,5875,'m425 quest zone 784',606,151.891,946.543,-6.93845,0,8,8,8,-0,0,0,0,''),
+(9785,5875,'m425 quest zone 785',606,-510.969,-41.6162,55.1417,0,20,8,8,-0,0,0,0,''),
+(9786,5875,'m425 quest zone 786',606,-521.026,-71.2302,55.9436,0,20,20,8,-0,0,0,0,''),
+(9787,5875,'m425 quest zone 787',606,-24.6117,857.245,-7.7753,0,4,4,8,-0,0,0,0,''),
+(9788,5875,'m425 quest zone 788',606,-255.247,821.867,20.0183,0,70,20,8,5.7304974,0,0,0,''),
+(9789,5875,'m425 quest zone 789',606,-230.336,804.266,22.1041,0,8,8,8,-0,0,0,0,''),
+(9790,5875,'m425 quest zone 790',606,-286.198,837.168,20.6303,0,4,4,4,-0,0,0,0,''),
+(9791,5875,'m425 quest zone 791',606,125.248,9.80813,45,0,8,8,8,-0,0,0,0,''),
+(9792,5875,'m425 quest zone 792',606,283.615,53.4663,20.7566,0,40,200,8,0.11635542,0,0,0,''),
+(9794,5875,'m425 quest zone 794',606,144.168,-61.9783,45,0,8,8,8,-0,0,0,0,''),
+(9795,5875,'m425 quest zone 795',606,99.4206,-70.7339,34.7737,0,8,8,8,-0,0,0,0,''),
+(9796,5875,'m425 quest zone 796',606,70.6687,0.419502,35,0,8,8,8,-0,0,0,0,''),
+(9797,5875,'m425 quest zone 797',606,69.6352,-94.5986,33.7352,0,8,8,8,-0,0,0,0,''),
+(9799,5875,'m425 quest zone 799',606,-59.1248,-32.6017,33.4438,0,100,80,8,-0,0,0,0,''),
+(9800,5875,'m425 quest zone 800',606,-68.8885,65.123,45.4443,0,40,40,20,-0,0,0,0,''),
+(9801,5875,'m425 quest zone 801',606,39.7122,89.4276,33.2298,0,8,8,8,-0,0,0,0,''),
+(9802,5875,'m425 quest zone 802',606,108.773,302.9,20,0,8,8,8,-0,0,0,0,''),
+(9803,5875,'m425 quest zone 803',606,103.834,224.997,25,0,40,30,8,-0,0,0,0,''),
+(9804,5875,'m425 quest zone 804',606,180.48,247.248,25,0,30,40,8,-0,0,0,0,''),
+(9805,5875,'m425 quest zone 805',606,278.979,183.349,20.4762,0,8,8,8,-0,0,0,0,''),
+(9806,5875,'m425 quest zone 806',606,402,372.235,49.3326,0,8,8,8,-0,0,0,0,''),
+(9807,5875,'m425 quest zone 807',606,407.535,445.044,20,0,60,30,8,-0,0,0,0,''),
+(9808,5875,'m425 quest zone 808',606,407.66,313.873,20.2181,0,60,30,8,-0,0,0,0,''),
+(9809,5875,'m425 quest zone 809',606,200.649,307.231,25.9316,0,8,8,8,-0,0,0,0,''),
+(9810,5875,'m425 quest zone 810',606,8.32627,-485.794,32,0,8,8,8,-0,0,0,0,''),
+(9811,5875,'m425 quest zone 811',606,71.6279,-461.561,34.708,0,40,40,8,-0,0,0,0,''),
+(9812,5875,'m425 quest zone 812',606,398.59,-606.09,70,0,40,80,8,5.5559654,0,0,0,''),
+(9814,5875,'m425 quest zone 814',606,478.771,-457.901,70,0,30,60,8,-0,0,0,0,''),
+(9815,5875,'m425 quest zone 815',606,356.618,-509.733,49.7479,0,8,8,8,-0,0,0,0,''),
+(9816,5875,'m425 quest zone 816',606,344.24,-413.652,50.0556,0,8,30,8,5.6723204,0,0,0,''),
+(9817,5875,'m425 quest zone 817',606,164.783,-574.101,48,0,8,8,8,-0,0,0,0,''),
+(9818,5875,'m425 quest zone 818',606,152.472,-630.824,50.6571,0,8,8,8,-0,0,0,0,''),
+(9819,5875,'m425 quest zone 819',606,30.5412,-490.521,32,0,8,8,8,-0,0,0,0,''),
+(9820,5875,'m425 quest zone 820',606,125.735,-594.604,43.2196,0,60,60,8,-0,0,0,0,''),
+(9821,5875,'m425 quest zone 821',606,462.333,-652.349,78.9804,0,50,50,8,-0,0,0,0,''),
+(9822,5875,'m425 quest zone 822',606,291.128,-613.154,60,0,40,40,8,5.5559654,0,0,0,''),
+(9823,5875,'m425 quest zone 823',606,388.166,-529.715,60,0,20,40,8,5.4686985,0,0,0,''),
+(9824,5875,'m425 quest zone 824',606,435.542,-380.104,60,0,40,60,8,-0,0,0,0,''),
+(9825,5875,'m425 quest zone 825',606,394.17,-245.564,58.0637,0,40,40,8,-0,0,0,0,''),
+(9826,5875,'m425 quest zone 826',606,286.486,-672.152,60,0,8,8,8,-0,0,0,0,''),
+(9827,5875,'m425 quest zone 827',606,254.564,-272.131,56.8893,0,200,60,20,-0,0,0,0,''),
+(9828,5875,'m425 quest zone 828',606,371.724,-485.46,50.0266,0,8,8,8,-0,0,0,0,''),
+(9829,5875,'m425 quest zone 829',606,231.195,-250.968,80.6119,0,8,8,8,-0,0,0,0,''),
+(9830,5875,'m425 quest zone 830',606,164.475,-272.331,80.9432,0,8,8,8,-0,0,0,0,''),
+(9831,5875,'m425 quest zone 831',606,200.874,-312.186,80.3809,0,8,8,8,-0,0,0,0,''),
+(9832,5875,'m425 quest zone 832',606,221.632,-275.866,67.3589,0,8,8,8,-0,0,0,0,''),
+(9833,5875,'m425 quest zone 833',606,203.364,-275.155,79.6929,0,15,15,8,-0,0,0,0,''),
+(9834,5875,'m425 quest zone 834',606,35.6827,-479.162,32,0,8,8,8,-0,0,0,0,''),
+(9836,5875,'m425 quest zone 836',604,515.588,-1388.06,38.9994,0,8,8,8,-0,0,0,0,''),
+(9837,5875,'m425 quest zone 837',606,-20.9257,868.531,-7.03492,0,4,4,4,-0,0,0,0,''),
+(9838,5875,'m425 quest zone 838',606,361.158,469.985,43.3211,0,8,8,8,-0,0,0,0,''),
+(9839,5875,'m425 quest zone 839',606,383.63,-497.38,50,0,8,8,8,-0,0,0,0,''),
+(9840,5875,'m425 quest zone 840',606,312.956,-221.227,66.4077,0,8,8,8,-0,0,0,0,''),
+(9841,5875,'m425 quest zone 841',606,-81.5993,80.7024,60,0,8,8,8,-0,0,0,0,''),
+(9842,5875,'m425 quest zone 842',606,527.16,384.184,30.585,0,60,30,8,4.7414756,0,0,0,''),
+(9843,5875,'m425 quest zone 843',606,419.417,292.98,43.3211,0,60,20,8,-0,0,0,0,''),
+(9844,5875,'m425 quest zone 844',606,-332.442,808.308,35.3227,0,2,2,2,-0,0,0,0,''),
+(9845,5875,'m425 quest zone 845',604,-1523.12,250.082,50.3433,0,8,8,8,-0,0,0,0,''),
+(9846,5875,'m425 quest zone 846',604,585.965,-1520.96,4.84054,0,8,8,8,-0,0,0,0,''),
+(9847,5875,'m425 quest zone 847',604,548.586,-1494.3,32.3581,0,8,20,8,5.5268764,0,0,0,''),
+(9848,5875,'m425 quest zone 848',606,-281.471,842.204,20.7079,0,4,4,4,-0,0,0,0,''),
+(9849,5875,'m425 quest zone 849',606,-260.376,820.751,20.025,0,4,4,4,-0,0,0,0,''),
+(9850,5875,'m425 quest zone 850',606,195.483,832.169,-6.52627,0,8,8,8,-0,0,0,0,''),
+(9851,5875,'m425 quest zone 851',606,183.731,904.1,-7.45144,0,8,8,8,-0,0,0,0,''),
+(9852,5875,'m425 quest zone 852',606,158.157,966.705,-6.35037,0,8,8,8,-0,0,0,0,''),
+(9853,5875,'m425 quest zone 853',606,137.708,944.611,-6.5581,0,8,8,8,-0,0,0,0,''),
+(9854,5875,'m425 quest zone 854',606,-662.786,-297.657,25,0,250,200,43,-0,0,0,0,''),
+(9855,5875,'m425 quest zone 855',606,-585.48,-372.854,51.7538,0,8,8,8,-0,0,0,0,''),
+(9856,5875,'m425 quest zone 856',606,-670.721,-351.548,29.4681,0,50,150,45,4.3366756,0,0,0,''),
+(9857,5875,'m425 quest zone 857',606,-637.27,-297.152,46.7217,0,40,40,8,-0,0,0,0,''),
+(9858,5875,'m425 quest zone 858',606,-637.504,-296.631,49.4859,0,8,8,8,-0,0,0,0,''),
+(9859,5875,'m425 quest zone 859',606,-504.665,-369.869,45,0,8,8,8,-0,0,0,0,''),
+(9860,5875,'m425 quest zone 860',606,-497.545,-376.333,45,0,8,8,8,-0,0,0,0,''),
+(9861,5875,'m425 quest zone 861',606,-76.415,-1424.81,37.2394,0,8,8,8,-0,0,0,0,''),
+(9862,5875,'m425 quest zone 862',606,-300.727,-218.707,74.0377,0,8,8,8,-0,0,0,0,''),
+(9863,5875,'m425 quest zone 863',606,-335.191,-197.275,59.7834,0,45,86,15,5.7886753,0,0,0,''),
+(9864,5875,'m425 quest zone 864',606,-371.553,-312.437,59.971,0,40,175,30,6.0795636,0,0,0,''),
+(9865,5875,'m425 quest zone 865',606,-322.558,-400.016,68,0,58,115,24,3.8397255,0,0,0,''),
+(9866,5875,'m425 quest zone 866',606,-335.906,-410.306,67.0945,0,30,125,22,3.8979056,0,0,0,''),
+(9867,5875,'m425 quest zone 867',606,-295.477,-209.519,75.4656,0,8,8,8,-0,0,0,0,''),
+(9868,5875,'m425 quest zone 868',606,-195.805,-420.907,86.8605,0,8,8,8,5.0905457,0,0,0,''),
+(9869,5875,'m425 quest zone 869',606,-270.187,-213.117,74.1124,0,8,8,8,-0,0,0,0,''),
+(9870,5875,'m425 quest zone 870',606,-233.69,-244.579,75,0,8,8,8,-0,0,0,0,''),
+(9871,5875,'m425 quest zone 871',606,-255.781,-247.876,75,0,8,8,8,-0,0,0,0,''),
+(9872,5875,'m425 quest zone 872',606,-248.612,-195.776,75.1708,0,8,8,8,-0,0,0,0,''),
+(9873,5875,'m425 quest zone 873',604,190.057,-1298.47,12.1537,0,8,8,8,-0,0,0,0,''),
+(9874,5875,'m425 quest zone 874',604,227.591,-1392.91,-2.75479,0,80,105,8,3.6361055,0,0,0,''),
+(9875,5875,'m425 quest zone 875',604,326.464,-1392.69,16.5393,0,40,70,8,-0,0,0,0,''),
+(9876,5875,'m425 quest zone 876',604,295.321,-1321.34,7.74959,0,100,50,30,-0,0,0,0,''),
+(9877,5875,'m425 quest zone 877',604,208.969,-1296.32,12.16,0,8,8,8,-0,0,0,0,''),
+(9878,5875,'m425 quest zone 878',604,188.896,-1472.52,-10.7412,0,60,64,8,6.225006,0,0,0,''),
+(9879,5875,'m425 quest zone 879',604,198.275,-1309.58,11.6036,0,8,8,8,-0,0,0,0,''),
+(9880,5875,'m425 quest zone 880',604,333.994,-1339.91,17.1156,0,40,30,20,-0,0,0,0,''),
+(9881,5875,'m425 quest zone 881',604,340.054,-1450.89,17.9061,0,40,30,20,-0,0,0,0,''),
+(9882,5875,'m425 quest zone 882',604,259.172,-1483.28,32.2394,0,8,8,8,-0,0,0,0,''),
+(9883,5875,'m425 quest zone 883',604,249.115,-1148.7,-85.7991,0,8,8,8,-0,0,0,0,''),
+(9884,5875,'m425 quest zone 884',606,-112.199,-786.163,50.394,0,40,40,4,-0,0,0,0,''),
+(9885,5875,'m425 quest zone 885',606,-55.0056,-657.417,29.1713,0,40,160,15,3.6651955,0,0,0,''),
+(9886,5875,'m425 quest zone 886',606,-195.813,-683.442,28.59,0,60,170,15,6.0213866,0,0,0,''),
+(9887,5875,'m425 quest zone 887',606,-121.821,-686.939,26.2065,0,180,100,15,-0,0,0,0,''),
+(9888,5875,'m425 quest zone 888',606,-18.2347,-896.358,52.1708,0,150,150,20,-0,0,0,0,''),
+(9889,5875,'m425 quest zone 889',606,-70.8099,-941.059,69.7832,0,8,8,8,-0,0,0,0,''),
+(9890,5875,'m425 quest zone 890',606,-259.568,-1015.41,63,0,8,8,8,-0,0,0,0,''),
+(9891,5875,'m425 quest zone 891',606,-113.781,-776.22,50,0,8,8,8,-0,0,0,0,''),
+(9892,5875,'m425 quest zone 892',606,197.082,-1329.31,39.025,0,150,200,8,5.4396095,0,0,0,''),
+(9893,5875,'m425 quest zone 893',606,-129.437,-1348.06,38.4348,0,40,150,15,2.9379754,0,0,0,''),
+(9894,5875,'m425 quest zone 894',606,-77.8501,-1336.55,38.0403,0,50,100,20,5.3814325,0,0,0,''),
+(9895,5875,'m425 quest zone 895',606,-44.1549,-1350.16,38.0402,0,40,30,8,5.7886753,0,0,0,''),
+(9896,5875,'m425 quest zone 896',606,75.3358,-1406.92,35.7987,0,200,75,8,-0,0,0,0,''),
+(9897,5875,'m425 quest zone 897',606,265.08,-1406.41,36.7828,0,200,80,8,0.7272253,0,0,0,''),
+(9898,5875,'m425 quest zone 898',606,-247.885,-1014.14,63.155,0,8,8,8,-0,0,0,0,''),
+(9899,5875,'m425 quest zone 899',606,-241.624,-1027.42,63,0,8,8,8,-0,0,0,0,''),
+(9900,5875,'m425 quest zone 900',606,-257.412,-1031.58,63.6171,0,8,8,8,-0,0,0,0,''),
+(9901,5875,'m425 quest zone 901',606,-345.899,-930.656,38.1122,0,80,150,20,5.9632087,0,0,0,''),
+(9902,5875,'m425 quest zone 902',606,-229.957,-873.498,43.5962,0,100,220,25,4.159705,0,0,0,''),
+(9903,5875,'m425 quest zone 903',606,-250.68,-1145.74,37.6758,0,130,150,20,-0,0,0,0,''),
+(9905,5875,'m425 quest zone 905',606,-370.544,-1127.14,35.217,0,18,16,8,-0,0,0,0,''),
+(9906,5875,'m425 quest zone 906',606,-508.52,-913.964,34.2423,0,8,8,8,-0,0,0,0,''),
+(9907,5875,'m425 quest zone 907',606,260.829,-993.398,29.9819,0,4,4,4,-0,0,0,0,''),
+(9908,5875,'m425 quest zone 908',606,253.363,-981.419,30,0,4,4,4,-0,0,0,0,''),
+(9909,5875,'m425 quest zone 909',606,111.042,-952.965,51.5325,0,80,60,20,-0,0,0,0,''),
+(9910,5875,'m425 quest zone 910',606,243.027,-950.968,32.2397,0,15,15,8,-0,0,0,0,''),
+(9911,5875,'m425 quest zone 911',606,389.548,-1131.79,36.1556,0,120,180,8,-0,0,0,0,''),
+(9912,5875,'m425 quest zone 912',606,180.765,-955.144,51.8981,0,8,8,8,-0,0,0,0,''),
+(9913,5875,'m425 quest zone 913',606,206.561,-1098.48,51.935,0,14,14,8,-0,0,0,0,''),
+(9914,5875,'m425 quest zone 914',606,327.252,-994.537,42.7423,0,14,14,8,-0,0,0,0,''),
+(9915,5875,'m425 quest zone 915',606,-478.056,-943.814,33.58,0,8,8,8,-0,0,0,0,''),
+(9916,5875,'m425 quest zone 916',606,-241.654,-1341.75,36.1982,0,4,4,4,-0,0,0,0,''),
+(9917,5875,'m425 quest zone 917',606,-237.567,-1343.66,36.0881,0,4,4,4,-0,0,0,0,''),
+(9918,5875,'m425 quest zone 918',606,-38.1168,-1088.85,57.7056,0,8,8,8,-0,0,0,0,''),
+(9919,5875,'m425 quest zone 919',606,-109.778,-1091.56,60.1519,0,120,120,15,-0,0,0,0,''),
+(9920,5875,'m425 quest zone 920',606,-22.5156,-1212.75,51.9201,0,130,130,21,-0,0,0,0,''),
+(9921,5875,'m425 quest zone 921',623,-537.659,1686.6,-8.6,0,8,8,8,-0,0,0,0,''),
+(9922,5875,'m425 quest zone 922',623,-392.248,1709.05,-31.0203,0,60,70,10,-0,0,0,0,''),
+(9923,5875,'m425 quest zone 923',623,-539.066,1679.46,-8.69011,0,8,8,8,-0,0,0,0,''),
+(9924,5875,'m425 quest zone 924',623,-365.851,1696.22,-30.4673,0,8,8,8,-0,0,0,0,''),
+(9925,5875,'m425 quest zone 925',623,-388.198,1672.19,-29.9991,0,8,8,8,-0,0,0,0,''),
+(9926,5875,'m425 quest zone 926',623,-540.396,1669.34,-11.3555,0,30,80,8,5.4686985,0,0,0,''),
+(9927,5875,'m425 quest zone 927',623,-549.072,1664.07,-9.60182,0,8,8,8,-0,0,0,0,''),
+(9928,5875,'m425 quest zone 928',623,-464.309,1656.45,-18.5,0,80,60,8,-0,0,0,0,''),
+(9929,5875,'m425 quest zone 929',623,-525.794,1698.05,-8.6,0,8,8,8,-0,0,0,0,''),
+(9930,5875,'m425 quest zone 930',623,-514.825,1505.78,-58.3772,0,160,50,8,-0,0,0,0,''),
+(9931,5875,'m425 quest zone 931',623,-522.268,1685.02,-8.51246,0,10,25,8,5.2941656,0,0,0,''),
+(9932,5875,'m425 quest zone 932',623,-518.627,1399.98,-59.6125,0,8,8,8,-0,0,0,0,''),
+(9933,5875,'m425 quest zone 933',623,-525.9,1145.15,-62,0,20,20,8,-0,0,0,0,''),
+(9934,5875,'m425 quest zone 934',623,-526.392,1068.19,-62,0,8,8,8,-0,0,0,0,''),
+(9935,5875,'m425 quest zone 935',623,-485.411,1243.23,-61.1057,0,40,150,8,-0,0,0,0,''),
+(9936,5875,'m425 quest zone 936',623,-465.046,1363.46,-50,0,8,8,8,-0,0,0,0,''),
+(9937,5875,'m425 quest zone 937',623,-501.899,1354.79,-41.8877,0,8,8,8,-0,0,0,0,''),
+(9938,5875,'m425 quest zone 938',623,-382.11,1225.65,-44.0056,0,70,70,8,5.4105206,0,0,0,''),
+(9939,5875,'m425 quest zone 939',623,-440.665,1084.33,-61.6838,0,60,100,8,-0,0,0,0,''),
+(9940,5875,'m425 quest zone 940',623,-590.983,1394.7,-58.9074,0,8,8,8,-0,0,0,0,''),
+(9941,5875,'m425 quest zone 941',623,-287.546,803.061,20.0279,0,8,8,8,-0,0,0,0,''),
+(9942,5875,'m425 quest zone 942',623,-490.007,1363.21,-45,0,8,8,8,-0,0,0,0,''),
+(9943,5875,'m425 quest zone 943',623,-453.392,1340.41,-50,0,8,8,8,-0,0,0,0,''),
+(9944,5875,'m425 quest zone 944',623,-296.202,868.097,5.06671,0,225,60,20,-0,0,0,0,''),
+(9945,5875,'m425 quest zone 945',623,-108.533,905.498,9.50296,0,105,50,8,3.8979056,0,0,0,''),
+(9946,5875,'m425 quest zone 946',623,-100.054,984.488,0,0,60,100,20,-0,0,0,0,''),
+(9947,5875,'m425 quest zone 947',623,-363.604,1160.35,-40.0844,0,120,70,8,6.0795636,0,0,0,''),
+(9948,5875,'m425 quest zone 948',623,-429.133,1259.95,-54.0886,0,50,40,8,-0,0,0,0,''),
+(9949,5875,'m425 quest zone 949',623,-300.583,1040.5,-3.96201,0,130,105,15,-0,0,0,0,''),
+(9950,5875,'m425 quest zone 950',623,-603.829,1386.85,-58.4226,0,8,8,8,-0,0,0,0,''),
+(9951,5875,'m425 quest zone 951',623,-531.433,1397.95,-58.9982,0,8,8,8,-0,0,0,0,''),
+(9952,5875,'m425 quest zone 952',623,-277.601,1125.21,-0.517279,0,8,8,8,-0,0,0,0,''),
+(9953,5875,'m425 quest zone 953',623,-328.455,1163.63,0.337781,0,17,13,8,5.2068954,0,0,0,''),
+(9954,5875,'m425 quest zone 954',623,-485.408,1354.98,-44.9479,0,8,8,8,-0,0,0,0,''),
+(9955,5875,'m425 quest zone 955',623,-544.014,1376.4,-58.8605,0,8,8,8,-0,0,0,0,''),
+(9956,5875,'m425 quest zone 956',623,-516.405,1354.24,-42.1585,0,8,8,8,-0,0,0,0,''),
+(9957,5875,'m425 quest zone 957',623,-376.526,1307.61,-60.9415,0,30,150,20,4.0142555,0,0,0,''),
+(9958,5875,'m425 quest zone 958',623,-372.145,1294.04,-60.3277,0,65,160,30,0.52359533,0,0,0,''),
+(9959,5875,'m425 quest zone 959',623,-309.554,1297.87,-45.1568,0,70,40,8,6.0213866,0,0,0,''),
+(9960,5875,'m425 quest zone 960',623,-551.175,799.624,-10.5547,0,8,8,8,-0,0,0,0,''),
+(9961,5875,'m425 quest zone 961',623,-547.097,766.362,-6.68961,0,55,40,8,4.159705,0,0,0,''),
+(9962,5875,'m425 quest zone 962',623,-468.04,697.792,-4.79069,0,8,30,8,5.1778054,0,0,0,''),
+(9963,5875,'m425 quest zone 963',623,-266.804,1297.13,-45.6483,0,8,8,8,-0,0,0,0,''),
+(9964,5875,'m425 quest zone 964',623,-270.311,1207.66,-41.7264,0,8,8,8,-0,0,0,0,''),
+(9965,5875,'m425 quest zone 965',623,-325.354,1149.4,-37.4747,0,8,8,8,-0,0,0,0,''),
+(9966,5875,'m425 quest zone 966',623,-354.524,1251.76,-44.6521,0,8,35,15,-0,0,0,0,''),
+(9967,5875,'m425 quest zone 967',623,-511.794,731.823,-6.21145,0,170,60,8,5.4977875,0,0,0,''),
+(9968,5875,'m425 quest zone 968',604,294.733,-1240.43,-46.1139,0,8,8,8,-0,0,0,0,''),
+(9969,5875,'m425 quest zone 969',604,326.904,-1229.12,-57.5159,0,8,8,8,-0,0,0,0,''),
+(9970,5875,'m425 quest zone 970',604,318.85,-1225.29,-57.3712,0,8,8,8,-0,0,0,0,''),
+(9973,5875,'m425 quest zone 973',623,-224.544,1441.02,-51.5122,0,80,80,15,5.8177643,0,0,0,''),
+(9974,5875,'m425 quest zone 974',623,-329.507,1474.86,-48.7199,0,40,50,15,4.2178755,0,0,0,''),
+(9975,5875,'m425 quest zone 975',623,-314.617,1538.63,-40.0671,0,30,60,8,-0,0,0,0,''),
+(9976,5875,'m425 quest zone 976',623,-284.729,1475.82,-41.3947,0,50,120,8,6.1086535,0,0,0,''),
+(9977,5875,'m425 quest zone 977',623,-258.613,1568.59,-29.8157,0,8,8,8,-0,0,0,0,''),
+(9978,5875,'m425 quest zone 978',623,-281.266,1384.74,-50.5,0,100,50,8,5.9050317,0,0,0,''),
+(9979,5875,'m425 quest zone 979',623,-161.901,1399.39,-49.0283,0,100,60,8,3.9560754,0,0,0,''),
+(9980,5875,'m425 quest zone 980',623,1119.86,1502.08,24.1049,0,8,8,8,-0,0,0,0,''),
+(9981,5875,'m425 quest zone 981',623,1117.6,1492.71,23.88,0,8,8,8,-0,0,0,0,''),
+(9982,5875,'m425 quest zone 982',623,-240.546,1815.75,-45.4946,0,8,8,8,-0,0,0,0,''),
+(9983,5875,'m425 quest zone 983',623,803.995,1598.45,46.6826,0,100,60,40,-0,0,0,0,''),
+(9984,5875,'m425 quest zone 984',623,-141.858,1922.3,30.9161,0,8,8,8,-0,0,0,0,''),
+(9985,5875,'m425 quest zone 985',623,-113.842,1954.56,-10.2876,0,120,120,50,-0,0,0,0,''),
+(9986,5875,'m425 quest zone 986',623,-168.046,1881.18,-49.9188,0,200,130,50,5.0614557,0,0,0,''),
+(9987,5875,'m425 quest zone 987',623,-281.775,1710.01,-41.9456,0,80,160,8,6.0795636,0,0,0,''),
+(9988,5875,'m425 quest zone 988',623,754.514,1960.86,90.5896,0,8,8,8,-0,0,0,0,''),
+(9989,5875,'m425 quest zone 989',623,738.629,1879.71,83.07,0,8,8,8,-0,0,0,0,''),
+(9990,5875,'m425 quest zone 990',623,738.701,1934.32,88.3611,0,8,8,8,-0,0,0,0,''),
+(9991,5875,'m425 quest zone 991',623,696.85,1868.51,86.2768,0,8,8,8,5.7886753,0,0,0,''),
+(9992,5875,'m425 quest zone 992',623,750.878,1809.03,55,0,8,8,8,6.0213866,0,0,0,''),
+(9993,5875,'m425 quest zone 993',623,660.23,1795.72,43,0,8,8,8,-0,0,0,0,''),
+(9994,5875,'m425 quest zone 994',623,760.406,1843.4,50.7206,0,100,110,50,5.7595863,0,0,0,''),
+(9995,5875,'m425 quest zone 995',623,712.485,1521.19,6.99052,0,120,120,80,-0,0,0,0,''),
+(9996,5875,'m425 quest zone 996',623,782.18,1363.77,54.02,0,80,120,50,-0,0,0,0,''),
+(9997,5875,'m425 quest zone 997',623,720.651,1184.06,45.3328,0,100,140,50,-0,0,0,0,''),
+(9998,5875,'m425 quest zone 998',623,1105.23,1482.92,23.88,0,8,8,8,-0,0,0,0,''),
+(9999,5875,'m425 quest zone 999',623,547.416,1575.4,10.2073,0,80,80,8,6.1377406,0,0,0,''),
+(10000,5875,'m425 quest zone 1000',623,817.486,1524.03,47.8914,0,15,17,8,-0,0,0,0,''),
+(10001,5875,'m425 quest zone 1001',623,871.959,1522.98,46.9058,0,50,15,8,-0,0,0,0,''),
+(10002,5875,'m425 quest zone 1002',623,901.549,1310.06,58.6494,0,8,8,8,-0,0,0,0,''),
+(10003,5875,'m425 quest zone 1003',623,449.681,1574.35,-0.01,0,8,8,8,-0,0,0,0,''),
+(10004,5875,'m425 quest zone 1004',623,438.58,1584.54,0,0,8,8,8,-0,0,0,0,''),
+(10005,5875,'m425 quest zone 1005',623,450.259,1583.33,0,0,8,8,8,-0,0,0,0,''),
+(10006,5875,'m425 quest zone 1006',623,873.667,1432.97,50.9675,0,70,65,50,-0,0,0,0,''),
+(10007,5875,'m425 quest zone 1007',623,866.842,1510.49,45.9938,0,60,15,30,-0,0,0,0,''),
+(10008,5875,'m425 quest zone 1008',623,851.723,1492.99,46.289,0,30,40,30,-0,0,0,0,''),
+(10009,5875,'m425 quest zone 1009',623,1108.41,1514.59,23.88,0,8,8,8,-0,0,0,0,''),
+(10010,5875,'m425 quest zone 1010',623,-194.04,1485.45,-32.3403,0,3,3,3,-0,0,0,0,''),
+(10011,5875,'m425 quest zone 1011',623,-145.516,1968.98,2.62845,0,8,8,8,-0,0,0,0,''),
+(10012,5875,'m425 quest zone 1012',623,860.437,1264.47,58.9288,0,55,55,25,-0,0,0,0,''),
+(10013,5875,'m425 quest zone 1013',623,-227.807,1497.59,-32.5188,0,8,8,8,-0,0,0,0,''),
+(10014,5875,'m425 quest zone 1014',623,-202.788,1490.95,-32.8924,0,4,4,4,-0,0,0,0,''),
+(10015,5875,'m425 quest zone 1015',623,-258.784,1550.93,-42.1164,0,100,150,20,5.9632087,0,0,0,''),
+(10016,5875,'m425 quest zone 1016',623,-247.289,1569.59,-43.4386,0,80,80,20,-0,0,0,0,''),
+(10017,5875,'m425 quest zone 1017',623,-202.851,1482.07,-32.0352,0,3,3,3,-0,0,0,0,''),
+(10018,5875,'m425 quest zone 1018',623,-205.94,1482.51,-32.2274,0,3,3,3,-0,0,0,0,''),
+(10019,5875,'m425 quest zone 1019',623,811.083,1182.74,54.4243,0,50,50,20,-0,0,0,0,''),
+(10020,5875,'m425 quest zone 1020',623,772.336,1127.72,59.5119,0,40,90,20,-0,0,0,0,''),
+(10021,5875,'m425 quest zone 1021',623,456.219,1590.82,0,0,8,8,8,-0,0,0,0,''),
+(10022,5875,'m425 quest zone 1022',623,623.949,1581.56,27.7445,0,100,100,15,5.3814325,0,0,0,''),
+(10023,5875,'m425 quest zone 1023',623,873.741,1052.57,64.5558,0,8,8,8,-0,0,0,0,''),
+(10024,5875,'m425 quest zone 1024',623,871.889,1048.48,64.5541,0,8,8,8,-0,0,0,0,''),
+(10025,5875,'m425 quest zone 1025',623,1117.12,1043,58.6539,0,130,70,15,-0,0,0,0,''),
+(10026,5875,'m425 quest zone 1026',623,967.368,1089.02,66.8084,0,70,80,40,-0,0,0,0,''),
+(10027,5875,'m425 quest zone 1027',623,949.661,1146.8,93,0,40,50,10,-0,0,0,0,''),
+(10028,5875,'m425 quest zone 1028',623,482.085,1469.61,11.2186,0,3,3,3,-0,0,0,0,''),
+(10029,5875,'m425 quest zone 1029',623,478.47,1471.81,11.2186,0,3,3,3,-0,0,0,0,''),
+(10030,5875,'m425 quest zone 1030',623,483.261,1471.79,11.2186,0,3,3,3,-0,0,0,0,''),
+(10031,5875,'m425 quest zone 1031',623,-448.792,1347.16,-50,0,8,8,8,-0,0,0,0,''),
+(10032,5875,'m425 quest zone 1032',623,449.687,1144.73,13,0,200,300,30,3.8979056,0,0,0,''),
+(10033,5875,'m425 quest zone 1033',623,93.0145,1613.14,-3.40825,0,60,100,20,-0,0,0,0,''),
+(10034,5875,'m425 quest zone 1034',623,505.464,1852.67,23.1552,0,8,8,8,-0,0,0,0,''),
+(10035,5875,'m425 quest zone 1035',623,905.538,992.508,58.0245,0,150,80,10,0.31997538,0,0,0,''),
+(10036,5875,'m425 quest zone 1036',623,1010.23,976.151,62.9021,0,190,40,8,0.31997538,0,0,0,''),
+(10037,5875,'m425 quest zone 1037',623,1007.53,1026.06,62.8036,0,70,60,8,0.31997538,0,0,0,''),
+(10038,5875,'m425 quest zone 1038',623,357.336,1059.76,25.0342,0,8,8,8,-0,0,0,0,''),
+(10039,5875,'m425 quest zone 1039',623,104.509,1542.27,5.8052,0,8,8,8,-0,0,0,0,''),
+(10040,5875,'m425 quest zone 1040',623,683.461,958.875,77.2932,0,8,8,8,-0,0,0,0,''),
+(10041,5875,'m425 quest zone 1041',623,496.046,1645.2,-3.50077,0,200,100,20,5.9341197,0,0,0,'');
 INSERT INTO `areatrigger_template` (`id`,`build`,`name`,`map_id`,`x`,`y`,`z`,`radius`,`box_x`,`box_y`,`box_z`,`box_orientation`,`cooldown`,`condition_id`,`script_id`,`script_name`) VALUES
-(10042,5875,'m425 quest zone 1042',623,510.514,1177.89,5,0,240,60,8,2.4434607,0,0,0,''),
-(10043,5875,'m425 quest zone 1043',623,622.209,815.34,51.0973,0,300,140,60,3.1415927,0,0,0,''),
-(10044,5875,'m425 quest zone 1044',623,600.003,846.309,53.6248,0,8,8,8,3.1415927,0,0,0,''),
-(10045,5875,'m425 quest zone 1045',623,396.223,762.313,63.08,0,8,8,8,3.1415927,0,0,0,''),
-(10046,5875,'m425 quest zone 1046',623,1013.67,116.529,127.323,0,8,8,8,3.1415927,0,0,0,''),
-(10047,5875,'m425 quest zone 1047',623,-532.314,726.258,-4.87095,0,8,8,8,2.4725497,0,0,0,''),
-(10048,5875,'m425 quest zone 1048',623,956.8,1071.89,76.5297,0,8,8,8,3.1415927,0,0,0,''),
-(10049,5875,'m425 quest zone 1049',623,971.359,1071.72,76.9641,0,8,8,8,3.1415927,0,0,0,''),
-(10050,5875,'m425 quest zone 1050',623,931.957,1136.75,92.4546,0,8,8,8,3.1415927,0,0,0,''),
-(10051,5875,'m425 quest zone 1051',623,943.534,1139.49,92.6953,0,8,8,8,3.1415927,0,0,0,''),
-(10052,5875,'m425 quest zone 1052',623,1017.81,1569.55,29.5494,0,80,150,8,3.1415927,0,0,0,''),
-(10053,5875,'m425 quest zone 1053',623,512.91,1438.7,11,0,8,8,8,3.1415927,0,0,0,''),
-(10054,5875,'m425 quest zone 1054',623,996.58,116.665,128.242,0,8,8,8,3.1415927,0,0,0,''),
-(10055,5875,'m425 quest zone 1055',623,802.619,-48.0558,80.0948,0,8,8,8,3.1415927,0,0,0,''),
-(10056,5875,'m425 quest zone 1056',623,776.893,-190.192,73.9527,0,100,50,20,2.9670608,0,0,0,''),
-(10057,5875,'m425 quest zone 1057',623,752.241,-134.697,83.72,0,20,50,8,2.7227247,0,0,0,''),
-(10058,5875,'m425 quest zone 1058',623,807.197,-40.2272,80.5128,0,8,8,8,3.1415927,0,0,0,''),
-(10059,5875,'m425 quest zone 1059',623,778.538,-232.861,68.4283,0,130,40,25,2.6761718,0,0,0,''),
-(10060,5875,'m425 quest zone 1060',623,607.01,-281.426,15.0486,0,60,60,8,3.0543268,0,0,0,''),
-(10061,5875,'m425 quest zone 1061',623,583.115,-204.037,16.2278,0,30,80,8,2.0362127,0,0,0,''),
-(10062,5875,'m425 quest zone 1062',623,784.429,-402.349,36.8191,0,8,8,8,3.1415927,0,0,0,''),
-(10063,5875,'m425 quest zone 1063',623,719.344,-313.073,33.9321,0,120,60,8,2.0071328,0,0,0,''),
-(10064,5875,'m425 quest zone 1064',623,455.222,-291.084,13.2469,0,70,80,8,5.9050283,0,0,0,''),
-(10065,5875,'m425 quest zone 1065',623,515.982,-284.88,13.33,0,8,8,8,3.1415927,0,0,0,''),
-(10066,5875,'m425 quest zone 1066',623,604.018,-338.429,12.3029,0,100,60,8,3.1415927,0,0,0,''),
-(10067,5875,'m425 quest zone 1067',623,779.237,-406.24,36.8668,0,8,8,8,3.1415927,0,0,0,''),
-(10068,5875,'m425 quest zone 1068',623,622.982,-417.558,12.1017,0,60,100,8,3.1997683,0,0,0,''),
-(10069,5875,'m425 quest zone 1069',623,792.706,-407.06,36.4247,0,8,8,8,3.1415927,0,0,0,''),
-(10070,5875,'m425 quest zone 1070',606,-211.172,-309.582,102.579,0,3,3,3,3.1415927,0,0,0,''),
-(10071,5875,'m425 quest zone 1071',623,555.366,-213.771,17.1045,0,8,8,8,3.1415927,0,0,0,''),
-(10072,5875,'m425 quest zone 1072',623,765.168,-421.633,36.8049,0,8,8,8,3.1415927,0,0,0,''),
-(10073,5875,'m425 quest zone 1073',623,873.905,-218.109,86.9962,0,8,8,8,3.1415927,0,0,0,''),
-(10074,5875,'m425 quest zone 1074',623,245.231,-454.061,3.86838,0,8,8,8,3.1415927,0,0,0,''),
-(10075,5875,'m425 quest zone 1075',623,-692.308,-562.584,-47.6842,0,8,8,8,3.1415927,0,0,0,''),
-(10076,5875,'m425 quest zone 1076',623,187.269,-344.87,8.9754,0,100,120,8,3.1415927,0,0,0,''),
-(10077,5875,'m425 quest zone 1077',623,200.2,-137.514,31.8346,0,40,60,15,3.1415927,0,0,0,''),
-(10078,5875,'m425 quest zone 1078',623,277.883,-155.738,31.5615,0,65,40,8,0.7854028,0,0,0,''),
-(10079,5875,'m425 quest zone 1079',623,-625.931,-542.777,-55.9712,0,8,8,8,3.1415927,0,0,0,''),
-(10080,5875,'m425 quest zone 1080',623,-506.206,-415.039,-62.78,0,8,8,8,3.1415927,0,0,0,''),
-(10081,5875,'m425 quest zone 1081',623,-559.534,-452.166,-54.61,0,8,8,8,3.1415927,0,0,0,''),
-(10082,5875,'m425 quest zone 1082',623,-645.972,-559.682,-52.1894,0,8,8,8,3.1415927,0,0,0,''),
-(10083,5875,'m425 quest zone 1083',623,-565.765,-443.156,-54.61,0,8,8,8,3.1415927,0,0,0,''),
-(10084,5875,'m425 quest zone 1084',623,-315.017,-130.183,-60.6213,0,8,8,8,3.1415927,0,0,0,''),
-(10085,5875,'m425 quest zone 1085',623,-642.83,-511.54,-51.012,0,8,8,8,3.1415927,0,0,0,''),
-(10086,5875,'m425 quest zone 1086',623,-531.419,-417.22,-58.46,0,8,8,8,3.1415927,0,0,0,''),
-(10087,5875,'m425 quest zone 1087',623,134.195,-385.86,-1.85055,0,8,8,8,3.1415927,0,0,0,''),
-(10088,5875,'m425 quest zone 1088',623,-238.637,-451.308,-58.1387,0,140,80,8,2.7634387,0,0,0,''),
-(10089,5875,'m425 quest zone 1089',623,-137.525,-492.463,-66.0019,0,80,80,40,3.1415927,0,0,0,''),
-(10090,5875,'m425 quest zone 1090',623,-373.743,-392.72,-56.2381,0,80,80,8,3.1415927,0,0,0,''),
-(10091,5875,'m425 quest zone 1091',623,-49.7595,-206.738,-5.23,0,8,8,8,3.1415927,0,0,0,''),
-(10092,5875,'m425 quest zone 1092',623,-83.8069,-397.971,-38.8932,0,150,120,15,3.1415927,0,0,0,''),
-(10093,5875,'m425 quest zone 1093',623,-615.653,-667.169,-62.0777,0,8,8,8,3.1415927,0,0,0,''),
-(10094,5875,'m425 quest zone 1094',623,-513.421,-138.596,-62.8878,0,8,8,8,3.1415927,0,0,0,''),
-(10095,5875,'m425 quest zone 1095',623,-307.685,-87.1046,-67.2462,0,45,45,8,3.1415927,0,0,0,''),
-(10096,5875,'m425 quest zone 1096',623,-369.402,-175.748,-62.4523,0,8,8,8,3.1415927,0,0,0,''),
-(10097,5875,'m425 quest zone 1097',623,-253.103,-133.619,-44.7791,0,8,8,8,3.1415927,0,0,0,''),
-(10098,5875,'m425 quest zone 1098',623,22.5434,104.438,8.06,0,8,8,8,3.1415927,0,0,0,''),
-(10099,5875,'m425 quest zone 1099',623,61.6181,-12.0605,9.72,0,8,8,8,3.1415927,0,0,0,''),
-(10100,5875,'m425 quest zone 1100',606,-393.939,-571.99,42.7188,0,200,200,60,2.1816616,0,0,0,''),
-(10101,5875,'m425 quest zone 1101',623,616.341,643.141,48.7237,0,400,150,80,3.1415927,0,0,0,''),
-(10102,5875,'m425 quest zone 1102',623,794.727,576.995,105.73,0,8,8,8,3.1415927,0,0,0,''),
-(10103,5875,'m425 quest zone 1103',623,1009.26,65.8611,128.351,0,8,8,8,3.1415927,0,0,0,''),
-(10104,5875,'m425 quest zone 1104',623,1009.24,61.1608,128.351,0,8,8,8,3.1415927,0,0,0,''),
-(10105,5875,'m425 quest zone 1105',606,406.628,-1308.92,36.0617,0,78,78,18,3.1415927,0,0,0,''),
-(10106,5875,'m425 quest zone 1106',623,404.396,1061.7,23.8037,0,148,148,18,3.1415927,0,0,0,''),
-(10107,5875,'m425 quest zone 1107',623,723.586,323.274,32.362,0,606,88,8,3.1415927,0,0,0,''),
-(10110,5875,'m425 quest zone 1110',606,-352.933,-923.541,35.906,0,8,8,8,3.1415927,0,0,0,''),
-(10113,5875,'m425 quest zone 1113',623,-228.43,1521.28,-29.5131,0,8,8,8,3.1415927,0,0,0,''),
-(10114,5875,'m425 quest zone 1114',606,325.852,-217.639,58.7373,0,8,8,8,3.1415927,0,0,0,''),
-(10115,5875,'m425 quest zone 1115',623,-290.052,1003.79,0,0,8,8,8,3.1415927,0,0,0,''),
-(10116,5875,'m425 quest zone 1116',606,539.265,373.916,30,0,8,8,8,3.1415927,0,0,0,''),
-(10117,5875,'m425 quest zone 1117',623,-679.697,-501.234,-54.8742,0,8,8,8,3.1415927,0,0,0,''),
-(10118,5875,'m425 quest zone 1118',623,-411.881,-249.47,-61.5745,0,200,150,15,1.6289728,0,0,0,''),
-(10119,5875,'m425 quest zone 1119',606,-1.64401,-1194.71,72.3683,0,8,8,8,3.1415927,0,0,0,''),
-(10120,5875,'m425 quest zone 1120',604,521.655,-1383.7,39,0,8,8,8,3.1415927,0,0,0,''),
-(10121,5875,'m425 quest zone 1121',606,314.69,-929.39,30.7015,0,55,220,20,4.1306086,0,0,0,''),
-(10122,5875,'m425 quest zone 1122',606,305.911,-1060.7,39.4419,0,180,40,20,0.8726628,0,0,0,''),
-(10123,5875,'m425 quest zone 1123',606,53.0349,-1150.09,49.9499,0,13,13,10,3.1415927,0,0,0,''),
-(10124,5875,'m425 quest zone 1124',606,112.855,-1093.54,49.9059,0,8,35,8,2.9961476,0,0,0,''),
-(10125,5875,'m425 quest zone 1125',606,114.889,-1003.16,51.2792,0,8,8,8,3.1415927,0,0,0,''),
-(10126,5875,'m425 quest zone 1126',606,-10.5048,-1092.47,50.2129,0,8,80,15,0.26180267,0,0,0,''),
-(10127,5875,'m425 quest zone 1127',606,56.1079,-1071.74,44.8728,0,30,100,15,6.113368,0,0,0,''),
-(10128,5875,'m425 quest zone 1128',606,3.69216,-1022.61,46.0079,0,8,80,15,2.2398398,0,0,0,''),
-(10130,5875,'m425 quest zone 1130',606,-236.33,-1301.47,38.1875,0,50,70,8,1.2514027,0,0,0,''),
-(10131,5875,'m425 quest zone 1131',606,-296.888,-1355.12,38.2284,0,46,40,8,3.1415927,0,0,0,''),
-(10132,5875,'m425 quest zone 1132',606,-249.168,-1380.24,37.1886,0,50,50,8,3.1415927,0,0,0,''),
-(10133,5875,'m425 quest zone 1133',623,-43.4465,-198.665,-30.4657,0,80,80,30,2.0071328,0,0,0,''),
-(10134,5875,'m425 quest zone 1134',623,1105.02,1529.47,22.8498,0,8,8,8,3.1415927,0,0,0,''),
-(10135,5875,'m425 quest zone 1135',623,-232.835,1504.23,-32.2354,0,4,4,4,3.1415927,0,0,0,''),
-(10136,5875,'m425 quest zone 1136',623,-221.328,1485.64,-32.9296,0,4,4,4,3.1415927,0,0,0,''),
-(10137,5875,'m425 quest zone 1137',623,-220.29,1504.01,-31.5864,0,4,4,4,3.1415927,0,0,0,''),
-(10138,5875,'m425 quest zone 1138',623,-235.455,1495.25,-33.1405,0,4,4,4,3.1415927,0,0,0,''),
-(10139,5875,'m425 quest zone 1139',623,-211.675,-256.03,-57.0199,0,300,130,30,2.9961476,0,0,0,''),
-(10140,5875,'m425 quest zone 1140',606,-326.718,-1185.04,40.8585,0,8,8,8,3.1415927,0,0,0,''),
-(10141,5875,'m425 quest zone 1141',623,-709.95,-642.363,-53.9036,0,40,40,10,2.3852837,0,0,0,''),
-(10142,5875,'m425 quest zone 1142',623,-511.867,-474.209,-60.56,0,15,90,8,2.4725497,0,0,0,''),
-(10143,5875,'m425 quest zone 1143',623,-631.348,-423.693,-63.6313,0,40,40,15,3.1415927,0,0,0,''),
-(10144,5875,'m425 quest zone 1144',623,-712.47,-543.459,-53.6778,0,40,40,8,3.1415927,0,0,0,''),
-(10145,5875,'m425 quest zone 1145',623,-557.463,-426.991,-54.61,0,35,35,8,3.1415927,0,0,0,''),
-(10146,5875,'m425 quest zone 1146',623,115.076,1761.94,1.10018,0,8,8,8,3.1415927,0,0,0,''),
-(10147,5875,'m425 quest zone 1147',623,755.605,1961.81,89.8372,0,80,30,8,2.5598168,0,0,0,''),
-(10148,5875,'m425 quest zone 1148',623,-132.338,1261.61,-34.4697,0,100,100,20,2.1816616,0,0,0,''),
-(10149,5875,'m425 quest zone 1149',623,-63.9413,1327.6,-20.8378,0,80,80,8,2.2107508,0,0,0,''),
-(10150,5875,'m425 quest zone 1150',623,-0.634762,1393.48,-18.9948,0,70,120,20,3.1415927,0,0,0,''),
-(10151,5875,'m425 quest zone 1151',606,78.7175,-1037.11,45.7575,0,8,8,8,2.1525726,0,0,0,''),
-(10152,5875,'m425 quest zone 1152',623,524.501,1742.28,-2.78732,0,80,70,20,3.1415927,0,0,0,''),
-(10153,5875,'m425 quest zone 1153',623,-549.458,-478.515,-58.6592,0,8,8,8,3.1415927,0,0,0,''),
-(10154,5875,'m425 quest zone 1154',606,-450.625,-1344.68,69.2801,0,4,4,4,3.1415927,0,0,0,''),
-(10155,5875,'m425 quest zone 1155',606,157.808,-1033.26,50.2251,0,30,100,20,3.1415927,0,0,0,''),
-(10156,5875,'m425 quest zone 1156',623,-286.585,808.273,19.5289,0,4,4,4,3.1415927,0,0,0,''),
-(10157,5875,'m425 quest zone 1157',606,-489.484,-376.385,45.2993,0,8,8,8,3.1415927,0,0,0,''),
-(10158,5875,'m425 quest zone 1158',625,671.326,864.816,105.16,0,20,20,8,3.1415927,0,0,0,''),
-(10159,5875,'m425 quest zone 1159',625,495.567,1042.02,120.644,0,20,20,10,3.1415927,0,0,0,''),
-(10160,5875,'m425 quest zone 1160',625,812.884,856.16,66.4106,0,8,8,8,3.1415927,0,0,0,''),
-(10161,5875,'m425 quest zone 1161',625,728.852,860.513,70.8194,0,12,12,8,3.1415927,0,0,0,''),
-(10162,5875,'m425 quest zone 1162',625,689.509,791.718,75.0163,0,15,15,8,3.1415927,0,0,0,''),
-(10163,5875,'m425 quest zone 1163',625,635.421,791.661,79.3307,0,15,15,8,3.1415927,0,0,0,''),
-(10164,5875,'m425 quest zone 1164',626,640.292,767.833,40.9378,0,8,8,8,3.1415927,0,0,0,''),
-(10165,5875,'m425 quest zone 1165',626,643.631,371.207,59.8347,0,8,8,8,3.1415927,0,0,0,''),
-(10166,5875,'m425 quest zone 1166',606,-912.165,-258.008,66.4503,0,8,8,8,3.1415927,0,0,0,''),
-(10167,5875,'m425 quest zone 1167',606,-921.062,-288.23,66.8714,0,8,8,8,3.1415927,0,0,0,''),
-(10168,5875,'m425 quest zone 1168',626,537.124,684.956,34.197,0,3,3,3,3.1415927,0,0,0,''),
-(10169,5875,'m425 quest zone 1169',626,554.982,702.602,34.1639,0,3,3,3,3.1415927,0,0,0,''),
-(10170,5875,'m425 quest zone 1170',613,-108.422,125.78,4.98475,0,3,3,3,3.1415927,0,0,0,''),
-(10172,5875,'m425 quest zone 1172',609,-941.888,-850.103,10,0,15,15,15,3.1415927,0,0,0,''),
-(10173,5875,'m425 quest zone 1173',606,-296.195,-240.788,75.2133,0,8,8,8,3.1415927,0,0,0,''),
-(10174,5875,'m425 quest zone 1174',606,-288.858,-225.741,74.7977,0,8,8,8,3.1415927,0,0,0,''),
-(10175,5875,'m425 quest zone 1175',606,-638.446,-242.327,31.6513,0,8,8,8,3.1415927,0,0,0,''),
-(10176,5875,'m425 quest zone 1176',606,-296.77,-364.009,103.483,0,8,8,8,3.1415927,0,0,0,''),
-(10177,5875,'m425 quest zone 1177',601,266.663,1998.26,18.8727,0,8,8,8,3.1415927,0,0,0,''),
-(10178,5875,'m425 quest zone 1178',606,-216.957,-319.992,85.513,0,8,8,8,3.1415927,0,0,0,''),
-(10179,5875,'m425 quest zone 1179',604,1355.41,-1802.31,19.9849,0,8,8,8,3.1415927,0,0,0,''),
-(10180,5875,'m425 quest zone 1180',604,-527.619,-659.212,0.785269,0,8,8,8,3.1415927,0,0,0,''),
-(10181,5875,'m425 quest zone 1181',623,939.666,1156.89,94.0027,0,8,8,8,3.1415927,0,0,0,''),
-(10182,5875,'m425 quest zone 1182',601,-370.718,580.257,15.35,0,8,8,8,3.1415927,0,0,0,''),
-(10183,5875,'m425 quest zone 1183',601,-333.244,592.408,10.683,0,8,8,8,3.1415927,0,0,0,''),
-(10184,5875,'m425 quest zone 1184',601,-435.217,633.879,11.7141,0,8,8,8,3.1415927,0,0,0,''),
-(10185,5875,'m425 quest zone 1185',613,-104.916,116.464,5,0,8,8,8,3.1415927,0,0,0,''),
-(10186,5875,'m425 quest zone 1186',601,-211.752,522.965,41.9298,0,8,8,8,3.1415927,0,0,0,''),
-(10187,5875,'m425 quest zone 1187',629,0.574125,600.576,7.1985,0,8,8,8,3.1415927,0,0,0,''),
-(10188,5875,'m425 quest zone 1188',631,35.934,802.396,85,0,8,8,8,3.1415927,0,0,0,''),
-(10189,5875,'m425 quest zone 1189',631,58.1283,860.208,85,0,8,8,8,3.1415927,0,0,0,''),
-(10190,5875,'m425 quest zone 1190',631,32.4016,920.184,85,0,8,8,8,3.1415927,0,0,0,''),
-(10191,5875,'m425 quest zone 1191',631,-30.5803,955.231,85,0,8,8,8,3.1415927,0,0,0,''),
-(10192,5875,'m425 quest zone 1192',631,-102.929,919.886,85,0,8,8,8,3.1415927,0,0,0,''),
-(10193,5875,'m425 quest zone 1193',631,-119.648,860.713,85,0,8,8,8,3.1415927,0,0,0,''),
-(10194,5875,'m425 quest zone 1194',631,-92.2976,805.362,85,0,8,8,8,3.1415927,0,0,0,''),
-(10195,5875,'m425 quest zone 1195',606,-110.591,-251.317,94.8441,0,8,8,8,3.1415927,0,0,0,''),
-(10196,5875,'m425 quest zone 1196',601,293.242,2020.28,20.5085,0,24,24,8,3.1415927,0,0,0,''),
-(10197,5875,'m425 quest zone 1197',606,-225.384,-398.99,103.176,0,8,8,8,3.1415927,0,0,0,''),
-(10198,5875,'m425 quest zone 1198',604,-503.537,-671.286,0.0203595,0,16,16,8,3.1415927,0,0,0,''),
-(10199,5875,'m425 quest zone 1199',601,340.041,1987.22,31.8142,0,8,8,8,3.1415927,0,0,0,''),
-(10200,5875,'m425 quest zone 1200',601,-360.637,631.93,10.61,0,8,8,8,3.1415927,0,0,0,''),
-(10201,5875,'m425 quest zone 1201',601,-197.429,868.918,3.84088,0,8,8,8,3.1415927,0,0,0,''),
-(10202,5875,'m425 quest zone 1202',604,-423.305,-468.709,-4.22649,0,8,8,8,3.1415927,0,0,0,''),
-(10203,5875,'m425 quest zone 1203',604,1047.33,-1871.73,4.64153,0,8,8,8,3.1415927,0,0,0,''),
-(10204,5875,'m425 quest zone 1204',604,1052.24,-1875.63,4.1993,0,32,32,8,3.1415927,0,0,0,''),
-(10205,5875,'m425 quest zone 1205',601,-12.8621,906.482,41.5658,0,8,8,8,3.1415927,0,0,0,''),
-(10206,5875,'m425 quest zone 1206',623,866.683,1008.96,62.364,0,8,8,8,3.1415927,0,0,0,''),
-(10207,5875,'m425 quest zone 1207',601,-327.162,621.006,10.61,0,8,8,8,3.1415927,0,0,0,''),
-(10208,5875,'m425 quest zone 1208',601,-84.6152,604.607,0,0,8,8,8,3.1415927,0,0,0,''),
-(10211,5875,'m425 quest zone 1211',630,15.0702,724.278,8.53,0,8,8,8,3.1415927,0,0,0,''),
-(10212,5875,'m425 quest zone 1212',630,-34.4407,807.903,15.9683,0,8,8,8,3.1415927,0,0,0,''),
-(10213,5875,'m425 quest zone 1213',630,99.5231,723.463,16.8912,0,8,8,8,3.1415927,0,0,0,''),
-(10214,5875,'m425 quest zone 1214',630,19.5884,786.908,8.78743,0,8,8,8,3.1415927,0,0,0,''),
-(10215,5875,'m425 quest zone 1215',601,-110.151,588.962,5,0,2,2,8,3.1415927,0,0,0,''),
-(10216,5875,'m425 quest zone 1216',629,13.5765,653.08,0.141392,0,12,12,8,3.1415927,0,0,0,''),
-(10217,5875,'m425 quest zone 1217',629,9.74568,643.999,0.490197,0,2,2,8,3.1415927,0,0,0,''),
-(10218,5875,'m425 quest zone 1218',629,-6.99699,601.151,7.09731,0,2,2,8,3.1415927,0,0,0,''),
-(10219,5875,'m425 quest zone 1219',601,-110.18,595.384,5,0,2,2,8,3.1415927,0,0,0,''),
-(10220,5875,'m425 quest zone 1220',613,-50.0167,124.456,-5,0,4,4,8,3.1415927,0,0,0,''),
-(10221,5875,'m425 quest zone 1221',613,-30.6346,124.611,-5,0,2,2,8,3.1415927,0,0,0,''),
-(10222,5875,'m425 quest zone 1222',613,-66.139,151.47,5,0,3,3,8,3.1415927,0,0,0,''),
-(10223,5875,'m425 quest zone 1223',613,-39.2595,114.868,-5,0,2,2,8,3.1415927,0,0,0,''),
-(10224,5875,'m425 quest zone 1224',601,-125.468,901.464,-0.930802,0,8,8,8,3.1415927,0,0,0,''),
-(10225,5875,'m425 quest zone 1225',601,-104.112,941.032,3.50856,0,22,12,8,0.9599328,0,0,0,''),
-(10226,5875,'m425 quest zone 1226',601,-82.9771,969.15,0.559616,0,48,28,8,3.1415927,0,0,0,''),
-(10227,5875,'m425 quest zone 1227',601,-62.5411,978.948,0.651258,0,4,4,8,3.1415927,0,0,0,''),
-(10228,5875,'m425 quest zone 1228',601,-105.843,1000.84,4.67584,0,8,8,8,3.1415927,0,0,0,''),
-(10229,5875,'m425 quest zone 1229',601,-193.227,983.746,0.492311,0,8,8,8,3.1415927,0,0,0,''),
-(10230,5875,'m425 quest zone 1230',601,-176.216,1009.82,0.0185001,0,18,18,8,3.1415927,0,0,0,''),
-(10231,5875,'m425 quest zone 1231',601,-152.211,997.219,0.609487,0,12,6,8,3.1415927,0,0,0,''),
-(10232,5875,'m425 quest zone 1232',601,-143.076,962.351,9.4044,0,8,8,8,3.1415927,0,0,0,''),
-(10233,5875,'m425 quest zone 1233',601,-171.757,675.148,0.0166342,0,2,2,8,3.1415927,0,0,0,''),
-(10234,5875,'m425 quest zone 1234',601,-169.611,688.866,1.57789,0,20,20,8,3.1415927,0,0,0,''),
-(10235,5875,'m425 quest zone 1235',601,-148.318,665.565,0.00116318,0,8,8,8,3.1415927,0,0,0,''),
-(10236,5875,'m425 quest zone 1236',601,-151.348,641.126,0.00505615,0,8,8,8,3.1415927,0,0,0,''),
-(10237,5875,'m425 quest zone 1237',601,-122.122,656.592,1.29879,0,8,8,8,3.1415927,0,0,0,''),
-(10238,5875,'m425 quest zone 1238',623,329.707,821.628,60.9288,0,8,8,8,3.1415927,0,0,0,''),
-(10239,5875,'m425 quest zone 1239',629,169.817,727.826,-7.25604,0,8,8,8,3.1415927,0,0,0,''),
-(10240,5875,'m425 quest zone 1240',606,-429.631,-667.304,38.6782,0,8,8,8,3.1415927,0,0,0,''),
-(10241,5875,'m425 quest zone 1241',630,-61.3735,798.496,12.3059,0,8,8,8,3.1415927,0,0,0,''),
-(10242,5875,'m425 quest zone 1242',630,98.962,705.345,13.61,0,8,8,8,3.1415927,0,0,0,''),
-(10243,5875,'m425 quest zone 1243',601,-391.855,611.112,6.62,0,8,8,8,3.1415927,0,0,0,''),
-(10244,5875,'m425 quest zone 1244',601,-342.914,591.241,10.6241,0,8,8,8,3.1415927,0,0,0,''),
-(10245,5875,'m425 quest zone 1245',613,-212.472,243.547,7.39911,0,8,8,8,3.1415927,0,0,0,''),
-(10246,5875,'m425 quest zone 1246',604,1389.71,-1771.21,4.51157,0,8,8,8,3.1415927,0,0,0,''),
-(10247,5875,'m425 quest zone 1247',613,-137.446,195.661,29.0899,0,8,8,8,3.1415927,0,0,0,''),
-(10248,5875,'m425 quest zone 1248',632,143.461,-170.571,169.984,0,8,8,8,3.1415927,0,0,0,''),
-(10249,5875,'m425 quest zone 1249',632,94.2312,-26.1775,169.97,0,8,8,8,3.1415927,0,0,0,''),
-(10250,5875,'m425 quest zone 1250',632,-38.7208,-35.1302,169.97,0,8,8,8,3.1415927,0,0,0,''),
-(10251,5875,'m425 quest zone 1251',632,-30.0566,-166.664,169.97,0,8,8,8,3.1415927,0,0,0,''),
-(10252,5875,'m425 quest zone 1252',632,31.5084,-96.4927,187.273,0,8,8,8,3.1415927,0,0,0,''),
-(10253,5875,'m425 quest zone 1253',613,-85.9831,213.624,-4.81102,0,8,8,8,5.540228,0,0,0,''),
-(10254,5875,'m425 quest zone 1254',633,-147.734,245.353,-9.94526,0,8,8,8,3.1415927,0,0,0,''),
-(10255,5875,'m425 quest zone 1255',633,-187.462,280.417,-12.2725,0,8,8,8,3.1415927,0,0,0,''),
-(10256,5875,'m425 quest zone 1256',633,-160.987,197.741,-16.8819,0,8,8,8,3.1415927,0,0,0,''),
-(10257,5875,'m425 quest zone 1257',613,-118.102,247.494,-6.14392,0,2,2,2,1.3962628,0,0,0,''),
-(10262,5875,'m425 quest zone 1262',601,-341.695,629.618,10.5947,0,2,2,2,3.1415927,0,0,0,''),
-(10263,5875,'m425 quest zone 1263',601,-331.793,601.412,10.61,0,1,1,2,3.1415927,0,0,0,''),
-(10264,5875,'m425 quest zone 1264',601,-327.039,601.844,10.61,0,1,1,2,3.1415927,0,0,0,''),
-(10265,5875,'m425 quest zone 1265',601,-183.008,605.983,3.74308,0,32,16,8,3.1415927,0,0,0,''),
-(10266,5875,'m425 quest zone 1266',601,-436.873,599.1,8.61878,0,16,32,8,3.1415927,0,0,0,''),
-(10267,5875,'m425 quest zone 1267',632,74.3474,-211.308,169.826,0,8,8,8,3.1415927,0,0,0,''),
-(10268,5875,'m425 quest zone 1268',613,-81.1948,210.313,-5,0,2,2,2,3.1415927,0,0,0,''),
-(10269,5875,'m425 quest zone 1269',613,-96.3181,152.012,2.51932,0,4,4,8,3.1415927,0,0,0,''),
-(10270,5875,'m425 quest zone 1270',601,-303.548,1568.09,4.14997,0,2,2,5,3.1415927,0,0,0,''),
-(10271,5875,'m425 quest zone 1271',601,-294.301,1549.32,3.7346,0,4,4,4,3.1415927,0,0,0,''),
-(10272,5875,'m425 quest zone 1272',601,-217.852,1612.33,-18.8155,0,8,8,8,3.1415927,0,0,0,''),
-(10273,5875,'m425 quest zone 1273',634,-810.35,-289.817,37.1522,0,8,8,8,3.1415927,0,0,0,''),
-(10274,5875,'m425 quest zone 1274',613,-185.278,-39.939,10,0,8,8,8,3.1415927,0,0,0,''),
-(10275,5875,'m425 quest zone 1275',606,-953.157,-265.114,66.4949,0,8,8,8,3.1415927,0,0,0,''),
-(10276,5875,'m425 quest zone 1276',606,-947.33,-396.805,71.3788,0,8,8,8,3.1415927,0,0,0,''),
-(10277,5875,'m425 quest zone 1277',634,-601.665,-92.433,42.6213,0,2,2,2,3.1415927,0,0,0,''),
-(10278,5875,'m425 quest zone 1278',634,-608.841,-61.1629,45.1923,0,8,8,8,3.1415927,0,0,0,''),
-(10279,5875,'m425 quest zone 1279',634,-604.859,-94.8969,42.6213,0,2,2,2,3.1415927,0,0,0,''),
-(10280,5875,'m425 quest zone 1280',601,-190.652,1551.95,17.4415,0,5,6,8,3.1415927,0,0,0,''),
-(10281,5875,'m425 quest zone 1281',606,-931.067,-275.612,63.5697,0,3,3,8,3.1415927,0,0,0,''),
-(10282,5875,'m425 quest zone 1282',614,2227.42,564.32,0.355696,0,1,1,8,3.1415927,0,0,0,''),
-(10284,5875,'m425 quest zone 1284',601,-130.127,573.46,5,3,3,3,3,3.089233,0,0,0,''),
-(10287,5875,'m425 quest zone 1287',606,-375.585,-172.102,53.416,3,2,2,2,3.1415927,0,0,0,''),
-(10288,5875,'m425 quest zone 1288',606,-386.944,-174.17,53.3683,3,2,2,2,3.1415927,0,0,0,''),
-(10289,5875,'m425 quest zone 1289',606,-387.449,-176.773,53.3701,3,2,2,2,3.1415927,0,0,0,''),
-(10290,5875,'m425 quest zone 1290',606,-371.613,-153.403,53.34,3,2,2,2,3.1415927,0,0,0,''),
-(10291,5875,'m425 quest zone 1291',606,-372.231,-151.334,53.36,3,2,2,2,3.1415927,0,0,0,''),
-(10292,5875,'m425 quest zone 1292',606,-383.88,-155.772,53.5686,3,2,2,2,3.1415927,0,0,0,''),
-(10293,5875,'m425 quest zone 1293',606,-382.519,-153.447,53.4327,3,2,2,2,3.1415927,0,0,0,''),
-(10294,5875,'m425 quest zone 1294',606,-385.699,-158.869,53.6232,3,2,2,2,3.1415927,0,0,0,''),
-(10295,5875,'m425 quest zone 1295',606,-386.242,-161.076,53.54,3,2,2,2,3.1415927,0,0,0,''),
-(10296,5875,'m425 quest zone 1296',601,-331.033,610.586,10.61,3,3,3,3,3.1415927,0,0,0,''),
-(10297,5875,'m425 quest zone 1297',632,47.5547,-84.4935,187.273,3,3,3,3,3.1415927,0,0,0,''),
-(10298,5875,'m425 quest zone 1298',601,-331.147,606.823,10.61,3,3,3,3,3.1415927,0,0,0,''),
-(10299,5875,'m425 quest zone 1299',601,-32.6674,466.885,2.38684,3,20,20,5,3.1415927,0,0,0,''),
-(10300,5875,'m425 quest zone 1300',601,-92.7278,409.088,1.56981,0,8,8,8,3.1415927,0,0,0,''),
-(10301,5875,'m425 quest zone 1301',601,-78.1905,856.906,1.23437,0,8,8,8,3.1415927,0,0,0,''),
-(10302,5875,'m425 quest zone 1302',601,-153.612,895.324,0.250204,0,8,8,8,3.1415927,0,0,0,''),
-(10303,5875,'m425 quest zone 1303',601,-235.755,725.941,20.2468,0,8,8,8,3.1415927,0,0,0,''),
-(10304,5875,'m425 quest zone 1304',601,-0.72727,809.171,7.70317,0,8,8,8,3.1415927,0,0,0,''),
-(10305,5875,'m425 quest zone 1305',601,36.6409,1175.74,0,0,8,8,8,3.1415927,0,0,0,''),
-(10306,5875,'m425 quest zone 1306',601,16.9128,1387.44,9.58401,0,8,8,8,3.1415927,0,0,0,''),
-(10307,5875,'m425 quest zone 1307',601,-397.26,625.192,6.64204,0,8,8,8,3.1415927,0,0,0,''),
-(10308,5875,'m425 quest zone 1308',601,-134.092,575.628,5.086,0,8,8,8,3.1415927,0,0,0,''),
-(10309,5875,'m425 quest zone 1309',630,-161.193,992.967,27.1396,0,3,3,5,3.1415927,0,0,0,''),
-(10310,5875,'m425 quest zone 1310',601,-172.499,980.485,0.345152,0,8,8,8,3.1415927,0,0,0,''),
-(10311,5875,'m425 quest zone 1311',601,-44.5722,1383.73,5.57668,0,8,8,8,3.1415927,0,0,0,''),
-(10312,5875,'m425 quest zone 1312',601,92.4879,918.816,30.0588,0,8,8,8,3.1415927,0,0,0,''),
-(10313,5875,'m425 quest zone 1313',601,-107.59,847.791,0,0,8,8,8,3.1415927,0,0,0,''),
-(10314,5875,'m425 quest zone 1314',601,-128.365,578.43,5.1129,3,3,3,8,3.1415927,0,0,0,''),
-(10315,5875,'m425 quest zone 1315',630,-100.602,1149.54,20.2132,0,3,3,8,3.1415927,0,0,0,''),
-(10316,5875,'m425 quest zone 1316',606,-377.534,-144.645,53.3993,3,3,3,3,3.1415927,0,0,0,''),
-(10317,5875,'m425 quest zone 1317',606,-368.196,-162.138,53.34,0,8,8,8,3.1415927,0,0,0,''),
-(10318,5875,'m425 quest zone 1318',601,-403.406,528.433,15.625,3,3,3,3,3.1415927,0,0,0,''),
-(10320,5875,'m425 quest zone 1320',601,-405.456,540.686,15.6949,3,5,5,5,3.1415927,0,0,0,''),
-(10321,5875,'m425 quest zone 1321',601,-424.409,528.622,15.8505,3,5,5,5,3.1415927,0,0,0,''),
-(10322,5875,'m425 quest zone 1322',613,31.2333,126.297,-0.0981195,3,3,3,3,3.1415927,0,0,0,''),
-(10323,5875,'m425 quest zone 1323',613,31.8824,135.113,-0.688659,3,3,3,3,3.1415927,0,0,0,''),
-(10324,5875,'m425 quest zone 1324',613,35.5788,130.733,-0.916234,3,3,3,3,3.1415927,0,0,0,''),
-(10325,5875,'m425 quest zone 1325',613,26.2362,121.097,-0.688659,3,3,3,3,3.1415927,0,0,0,''),
-(10326,5875,'m425 quest zone 1326',613,41.5536,129.496,-0.916235,3,3,3,3,3.1415927,0,0,0,''),
-(10329,5875,'m425 quest zone 1329',601,-227.943,575.683,28.0732,0,20,35,8,3.1415927,0,0,0,''),
-(10330,5875,'m425 quest zone 1330',601,-196.407,594.53,8.46005,0,8,8,8,3.1415927,0,0,0,''),
-(10331,5875,'m425 quest zone 1331',601,-86.2583,1926.87,-0.219741,0,88,88,88,3.1415927,0,0,0,''),
-(10332,5875,'m425 quest zone 1332',601,-61.3685,1560.35,37.2154,0,88,88,88,3.1415927,0,0,0,''),
-(10333,5875,'m425 quest zone 1333',601,1623.97,1305.43,1.31623,0,88,88,88,3.1415927,0,0,0,''),
-(10334,5875,'m425 quest zone 1334',601,-52.1979,302,4.40363,0,88,88,18,3.1415927,0,0,0,''),
-(10335,5875,'m425 quest zone 1335',625,672.236,863.603,105.459,0,32,32,8,3.1415927,0,0,0,''),
-(10336,5875,'m425 quest zone 1336',626,660.55,394.149,66.6617,0,8,8,8,3.1415927,0,0,0,''),
-(10337,5875,'m425 quest zone 1337',626,637.531,389.542,60.1863,0,8,8,8,3.1415927,0,0,0,''),
-(10338,5875,'m425 quest zone 1338',613,39.083,140.514,-0.916236,3,3,3,3,3.1415927,0,0,0,''),
-(10339,5875,'m425 quest zone 1339',601,-99.1727,454.182,2.63,0,8,8,8,3.1415927,0,0,0,''),
-(10340,5875,'m425 quest zone 1340',601,-76.7248,457.196,3.18837,0,32,48,8,3.1415927,0,0,0,''),
-(10341,5875,'m425 quest zone 1341',601,-225.13,600.464,21.2851,0,2,2,2,3.1415927,0,0,0,''),
-(10342,5875,'m425 quest zone 1342',601,-26.8937,421.608,0.423264,0,2,2,2,3.1415927,0,0,0,''),
-(10343,5875,'m425 quest zone 1343',604,-2096.7,-67.2972,69.46,0,2,2,2,3.1415927,0,0,0,''),
-(10344,5875,'m425 quest zone 1344',613,-144.381,337.252,-4.93955,0,8,8,8,3.1415927,0,0,0,''),
-(10345,5875,'m425 quest zone 1345',633,-111.848,129.213,-13.5716,0,16,16,8,3.1415927,0,0,0,''),
-(10346,5875,'m425 quest zone 1346',601,-225.213,600.269,21.3361,0,8,8,8,3.1415927,0,0,0,''),
-(10347,5875,'m425 quest zone 1347',636,377.3,468.904,61.5695,0,8,8,8,3.1415927,0,0,0,''),
-(10348,5875,'m425 quest zone 1348',636,497.328,350.198,33.13,0,8,8,8,3.1415927,0,0,0,''),
-(10349,5875,'m425 quest zone 1349',636,422.65,240.141,60,0,8,8,8,3.1415927,0,0,0,''),
-(10350,5875,'m425 quest zone 1350',636,279.344,351.878,35.2031,0,8,8,8,3.1415927,0,0,0,''),
-(10351,5875,'m425 quest zone 1351',601,-77.025,1256.42,0.00607819,0,40,40,8,3.1415927,0,0,0,''),
-(10352,5875,'m425 quest zone 1352',601,-395.865,639.772,6.64051,0,10,10,5,3.1415927,0,0,0,''),
-(10353,5875,'m425 quest zone 1353',601,-227.975,595.453,11.7251,0,36,32,24,3.1415927,0,0,0,''),
-(10354,5875,'m425 quest zone 1354',613,-83.918,216.404,-5,0,2,2,2,3.1415927,0,0,0,''),
-(10355,5875,'m425 quest zone 1355',601,1965.69,466.232,12.1688,0,8,8,8,3.1415927,0,0,0,''),
-(10356,5875,'m425 quest zone 1356',601,3.47619,481.771,3.25618,8,20,20,8,3.1415927,0,0,0,''),
-(10358,5875,'m425 quest zone 1358',604,1202.36,-1841.69,5.80867,8,200,200,8,3.1415927,0,0,0,''),
-(10359,5875,'m425 quest zone 1359',601,137.683,861.636,28.2225,0,2,2,4,3.1415927,0,0,0,''),
-(10360,5875,'m425 quest zone 1360',606,-553.486,-1185.23,36.17,8,8,8,3,3.1415927,0,0,0,''),
-(10361,5875,'m425 quest zone 1361',606,-626.371,-1072.63,53.91,3,15,20,3,3.1415927,0,0,0,''),
-(10362,5875,'m425 quest zone 1362',606,-588.578,-1075.09,53.51,3,10,10,3,3.1415927,0,0,0,''),
-(10363,5875,'m425 quest zone 1363',606,-564.24,-1168.75,36.0682,3,3,3,3,3.1415927,0,0,0,''),
-(10364,5875,'m425 quest zone 1364',606,-600.67,-1090.94,53.5015,3,3,3,3,3.1415927,0,0,0,''),
-(10365,5875,'m425 quest zone 1365',601,1675.25,873.117,-6.41902,0,8,8,8,3.1415927,0,0,0,''),
-(10366,5875,'m425 quest zone 1366',639,-110.531,139.488,56.9751,0,4,4,4,3.1415927,0,0,0,''),
-(10367,5875,'m425 quest zone 1367',601,714.745,2259.8,16.4331,0,4,4,4,3.1415927,0,0,0,''),
-(10368,5875,'m425 quest zone 1368',606,-617.563,-1100.18,53.4903,3,3,3,3,3.1415927,0,0,0,''),
-(10369,5875,'m425 quest zone 1369',637,-32.8557,255.376,10.9369,3,8,8,3,3.1415927,0,0,0,''),
-(10370,5875,'m425 quest zone 1370',623,1039.78,940.769,91.4683,0,4,4,4,3.1415927,0,0,0,''),
-(10371,5875,'m425 quest zone 1371',601,2158.05,327.919,-2,0,38,38,8,3.1415927,0,0,0,''),
-(10372,5875,'m425 quest zone 1372',604,1727.71,-1898.02,19.8575,2,2,2,2,3.1415927,0,0,0,''),
-(10373,5875,'m425 quest zone 1373',604,1711.83,-1866.71,15,2,2,2,2,3.1415927,0,0,0,''),
-(10374,5875,'m425 quest zone 1374',604,1712.17,-1869.89,15,2,2,2,2,3.1415927,0,0,0,''),
-(10375,5875,'m425 quest zone 1375',604,1716.43,-1863.88,15,2,2,2,2,3.1415927,0,0,0,''),
-(10376,5875,'m425 quest zone 1376',601,-164.391,583.07,5.75635,3,3,3,3,3.1415927,0,0,0,''),
-(10377,5875,'m425 quest zone 1377',604,1709.61,-1868.4,14.038,3,3,3,3,3.1415927,0,0,0,''),
-(10378,5875,'m425 quest zone 1378',604,818.836,-2390.3,72.1224,0,8,8,8,3.1415927,0,0,0,''),
-(10379,5875,'m425 quest zone 1379',604,840.335,-2437.59,66.1399,3,3,3,3,3.1415927,0,0,0,''),
-(10380,5875,'m425 quest zone 1380',613,-52.2703,209.125,-3.53709,0,8,8,8,3.1415927,0,0,0,''),
-(10381,5875,'m425 quest zone 1381',604,794.959,-2430.49,70.7916,0,8,8,8,3.1415927,0,0,0,''),
-(10382,5875,'m425 quest zone 1382',604,836.641,-2467.14,59.8556,0,8,8,8,3.1415927,0,0,0,''),
-(10383,5875,'m425 quest zone 1383',604,881.168,-2399.27,74.23,0,15,15,15,3.1415927,0,0,0,''),
-(10384,5875,'m425 quest zone 1384',601,2219.04,684.971,-6.94962,0,2,2,2,3.1415927,0,0,0,''),
-(10385,5875,'m425 quest zone 1385',620,-1040.23,-1616.45,235.619,0,4,4,4,3.0717795,0,0,0,''),
-(10386,5875,'m425 quest zone 1386',620,-509.179,-1469.92,292.049,0,4,4,4,3.1415927,0,0,0,''),
-(10388,5875,'m425 quest zone 1388',638,303.701,466.644,-10.8564,0,16,16,16,3.1415927,0,0,0,''),
-(10389,5875,'m425 quest zone 1389',638,283.851,283.848,11.2552,0,2,2,2,3.1415927,0,0,0,''),
-(10390,5875,'m425 quest zone 1390',638,285.519,295.082,9.69741,0,5,5,5,3.1415927,0,0,0,''),
-(10391,5875,'m425 quest zone 1391',638,384.674,292.139,-0.837713,0,2,2,2,2.0765927,0,0,0,''),
-(10392,5875,'m425 quest zone 1392',638,309.617,362.625,-9.97544,0,2,2,2,3.1415927,0,0,0,''),
-(10393,5875,'m425 quest zone 1393',638,257.366,376.446,-9.97243,0,2,2,2,3.1415927,0,0,0,''),
-(10394,5875,'m425 quest zone 1394',640,-405.522,-308.542,2.55664,0,2,2,2,3.1415927,0,0,0,''),
-(10395,5875,'m425 quest zone 1395',640,-275.741,-83.145,14.8033,0,42,10,8,2.3271058,0,0,0,''),
-(10396,5875,'m425 quest zone 1396',640,-227.951,-223.808,44.88,0,9,25,4,3.1415927,0,0,0,''),
-(10397,5875,'m425 quest zone 1397',640,-332.775,-140.456,22.0061,0,120,18,8,6.254288,0,0,0,''),
-(10398,5875,'m425 quest zone 1398',640,-495.448,-175.174,1,0,8,8,8,3.1415927,0,0,0,''),
-(10399,5875,'m425 quest zone 1399',640,-357.756,38.2015,-8.52,0,8,8,8,3.1415927,0,0,0,''),
-(10400,5875,'m425 quest zone 1400',640,-207.355,-223.648,45.6347,0,8,8,8,3.1415927,0,0,0,''),
-(10401,5875,'m425 quest zone 1401',601,736.189,2294.07,16.5324,0,2,2,2,3.1415927,0,0,0,''),
-(10402,5875,'m425 quest zone 1402',638,845.356,863.356,28.43,0,2,2,2,3.1415927,0,0,0,''),
-(10403,5875,'m425 quest zone 1403',604,985.691,-2514.45,11.8897,0,8,8,8,3.1415927,0,0,0,''),
-(10404,5875,'m425 quest zone 1404',638,268.726,342.261,-9.26726,0,2,2,2,3.1415927,0,0,0,''),
-(10405,5875,'m425 quest zone 1405',604,818.593,-2399.03,71.862,0,8,8,8,3.1415927,0,0,0,''),
-(10406,5875,'m425 quest zone 1406',604,842.003,-2438.32,66.075,3,3,3,3,3.1415927,0,0,0,''),
-(10408,5875,'m425 quest zone 1408',638,328.282,582.108,-0.143671,0,2,2,2,3.1415927,0,0,0,''),
-(10409,5875,'m425 quest zone 1409',638,320.115,656.06,27.2733,0,64,64,32,3.1415927,0,0,0,''),
-(10410,5875,'m425 quest zone 1410',638,340.123,636.612,14.1191,0,58,58,8,3.1415927,0,0,0,''),
-(10411,5875,'m425 quest zone 1411',638,314.371,784.329,75.1612,0,8,8,8,3.1415927,0,0,0,''),
-(10412,5875,'m425 quest zone 1412',638,560.516,401.616,7.34144,0,16,16,16,3.1415927,0,0,0,''),
-(10413,5875,'m425 quest zone 1413',638,581.419,455.909,8.54201,0,16,16,16,3.1415927,0,0,0,''),
-(10414,5875,'m425 quest zone 1414',638,601.787,385.689,24.9551,0,3,3,3,3.1415927,0,0,0,''),
-(10415,5875,'m425 quest zone 1415',638,739.585,459.394,7.49604,0,2,2,2,3.1415927,0,0,0,''),
-(10416,5875,'m425 quest zone 1416',638,812.137,489.835,7.73763,0,2,2,2,3.1415927,0,0,0,''),
-(10417,5875,'m425 quest zone 1417',638,1112.7,846.226,8.87,0,2,2,2,3.1415927,0,0,0,''),
-(10418,5875,'m425 quest zone 1418',638,889.138,582.135,-4.31928,0,8,8,8,3.1415927,0,0,0,''),
-(10419,5875,'m425 quest zone 1419',638,963.545,675.516,15.2397,0,8,8,8,3.1415927,0,0,0,''),
-(10420,5875,'m425 quest zone 1420',601,741.078,2301.97,16.5778,0,4,4,4,3.1415927,0,0,0,''),
-(10421,5875,'m425 quest zone 1421',601,737.821,2301.91,16.5778,0,4,4,4,3.1415927,0,0,0,''),
-(10422,5875,'m425 quest zone 1422',638,270.322,392.301,-10.03,0,8,8,8,3.1415927,0,0,0,''),
-(10423,5875,'m425 quest zone 1423',638,455.339,566.115,19.7279,0,18,18,8,3.1415927,0,0,0,''),
-(10424,5875,'m425 quest zone 1424',601,721.67,2270.81,16.4228,0,8,8,4,3.1415927,0,0,0,''),
-(10425,5875,'m425 quest zone 1425',638,495.869,416.047,12.1699,0,2,2,2,3.106686,0,0,0,''),
-(10426,5875,'m425 quest zone 1426',638,503.282,415.447,11.739,0,2,2,2,3.1415927,0,0,0,''),
-(10427,5875,'m425 quest zone 1427',638,577.578,1392.9,-17.9004,0,8,8,8,3.1415927,0,0,0,''),
-(10428,5875,'m425 quest zone 1428',638,639.917,1380.86,-18.5141,0,8,8,8,3.1415927,0,0,0,''),
-(10429,5875,'m425 quest zone 1429',638,754.112,1003.05,37.42,0,2,2,2,3.1415927,0,0,0,''),
-(10430,5875,'m425 quest zone 1430',638,929.954,849.979,24.5329,0,2,2,2,3.1415927,0,0,0,''),
-(10431,5875,'m425 quest zone 1431',638,930.43,875.753,24.533,0,2,2,2,3.1415927,0,0,0,''),
-(10432,5875,'m425 quest zone 1432',638,1045.66,717.378,5.72788,0,16,16,16,3.1415927,0,0,0,''),
-(10433,5875,'m425 quest zone 1433',638,955.44,541.088,-7.62011,0,16,16,16,3.1415927,0,0,0,''),
-(10434,5875,'m425 quest zone 1434',638,1094.5,626.512,-10.4458,0,8,8,8,3.1415927,0,0,0,''),
-(10436,5875,'m425 quest zone 1436',638,453.587,1304.16,-10.4512,0,2,2,2,3.1415927,0,0,0,''),
-(10437,5875,'m425 quest zone 1437',601,-279.014,610.043,13.6693,3,2,2,2,3.1415927,0,0,0,''),
-(10438,5875,'m425 quest zone 1438',601,-283.722,609.698,13.6693,2,2,2,2,3.1415927,0,0,0,''),
-(10439,5875,'m425 quest zone 1439',601,-278.081,614.157,13.6693,2,2,2,2,3.1415927,0,0,0,''),
-(10440,5875,'m425 quest zone 1440',601,-284.02,614.625,13.6693,2,2,2,2,3.1415927,0,0,0,''),
-(10441,5875,'m425 quest zone 1441',601,-332.675,598.56,10.6423,3,10,10,10,3.1415927,0,0,0,''),
-(10442,5875,'m425 quest zone 1442',601,561.31,1661.3,9.91954,0,50,300,8,3.1415927,0,0,0,''),
-(10443,5875,'m425 quest zone 1443',601,-195.6,758.438,-0.192918,3,8,100,8,0.63995266,0,0,0,''),
-(10444,5875,'m425 quest zone 1444',601,-97.8802,567.002,10,3,8,8,8,3.1415927,0,0,0,''),
-(10445,5875,'m425 quest zone 1445',601,-332.38,626.02,10.61,3,8,8,8,3.1415927,0,0,0,''),
-(10446,5875,'m425 quest zone 1446',613,-95.688,110.457,5.01494,3,8,8,8,3.1415927,0,0,0,''),
-(10447,5875,'m425 quest zone 1447',638,891.008,863.377,26.3678,0,2,2,2,3.1415927,0,0,0,''),
-(10449,5875,'m425 quest zone 1449',604,-1891.52,265.251,1.60946,0,2,2,2,3.1415927,0,0,0,''),
-(10450,5875,'m425 quest zone 1450',604,-1850.77,161.032,-7.99504,0,2,2,2,3.1415927,0,0,0,''),
-(10451,5875,'m425 quest zone 1451',638,358.087,1390.18,-15.2551,0,8,8,8,3.1415927,0,0,0,''),
-(10452,5875,'m425 quest zone 1452',638,737.721,1045.04,37.42,0,2,2,2,3.1415927,0,0,0,''),
-(10453,5875,'m425 quest zone 1453',604,-2095.35,-67.0435,69.46,0,2,2,2,3.1415927,0,0,0,''),
-(10454,5875,'m425 quest zone 1454',601,-368.806,633.295,10.898,0,2,2,2,3.1415927,0,0,0,''),
-(10455,5875,'m425 quest zone 1455',601,49.3097,1766.27,25.98,3,3,3,3,3.1415927,0,0,0,''),
-(10456,5875,'m425 quest zone 1456',601,49.8747,1728.78,25.98,3,3,3,3,3.1415927,0,0,0,''),
-(10457,5875,'m425 quest zone 1457',601,419.677,2197.25,19.2028,50,90,50,8,3.1415927,0,0,0,''),
-(10459,5875,'m425 quest zone 1459',601,24.7619,1764.36,20.7692,80,80,80,8,3.1415927,0,0,0,''),
-(10460,5875,'m425 quest zone 1460',641,-458.509,-1186.17,8.78415,0,2,2,2,3.1415927,0,0,0,''),
-(10461,5875,'m425 quest zone 1461',641,-637.261,-1139.88,54.5,0,2,2,2,3.1415927,0,0,0,''),
-(10462,5875,'m425 quest zone 1462',641,-548.931,-1184.8,23.65,0,8,8,8,3.1415927,0,0,0,''),
-(10463,5875,'m425 quest zone 1463',641,-677.374,-1180.6,54.4,0,8,8,8,3.1415927,0,0,0,''),
-(10464,5875,'m425 quest zone 1464',641,-809.489,-1182.78,79.01,0,8,8,8,3.1415927,0,0,0,''),
-(10465,5875,'m425 quest zone 1465',604,-1864.5,223.425,-4.01495,0,8,8,8,3.1415927,0,0,0,''),
-(10466,5875,'m425 quest zone 1466',604,-1757.16,172.245,6.62777,0,8,8,8,3.1415927,0,0,0,''),
-(10467,5875,'m425 quest zone 1467',604,-1794.79,178.02,-7.84916,0,8,8,8,3.1415927,0,0,0,''),
-(10468,5875,'m425 quest zone 1468',609,-358.588,-1085.06,0,3,3,3,3,3.1415927,0,0,0,''),
-(10469,5875,'m425 quest zone 1469',609,-318.829,-1102.04,0,0,8,8,8,3.1415927,0,0,0,''),
-(10470,5875,'m425 quest zone 1470',613,-79.7417,111.105,5,3,3,3,3,3.1415927,0,0,0,''),
-(10471,5875,'m425 quest zone 1471',601,-329.587,594.643,10.6159,3,3,3,3,3.1415927,0,0,0,''),
-(10472,5875,'m425 quest zone 1472',601,-329.56,601.73,10.61,2,2,2,2,3.1415927,0,0,0,''),
-(10474,5875,'m425 quest zone 1474',601,-334.421,601.436,10.6199,2,2,2,2,3.1415927,0,0,0,''),
-(10475,5875,'m425 quest zone 1475',641,-823.904,-1200.94,79.01,0,8,8,8,3.1415927,0,0,0,''),
-(10476,5875,'m425 quest zone 1476',613,-83.1179,108.55,5,5,5,5,5,3.1415927,0,0,0,''),
-(10477,5875,'m425 quest zone 1477',613,-79.7041,111.289,5,5,5,5,5,3.1415927,0,0,0,''),
-(10479,5875,'m425 quest zone 1479',638,681.55,1127.02,32.72,0,2,2,2,3.1415927,0,0,0,''),
-(10480,5875,'m425 quest zone 1480',638,460.059,863.183,73.4804,0,2,2,4,3.1415927,0,0,0,''),
-(10481,5875,'m425 quest zone 1481',601,402.81,2267.59,55.9328,0,2,2,2,3.1415927,0,0,0,''),
-(10482,5875,'m425 quest zone 1482',638,318.68,400.111,-10.5837,0,2,2,2,3.1415927,0,0,0,''),
-(10483,5875,'m425 quest zone 1483',638,273.025,734.225,48.9941,0,2,2,2,3.1415927,0,0,0,''),
-(10484,5875,'m425 quest zone 1484',638,408.678,1346.71,-15.8652,0,2,2,2,3.1415927,0,0,0,''),
-(10485,5875,'m425 quest zone 1485',638,437.553,1232.69,-10.2238,0,2,2,2,3.1415927,0,0,0,''),
-(10487,5875,'m425 quest zone 1487',638,455.281,1212.44,-10.53,0,2,2,2,3.1415927,0,0,0,''),
-(10489,5875,'m425 quest zone 1489',638,435.256,1225.94,-10.3211,0,2,2,2,3.1415927,0,0,0,''),
-(10491,5875,'m425 quest zone 1491',601,586.667,2672.45,39.3273,0,2,2,2,3.1415927,0,0,0,''),
-(10492,5875,'m425 quest zone 1492',638,506.321,870.938,71.6878,0,2,2,4,3.1415927,0,0,0,''),
-(10493,5875,'m425 quest zone 1493',638,1131.91,860.584,8.96409,0,8,8,2,3.1415927,0,0,0,''),
-(10494,5875,'m425 quest zone 1494',601,-299.641,587.23,16.1798,2,2,2,2,3.1415927,0,0,0,''),
-(10495,5875,'m425 quest zone 1495',601,-310.907,606.799,10.6544,2,2,2,2,3.1415927,0,0,0,''),
-(10496,5875,'m425 quest zone 1496',601,-304.238,605.535,10.986,2,2,2,2,3.1415927,0,0,0,''),
-(10497,5875,'m425 quest zone 1497',601,-305.681,601.85,10.7869,2,2,2,2,3.1415927,0,0,0,''),
-(10498,5875,'m425 quest zone 1498',601,-305.585,598.982,10.8879,2,2,2,2,3.1415927,0,0,0,''),
-(10499,5875,'m425 quest zone 1499',601,-303.682,613.815,10.61,2,2,2,2,3.1415927,0,0,0,''),
-(10500,5875,'m425 quest zone 1500',638,811.203,993.922,43.52,0,8,8,8,3.1415927,0,0,0,''),
-(10501,5875,'m425 quest zone 1501',613,21.1752,17.2076,-5,2,2,2,2,3.1415927,0,0,0,''),
-(10502,5875,'m425 quest zone 1502',613,18.5414,7.04373,-4.58047,3,8,8,8,3.1415927,0,0,0,''),
-(10503,5875,'m425 quest zone 1503',613,15.3276,17.2036,-5,2,2,2,2,3.1415927,0,0,0,''),
-(10504,5875,'m425 quest zone 1504',613,22.3885,46.0689,-5,2,2,2,2,3.1415927,0,0,0,''),
-(10506,5875,'m425 quest zone 1506',638,347.808,497.725,-0.333775,0,18,18,8,3.1415927,0,0,0,''),
-(10507,5875,'m425 quest zone 1507',638,727.101,977.07,37.42,0,2,2,2,3.1415927,0,0,0,''),
-(10508,5875,'m425 quest zone 1508',638,478.813,1125.98,23.09,0,2,2,2,3.1415927,0,0,0,''),
-(10509,5875,'m425 quest zone 1509',638,592.366,1198.01,32.72,0,2,2,2,3.1415927,0,0,0,''),
-(10510,5875,'m425 quest zone 1510',642,945.542,1068.33,89.9174,0,8,8,8,3.1415927,0,0,0,''),
-(10511,5875,'m425 quest zone 1511',642,1142.83,1058.39,103.852,0,8,8,8,3.1415927,0,0,0,''),
-(10512,5875,'m425 quest zone 1512',642,1041.12,1145.72,104.423,0,8,8,8,3.1415927,0,0,0,''),
-(10513,5875,'m425 quest zone 1513',642,1112.46,951.064,115.61,0,8,8,8,3.1415927,0,0,0,''),
-(10515,5875,'m425 quest zone 1515',642,1154.75,922.962,118.204,0,8,8,8,3.1415927,0,0,0,''),
-(10516,5875,'m425 quest zone 1516',623,987.446,844.395,106.11,0,8,8,8,3.1415927,0,0,0,''),
-(10517,5875,'m425 quest zone 1517',638,535.497,1014.73,44.5,0,1,1,1,3.1415927,0,0,0,''),
-(10518,5875,'m425 quest zone 1518',638,285.35,427.953,-10.03,0,1,1,1,3.1415927,0,0,0,''),
-(10519,5875,'m425 quest zone 1519',638,285.305,425.361,-10.03,0,1,1,1,3.1415927,0,0,0,''),
-(10520,5875,'m425 quest zone 1520',638,407.14,604.115,16.6088,0,1,1,1,3.1415927,0,0,0,''),
-(10521,5875,'m425 quest zone 1521',623,979.878,850.904,106.115,0,1,1,1,3.1415927,0,0,0,''),
-(10522,5875,'m425 quest zone 1522',642,1050.59,795.895,66.9438,0,1,1,1,3.1415927,0,0,0,''),
-(10523,5875,'m425 quest zone 1523',601,-352.342,527.719,34.9,0,1,1,1,3.1415927,0,0,0,''),
-(10524,5875,'m425 quest zone 1524',638,826.784,989.814,43.52,0,1,1,1,3.1415927,0,0,0,''),
-(10525,5875,'m425 quest zone 1525',613,-87.1467,116.642,5,0,1,1,1,3.1415927,0,0,0,''),
-(10526,5875,'m425 quest zone 1526',601,271.637,894.125,60.03,0,1,1,1,3.1415927,0,0,0,''),
-(10527,5875,'m425 quest zone 1527',630,6.82991,719.538,8.53,0,1,1,1,3.1415927,0,0,0,''),
-(10528,5875,'m425 quest zone 1528',642,958.403,1075.93,89.9174,0,8,8,8,3.1415927,0,0,0,''),
-(10529,5875,'m425 quest zone 1529',642,1127.11,1069.36,103.852,0,8,8,8,3.1415927,0,0,0,''),
-(10530,5875,'m425 quest zone 1530',613,-76.3043,124.644,5,0,2,2,2,3.1415927,0,0,0,''),
-(10531,5875,'m425 quest zone 1531',601,301.447,2707.08,-0.295992,0,3,3,2,3.1415927,0,0,0,''),
-(10532,5875,'m425 quest zone 1532',601,302.44,2767.94,-6.92419,0,60,45,4,3.1415927,0,0,0,''),
-(10533,5875,'m425 quest zone 1533',601,324.263,2704.64,0.246157,0,3,3,3,3.1415927,0,0,0,''),
-(10535,5875,'m425 quest zone 1535',645,585.437,413.604,4.65371,0,8,8,8,3.1415927,0,0,0,''),
-(10536,5875,'m425 quest zone 1536',601,295.294,2703.86,-0.327398,0,3,3,3,3.1415927,0,0,0,''),
-(10537,5875,'m425 quest zone 1537',638,690.313,1124.08,32.72,0,1,1,1,3.1241395,0,0,0,''),
-(10538,5875,'m425 quest zone 1538',640,-351.052,26.2853,-7.97985,0,2,2,2,3.1415927,0,0,0,''),
-(10539,5875,'m425 quest zone 1539',641,-677.263,-1181.05,54.4,0,2,2,2,3.1415927,0,0,0,''),
-(10541,5875,'m425 quest zone 1541',645,701.693,411.677,12.8408,0,8,8,8,3.1415927,0,0,0,''),
-(10543,5875,'m425 quest zone 1543',645,793.012,469.333,7.60482,0,8,8,8,3.1415927,0,0,0,''),
-(10544,5875,'m425 quest zone 1544',645,596.63,468.542,9.98711,0,8,8,8,3.1415927,0,0,0,''),
-(10545,5875,'m425 quest zone 1545',645,747.876,546.541,0.189919,0,8,8,8,3.1415927,0,0,0,''),
-(10546,5875,'m425 quest zone 1546',601,296.442,2714.88,-0.724123,0,45,10,4,3.1415927,0,0,0,''),
-(10547,5875,'m425 quest zone 1547',646,-354.459,-1222.69,5,0,3,3,3,3.1415927,0,0,0,''),
-(10548,5875,'m425 quest zone 1548',646,-317.707,-1281.11,1.24575,0,3,3,3,3.1415927,0,0,0,''),
-(10549,5875,'m425 quest zone 1549',646,-331.99,-1314.89,4.30006,0,140,65,8,3.1415927,0,0,0,''),
-(10550,5875,'m425 quest zone 1550',645,658.087,598.684,27.3645,0,1,1,1,3.1415927,0,0,0,''),
-(10551,5875,'m425 quest zone 1551',645,654.415,575.122,26.2236,0,1,1,1,3.1415927,0,0,0,''),
-(10552,5875,'m425 quest zone 1552',645,670.934,574.909,25.9689,0,1,1,1,3.1415927,0,0,0,''),
-(10553,5875,'m425 quest zone 1553',645,761.104,489.061,8.00948,0,1,1,1,3.1415927,0,0,0,''),
-(10554,5875,'m425 quest zone 1554',638,652.045,734.488,40.8,0,2,2,2,3.1415927,0,0,0,''),
-(10555,5875,'m425 quest zone 1555',601,-437.584,618.229,7.22916,0,2,2,2,3.1415927,0,0,0,''),
-(10556,5875,'m425 quest zone 1556',613,-101.15,127.615,5,2,2,2,2,3.1415927,0,0,0,''),
-(10557,5875,'m425 quest zone 1557',604,2282.07,-2082.61,3.88753,2,2,2,2,3.1415927,0,0,0,''),
-(10558,5875,'m425 quest zone 1558',604,2212.61,-2019.14,12.02,2,2,2,2,3.1415927,0,0,0,''),
-(10559,5875,'m425 quest zone 1559',604,2178.43,-2063.94,15.89,2,2,2,2,3.1415927,0,0,0,''),
-(10560,5875,'m425 quest zone 1560',604,2182.58,-2085.82,16.4087,3,3,3,3,3.1415927,0,0,0,''),
-(10561,5875,'m425 quest zone 1561',604,2175.41,-2049.74,15.76,3,3,3,3,3.1415927,0,0,0,''),
-(10562,5875,'m425 quest zone 1562',604,2185.48,-2080.9,15.89,2,2,2,2,3.1415927,0,0,0,''),
-(10563,5875,'m425 quest zone 1563',604,2178.93,-2076.67,15.89,2,2,2,2,3.1415927,0,0,0,''),
-(10564,5875,'m425 quest zone 1564',604,2178.96,-2078.87,15.89,2,2,2,2,3.1415927,0,0,0,''),
-(10565,5875,'m425 quest zone 1565',604,2179.55,-2081.75,16.0554,2,2,2,2,3.1415927,0,0,0,''),
-(10566,5875,'m425 quest zone 1566',604,2195.93,-2020,14.6231,3,20,20,8,3.1415927,0,0,0,''),
-(10567,5875,'m425 quest zone 1567',604,2195.51,-2059.86,15.76,3,8,30,8,3.1415927,0,0,0,''),
-(10568,5875,'m425 quest zone 1568',604,2171.95,-2066.6,15.9756,3,8,30,8,3.1415927,0,0,0,''),
-(10569,5875,'m425 quest zone 1569',648,-30.8616,28.5186,10.0393,3,8,8,8,3.1415927,0,0,0,''),
-(10570,5875,'m425 quest zone 1570',606,-564.082,-1176.26,36.17,2,2,2,2,3.1415927,0,0,0,''),
-(10571,5875,'m425 quest zone 1571',606,-567.001,-1160.23,36.17,2,2,2,2,3.1415927,0,0,0,''),
-(10572,5875,'m425 quest zone 1572',637,152.558,141.989,10.364,0,8,8,8,3.1415927,0,0,0,''),
-(10573,5875,'m425 quest zone 1573',637,152.987,69.3696,10.3794,5,5,5,5,3.1415927,0,0,0,''),
-(10574,5875,'m425 quest zone 1574',637,34.4737,57.8529,10.4317,5,5,5,5,3.1415927,0,0,0,''),
-(10575,5875,'m425 quest zone 1575',637,170.185,338.342,10.4317,5,5,5,5,3.1415927,0,0,0,'');
+(10042,5875,'m425 quest zone 1042',623,510.514,1177.89,5,0,240,60,8,5.5850534,0,0,0,''),
+(10043,5875,'m425 quest zone 1043',623,622.209,815.34,51.0973,0,300,140,60,-0,0,0,0,''),
+(10044,5875,'m425 quest zone 1044',623,600.003,846.309,53.6248,0,8,8,8,-0,0,0,0,''),
+(10045,5875,'m425 quest zone 1045',623,396.223,762.313,63.08,0,8,8,8,-0,0,0,0,''),
+(10046,5875,'m425 quest zone 1046',623,1013.67,116.529,127.323,0,8,8,8,-0,0,0,0,''),
+(10047,5875,'m425 quest zone 1047',623,-532.314,726.258,-4.87095,0,8,8,8,5.6141424,0,0,0,''),
+(10048,5875,'m425 quest zone 1048',623,956.8,1071.89,76.5297,0,8,8,8,-0,0,0,0,''),
+(10049,5875,'m425 quest zone 1049',623,971.359,1071.72,76.9641,0,8,8,8,-0,0,0,0,''),
+(10050,5875,'m425 quest zone 1050',623,931.957,1136.75,92.4546,0,8,8,8,-0,0,0,0,''),
+(10051,5875,'m425 quest zone 1051',623,943.534,1139.49,92.6953,0,8,8,8,-0,0,0,0,''),
+(10052,5875,'m425 quest zone 1052',623,1017.81,1569.55,29.5494,0,80,150,8,-0,0,0,0,''),
+(10053,5875,'m425 quest zone 1053',623,512.91,1438.7,11,0,8,8,8,-0,0,0,0,''),
+(10054,5875,'m425 quest zone 1054',623,996.58,116.665,128.242,0,8,8,8,-0,0,0,0,''),
+(10055,5875,'m425 quest zone 1055',623,802.619,-48.0558,80.0948,0,8,8,8,-0,0,0,0,''),
+(10056,5875,'m425 quest zone 1056',623,776.893,-190.192,73.9527,0,100,50,20,6.1086535,0,0,0,''),
+(10057,5875,'m425 quest zone 1057',623,752.241,-134.697,83.72,0,20,50,8,5.8643174,0,0,0,''),
+(10058,5875,'m425 quest zone 1058',623,807.197,-40.2272,80.5128,0,8,8,8,-0,0,0,0,''),
+(10059,5875,'m425 quest zone 1059',623,778.538,-232.861,68.4283,0,130,40,25,5.8177643,0,0,0,''),
+(10060,5875,'m425 quest zone 1060',623,607.01,-281.426,15.0486,0,60,60,8,6.1959195,0,0,0,''),
+(10061,5875,'m425 quest zone 1061',623,583.115,-204.037,16.2278,0,30,80,8,5.1778054,0,0,0,''),
+(10062,5875,'m425 quest zone 1062',623,784.429,-402.349,36.8191,0,8,8,8,-0,0,0,0,''),
+(10063,5875,'m425 quest zone 1063',623,719.344,-313.073,33.9321,0,120,60,8,5.1487255,0,0,0,''),
+(10064,5875,'m425 quest zone 1064',623,455.222,-291.084,13.2469,0,70,80,8,2.7634354,0,0,0,''),
+(10065,5875,'m425 quest zone 1065',623,515.982,-284.88,13.33,0,8,8,8,-0,0,0,0,''),
+(10066,5875,'m425 quest zone 1066',623,604.018,-338.429,12.3029,0,100,60,8,-0,0,0,0,''),
+(10067,5875,'m425 quest zone 1067',623,779.237,-406.24,36.8668,0,8,8,8,-0,0,0,0,''),
+(10068,5875,'m425 quest zone 1068',623,622.982,-417.558,12.1017,0,60,100,8,0.058175564,0,0,0,''),
+(10069,5875,'m425 quest zone 1069',623,792.706,-407.06,36.4247,0,8,8,8,-0,0,0,0,''),
+(10070,5875,'m425 quest zone 1070',606,-211.172,-309.582,102.579,0,3,3,3,-0,0,0,0,''),
+(10071,5875,'m425 quest zone 1071',623,555.366,-213.771,17.1045,0,8,8,8,-0,0,0,0,''),
+(10072,5875,'m425 quest zone 1072',623,765.168,-421.633,36.8049,0,8,8,8,-0,0,0,0,''),
+(10073,5875,'m425 quest zone 1073',623,873.905,-218.109,86.9962,0,8,8,8,-0,0,0,0,''),
+(10074,5875,'m425 quest zone 1074',623,245.231,-454.061,3.86838,0,8,8,8,-0,0,0,0,''),
+(10075,5875,'m425 quest zone 1075',623,-692.308,-562.584,-47.6842,0,8,8,8,-0,0,0,0,''),
+(10076,5875,'m425 quest zone 1076',623,187.269,-344.87,8.9754,0,100,120,8,-0,0,0,0,''),
+(10077,5875,'m425 quest zone 1077',623,200.2,-137.514,31.8346,0,40,60,15,-0,0,0,0,''),
+(10078,5875,'m425 quest zone 1078',623,277.883,-155.738,31.5615,0,65,40,8,3.9269955,0,0,0,''),
+(10079,5875,'m425 quest zone 1079',623,-625.931,-542.777,-55.9712,0,8,8,8,-0,0,0,0,''),
+(10080,5875,'m425 quest zone 1080',623,-506.206,-415.039,-62.78,0,8,8,8,-0,0,0,0,''),
+(10081,5875,'m425 quest zone 1081',623,-559.534,-452.166,-54.61,0,8,8,8,-0,0,0,0,''),
+(10082,5875,'m425 quest zone 1082',623,-645.972,-559.682,-52.1894,0,8,8,8,-0,0,0,0,''),
+(10083,5875,'m425 quest zone 1083',623,-565.765,-443.156,-54.61,0,8,8,8,-0,0,0,0,''),
+(10084,5875,'m425 quest zone 1084',623,-315.017,-130.183,-60.6213,0,8,8,8,-0,0,0,0,''),
+(10085,5875,'m425 quest zone 1085',623,-642.83,-511.54,-51.012,0,8,8,8,-0,0,0,0,''),
+(10086,5875,'m425 quest zone 1086',623,-531.419,-417.22,-58.46,0,8,8,8,-0,0,0,0,''),
+(10087,5875,'m425 quest zone 1087',623,134.195,-385.86,-1.85055,0,8,8,8,-0,0,0,0,''),
+(10088,5875,'m425 quest zone 1088',623,-238.637,-451.308,-58.1387,0,140,80,8,5.9050317,0,0,0,''),
+(10089,5875,'m425 quest zone 1089',623,-137.525,-492.463,-66.0019,0,80,80,40,-0,0,0,0,''),
+(10090,5875,'m425 quest zone 1090',623,-373.743,-392.72,-56.2381,0,80,80,8,-0,0,0,0,''),
+(10091,5875,'m425 quest zone 1091',623,-49.7595,-206.738,-5.23,0,8,8,8,-0,0,0,0,''),
+(10092,5875,'m425 quest zone 1092',623,-83.8069,-397.971,-38.8932,0,150,120,15,-0,0,0,0,''),
+(10093,5875,'m425 quest zone 1093',623,-615.653,-667.169,-62.0777,0,8,8,8,-0,0,0,0,''),
+(10094,5875,'m425 quest zone 1094',623,-513.421,-138.596,-62.8878,0,8,8,8,-0,0,0,0,''),
+(10095,5875,'m425 quest zone 1095',623,-307.685,-87.1046,-67.2462,0,45,45,8,-0,0,0,0,''),
+(10096,5875,'m425 quest zone 1096',623,-369.402,-175.748,-62.4523,0,8,8,8,-0,0,0,0,''),
+(10097,5875,'m425 quest zone 1097',623,-253.103,-133.619,-44.7791,0,8,8,8,-0,0,0,0,''),
+(10098,5875,'m425 quest zone 1098',623,22.5434,104.438,8.06,0,8,8,8,-0,0,0,0,''),
+(10099,5875,'m425 quest zone 1099',623,61.6181,-12.0605,9.72,0,8,8,8,-0,0,0,0,''),
+(10100,5875,'m425 quest zone 1100',606,-393.939,-571.99,42.7188,0,200,200,60,5.3232546,0,0,0,''),
+(10101,5875,'m425 quest zone 1101',623,616.341,643.141,48.7237,0,400,150,80,-0,0,0,0,''),
+(10102,5875,'m425 quest zone 1102',623,794.727,576.995,105.73,0,8,8,8,-0,0,0,0,''),
+(10103,5875,'m425 quest zone 1103',623,1009.26,65.8611,128.351,0,8,8,8,-0,0,0,0,''),
+(10104,5875,'m425 quest zone 1104',623,1009.24,61.1608,128.351,0,8,8,8,-0,0,0,0,''),
+(10105,5875,'m425 quest zone 1105',606,406.628,-1308.92,36.0617,0,78,78,18,-0,0,0,0,''),
+(10106,5875,'m425 quest zone 1106',623,404.396,1061.7,23.8037,0,148,148,18,-0,0,0,0,''),
+(10107,5875,'m425 quest zone 1107',623,723.586,323.274,32.362,0,606,88,8,-0,0,0,0,''),
+(10110,5875,'m425 quest zone 1110',606,-352.933,-923.541,35.906,0,8,8,8,-0,0,0,0,''),
+(10113,5875,'m425 quest zone 1113',623,-228.43,1521.28,-29.5131,0,8,8,8,-0,0,0,0,''),
+(10114,5875,'m425 quest zone 1114',606,325.852,-217.639,58.7373,0,8,8,8,-0,0,0,0,''),
+(10115,5875,'m425 quest zone 1115',623,-290.052,1003.79,0,0,8,8,8,-0,0,0,0,''),
+(10116,5875,'m425 quest zone 1116',606,539.265,373.916,30,0,8,8,8,-0,0,0,0,''),
+(10117,5875,'m425 quest zone 1117',623,-679.697,-501.234,-54.8742,0,8,8,8,-0,0,0,0,''),
+(10118,5875,'m425 quest zone 1118',623,-411.881,-249.47,-61.5745,0,200,150,15,4.7705655,0,0,0,''),
+(10119,5875,'m425 quest zone 1119',606,-1.64401,-1194.71,72.3683,0,8,8,8,-0,0,0,0,''),
+(10120,5875,'m425 quest zone 1120',604,521.655,-1383.7,39,0,8,8,8,-0,0,0,0,''),
+(10121,5875,'m425 quest zone 1121',606,314.69,-929.39,30.7015,0,55,220,20,0.9890156,0,0,0,''),
+(10122,5875,'m425 quest zone 1122',606,305.911,-1060.7,39.4419,0,180,40,20,4.0142555,0,0,0,''),
+(10123,5875,'m425 quest zone 1123',606,53.0349,-1150.09,49.9499,0,13,13,10,-0,0,0,0,''),
+(10124,5875,'m425 quest zone 1124',606,112.855,-1093.54,49.9059,0,8,35,8,6.1377406,0,0,0,''),
+(10125,5875,'m425 quest zone 1125',606,114.889,-1003.16,51.2792,0,8,8,8,-0,0,0,0,''),
+(10126,5875,'m425 quest zone 1126',606,-10.5048,-1092.47,50.2129,0,8,80,15,3.4033954,0,0,0,''),
+(10127,5875,'m425 quest zone 1127',606,56.1079,-1071.74,44.8728,0,30,100,15,2.9717755,0,0,0,''),
+(10128,5875,'m425 quest zone 1128',606,3.69216,-1022.61,46.0079,0,8,80,15,5.3814325,0,0,0,''),
+(10130,5875,'m425 quest zone 1130',606,-236.33,-1301.47,38.1875,0,50,70,8,4.3929954,0,0,0,''),
+(10131,5875,'m425 quest zone 1131',606,-296.888,-1355.12,38.2284,0,46,40,8,-0,0,0,0,''),
+(10132,5875,'m425 quest zone 1132',606,-249.168,-1380.24,37.1886,0,50,50,8,-0,0,0,0,''),
+(10133,5875,'m425 quest zone 1133',623,-43.4465,-198.665,-30.4657,0,80,80,30,5.1487255,0,0,0,''),
+(10134,5875,'m425 quest zone 1134',623,1105.02,1529.47,22.8498,0,8,8,8,-0,0,0,0,''),
+(10135,5875,'m425 quest zone 1135',623,-232.835,1504.23,-32.2354,0,4,4,4,-0,0,0,0,''),
+(10136,5875,'m425 quest zone 1136',623,-221.328,1485.64,-32.9296,0,4,4,4,-0,0,0,0,''),
+(10137,5875,'m425 quest zone 1137',623,-220.29,1504.01,-31.5864,0,4,4,4,-0,0,0,0,''),
+(10138,5875,'m425 quest zone 1138',623,-235.455,1495.25,-33.1405,0,4,4,4,-0,0,0,0,''),
+(10139,5875,'m425 quest zone 1139',623,-211.675,-256.03,-57.0199,0,300,130,30,6.1377406,0,0,0,''),
+(10140,5875,'m425 quest zone 1140',606,-326.718,-1185.04,40.8585,0,8,8,8,-0,0,0,0,''),
+(10141,5875,'m425 quest zone 1141',623,-709.95,-642.363,-53.9036,0,40,40,10,5.5268764,0,0,0,''),
+(10142,5875,'m425 quest zone 1142',623,-511.867,-474.209,-60.56,0,15,90,8,5.6141424,0,0,0,''),
+(10143,5875,'m425 quest zone 1143',623,-631.348,-423.693,-63.6313,0,40,40,15,-0,0,0,0,''),
+(10144,5875,'m425 quest zone 1144',623,-712.47,-543.459,-53.6778,0,40,40,8,-0,0,0,0,''),
+(10145,5875,'m425 quest zone 1145',623,-557.463,-426.991,-54.61,0,35,35,8,-0,0,0,0,''),
+(10146,5875,'m425 quest zone 1146',623,115.076,1761.94,1.10018,0,8,8,8,-0,0,0,0,''),
+(10147,5875,'m425 quest zone 1147',623,755.605,1961.81,89.8372,0,80,30,8,5.7014093,0,0,0,''),
+(10148,5875,'m425 quest zone 1148',623,-132.338,1261.61,-34.4697,0,100,100,20,5.3232546,0,0,0,''),
+(10149,5875,'m425 quest zone 1149',623,-63.9413,1327.6,-20.8378,0,80,80,8,5.3523436,0,0,0,''),
+(10150,5875,'m425 quest zone 1150',623,-0.634762,1393.48,-18.9948,0,70,120,20,-0,0,0,0,''),
+(10151,5875,'m425 quest zone 1151',606,78.7175,-1037.11,45.7575,0,8,8,8,5.2941656,0,0,0,''),
+(10152,5875,'m425 quest zone 1152',623,524.501,1742.28,-2.78732,0,80,70,20,-0,0,0,0,''),
+(10153,5875,'m425 quest zone 1153',623,-549.458,-478.515,-58.6592,0,8,8,8,-0,0,0,0,''),
+(10154,5875,'m425 quest zone 1154',606,-450.625,-1344.68,69.2801,0,4,4,4,-0,0,0,0,''),
+(10155,5875,'m425 quest zone 1155',606,157.808,-1033.26,50.2251,0,30,100,20,-0,0,0,0,''),
+(10156,5875,'m425 quest zone 1156',623,-286.585,808.273,19.5289,0,4,4,4,-0,0,0,0,''),
+(10157,5875,'m425 quest zone 1157',606,-489.484,-376.385,45.2993,0,8,8,8,-0,0,0,0,''),
+(10158,5875,'m425 quest zone 1158',625,671.326,864.816,105.16,0,20,20,8,-0,0,0,0,''),
+(10159,5875,'m425 quest zone 1159',625,495.567,1042.02,120.644,0,20,20,10,-0,0,0,0,''),
+(10160,5875,'m425 quest zone 1160',625,812.884,856.16,66.4106,0,8,8,8,-0,0,0,0,''),
+(10161,5875,'m425 quest zone 1161',625,728.852,860.513,70.8194,0,12,12,8,-0,0,0,0,''),
+(10162,5875,'m425 quest zone 1162',625,689.509,791.718,75.0163,0,15,15,8,-0,0,0,0,''),
+(10163,5875,'m425 quest zone 1163',625,635.421,791.661,79.3307,0,15,15,8,-0,0,0,0,''),
+(10164,5875,'m425 quest zone 1164',626,640.292,767.833,40.9378,0,8,8,8,-0,0,0,0,''),
+(10165,5875,'m425 quest zone 1165',626,643.631,371.207,59.8347,0,8,8,8,-0,0,0,0,''),
+(10166,5875,'m425 quest zone 1166',606,-912.165,-258.008,66.4503,0,8,8,8,-0,0,0,0,''),
+(10167,5875,'m425 quest zone 1167',606,-921.062,-288.23,66.8714,0,8,8,8,-0,0,0,0,''),
+(10168,5875,'m425 quest zone 1168',626,537.124,684.956,34.197,0,3,3,3,-0,0,0,0,''),
+(10169,5875,'m425 quest zone 1169',626,554.982,702.602,34.1639,0,3,3,3,-0,0,0,0,''),
+(10170,5875,'m425 quest zone 1170',613,-108.422,125.78,4.98475,0,3,3,3,-0,0,0,0,''),
+(10172,5875,'m425 quest zone 1172',609,-941.888,-850.103,10,0,15,15,15,-0,0,0,0,''),
+(10173,5875,'m425 quest zone 1173',606,-296.195,-240.788,75.2133,0,8,8,8,-0,0,0,0,''),
+(10174,5875,'m425 quest zone 1174',606,-288.858,-225.741,74.7977,0,8,8,8,-0,0,0,0,''),
+(10175,5875,'m425 quest zone 1175',606,-638.446,-242.327,31.6513,0,8,8,8,-0,0,0,0,''),
+(10176,5875,'m425 quest zone 1176',606,-296.77,-364.009,103.483,0,8,8,8,-0,0,0,0,''),
+(10177,5875,'m425 quest zone 1177',601,266.663,1998.26,18.8727,0,8,8,8,-0,0,0,0,''),
+(10178,5875,'m425 quest zone 1178',606,-216.957,-319.992,85.513,0,8,8,8,-0,0,0,0,''),
+(10179,5875,'m425 quest zone 1179',604,1355.41,-1802.31,19.9849,0,8,8,8,-0,0,0,0,''),
+(10180,5875,'m425 quest zone 1180',604,-527.619,-659.212,0.785269,0,8,8,8,-0,0,0,0,''),
+(10181,5875,'m425 quest zone 1181',623,939.666,1156.89,94.0027,0,8,8,8,-0,0,0,0,''),
+(10182,5875,'m425 quest zone 1182',601,-370.718,580.257,15.35,0,8,8,8,-0,0,0,0,''),
+(10183,5875,'m425 quest zone 1183',601,-333.244,592.408,10.683,0,8,8,8,-0,0,0,0,''),
+(10184,5875,'m425 quest zone 1184',601,-435.217,633.879,11.7141,0,8,8,8,-0,0,0,0,''),
+(10185,5875,'m425 quest zone 1185',613,-104.916,116.464,5,0,8,8,8,-0,0,0,0,''),
+(10186,5875,'m425 quest zone 1186',601,-211.752,522.965,41.9298,0,8,8,8,-0,0,0,0,''),
+(10187,5875,'m425 quest zone 1187',629,0.574125,600.576,7.1985,0,8,8,8,-0,0,0,0,''),
+(10188,5875,'m425 quest zone 1188',631,35.934,802.396,85,0,8,8,8,-0,0,0,0,''),
+(10189,5875,'m425 quest zone 1189',631,58.1283,860.208,85,0,8,8,8,-0,0,0,0,''),
+(10190,5875,'m425 quest zone 1190',631,32.4016,920.184,85,0,8,8,8,-0,0,0,0,''),
+(10191,5875,'m425 quest zone 1191',631,-30.5803,955.231,85,0,8,8,8,-0,0,0,0,''),
+(10192,5875,'m425 quest zone 1192',631,-102.929,919.886,85,0,8,8,8,-0,0,0,0,''),
+(10193,5875,'m425 quest zone 1193',631,-119.648,860.713,85,0,8,8,8,-0,0,0,0,''),
+(10194,5875,'m425 quest zone 1194',631,-92.2976,805.362,85,0,8,8,8,-0,0,0,0,''),
+(10195,5875,'m425 quest zone 1195',606,-110.591,-251.317,94.8441,0,8,8,8,-0,0,0,0,''),
+(10196,5875,'m425 quest zone 1196',601,293.242,2020.28,20.5085,0,24,24,8,-0,0,0,0,''),
+(10197,5875,'m425 quest zone 1197',606,-225.384,-398.99,103.176,0,8,8,8,-0,0,0,0,''),
+(10198,5875,'m425 quest zone 1198',604,-503.537,-671.286,0.0203595,0,16,16,8,-0,0,0,0,''),
+(10199,5875,'m425 quest zone 1199',601,340.041,1987.22,31.8142,0,8,8,8,-0,0,0,0,''),
+(10200,5875,'m425 quest zone 1200',601,-360.637,631.93,10.61,0,8,8,8,-0,0,0,0,''),
+(10201,5875,'m425 quest zone 1201',601,-197.429,868.918,3.84088,0,8,8,8,-0,0,0,0,''),
+(10202,5875,'m425 quest zone 1202',604,-423.305,-468.709,-4.22649,0,8,8,8,-0,0,0,0,''),
+(10203,5875,'m425 quest zone 1203',604,1047.33,-1871.73,4.64153,0,8,8,8,-0,0,0,0,''),
+(10204,5875,'m425 quest zone 1204',604,1052.24,-1875.63,4.1993,0,32,32,8,-0,0,0,0,''),
+(10205,5875,'m425 quest zone 1205',601,-12.8621,906.482,41.5658,0,8,8,8,-0,0,0,0,''),
+(10206,5875,'m425 quest zone 1206',623,866.683,1008.96,62.364,0,8,8,8,-0,0,0,0,''),
+(10207,5875,'m425 quest zone 1207',601,-327.162,621.006,10.61,0,8,8,8,-0,0,0,0,''),
+(10208,5875,'m425 quest zone 1208',601,-84.6152,604.607,0,0,8,8,8,-0,0,0,0,''),
+(10211,5875,'m425 quest zone 1211',630,15.0702,724.278,8.53,0,8,8,8,-0,0,0,0,''),
+(10212,5875,'m425 quest zone 1212',630,-34.4407,807.903,15.9683,0,8,8,8,-0,0,0,0,''),
+(10213,5875,'m425 quest zone 1213',630,99.5231,723.463,16.8912,0,8,8,8,-0,0,0,0,''),
+(10214,5875,'m425 quest zone 1214',630,19.5884,786.908,8.78743,0,8,8,8,-0,0,0,0,''),
+(10215,5875,'m425 quest zone 1215',601,-110.151,588.962,5,0,2,2,8,-0,0,0,0,''),
+(10216,5875,'m425 quest zone 1216',629,13.5765,653.08,0.141392,0,12,12,8,-0,0,0,0,''),
+(10217,5875,'m425 quest zone 1217',629,9.74568,643.999,0.490197,0,2,2,8,-0,0,0,0,''),
+(10218,5875,'m425 quest zone 1218',629,-6.99699,601.151,7.09731,0,2,2,8,-0,0,0,0,''),
+(10219,5875,'m425 quest zone 1219',601,-110.18,595.384,5,0,2,2,8,-0,0,0,0,''),
+(10220,5875,'m425 quest zone 1220',613,-50.0167,124.456,-5,0,4,4,8,-0,0,0,0,''),
+(10221,5875,'m425 quest zone 1221',613,-30.6346,124.611,-5,0,2,2,8,-0,0,0,0,''),
+(10222,5875,'m425 quest zone 1222',613,-66.139,151.47,5,0,3,3,8,-0,0,0,0,''),
+(10223,5875,'m425 quest zone 1223',613,-39.2595,114.868,-5,0,2,2,8,-0,0,0,0,''),
+(10224,5875,'m425 quest zone 1224',601,-125.468,901.464,-0.930802,0,8,8,8,-0,0,0,0,''),
+(10225,5875,'m425 quest zone 1225',601,-104.112,941.032,3.50856,0,22,12,8,4.1015253,0,0,0,''),
+(10226,5875,'m425 quest zone 1226',601,-82.9771,969.15,0.559616,0,48,28,8,-0,0,0,0,''),
+(10227,5875,'m425 quest zone 1227',601,-62.5411,978.948,0.651258,0,4,4,8,-0,0,0,0,''),
+(10228,5875,'m425 quest zone 1228',601,-105.843,1000.84,4.67584,0,8,8,8,-0,0,0,0,''),
+(10229,5875,'m425 quest zone 1229',601,-193.227,983.746,0.492311,0,8,8,8,-0,0,0,0,''),
+(10230,5875,'m425 quest zone 1230',601,-176.216,1009.82,0.0185001,0,18,18,8,-0,0,0,0,''),
+(10231,5875,'m425 quest zone 1231',601,-152.211,997.219,0.609487,0,12,6,8,-0,0,0,0,''),
+(10232,5875,'m425 quest zone 1232',601,-143.076,962.351,9.4044,0,8,8,8,-0,0,0,0,''),
+(10233,5875,'m425 quest zone 1233',601,-171.757,675.148,0.0166342,0,2,2,8,-0,0,0,0,''),
+(10234,5875,'m425 quest zone 1234',601,-169.611,688.866,1.57789,0,20,20,8,-0,0,0,0,''),
+(10235,5875,'m425 quest zone 1235',601,-148.318,665.565,0.00116318,0,8,8,8,-0,0,0,0,''),
+(10236,5875,'m425 quest zone 1236',601,-151.348,641.126,0.00505615,0,8,8,8,-0,0,0,0,''),
+(10237,5875,'m425 quest zone 1237',601,-122.122,656.592,1.29879,0,8,8,8,-0,0,0,0,''),
+(10238,5875,'m425 quest zone 1238',623,329.707,821.628,60.9288,0,8,8,8,-0,0,0,0,''),
+(10239,5875,'m425 quest zone 1239',629,169.817,727.826,-7.25604,0,8,8,8,-0,0,0,0,''),
+(10240,5875,'m425 quest zone 1240',606,-429.631,-667.304,38.6782,0,8,8,8,-0,0,0,0,''),
+(10241,5875,'m425 quest zone 1241',630,-61.3735,798.496,12.3059,0,8,8,8,-0,0,0,0,''),
+(10242,5875,'m425 quest zone 1242',630,98.962,705.345,13.61,0,8,8,8,-0,0,0,0,''),
+(10243,5875,'m425 quest zone 1243',601,-391.855,611.112,6.62,0,8,8,8,-0,0,0,0,''),
+(10244,5875,'m425 quest zone 1244',601,-342.914,591.241,10.6241,0,8,8,8,-0,0,0,0,''),
+(10245,5875,'m425 quest zone 1245',613,-212.472,243.547,7.39911,0,8,8,8,-0,0,0,0,''),
+(10246,5875,'m425 quest zone 1246',604,1389.71,-1771.21,4.51157,0,8,8,8,-0,0,0,0,''),
+(10247,5875,'m425 quest zone 1247',613,-137.446,195.661,29.0899,0,8,8,8,-0,0,0,0,''),
+(10248,5875,'m425 quest zone 1248',632,143.461,-170.571,169.984,0,8,8,8,-0,0,0,0,''),
+(10249,5875,'m425 quest zone 1249',632,94.2312,-26.1775,169.97,0,8,8,8,-0,0,0,0,''),
+(10250,5875,'m425 quest zone 1250',632,-38.7208,-35.1302,169.97,0,8,8,8,-0,0,0,0,''),
+(10251,5875,'m425 quest zone 1251',632,-30.0566,-166.664,169.97,0,8,8,8,-0,0,0,0,''),
+(10252,5875,'m425 quest zone 1252',632,31.5084,-96.4927,187.273,0,8,8,8,-0,0,0,0,''),
+(10253,5875,'m425 quest zone 1253',613,-85.9831,213.624,-4.81102,0,8,8,8,2.3986354,0,0,0,''),
+(10254,5875,'m425 quest zone 1254',633,-147.734,245.353,-9.94526,0,8,8,8,-0,0,0,0,''),
+(10255,5875,'m425 quest zone 1255',633,-187.462,280.417,-12.2725,0,8,8,8,-0,0,0,0,''),
+(10256,5875,'m425 quest zone 1256',633,-160.987,197.741,-16.8819,0,8,8,8,-0,0,0,0,''),
+(10257,5875,'m425 quest zone 1257',613,-118.102,247.494,-6.14392,0,2,2,2,4.5378556,0,0,0,''),
+(10262,5875,'m425 quest zone 1262',601,-341.695,629.618,10.5947,0,2,2,2,-0,0,0,0,''),
+(10263,5875,'m425 quest zone 1263',601,-331.793,601.412,10.61,0,1,1,2,-0,0,0,0,''),
+(10264,5875,'m425 quest zone 1264',601,-327.039,601.844,10.61,0,1,1,2,-0,0,0,0,''),
+(10265,5875,'m425 quest zone 1265',601,-183.008,605.983,3.74308,0,32,16,8,-0,0,0,0,''),
+(10266,5875,'m425 quest zone 1266',601,-436.873,599.1,8.61878,0,16,32,8,-0,0,0,0,''),
+(10267,5875,'m425 quest zone 1267',632,74.3474,-211.308,169.826,0,8,8,8,-0,0,0,0,''),
+(10268,5875,'m425 quest zone 1268',613,-81.1948,210.313,-5,0,2,2,2,-0,0,0,0,''),
+(10269,5875,'m425 quest zone 1269',613,-96.3181,152.012,2.51932,0,4,4,8,-0,0,0,0,''),
+(10270,5875,'m425 quest zone 1270',601,-303.548,1568.09,4.14997,0,2,2,5,-0,0,0,0,''),
+(10271,5875,'m425 quest zone 1271',601,-294.301,1549.32,3.7346,0,4,4,4,-0,0,0,0,''),
+(10272,5875,'m425 quest zone 1272',601,-217.852,1612.33,-18.8155,0,8,8,8,-0,0,0,0,''),
+(10273,5875,'m425 quest zone 1273',634,-810.35,-289.817,37.1522,0,8,8,8,-0,0,0,0,''),
+(10274,5875,'m425 quest zone 1274',613,-185.278,-39.939,10,0,8,8,8,-0,0,0,0,''),
+(10275,5875,'m425 quest zone 1275',606,-953.157,-265.114,66.4949,0,8,8,8,-0,0,0,0,''),
+(10276,5875,'m425 quest zone 1276',606,-947.33,-396.805,71.3788,0,8,8,8,-0,0,0,0,''),
+(10277,5875,'m425 quest zone 1277',634,-601.665,-92.433,42.6213,0,2,2,2,-0,0,0,0,''),
+(10278,5875,'m425 quest zone 1278',634,-608.841,-61.1629,45.1923,0,8,8,8,-0,0,0,0,''),
+(10279,5875,'m425 quest zone 1279',634,-604.859,-94.8969,42.6213,0,2,2,2,-0,0,0,0,''),
+(10280,5875,'m425 quest zone 1280',601,-190.652,1551.95,17.4415,0,5,6,8,-0,0,0,0,''),
+(10281,5875,'m425 quest zone 1281',606,-931.067,-275.612,63.5697,0,3,3,8,-0,0,0,0,''),
+(10282,5875,'m425 quest zone 1282',614,2227.42,564.32,0.355696,0,1,1,8,-0,0,0,0,''),
+(10284,5875,'m425 quest zone 1284',601,-130.127,573.46,5,3,3,3,3,6.2308254,0,0,0,''),
+(10287,5875,'m425 quest zone 1287',606,-375.585,-172.102,53.416,3,2,2,2,-0,0,0,0,''),
+(10288,5875,'m425 quest zone 1288',606,-386.944,-174.17,53.3683,3,2,2,2,-0,0,0,0,''),
+(10289,5875,'m425 quest zone 1289',606,-387.449,-176.773,53.3701,3,2,2,2,-0,0,0,0,''),
+(10290,5875,'m425 quest zone 1290',606,-371.613,-153.403,53.34,3,2,2,2,-0,0,0,0,''),
+(10291,5875,'m425 quest zone 1291',606,-372.231,-151.334,53.36,3,2,2,2,-0,0,0,0,''),
+(10292,5875,'m425 quest zone 1292',606,-383.88,-155.772,53.5686,3,2,2,2,-0,0,0,0,''),
+(10293,5875,'m425 quest zone 1293',606,-382.519,-153.447,53.4327,3,2,2,2,-0,0,0,0,''),
+(10294,5875,'m425 quest zone 1294',606,-385.699,-158.869,53.6232,3,2,2,2,-0,0,0,0,''),
+(10295,5875,'m425 quest zone 1295',606,-386.242,-161.076,53.54,3,2,2,2,-0,0,0,0,''),
+(10296,5875,'m425 quest zone 1296',601,-331.033,610.586,10.61,3,3,3,3,-0,0,0,0,''),
+(10297,5875,'m425 quest zone 1297',632,47.5547,-84.4935,187.273,3,3,3,3,-0,0,0,0,''),
+(10298,5875,'m425 quest zone 1298',601,-331.147,606.823,10.61,3,3,3,3,-0,0,0,0,''),
+(10299,5875,'m425 quest zone 1299',601,-32.6674,466.885,2.38684,3,20,20,5,-0,0,0,0,''),
+(10300,5875,'m425 quest zone 1300',601,-92.7278,409.088,1.56981,0,8,8,8,-0,0,0,0,''),
+(10301,5875,'m425 quest zone 1301',601,-78.1905,856.906,1.23437,0,8,8,8,-0,0,0,0,''),
+(10302,5875,'m425 quest zone 1302',601,-153.612,895.324,0.250204,0,8,8,8,-0,0,0,0,''),
+(10303,5875,'m425 quest zone 1303',601,-235.755,725.941,20.2468,0,8,8,8,-0,0,0,0,''),
+(10304,5875,'m425 quest zone 1304',601,-0.72727,809.171,7.70317,0,8,8,8,-0,0,0,0,''),
+(10305,5875,'m425 quest zone 1305',601,36.6409,1175.74,0,0,8,8,8,-0,0,0,0,''),
+(10306,5875,'m425 quest zone 1306',601,16.9128,1387.44,9.58401,0,8,8,8,-0,0,0,0,''),
+(10307,5875,'m425 quest zone 1307',601,-397.26,625.192,6.64204,0,8,8,8,-0,0,0,0,''),
+(10308,5875,'m425 quest zone 1308',601,-134.092,575.628,5.086,0,8,8,8,-0,0,0,0,''),
+(10309,5875,'m425 quest zone 1309',630,-161.193,992.967,27.1396,0,3,3,5,-0,0,0,0,''),
+(10310,5875,'m425 quest zone 1310',601,-172.499,980.485,0.345152,0,8,8,8,-0,0,0,0,''),
+(10311,5875,'m425 quest zone 1311',601,-44.5722,1383.73,5.57668,0,8,8,8,-0,0,0,0,''),
+(10312,5875,'m425 quest zone 1312',601,92.4879,918.816,30.0588,0,8,8,8,-0,0,0,0,''),
+(10313,5875,'m425 quest zone 1313',601,-107.59,847.791,0,0,8,8,8,-0,0,0,0,''),
+(10314,5875,'m425 quest zone 1314',601,-128.365,578.43,5.1129,3,3,3,8,-0,0,0,0,''),
+(10315,5875,'m425 quest zone 1315',630,-100.602,1149.54,20.2132,0,3,3,8,-0,0,0,0,''),
+(10316,5875,'m425 quest zone 1316',606,-377.534,-144.645,53.3993,3,3,3,3,-0,0,0,0,''),
+(10317,5875,'m425 quest zone 1317',606,-368.196,-162.138,53.34,0,8,8,8,-0,0,0,0,''),
+(10318,5875,'m425 quest zone 1318',601,-403.406,528.433,15.625,3,3,3,3,-0,0,0,0,''),
+(10320,5875,'m425 quest zone 1320',601,-405.456,540.686,15.6949,3,5,5,5,-0,0,0,0,''),
+(10321,5875,'m425 quest zone 1321',601,-424.409,528.622,15.8505,3,5,5,5,-0,0,0,0,''),
+(10322,5875,'m425 quest zone 1322',613,31.2333,126.297,-0.0981195,3,3,3,3,-0,0,0,0,''),
+(10323,5875,'m425 quest zone 1323',613,31.8824,135.113,-0.688659,3,3,3,3,-0,0,0,0,''),
+(10324,5875,'m425 quest zone 1324',613,35.5788,130.733,-0.916234,3,3,3,3,-0,0,0,0,''),
+(10325,5875,'m425 quest zone 1325',613,26.2362,121.097,-0.688659,3,3,3,3,-0,0,0,0,''),
+(10326,5875,'m425 quest zone 1326',613,41.5536,129.496,-0.916235,3,3,3,3,-0,0,0,0,''),
+(10329,5875,'m425 quest zone 1329',601,-227.943,575.683,28.0732,0,20,35,8,-0,0,0,0,''),
+(10330,5875,'m425 quest zone 1330',601,-196.407,594.53,8.46005,0,8,8,8,-0,0,0,0,''),
+(10331,5875,'m425 quest zone 1331',601,-86.2583,1926.87,-0.219741,0,88,88,88,-0,0,0,0,''),
+(10332,5875,'m425 quest zone 1332',601,-61.3685,1560.35,37.2154,0,88,88,88,-0,0,0,0,''),
+(10333,5875,'m425 quest zone 1333',601,1623.97,1305.43,1.31623,0,88,88,88,-0,0,0,0,''),
+(10334,5875,'m425 quest zone 1334',601,-52.1979,302,4.40363,0,88,88,18,-0,0,0,0,''),
+(10335,5875,'m425 quest zone 1335',625,672.236,863.603,105.459,0,32,32,8,-0,0,0,0,''),
+(10336,5875,'m425 quest zone 1336',626,660.55,394.149,66.6617,0,8,8,8,-0,0,0,0,''),
+(10337,5875,'m425 quest zone 1337',626,637.531,389.542,60.1863,0,8,8,8,-0,0,0,0,''),
+(10338,5875,'m425 quest zone 1338',613,39.083,140.514,-0.916236,3,3,3,3,-0,0,0,0,''),
+(10339,5875,'m425 quest zone 1339',601,-99.1727,454.182,2.63,0,8,8,8,-0,0,0,0,''),
+(10340,5875,'m425 quest zone 1340',601,-76.7248,457.196,3.18837,0,32,48,8,-0,0,0,0,''),
+(10341,5875,'m425 quest zone 1341',601,-225.13,600.464,21.2851,0,2,2,2,-0,0,0,0,''),
+(10342,5875,'m425 quest zone 1342',601,-26.8937,421.608,0.423264,0,2,2,2,-0,0,0,0,''),
+(10343,5875,'m425 quest zone 1343',604,-2096.7,-67.2972,69.46,0,2,2,2,-0,0,0,0,''),
+(10344,5875,'m425 quest zone 1344',613,-144.381,337.252,-4.93955,0,8,8,8,-0,0,0,0,''),
+(10345,5875,'m425 quest zone 1345',633,-111.848,129.213,-13.5716,0,16,16,8,-0,0,0,0,''),
+(10346,5875,'m425 quest zone 1346',601,-225.213,600.269,21.3361,0,8,8,8,-0,0,0,0,''),
+(10347,5875,'m425 quest zone 1347',636,377.3,468.904,61.5695,0,8,8,8,-0,0,0,0,''),
+(10348,5875,'m425 quest zone 1348',636,497.328,350.198,33.13,0,8,8,8,-0,0,0,0,''),
+(10349,5875,'m425 quest zone 1349',636,422.65,240.141,60,0,8,8,8,-0,0,0,0,''),
+(10350,5875,'m425 quest zone 1350',636,279.344,351.878,35.2031,0,8,8,8,-0,0,0,0,''),
+(10351,5875,'m425 quest zone 1351',601,-77.025,1256.42,0.00607819,0,40,40,8,-0,0,0,0,''),
+(10352,5875,'m425 quest zone 1352',601,-395.865,639.772,6.64051,0,10,10,5,-0,0,0,0,''),
+(10353,5875,'m425 quest zone 1353',601,-227.975,595.453,11.7251,0,36,32,24,-0,0,0,0,''),
+(10354,5875,'m425 quest zone 1354',613,-83.918,216.404,-5,0,2,2,2,-0,0,0,0,''),
+(10355,5875,'m425 quest zone 1355',601,1965.69,466.232,12.1688,0,8,8,8,-0,0,0,0,''),
+(10356,5875,'m425 quest zone 1356',601,3.47619,481.771,3.25618,8,20,20,8,-0,0,0,0,''),
+(10358,5875,'m425 quest zone 1358',604,1202.36,-1841.69,5.80867,8,200,200,8,-0,0,0,0,''),
+(10359,5875,'m425 quest zone 1359',601,137.683,861.636,28.2225,0,2,2,4,-0,0,0,0,''),
+(10360,5875,'m425 quest zone 1360',606,-553.486,-1185.23,36.17,8,8,8,3,-0,0,0,0,''),
+(10361,5875,'m425 quest zone 1361',606,-626.371,-1072.63,53.91,3,15,20,3,-0,0,0,0,''),
+(10362,5875,'m425 quest zone 1362',606,-588.578,-1075.09,53.51,3,10,10,3,-0,0,0,0,''),
+(10363,5875,'m425 quest zone 1363',606,-564.24,-1168.75,36.0682,3,3,3,3,-0,0,0,0,''),
+(10364,5875,'m425 quest zone 1364',606,-600.67,-1090.94,53.5015,3,3,3,3,-0,0,0,0,''),
+(10365,5875,'m425 quest zone 1365',601,1675.25,873.117,-6.41902,0,8,8,8,-0,0,0,0,''),
+(10366,5875,'m425 quest zone 1366',639,-110.531,139.488,56.9751,0,4,4,4,-0,0,0,0,''),
+(10367,5875,'m425 quest zone 1367',601,714.745,2259.8,16.4331,0,4,4,4,-0,0,0,0,''),
+(10368,5875,'m425 quest zone 1368',606,-617.563,-1100.18,53.4903,3,3,3,3,-0,0,0,0,''),
+(10369,5875,'m425 quest zone 1369',637,-32.8557,255.376,10.9369,3,8,8,3,-0,0,0,0,''),
+(10370,5875,'m425 quest zone 1370',623,1039.78,940.769,91.4683,0,4,4,4,-0,0,0,0,''),
+(10371,5875,'m425 quest zone 1371',601,2158.05,327.919,-2,0,38,38,8,-0,0,0,0,''),
+(10372,5875,'m425 quest zone 1372',604,1727.71,-1898.02,19.8575,2,2,2,2,-0,0,0,0,''),
+(10373,5875,'m425 quest zone 1373',604,1711.83,-1866.71,15,2,2,2,2,-0,0,0,0,''),
+(10374,5875,'m425 quest zone 1374',604,1712.17,-1869.89,15,2,2,2,2,-0,0,0,0,''),
+(10375,5875,'m425 quest zone 1375',604,1716.43,-1863.88,15,2,2,2,2,-0,0,0,0,''),
+(10376,5875,'m425 quest zone 1376',601,-164.391,583.07,5.75635,3,3,3,3,-0,0,0,0,''),
+(10377,5875,'m425 quest zone 1377',604,1709.61,-1868.4,14.038,3,3,3,3,-0,0,0,0,''),
+(10378,5875,'m425 quest zone 1378',604,818.836,-2390.3,72.1224,0,8,8,8,-0,0,0,0,''),
+(10379,5875,'m425 quest zone 1379',604,840.335,-2437.59,66.1399,3,3,3,3,-0,0,0,0,''),
+(10380,5875,'m425 quest zone 1380',613,-52.2703,209.125,-3.53709,0,8,8,8,-0,0,0,0,''),
+(10381,5875,'m425 quest zone 1381',604,794.959,-2430.49,70.7916,0,8,8,8,-0,0,0,0,''),
+(10382,5875,'m425 quest zone 1382',604,836.641,-2467.14,59.8556,0,8,8,8,-0,0,0,0,''),
+(10383,5875,'m425 quest zone 1383',604,881.168,-2399.27,74.23,0,15,15,15,-0,0,0,0,''),
+(10384,5875,'m425 quest zone 1384',601,2219.04,684.971,-6.94962,0,2,2,2,-0,0,0,0,''),
+(10385,5875,'m425 quest zone 1385',620,-1040.23,-1616.45,235.619,0,4,4,4,6.213372,0,0,0,''),
+(10386,5875,'m425 quest zone 1386',620,-509.179,-1469.92,292.049,0,4,4,4,-0,0,0,0,''),
+(10388,5875,'m425 quest zone 1388',638,303.701,466.644,-10.8564,0,16,16,16,-0,0,0,0,''),
+(10389,5875,'m425 quest zone 1389',638,283.851,283.848,11.2552,0,2,2,2,-0,0,0,0,''),
+(10390,5875,'m425 quest zone 1390',638,285.519,295.082,9.69741,0,5,5,5,-0,0,0,0,''),
+(10391,5875,'m425 quest zone 1391',638,384.674,292.139,-0.837713,0,2,2,2,5.2181854,0,0,0,''),
+(10392,5875,'m425 quest zone 1392',638,309.617,362.625,-9.97544,0,2,2,2,-0,0,0,0,''),
+(10393,5875,'m425 quest zone 1393',638,257.366,376.446,-9.97243,0,2,2,2,-0,0,0,0,''),
+(10394,5875,'m425 quest zone 1394',640,-405.522,-308.542,2.55664,0,2,2,2,-0,0,0,0,''),
+(10395,5875,'m425 quest zone 1395',640,-275.741,-83.145,14.8033,0,42,10,8,5.4686985,0,0,0,''),
+(10396,5875,'m425 quest zone 1396',640,-227.951,-223.808,44.88,0,9,25,4,-0,0,0,0,''),
+(10397,5875,'m425 quest zone 1397',640,-332.775,-140.456,22.0061,0,120,18,8,3.1126955,0,0,0,''),
+(10398,5875,'m425 quest zone 1398',640,-495.448,-175.174,1,0,8,8,8,-0,0,0,0,''),
+(10399,5875,'m425 quest zone 1399',640,-357.756,38.2015,-8.52,0,8,8,8,-0,0,0,0,''),
+(10400,5875,'m425 quest zone 1400',640,-207.355,-223.648,45.6347,0,8,8,8,-0,0,0,0,''),
+(10401,5875,'m425 quest zone 1401',601,736.189,2294.07,16.5324,0,2,2,2,-0,0,0,0,''),
+(10402,5875,'m425 quest zone 1402',638,845.356,863.356,28.43,0,2,2,2,-0,0,0,0,''),
+(10403,5875,'m425 quest zone 1403',604,985.691,-2514.45,11.8897,0,8,8,8,-0,0,0,0,''),
+(10404,5875,'m425 quest zone 1404',638,268.726,342.261,-9.26726,0,2,2,2,-0,0,0,0,''),
+(10405,5875,'m425 quest zone 1405',604,818.593,-2399.03,71.862,0,8,8,8,-0,0,0,0,''),
+(10406,5875,'m425 quest zone 1406',604,842.003,-2438.32,66.075,3,3,3,3,-0,0,0,0,''),
+(10408,5875,'m425 quest zone 1408',638,328.282,582.108,-0.143671,0,2,2,2,-0,0,0,0,''),
+(10409,5875,'m425 quest zone 1409',638,320.115,656.06,27.2733,0,64,64,32,-0,0,0,0,''),
+(10410,5875,'m425 quest zone 1410',638,340.123,636.612,14.1191,0,58,58,8,-0,0,0,0,''),
+(10411,5875,'m425 quest zone 1411',638,314.371,784.329,75.1612,0,8,8,8,-0,0,0,0,''),
+(10412,5875,'m425 quest zone 1412',638,560.516,401.616,7.34144,0,16,16,16,-0,0,0,0,''),
+(10413,5875,'m425 quest zone 1413',638,581.419,455.909,8.54201,0,16,16,16,-0,0,0,0,''),
+(10414,5875,'m425 quest zone 1414',638,601.787,385.689,24.9551,0,3,3,3,-0,0,0,0,''),
+(10415,5875,'m425 quest zone 1415',638,739.585,459.394,7.49604,0,2,2,2,-0,0,0,0,''),
+(10416,5875,'m425 quest zone 1416',638,812.137,489.835,7.73763,0,2,2,2,-0,0,0,0,''),
+(10417,5875,'m425 quest zone 1417',638,1112.7,846.226,8.87,0,2,2,2,-0,0,0,0,''),
+(10418,5875,'m425 quest zone 1418',638,889.138,582.135,-4.31928,0,8,8,8,-0,0,0,0,''),
+(10419,5875,'m425 quest zone 1419',638,963.545,675.516,15.2397,0,8,8,8,-0,0,0,0,''),
+(10420,5875,'m425 quest zone 1420',601,741.078,2301.97,16.5778,0,4,4,4,-0,0,0,0,''),
+(10421,5875,'m425 quest zone 1421',601,737.821,2301.91,16.5778,0,4,4,4,-0,0,0,0,''),
+(10422,5875,'m425 quest zone 1422',638,270.322,392.301,-10.03,0,8,8,8,-0,0,0,0,''),
+(10423,5875,'m425 quest zone 1423',638,455.339,566.115,19.7279,0,18,18,8,-0,0,0,0,''),
+(10424,5875,'m425 quest zone 1424',601,721.67,2270.81,16.4228,0,8,8,4,-0,0,0,0,''),
+(10425,5875,'m425 quest zone 1425',638,495.869,416.047,12.1699,0,2,2,2,6.248279,0,0,0,''),
+(10426,5875,'m425 quest zone 1426',638,503.282,415.447,11.739,0,2,2,2,-0,0,0,0,''),
+(10427,5875,'m425 quest zone 1427',638,577.578,1392.9,-17.9004,0,8,8,8,-0,0,0,0,''),
+(10428,5875,'m425 quest zone 1428',638,639.917,1380.86,-18.5141,0,8,8,8,-0,0,0,0,''),
+(10429,5875,'m425 quest zone 1429',638,754.112,1003.05,37.42,0,2,2,2,-0,0,0,0,''),
+(10430,5875,'m425 quest zone 1430',638,929.954,849.979,24.5329,0,2,2,2,-0,0,0,0,''),
+(10431,5875,'m425 quest zone 1431',638,930.43,875.753,24.533,0,2,2,2,-0,0,0,0,''),
+(10432,5875,'m425 quest zone 1432',638,1045.66,717.378,5.72788,0,16,16,16,-0,0,0,0,''),
+(10433,5875,'m425 quest zone 1433',638,955.44,541.088,-7.62011,0,16,16,16,-0,0,0,0,''),
+(10434,5875,'m425 quest zone 1434',638,1094.5,626.512,-10.4458,0,8,8,8,-0,0,0,0,''),
+(10436,5875,'m425 quest zone 1436',638,453.587,1304.16,-10.4512,0,2,2,2,-0,0,0,0,''),
+(10437,5875,'m425 quest zone 1437',601,-279.014,610.043,13.6693,3,2,2,2,-0,0,0,0,''),
+(10438,5875,'m425 quest zone 1438',601,-283.722,609.698,13.6693,2,2,2,2,-0,0,0,0,''),
+(10439,5875,'m425 quest zone 1439',601,-278.081,614.157,13.6693,2,2,2,2,-0,0,0,0,''),
+(10440,5875,'m425 quest zone 1440',601,-284.02,614.625,13.6693,2,2,2,2,-0,0,0,0,''),
+(10441,5875,'m425 quest zone 1441',601,-332.675,598.56,10.6423,3,10,10,10,-0,0,0,0,''),
+(10442,5875,'m425 quest zone 1442',601,561.31,1661.3,9.91954,0,50,300,8,-0,0,0,0,''),
+(10443,5875,'m425 quest zone 1443',601,-195.6,758.438,-0.192918,3,8,100,8,3.7815454,0,0,0,''),
+(10444,5875,'m425 quest zone 1444',601,-97.8802,567.002,10,3,8,8,8,-0,0,0,0,''),
+(10445,5875,'m425 quest zone 1445',601,-332.38,626.02,10.61,3,8,8,8,-0,0,0,0,''),
+(10446,5875,'m425 quest zone 1446',613,-95.688,110.457,5.01494,3,8,8,8,-0,0,0,0,''),
+(10447,5875,'m425 quest zone 1447',638,891.008,863.377,26.3678,0,2,2,2,-0,0,0,0,''),
+(10449,5875,'m425 quest zone 1449',604,-1891.52,265.251,1.60946,0,2,2,2,-0,0,0,0,''),
+(10450,5875,'m425 quest zone 1450',604,-1850.77,161.032,-7.99504,0,2,2,2,-0,0,0,0,''),
+(10451,5875,'m425 quest zone 1451',638,358.087,1390.18,-15.2551,0,8,8,8,-0,0,0,0,''),
+(10452,5875,'m425 quest zone 1452',638,737.721,1045.04,37.42,0,2,2,2,-0,0,0,0,''),
+(10453,5875,'m425 quest zone 1453',604,-2095.35,-67.0435,69.46,0,2,2,2,-0,0,0,0,''),
+(10454,5875,'m425 quest zone 1454',601,-368.806,633.295,10.898,0,2,2,2,-0,0,0,0,''),
+(10455,5875,'m425 quest zone 1455',601,49.3097,1766.27,25.98,3,3,3,3,-0,0,0,0,''),
+(10456,5875,'m425 quest zone 1456',601,49.8747,1728.78,25.98,3,3,3,3,-0,0,0,0,''),
+(10457,5875,'m425 quest zone 1457',601,419.677,2197.25,19.2028,50,90,50,8,-0,0,0,0,''),
+(10459,5875,'m425 quest zone 1459',601,24.7619,1764.36,20.7692,80,80,80,8,-0,0,0,0,''),
+(10460,5875,'m425 quest zone 1460',641,-458.509,-1186.17,8.78415,0,2,2,2,-0,0,0,0,''),
+(10461,5875,'m425 quest zone 1461',641,-637.261,-1139.88,54.5,0,2,2,2,-0,0,0,0,''),
+(10462,5875,'m425 quest zone 1462',641,-548.931,-1184.8,23.65,0,8,8,8,-0,0,0,0,''),
+(10463,5875,'m425 quest zone 1463',641,-677.374,-1180.6,54.4,0,8,8,8,-0,0,0,0,''),
+(10464,5875,'m425 quest zone 1464',641,-809.489,-1182.78,79.01,0,8,8,8,-0,0,0,0,''),
+(10465,5875,'m425 quest zone 1465',604,-1864.5,223.425,-4.01495,0,8,8,8,-0,0,0,0,''),
+(10466,5875,'m425 quest zone 1466',604,-1757.16,172.245,6.62777,0,8,8,8,-0,0,0,0,''),
+(10467,5875,'m425 quest zone 1467',604,-1794.79,178.02,-7.84916,0,8,8,8,-0,0,0,0,''),
+(10468,5875,'m425 quest zone 1468',609,-358.588,-1085.06,0,3,3,3,3,-0,0,0,0,''),
+(10469,5875,'m425 quest zone 1469',609,-318.829,-1102.04,0,0,8,8,8,-0,0,0,0,''),
+(10470,5875,'m425 quest zone 1470',613,-79.7417,111.105,5,3,3,3,3,-0,0,0,0,''),
+(10471,5875,'m425 quest zone 1471',601,-329.587,594.643,10.6159,3,3,3,3,-0,0,0,0,''),
+(10472,5875,'m425 quest zone 1472',601,-329.56,601.73,10.61,2,2,2,2,-0,0,0,0,''),
+(10474,5875,'m425 quest zone 1474',601,-334.421,601.436,10.6199,2,2,2,2,-0,0,0,0,''),
+(10475,5875,'m425 quest zone 1475',641,-823.904,-1200.94,79.01,0,8,8,8,-0,0,0,0,''),
+(10476,5875,'m425 quest zone 1476',613,-83.1179,108.55,5,5,5,5,5,-0,0,0,0,''),
+(10477,5875,'m425 quest zone 1477',613,-79.7041,111.289,5,5,5,5,5,-0,0,0,0,''),
+(10479,5875,'m425 quest zone 1479',638,681.55,1127.02,32.72,0,2,2,2,-0,0,0,0,''),
+(10480,5875,'m425 quest zone 1480',638,460.059,863.183,73.4804,0,2,2,4,-0,0,0,0,''),
+(10481,5875,'m425 quest zone 1481',601,402.81,2267.59,55.9328,0,2,2,2,-0,0,0,0,''),
+(10482,5875,'m425 quest zone 1482',638,318.68,400.111,-10.5837,0,2,2,2,-0,0,0,0,''),
+(10483,5875,'m425 quest zone 1483',638,273.025,734.225,48.9941,0,2,2,2,-0,0,0,0,''),
+(10484,5875,'m425 quest zone 1484',638,408.678,1346.71,-15.8652,0,2,2,2,-0,0,0,0,''),
+(10485,5875,'m425 quest zone 1485',638,437.553,1232.69,-10.2238,0,2,2,2,-0,0,0,0,''),
+(10487,5875,'m425 quest zone 1487',638,455.281,1212.44,-10.53,0,2,2,2,-0,0,0,0,''),
+(10489,5875,'m425 quest zone 1489',638,435.256,1225.94,-10.3211,0,2,2,2,-0,0,0,0,''),
+(10491,5875,'m425 quest zone 1491',601,586.667,2672.45,39.3273,0,2,2,2,-0,0,0,0,''),
+(10492,5875,'m425 quest zone 1492',638,506.321,870.938,71.6878,0,2,2,4,-0,0,0,0,''),
+(10493,5875,'m425 quest zone 1493',638,1131.91,860.584,8.96409,0,8,8,2,-0,0,0,0,''),
+(10494,5875,'m425 quest zone 1494',601,-299.641,587.23,16.1798,2,2,2,2,-0,0,0,0,''),
+(10495,5875,'m425 quest zone 1495',601,-310.907,606.799,10.6544,2,2,2,2,-0,0,0,0,''),
+(10496,5875,'m425 quest zone 1496',601,-304.238,605.535,10.986,2,2,2,2,-0,0,0,0,''),
+(10497,5875,'m425 quest zone 1497',601,-305.681,601.85,10.7869,2,2,2,2,-0,0,0,0,''),
+(10498,5875,'m425 quest zone 1498',601,-305.585,598.982,10.8879,2,2,2,2,-0,0,0,0,''),
+(10499,5875,'m425 quest zone 1499',601,-303.682,613.815,10.61,2,2,2,2,-0,0,0,0,''),
+(10500,5875,'m425 quest zone 1500',638,811.203,993.922,43.52,0,8,8,8,-0,0,0,0,''),
+(10501,5875,'m425 quest zone 1501',613,21.1752,17.2076,-5,2,2,2,2,-0,0,0,0,''),
+(10502,5875,'m425 quest zone 1502',613,18.5414,7.04373,-4.58047,3,8,8,8,-0,0,0,0,''),
+(10503,5875,'m425 quest zone 1503',613,15.3276,17.2036,-5,2,2,2,2,-0,0,0,0,''),
+(10504,5875,'m425 quest zone 1504',613,22.3885,46.0689,-5,2,2,2,2,-0,0,0,0,''),
+(10506,5875,'m425 quest zone 1506',638,347.808,497.725,-0.333775,0,18,18,8,-0,0,0,0,''),
+(10507,5875,'m425 quest zone 1507',638,727.101,977.07,37.42,0,2,2,2,-0,0,0,0,''),
+(10508,5875,'m425 quest zone 1508',638,478.813,1125.98,23.09,0,2,2,2,-0,0,0,0,''),
+(10509,5875,'m425 quest zone 1509',638,592.366,1198.01,32.72,0,2,2,2,-0,0,0,0,''),
+(10510,5875,'m425 quest zone 1510',642,945.542,1068.33,89.9174,0,8,8,8,-0,0,0,0,''),
+(10511,5875,'m425 quest zone 1511',642,1142.83,1058.39,103.852,0,8,8,8,-0,0,0,0,''),
+(10512,5875,'m425 quest zone 1512',642,1041.12,1145.72,104.423,0,8,8,8,-0,0,0,0,''),
+(10513,5875,'m425 quest zone 1513',642,1112.46,951.064,115.61,0,8,8,8,-0,0,0,0,''),
+(10515,5875,'m425 quest zone 1515',642,1154.75,922.962,118.204,0,8,8,8,-0,0,0,0,''),
+(10516,5875,'m425 quest zone 1516',623,987.446,844.395,106.11,0,8,8,8,-0,0,0,0,''),
+(10517,5875,'m425 quest zone 1517',638,535.497,1014.73,44.5,0,1,1,1,-0,0,0,0,''),
+(10518,5875,'m425 quest zone 1518',638,285.35,427.953,-10.03,0,1,1,1,-0,0,0,0,''),
+(10519,5875,'m425 quest zone 1519',638,285.305,425.361,-10.03,0,1,1,1,-0,0,0,0,''),
+(10520,5875,'m425 quest zone 1520',638,407.14,604.115,16.6088,0,1,1,1,-0,0,0,0,''),
+(10521,5875,'m425 quest zone 1521',623,979.878,850.904,106.115,0,1,1,1,-0,0,0,0,''),
+(10522,5875,'m425 quest zone 1522',642,1050.59,795.895,66.9438,0,1,1,1,-0,0,0,0,''),
+(10523,5875,'m425 quest zone 1523',601,-352.342,527.719,34.9,0,1,1,1,-0,0,0,0,''),
+(10524,5875,'m425 quest zone 1524',638,826.784,989.814,43.52,0,1,1,1,-0,0,0,0,''),
+(10525,5875,'m425 quest zone 1525',613,-87.1467,116.642,5,0,1,1,1,-0,0,0,0,''),
+(10526,5875,'m425 quest zone 1526',601,271.637,894.125,60.03,0,1,1,1,-0,0,0,0,''),
+(10527,5875,'m425 quest zone 1527',630,6.82991,719.538,8.53,0,1,1,1,-0,0,0,0,''),
+(10528,5875,'m425 quest zone 1528',642,958.403,1075.93,89.9174,0,8,8,8,-0,0,0,0,''),
+(10529,5875,'m425 quest zone 1529',642,1127.11,1069.36,103.852,0,8,8,8,-0,0,0,0,''),
+(10530,5875,'m425 quest zone 1530',613,-76.3043,124.644,5,0,2,2,2,-0,0,0,0,''),
+(10531,5875,'m425 quest zone 1531',601,301.447,2707.08,-0.295992,0,3,3,2,-0,0,0,0,''),
+(10532,5875,'m425 quest zone 1532',601,302.44,2767.94,-6.92419,0,60,45,4,-0,0,0,0,''),
+(10533,5875,'m425 quest zone 1533',601,324.263,2704.64,0.246157,0,3,3,3,-0,0,0,0,''),
+(10535,5875,'m425 quest zone 1535',645,585.437,413.604,4.65371,0,8,8,8,-0,0,0,0,''),
+(10536,5875,'m425 quest zone 1536',601,295.294,2703.86,-0.327398,0,3,3,3,-0,0,0,0,''),
+(10537,5875,'m425 quest zone 1537',638,690.313,1124.08,32.72,0,1,1,1,6.2657323,0,0,0,''),
+(10538,5875,'m425 quest zone 1538',640,-351.052,26.2853,-7.97985,0,2,2,2,-0,0,0,0,''),
+(10539,5875,'m425 quest zone 1539',641,-677.263,-1181.05,54.4,0,2,2,2,-0,0,0,0,''),
+(10541,5875,'m425 quest zone 1541',645,701.693,411.677,12.8408,0,8,8,8,-0,0,0,0,''),
+(10543,5875,'m425 quest zone 1543',645,793.012,469.333,7.60482,0,8,8,8,-0,0,0,0,''),
+(10544,5875,'m425 quest zone 1544',645,596.63,468.542,9.98711,0,8,8,8,-0,0,0,0,''),
+(10545,5875,'m425 quest zone 1545',645,747.876,546.541,0.189919,0,8,8,8,-0,0,0,0,''),
+(10546,5875,'m425 quest zone 1546',601,296.442,2714.88,-0.724123,0,45,10,4,-0,0,0,0,''),
+(10547,5875,'m425 quest zone 1547',646,-354.459,-1222.69,5,0,3,3,3,-0,0,0,0,''),
+(10548,5875,'m425 quest zone 1548',646,-317.707,-1281.11,1.24575,0,3,3,3,-0,0,0,0,''),
+(10549,5875,'m425 quest zone 1549',646,-331.99,-1314.89,4.30006,0,140,65,8,-0,0,0,0,''),
+(10550,5875,'m425 quest zone 1550',645,658.087,598.684,27.3645,0,1,1,1,-0,0,0,0,''),
+(10551,5875,'m425 quest zone 1551',645,654.415,575.122,26.2236,0,1,1,1,-0,0,0,0,''),
+(10552,5875,'m425 quest zone 1552',645,670.934,574.909,25.9689,0,1,1,1,-0,0,0,0,''),
+(10553,5875,'m425 quest zone 1553',645,761.104,489.061,8.00948,0,1,1,1,-0,0,0,0,''),
+(10554,5875,'m425 quest zone 1554',638,652.045,734.488,40.8,0,2,2,2,-0,0,0,0,''),
+(10555,5875,'m425 quest zone 1555',601,-437.584,618.229,7.22916,0,2,2,2,-0,0,0,0,''),
+(10556,5875,'m425 quest zone 1556',613,-101.15,127.615,5,2,2,2,2,-0,0,0,0,''),
+(10557,5875,'m425 quest zone 1557',604,2282.07,-2082.61,3.88753,2,2,2,2,-0,0,0,0,''),
+(10558,5875,'m425 quest zone 1558',604,2212.61,-2019.14,12.02,2,2,2,2,-0,0,0,0,''),
+(10559,5875,'m425 quest zone 1559',604,2178.43,-2063.94,15.89,2,2,2,2,-0,0,0,0,''),
+(10560,5875,'m425 quest zone 1560',604,2182.58,-2085.82,16.4087,3,3,3,3,-0,0,0,0,''),
+(10561,5875,'m425 quest zone 1561',604,2175.41,-2049.74,15.76,3,3,3,3,-0,0,0,0,''),
+(10562,5875,'m425 quest zone 1562',604,2185.48,-2080.9,15.89,2,2,2,2,-0,0,0,0,''),
+(10563,5875,'m425 quest zone 1563',604,2178.93,-2076.67,15.89,2,2,2,2,-0,0,0,0,''),
+(10564,5875,'m425 quest zone 1564',604,2178.96,-2078.87,15.89,2,2,2,2,-0,0,0,0,''),
+(10565,5875,'m425 quest zone 1565',604,2179.55,-2081.75,16.0554,2,2,2,2,-0,0,0,0,''),
+(10566,5875,'m425 quest zone 1566',604,2195.93,-2020,14.6231,3,20,20,8,-0,0,0,0,''),
+(10567,5875,'m425 quest zone 1567',604,2195.51,-2059.86,15.76,3,8,30,8,-0,0,0,0,''),
+(10568,5875,'m425 quest zone 1568',604,2171.95,-2066.6,15.9756,3,8,30,8,-0,0,0,0,''),
+(10569,5875,'m425 quest zone 1569',648,-30.8616,28.5186,10.0393,3,8,8,8,-0,0,0,0,''),
+(10570,5875,'m425 quest zone 1570',606,-564.082,-1176.26,36.17,2,2,2,2,-0,0,0,0,''),
+(10571,5875,'m425 quest zone 1571',606,-567.001,-1160.23,36.17,2,2,2,2,-0,0,0,0,''),
+(10572,5875,'m425 quest zone 1572',637,152.558,141.989,10.364,0,8,8,8,-0,0,0,0,''),
+(10573,5875,'m425 quest zone 1573',637,152.987,69.3696,10.3794,5,5,5,5,-0,0,0,0,''),
+(10574,5875,'m425 quest zone 1574',637,34.4737,57.8529,10.4317,5,5,5,5,-0,0,0,0,''),
+(10575,5875,'m425 quest zone 1575',637,170.185,338.342,10.4317,5,5,5,5,-0,0,0,0,'');
 INSERT INTO `areatrigger_template` (`id`,`build`,`name`,`map_id`,`x`,`y`,`z`,`radius`,`box_x`,`box_y`,`box_z`,`box_orientation`,`cooldown`,`condition_id`,`script_id`,`script_name`) VALUES
-(10576,5875,'m425 quest zone 1576',613,-79.6488,112.361,5,2,2,2,2,3.1415927,0,0,0,''),
-(10577,5875,'m425 quest zone 1577',604,1883.98,-2319.84,25.27,3,45,45,45,3.1415927,0,0,0,''),
-(10578,5875,'m425 quest zone 1578',604,1811.44,-2415.19,9.16,2,45,45,8,3.1415927,0,0,0,''),
-(10579,5875,'m425 quest zone 1579',604,1874.59,-2361.89,19.06,3,3,3,3,3.1415927,0,0,0,''),
-(10580,5875,'m425 quest zone 1580',604,1947,-2415.71,13.3,3,3,3,3,3.1415927,0,0,0,''),
-(10581,5875,'m425 quest zone 1581',604,1885.81,-2355.66,19.06,3,3,3,3,3.1415927,0,0,0,''),
-(10582,5875,'m425 quest zone 1582',604,1910.65,-2369.13,19.06,3,3,3,3,3.1415927,0,0,0,''),
-(10584,5875,'m425 quest zone 1584',614,2313.71,563.376,11.8306,0,8,8,8,3.1415927,0,0,0,''),
-(10585,5875,'m425 quest zone 1585',601,-33.4102,209.21,7.28225,0,10,10,10,3.1415927,0,0,0,''),
-(10586,5875,'m425 quest zone 1586',601,-202.509,401.915,38.6051,0,2,2,2,3.1415927,0,0,0,''),
-(10587,5875,'m425 quest zone 1587',640,-265.407,-37.9811,-14.8353,0,8,8,8,3.1415927,0,0,0,''),
-(10588,5875,'m425 quest zone 1588',604,821.653,-2440.4,65.8647,0,130,130,8,3.1415927,0,0,0,''),
-(10589,5875,'m425 quest zone 1589',601,-382.117,517.229,26.6246,2,2,2,2,3.1415927,0,0,0,''),
-(10590,5875,'m425 quest zone 1590',601,-332.766,454.614,41.05,8,8,30,8,3.1415927,0,0,0,''),
-(10591,5875,'m425 quest zone 1591',601,-358.63,463.737,44.2,8,8,8,8,3.1415927,0,0,0,''),
-(10592,5875,'m425 quest zone 1592',601,-383.875,484.948,41.05,2,2,2,2,3.1415927,0,0,0,''),
-(10593,5875,'m425 quest zone 1593',601,-383.168,489.284,41.106,2,2,2,2,3.1415927,0,0,0,''),
-(10594,5875,'m425 quest zone 1594',601,-375.182,489.447,41.277,2,2,2,2,3.1415927,0,0,0,''),
-(10595,5875,'m425 quest zone 1595',601,-374.13,483.361,41.07,2,2,2,2,3.1415927,0,0,0,''),
-(10596,5875,'m425 quest zone 1596',604,1714.87,-1871.99,15,3,3,3,3,3.1415927,0,0,0,''),
-(10597,5875,'m425 quest zone 1597',638,557.902,1014.2,45.3501,0,4,4,4,3.1415927,0,0,0,''),
-(10598,5875,'m425 quest zone 1598',613,-75.1631,120.727,5,0,2,2,2,3.1415927,0,0,0,''),
-(10599,5875,'m425 quest zone 1599',638,533.68,1390.67,-18.6498,0,2,2,2,3.1415927,0,0,0,''),
-(10600,5875,'m425 quest zone 1600',650,-244.605,-796.377,36.9494,0,8,8,8,3.1415927,0,0,0,''),
-(10601,5875,'m425 quest zone 1601',638,535.631,1408.84,-22.1232,0,24,24,8,3.1415927,0,0,0,''),
-(10602,5875,'m425 quest zone 1602',601,-435.407,560.246,7.18033,0,6,6,6,3.1415927,0,0,0,''),
-(10603,5875,'m425 quest zone 1603',639,-203.282,220.884,78.1858,0,8,8,8,3.1415927,0,0,0,''),
-(10604,5875,'m425 quest zone 1604',601,-125.886,527.167,5,0,2,2,2,3.1415927,0,0,0,''),
-(10605,5875,'m425 quest zone 1605',606,-494.553,196.893,49.9855,0,2,2,2,3.1415927,0,0,0,''),
-(10606,5875,'m425 quest zone 1606',613,14.5042,-16.552,-5,3,3,3,3,3.1415927,0,0,0,''),
-(10607,5875,'m425 quest zone 1607',613,-98.9616,118.788,5,3,3,3,3,3.1415927,0,0,0,''),
-(10608,5875,'m425 quest zone 1608',601,-350.876,521.325,34.9,0,2,2,2,3.1415927,0,0,0,''),
-(10609,5875,'m425 quest zone 1609',623,-29.0533,82.2847,3.95843,0,8,8,8,3.1415927,0,0,0,''),
-(10610,5875,'m425 quest zone 1610',606,360.65,-970.169,37.8389,0,8,8,8,3.1415927,0,0,0,''),
-(10611,5875,'m425 quest zone 1611',604,1247.9,-2584.96,9.40243,0,8,8,8,3.1415927,0,0,0,''),
-(10612,5875,'m425 quest zone 1612',601,2071.33,737.959,-3,0,8,8,8,3.1415927,0,0,0,''),
-(10613,5875,'m425 quest zone 1613',604,136.281,-773.712,-3.75254,0,8,8,8,3.1415927,0,0,0,''),
-(10614,5875,'m425 quest zone 1614',623,198.288,754.536,61.6674,0,8,8,8,3.1415927,0,0,0,''),
-(10615,5875,'m425 quest zone 1615',639,-208.411,233.703,78.08,0,8,8,8,3.1415927,0,0,0,''),
-(10616,5875,'m425 quest zone 1616',601,-351.406,481.902,41.05,0,2,2,2,3.1415927,0,0,0,''),
-(10617,5875,'m425 quest zone 1617',601,569.601,2671.6,39.4201,0,2,2,2,3.1415927,0,0,0,''),
-(10618,5875,'m425 quest zone 1618',614,2343.32,548.297,11.6,0,2,2,2,3.1415927,0,0,0,''),
-(10619,5875,'m425 quest zone 1619',601,1911.11,872.487,-7.52059,0,2,2,2,3.1415927,0,0,0,''),
-(10620,5875,'m425 quest zone 1620',615,-210.983,209.727,40.0521,0,2,2,2,3.1415927,0,0,0,''),
-(10621,5875,'m425 quest zone 1621',615,-143.007,132.723,43.2507,0,8,8,8,3.1415927,0,0,0,''),
-(10622,5875,'m425 quest zone 1622',617,-236.488,-137.126,20.2399,0,8,8,8,3.1415927,0,0,0,''),
-(10623,5875,'m425 quest zone 1623',617,-154.209,121.507,-10,0,2,2,2,0.39484262,0,0,0,''),
-(10624,5875,'m425 quest zone 1624',604,1525.78,-2023.56,70.9852,0,2,2,2,3.1415927,0,0,0,''),
-(10625,5875,'m425 quest zone 1625',604,136.406,-1182.85,7.59338,0,2,2,2,3.1415927,0,0,0,''),
-(10627,5875,'m425 quest zone 1627',618,1072.4,-1529.77,12.3125,0,2,2,2,3.1415927,0,0,0,''),
-(10628,5875,'m425 quest zone 1628',619,1130.14,-1392.78,5.04589,0,2,2,2,3.1415927,0,0,0,''),
-(10629,5875,'m425 quest zone 1629',604,-1529.49,253.826,49.9339,0,2,2,2,3.1415927,0,0,0,''),
-(10630,5875,'m425 quest zone 1630',622,-1581.26,153.452,50.0602,0,2,2,2,3.1415927,0,0,0,''),
-(10631,5875,'m425 quest zone 1631',622,-200.347,-218.412,163.33,0,8,8,8,3.1415927,0,0,0,''),
-(10632,5875,'m425 quest zone 1632',651,549.365,-931.766,3.87887,0,8,8,8,3.1415927,0,0,0,''),
-(10633,5875,'m425 quest zone 1633',651,660.41,-974.03,-11.3026,0,100,30,16,2.8326766,0,0,0,''),
-(10634,5875,'m425 quest zone 1634',651,503.641,-999.441,3.04534,0,8,8,8,3.1415927,0,0,0,''),
-(10635,5875,'m425 quest zone 1635',651,693.389,-1413.86,3.36889,0,200,160,8,3.1415927,0,0,0,''),
-(10636,5875,'m425 quest zone 1636',651,609.143,-1106.48,21.1195,0,8,8,8,3.1415927,0,0,0,''),
-(10637,5875,'m425 quest zone 1637',651,602.234,-1157.19,20.9745,0,35,30,8,3.1415927,0,0,0,''),
-(10638,5875,'m425 quest zone 1638',651,530.29,-1171.5,19.8,0,8,8,8,3.1415927,0,0,0,''),
-(10639,5875,'m425 quest zone 1639',651,557.275,-993.178,4.50311,0,4,4,8,3.1415927,0,0,0,''),
-(10640,5875,'m425 quest zone 1640',651,737.319,-1291.23,5.74395,0,12,12,8,3.1415927,0,0,0,''),
-(10641,5875,'m425 quest zone 1641',651,736.369,-1268.97,5.71081,0,20,20,8,3.1415927,0,0,0,''),
-(10642,5875,'m425 quest zone 1642',651,571.743,-993.277,4.50079,0,4,4,8,3.1415927,0,0,0,''),
-(10643,5875,'m425 quest zone 1643',651,400.127,-777.34,27.0802,0,8,8,8,3.1415927,0,0,0,''),
-(10644,5875,'m425 quest zone 1644',651,366.274,-885.018,25.0382,0,8,8,8,3.1415927,0,0,0,''),
-(10645,5875,'m425 quest zone 1645',651,391.231,-842.684,15.3185,0,8,8,8,3.1415927,0,0,0,''),
-(10646,5875,'m425 quest zone 1646',651,421.238,-864.893,15.9946,0,8,8,8,3.1415927,0,0,0,''),
-(10647,5875,'m425 quest zone 1647',651,582.581,-578.533,40.4754,0,30,30,8,3.1415927,0,0,0,''),
-(10648,5875,'m425 quest zone 1648',651,577.227,-587.565,39.8437,0,120,120,8,2.5307279,0,0,0,''),
-(10649,5875,'m425 quest zone 1649',651,405.777,-811.216,16.2865,0,8,8,8,3.1415927,0,0,0,''),
-(10650,5875,'m425 quest zone 1650',651,232.574,-705.967,32.6315,0,30,60,8,3.1415927,0,0,0,''),
-(10651,5875,'m425 quest zone 1651',651,252.047,-636.797,23,0,60,60,8,3.1415927,0,0,0,''),
-(10652,5875,'m425 quest zone 1652',651,449.106,-820.842,17.4633,0,8,8,8,3.1415927,0,0,0,''),
-(10653,5875,'m425 quest zone 1653',651,297.76,-838.58,20.4349,0,2,2,2,3.1415927,0,0,0,''),
-(10654,5875,'m425 quest zone 1654',651,-385.192,-835.517,53.2468,0,2,2,2,3.1415927,0,0,0,''),
-(10660,5875,'m425 quest zone 1660',651,515.313,-738.933,26.4185,0,40,80,8,2.7052608,0,0,0,''),
-(10661,5875,'m425 quest zone 1661',651,413.653,-527.662,52.6201,0,100,80,8,3.1415927,0,0,0,''),
-(10662,5875,'m425 quest zone 1662',651,348.327,-612.346,55.768,0,100,30,8,3.1415927,0,0,0,''),
-(10663,5875,'m425 quest zone 1663',651,-53.5547,-779.857,48.8444,0,2,2,2,3.1415927,0,0,0,''),
-(10664,5875,'m425 quest zone 1664',651,-57.6421,-791.245,48.5476,0,2,2,2,3.1415927,0,0,0,''),
-(10665,5875,'m425 quest zone 1665',651,-80.1116,-987.321,31,0,2,2,2,3.1415927,0,0,0,''),
-(10666,5875,'m425 quest zone 1666',651,-19.4921,-998.253,30.5584,0,2,2,2,3.1415927,0,0,0,''),
-(10667,5875,'m425 quest zone 1667',651,-173.824,-863.848,40.0759,0,2,2,2,3.1415927,0,0,0,''),
-(10668,5875,'m425 quest zone 1668',651,3.1326,-993.549,34.0781,0,2,2,2,3.1415927,0,0,0,''),
-(10669,5875,'m425 quest zone 1669',651,-191.261,-1047.37,45.5314,0,2,2,2,3.1415927,0,0,0,''),
-(10670,5875,'m425 quest zone 1670',651,-73.5379,-614.994,36.951,0,2,2,2,3.1415927,0,0,0,''),
-(10671,5875,'m425 quest zone 1671',651,-75.8113,-578.994,37.6382,0,138,138,2,3.1415927,0,0,0,''),
-(10672,5875,'m425 quest zone 1672',651,-170.846,-1749.96,3.82149,0,8,8,8,3.1415927,0,0,0,''),
-(10673,5875,'m425 quest zone 1673',651,-2411.89,-6069.78,-74.9268,0,24,128,8,3.1415927,0,0,0,''),
-(10674,5875,'m425 quest zone 1674',651,-62.97,-1740.24,8.70004,0,48,128,8,3.1415927,0,0,0,''),
-(10675,5875,'m425 quest zone 1675',651,-173.538,-1670.04,10,0,8,8,8,3.1415927,0,0,0,''),
-(10676,5875,'m425 quest zone 1676',651,-373.241,-1479.75,17.3963,0,72,96,8,1.1635528,0,0,0,''),
-(10677,5875,'m425 quest zone 1677',651,-129.13,-1708.78,10.332,0,8,8,8,3.1415927,0,0,0,''),
-(10678,5875,'m425 quest zone 1678',651,-505.959,-1491.45,1.60357,0,128,24,8,2.8797936,0,0,0,''),
-(10679,5875,'m425 quest zone 1679',651,-244.536,-1472.02,18,0,64,64,8,3.1415927,0,0,0,''),
-(10680,5875,'m425 quest zone 1680',651,-196.397,-1681.65,10.7766,0,8,8,8,3.1415927,0,0,0,''),
-(10681,5875,'m425 quest zone 1681',651,-189.619,-1685.05,10.3613,0,8,8,8,3.1415927,0,0,0,''),
-(10682,5875,'m425 quest zone 1682',651,-300.197,-1360.47,33.6247,0,128,128,8,2.8216157,0,0,0,''),
-(10683,5875,'m425 quest zone 1683',651,-274.491,-1383.3,32.5,0,8,8,8,3.1415927,0,0,0,''),
-(10684,5875,'m425 quest zone 1684',651,-281.874,-1321.67,37.4451,0,8,8,8,3.1415927,0,0,0,''),
-(10685,5875,'m425 quest zone 1685',651,-606.708,-1137.19,36.51,0,8,8,8,3.1415927,0,0,0,''),
-(10686,5875,'m425 quest zone 1686',651,-569.684,-1140.91,36.56,0,8,8,8,3.1415927,0,0,0,''),
-(10687,5875,'m425 quest zone 1687',651,-499.406,-1401.55,2.5051,0,16,16,8,3.1415927,0,0,0,''),
-(10688,5875,'m425 quest zone 1688',651,-555.963,-1151.42,36.56,0,8,8,8,3.1415927,0,0,0,''),
-(10689,5875,'m425 quest zone 1689',651,-379.441,-1041.72,42.4789,0,150,32,8,2.1234827,0,0,0,''),
-(10690,5875,'m425 quest zone 1690',651,-86.744,-1508.02,45.0266,3,3,3,3,3.1415927,0,0,0,''),
-(10691,5875,'m425 quest zone 1691',651,-77.3208,-1506.45,45,3,3,3,3,3.1415927,0,0,0,''),
-(10692,5875,'m425 quest zone 1692',651,-80.2725,-1506.69,45,3,3,3,3,3.1415927,0,0,0,''),
-(10693,5875,'m425 quest zone 1693',651,-71.8745,-1500.71,45,3,3,3,3,3.1415927,0,0,0,''),
-(10694,5875,'m425 quest zone 1694',651,-76.2894,-1500.31,45,3,3,3,3,3.1415927,0,0,0,''),
-(10695,5875,'m425 quest zone 1695',651,-90.2455,-1507.42,45,3,3,3,3,3.1415927,0,0,0,''),
-(10696,5875,'m425 quest zone 1696',651,-110.099,-1501.06,44.9059,5,5,5,5,3.1415927,0,0,0,''),
-(10697,5875,'m425 quest zone 1697',653,534.551,-593.815,10.2909,0,80,35,8,3.1415927,0,0,0,''),
-(10698,5875,'m425 quest zone 1698',651,-20.1763,-979.981,27.1784,0,2,2,2,3.1415927,0,0,0,''),
-(10699,5875,'m425 quest zone 1699',651,-181.705,-1053.58,45.9501,0,2,2,2,3.1415927,0,0,0,''),
-(10700,5875,'m425 quest zone 1700',651,-341.652,-1560.09,1.82855,0,100,20,8,2.3852837,0,0,0,''),
-(10701,5875,'m425 quest zone 1701',651,-62.8995,-1000.27,31,0,2,2,2,3.1415927,0,0,0,''),
-(10702,5875,'m425 quest zone 1702',651,-113.378,-1354.62,72.8212,0,2,2,2,3.1415927,0,0,0,''),
-(10703,5875,'m425 quest zone 1703',651,-15.5644,-991.853,30.9153,0,2,2,2,3.1415927,0,0,0,''),
-(10704,5875,'m425 quest zone 1704',651,-81.5768,-864.907,44.3962,0,8,8,8,3.1415927,0,0,0,''),
-(10705,5875,'m425 quest zone 1705',651,-531.616,-1330.82,6.68472,0,70,100,8,0.46542263,0,0,0,''),
-(10706,5875,'m425 quest zone 1706',651,-283.435,-1387.26,33,0,8,8,8,3.1415927,0,0,0,''),
-(10707,5875,'m425 quest zone 1707',651,-72.0789,-895.058,40.2981,0,2,2,2,3.1415927,0,0,0,''),
-(10708,5875,'m425 quest zone 1708',651,-37.3791,-1011.07,32.1839,0,2,2,2,3.1415927,0,0,0,''),
-(10709,5875,'m425 quest zone 1709',651,-104.682,-613.638,39.7225,0,2,2,2,3.1415927,0,0,0,''),
-(10710,5875,'m425 quest zone 1710',637,26.7352,270.279,19.5262,0,218,218,2,3.1415927,0,0,0,''),
-(10711,5875,'m425 quest zone 1711',637,27.8778,414.066,10.3394,0,8,8,2,3.1415927,0,0,0,''),
-(10712,5875,'m425 quest zone 1712',606,-581.635,-1085.94,53.51,0,128,128,8,3.1415927,0,0,0,''),
-(10713,5875,'m425 quest zone 1713',606,-558.32,-1176.22,36.17,0,2,2,2,3.1415927,0,0,0,''),
-(10714,5875,'m425 quest zone 1714',606,-544.658,-1168.34,36.17,0,2,2,2,3.1415927,0,0,0,''),
-(10715,5875,'m425 quest zone 1715',651,641.682,-1003.09,0.24,0,90,20,8,2.7634387,0,0,0,''),
-(10716,5875,'m425 quest zone 1716',651,505.786,-958.251,0.392587,0,8,8,8,3.1415927,0,0,0,''),
-(10717,5875,'m425 quest zone 1717',651,-495.604,-1322.98,6.76614,0,120,30,8,2.1234827,0,0,0,''),
-(10718,5875,'m425 quest zone 1718',651,-547.234,-1241.29,16.79,0,8,8,8,3.1415927,0,0,0,''),
-(10719,5875,'m425 quest zone 1719',651,-553.145,-1231.17,17.6249,0,40,40,8,3.1415927,0,0,0,''),
-(10720,5875,'m425 quest zone 1720',651,-140.434,-1689.21,10.0417,0,8,8,8,3.1415927,0,0,0,''),
-(10721,5875,'m425 quest zone 1721',613,-308.16,103.989,-11.508,0,8,8,8,3.1415927,0,0,0,''),
-(10722,5875,'m425 quest zone 1722',638,331.837,1184.42,-12.9586,0,8,8,8,3.1415927,0,0,0,''),
-(10723,5875,'m425 quest zone 1723',606,-5.15319,889.212,-10.7421,0,2,2,2,3.1415927,0,0,0,''),
-(10724,5875,'m425 quest zone 1724',651,-348.051,-500.634,-20,0,8,8,8,3.1415927,0,0,0,''),
-(10726,5875,'m425 quest zone 1726',651,9.14198,-1506.31,34.84,0,68,68,8,3.1415927,0,0,0,''),
-(10728,5875,'m425 quest zone 1728',651,-114.129,-1396.21,64.7581,0,2,2,2,3.1415927,0,0,0,''),
-(10729,5875,'m425 quest zone 1729',651,-82.9382,-1442.73,61.5096,0,2,2,2,3.1415927,0,0,0,''),
-(10730,5875,'m425 quest zone 1730',651,163.528,-1540.83,40,0,2,2,2,3.1415927,0,0,0,''),
-(10731,5875,'m425 quest zone 1731',651,73.6565,-1431.07,38.1296,0,68,68,8,3.1415927,0,0,0,''),
-(10732,5875,'m425 quest zone 1732',651,132.538,-1451.54,34.713,0,38,38,8,3.1415927,0,0,0,''),
-(10733,5875,'m425 quest zone 1733',651,22.256,-1381.35,34.7265,0,58,58,8,3.1415927,0,0,0,''),
-(10734,5875,'m425 quest zone 1734',651,48.6262,-1142.36,33,0,2,2,2,3.1415927,0,0,0,''),
-(10735,5875,'m425 quest zone 1735',651,67.7197,-1238.11,37.7322,0,68,68,8,3.1415927,0,0,0,''),
-(10736,5875,'m425 quest zone 1736',651,65.8726,-1178.51,39.9853,0,38,38,8,3.1415927,0,0,0,''),
-(10737,5875,'m425 quest zone 1737',651,103.611,-1144.44,51,0,2,2,2,3.1415927,0,0,0,''),
-(10738,5875,'m425 quest zone 1738',651,115.351,-1235.04,49.3504,0,2,2,2,3.1415927,0,0,0,''),
-(10739,5875,'m425 quest zone 1739',651,140.392,-1156.43,59,0,2,2,2,3.1415927,0,0,0,''),
-(10740,5875,'m425 quest zone 1740',651,180.469,-1332.37,40,0,2,2,2,3.1415927,0,0,0,''),
-(10741,5875,'m425 quest zone 1741',651,177.878,-1213.67,70,0,2,2,2,3.1415927,0,0,0,''),
-(10742,5875,'m425 quest zone 1742',651,188.778,-1280.66,70,0,2,2,2,3.1415927,0,0,0,''),
-(10743,5875,'m425 quest zone 1743',651,-306.095,-890.138,48.4933,0,100,250,20,2.8797936,0,0,0,''),
-(10744,5875,'m425 quest zone 1744',604,2172.34,-2004.71,12.0419,0,2,2,2,3.1415927,0,0,0,''),
-(10745,5875,'m425 quest zone 1745',604,2178.1,-2001.81,12.0504,0,2,2,2,3.1415927,0,0,0,''),
-(10746,5875,'m425 quest zone 1746',604,2220.77,-2031.81,11.7476,0,2,2,2,3.1415927,0,0,0,''),
-(10747,5875,'m425 quest zone 1747',604,2264.65,-2087.19,5.89,0,2,2,2,3.1415927,0,0,0,''),
-(10748,5875,'m425 quest zone 1748',604,2211.37,-2005.76,12,0,2,2,2,3.1415927,0,0,0,''),
-(10749,5875,'m425 quest zone 1749',604,2189.76,-2014.93,12.02,0,2,2,2,3.1415927,0,0,0,''),
-(10750,5875,'m425 quest zone 1750',604,2215.02,-2032.54,12.02,0,98,68,8,3.1415927,0,0,0,''),
-(10751,5875,'m425 quest zone 1751',651,-244.502,-780.465,50,0,8,8,8,3.1415927,0,0,0,''),
-(10752,5875,'m425 quest zone 1752',651,-318.204,-1005.61,50,0,8,8,8,3.1415927,0,0,0,''),
-(10753,5875,'m425 quest zone 1753',651,238.6,-1663.01,45,0,2,2,2,3.1415927,0,0,0,''),
-(10754,5875,'m425 quest zone 1754',651,264.763,-1660.85,45,0,2,2,2,3.1415927,0,0,0,''),
-(10755,5875,'m425 quest zone 1755',651,247.039,-1646.71,45,0,2,2,2,3.1415927,0,0,0,''),
-(10756,5875,'m425 quest zone 1756',651,240.93,-1649.57,45,0,2,2,2,3.1415927,0,0,0,''),
-(10757,5875,'m425 quest zone 1757',651,323.718,-1705.56,55,0,28,28,8,3.1415927,0,0,0,''),
-(10758,5875,'m425 quest zone 1758',651,435.088,-1608.58,48.0752,0,2,2,2,3.1415927,0,0,0,''),
-(10759,5875,'m425 quest zone 1759',651,379.154,-1692.04,55.8946,0,2,2,2,3.1415927,0,0,0,''),
-(10760,5875,'m425 quest zone 1760',651,373.524,-1692.49,56.1012,0,8,8,2,3.1415927,0,0,0,''),
-(10761,5875,'m425 quest zone 1761',651,369.299,-1700.14,56.0894,0,2,2,2,3.1415927,0,0,0,''),
-(10762,5875,'m425 quest zone 1762',651,472.826,-1766.74,66.2149,0,18,18,8,3.1415927,0,0,0,''),
-(10763,5875,'m425 quest zone 1763',651,412.164,-1677,54.9583,0,2,2,2,3.1415927,0,0,0,''),
-(10764,5875,'m425 quest zone 1764',651,398.375,-1717.12,59.997,0,2,2,2,3.1415927,0,0,0,''),
-(10765,5875,'m425 quest zone 1765',651,441.478,-1759.28,60.08,0,128,128,8,3.1415927,0,0,0,''),
-(10766,5875,'m425 quest zone 1766',651,386.498,-1668.95,55.5965,0,2,2,2,3.1415927,0,0,0,''),
-(10767,5875,'m425 quest zone 1767',651,373.742,-1670.47,55.3075,0,2,2,2,3.1415927,0,0,0,''),
-(10768,5875,'m425 quest zone 1768',651,480.465,-1822.05,65.5966,0,38,38,2,3.1415927,0,0,0,''),
-(10769,5875,'m425 quest zone 1769',651,174.458,-1211.13,70,0,18,28,8,3.1415927,0,0,0,''),
-(10770,5875,'m425 quest zone 1770',651,422.575,-1743.56,61.1765,0,28,28,2,3.1415927,0,0,0,''),
-(10771,5875,'m425 quest zone 1771',613,-206.755,179.568,7.60054,0,8,8,8,3.1415927,0,0,0,''),
-(10772,5875,'m425 quest zone 1772',614,2480.8,546.667,11.2819,0,10,10,10,3.1415927,0,0,0,''),
-(10773,5875,'m425 quest zone 1773',613,11.1106,52.4766,-5,0,2,2,2,3.1415927,0,0,0,''),
-(10774,5875,'m425 quest zone 1774',606,-511.518,-48.8223,55,0,2,2,2,3.1415927,0,0,0,''),
-(10775,5875,'m425 quest zone 1775',601,-63.7816,-2.11395,6.99104,0,2,2,2,3.1415927,0,0,0,''),
-(10776,5875,'m425 quest zone 1776',607,-99.9948,2652.78,32.3524,0,2,2,2,3.1415927,0,0,0,''),
-(10777,5875,'m425 quest zone 1777',604,835.43,-2433.22,65.9083,0,2,2,2,3.1415927,0,0,0,''),
-(10778,5875,'m425 quest zone 1778',604,808.209,-2467.3,62.2886,0,2,2,2,3.1415927,0,0,0,''),
-(10779,5875,'m425 quest zone 1779',657,-160.572,-2399.96,12.3169,0,8,8,8,3.1415927,0,0,0,''),
-(10780,5875,'m425 quest zone 1780',604,907.769,-2407.46,74.23,0,8,8,8,3.1415927,0,0,0,''),
-(10781,5875,'m425 quest zone 1781',604,785.337,-2438.51,70.7598,0,2,2,2,3.1415927,0,0,0,''),
-(10782,5875,'m425 quest zone 1782',604,778.574,-2461.06,62.1909,0,2,2,2,3.1415927,0,0,0,''),
-(10783,5875,'m425 quest zone 1783',604,829.415,-2412.27,70.1043,0,2,2,2,3.1415927,0,0,0,''),
-(10784,5875,'m425 quest zone 1784',651,425.664,-1670.89,55.0758,0,2,2,2,3.1415927,0,0,0,''),
-(10785,5875,'m425 quest zone 1785',656,478.625,-1634.86,53.67,0,2,2,2,3.1415927,0,0,0,''),
-(10786,5875,'m425 quest zone 1786',604,853.286,-2446.46,66.1778,0,19,19,2,3.1415927,0,0,0,''),
-(10787,5875,'m425 quest zone 1787',604,772.879,-2483.44,56.5659,0,19,19,2,3.1415927,0,0,0,''),
-(10788,5875,'m425 quest zone 1788',604,772.377,-2436.12,68.6116,0,18,18,8,3.1415927,0,0,0,''),
-(10789,5875,'m425 quest zone 1789',613,-60.4814,152.131,5,0,2,2,2,3.1415927,0,0,0,''),
-(10790,5875,'m425 quest zone 1790',651,312.274,-1802.03,50.6483,0,8,8,8,3.1415927,0,0,0,''),
-(10791,5875,'m425 quest zone 1791',601,-369.891,491.762,41.8081,0,3,3,3,3.1415927,0,0,0,''),
-(10792,5875,'m425 quest zone 1792',601,-362.626,485.818,41.254,0,1,1,1,3.1415927,0,0,0,''),
-(10793,5875,'m425 quest zone 1793',601,-352.272,615.798,10.6433,0,1,1,1,3.1415927,0,0,0,''),
-(10794,5875,'m425 quest zone 1794',601,-320.609,602.046,11.0601,0,1,1,1,3.1415927,0,0,0,''),
-(10795,5875,'m425 quest zone 1795',601,-334.478,616.364,10.9255,0,1,1,1,3.1415927,0,0,0,''),
-(10796,5875,'m425 quest zone 1796',601,-349.373,468.786,44.2154,0,1,1,1,3.1415927,0,0,0,''),
-(10797,5875,'m425 quest zone 1797',601,17.4933,1596.66,66.4876,0,1,1,1,3.1415927,0,0,0,''),
-(10798,5875,'m425 quest zone 1798',601,29.2923,1592.54,67.4167,0,16,16,16,3.1415927,0,0,0,''),
-(10799,5875,'m425 quest zone 1799',601,21.4733,1623.77,57.1707,0,1,1,1,3.1415927,0,0,0,''),
-(10800,5875,'m425 quest zone 1800',601,-60.2967,557.205,0.946449,0,1,1,1,3.1415927,0,0,0,''),
-(10801,5875,'m425 quest zone 1801',606,-919.839,-231.955,70.6555,0,8,8,8,3.1415927,0,0,0,''),
-(10802,5875,'m425 quest zone 1802',601,-68.2009,271.082,4.59542,0,20,20,20,3.1415927,0,0,0,''),
-(10803,5875,'m425 quest zone 1803',651,-517.767,-1072.4,14.0783,0,50,20,20,3.1415927,0,0,0,''),
-(10804,5875,'m425 quest zone 1804',651,-77.871,-1487.73,45.1976,0,1,1,1,3.1415927,0,0,0,''),
-(10805,5875,'m425 quest zone 1805',613,4.83723,-6.02225,-5,0,1,1,1,3.1415927,0,0,0,''),
-(10806,5875,'m425 quest zone 1806',613,5.50765,0.519108,-5,0,1,1,1,3.1415927,0,0,0,''),
-(10807,5875,'m425 quest zone 1807',643,439.851,-1067.55,5.2501,0,8,2,1,3.1415927,0,0,0,''),
-(10808,5875,'m425 quest zone 1808',643,440.473,-1067.74,5.2501,0,4,6,6,3.1415927,0,0,0,''),
-(10809,5875,'m425 quest zone 1809',645,766.957,492.634,7.9064,0,2,2,2,3.106686,0,0,0,''),
-(10810,5875,'m425 quest zone 1810',645,628.537,625.65,27.32,0,2,2,2,3.1415927,0,0,0,''),
-(10811,5875,'m425 quest zone 1811',645,653.979,570.751,26.0344,0,2,2,2,3.1415927,0,0,0,''),
-(10812,5875,'m425 quest zone 1812',645,656.895,594.758,27.2847,0,2,2,2,3.1415927,0,0,0,''),
-(10814,5875,'m425 quest zone 1814',645,704.745,408.687,15.5862,0,50,50,2,3.1415927,0,0,0,''),
-(10815,5875,'m425 quest zone 1815',645,761.679,437.024,8.20889,0,18,18,2,3.1415927,0,0,0,''),
-(10816,5875,'m425 quest zone 1816',645,636.592,429.006,8.9859,0,18,18,2,3.1415927,0,0,0,''),
-(10817,5875,'m425 quest zone 1817',645,777.185,506.386,8.16421,0,8,8,2,3.1415927,0,0,0,''),
-(10818,5875,'m425 quest zone 1818',645,788.315,442.827,7.82056,0,8,8,2,3.1415927,0,0,0,''),
-(10819,5875,'m425 quest zone 1819',645,620.568,495.813,12.5274,0,8,8,2,3.1415927,0,0,0,''),
-(10820,5875,'m425 quest zone 1820',645,810.728,478.027,5.46984,0,8,8,2,3.1415927,0,0,0,''),
-(10821,5875,'m425 quest zone 1821',645,746.683,498.726,4.27059,0,8,8,2,3.1415927,0,0,0,''),
-(10822,5875,'m425 quest zone 1822',601,268.29,2701.43,-0.305312,0,8,8,8,3.1415927,0,0,0,''),
-(10823,5875,'m425 quest zone 1823',601,346.112,2728.8,-0.153426,0,2,2,2,3.1415927,0,0,0,''),
-(10824,5875,'m425 quest zone 1824',613,-149.393,267.602,25,0,8,5,1,3.1415927,0,0,0,''),
-(10825,5875,'m425 quest zone 1825',613,-32.8461,170.523,-5,0,1,1,1,3.1241395,0,0,0,''),
-(10826,5875,'m425 quest zone 1826',601,295.593,2693.44,-0.0565869,0,68,68,2,3.1415927,0,0,0,'');
+(10576,5875,'m425 quest zone 1576',613,-79.6488,112.361,5,2,2,2,2,-0,0,0,0,''),
+(10577,5875,'m425 quest zone 1577',604,1883.98,-2319.84,25.27,3,45,45,45,-0,0,0,0,''),
+(10578,5875,'m425 quest zone 1578',604,1811.44,-2415.19,9.16,2,45,45,8,-0,0,0,0,''),
+(10579,5875,'m425 quest zone 1579',604,1874.59,-2361.89,19.06,3,3,3,3,-0,0,0,0,''),
+(10580,5875,'m425 quest zone 1580',604,1947,-2415.71,13.3,3,3,3,3,-0,0,0,0,''),
+(10581,5875,'m425 quest zone 1581',604,1885.81,-2355.66,19.06,3,3,3,3,-0,0,0,0,''),
+(10582,5875,'m425 quest zone 1582',604,1910.65,-2369.13,19.06,3,3,3,3,-0,0,0,0,''),
+(10584,5875,'m425 quest zone 1584',614,2313.71,563.376,11.8306,0,8,8,8,-0,0,0,0,''),
+(10585,5875,'m425 quest zone 1585',601,-33.4102,209.21,7.28225,0,10,10,10,-0,0,0,0,''),
+(10586,5875,'m425 quest zone 1586',601,-202.509,401.915,38.6051,0,2,2,2,-0,0,0,0,''),
+(10587,5875,'m425 quest zone 1587',640,-265.407,-37.9811,-14.8353,0,8,8,8,-0,0,0,0,''),
+(10588,5875,'m425 quest zone 1588',604,821.653,-2440.4,65.8647,0,130,130,8,-0,0,0,0,''),
+(10589,5875,'m425 quest zone 1589',601,-382.117,517.229,26.6246,2,2,2,2,-0,0,0,0,''),
+(10590,5875,'m425 quest zone 1590',601,-332.766,454.614,41.05,8,8,30,8,-0,0,0,0,''),
+(10591,5875,'m425 quest zone 1591',601,-358.63,463.737,44.2,8,8,8,8,-0,0,0,0,''),
+(10592,5875,'m425 quest zone 1592',601,-383.875,484.948,41.05,2,2,2,2,-0,0,0,0,''),
+(10593,5875,'m425 quest zone 1593',601,-383.168,489.284,41.106,2,2,2,2,-0,0,0,0,''),
+(10594,5875,'m425 quest zone 1594',601,-375.182,489.447,41.277,2,2,2,2,-0,0,0,0,''),
+(10595,5875,'m425 quest zone 1595',601,-374.13,483.361,41.07,2,2,2,2,-0,0,0,0,''),
+(10596,5875,'m425 quest zone 1596',604,1714.87,-1871.99,15,3,3,3,3,-0,0,0,0,''),
+(10597,5875,'m425 quest zone 1597',638,557.902,1014.2,45.3501,0,4,4,4,-0,0,0,0,''),
+(10598,5875,'m425 quest zone 1598',613,-75.1631,120.727,5,0,2,2,2,-0,0,0,0,''),
+(10599,5875,'m425 quest zone 1599',638,533.68,1390.67,-18.6498,0,2,2,2,-0,0,0,0,''),
+(10600,5875,'m425 quest zone 1600',650,-244.605,-796.377,36.9494,0,8,8,8,-0,0,0,0,''),
+(10601,5875,'m425 quest zone 1601',638,535.631,1408.84,-22.1232,0,24,24,8,-0,0,0,0,''),
+(10602,5875,'m425 quest zone 1602',601,-435.407,560.246,7.18033,0,6,6,6,-0,0,0,0,''),
+(10603,5875,'m425 quest zone 1603',639,-203.282,220.884,78.1858,0,8,8,8,-0,0,0,0,''),
+(10604,5875,'m425 quest zone 1604',601,-125.886,527.167,5,0,2,2,2,-0,0,0,0,''),
+(10605,5875,'m425 quest zone 1605',606,-494.553,196.893,49.9855,0,2,2,2,-0,0,0,0,''),
+(10606,5875,'m425 quest zone 1606',613,14.5042,-16.552,-5,3,3,3,3,-0,0,0,0,''),
+(10607,5875,'m425 quest zone 1607',613,-98.9616,118.788,5,3,3,3,3,-0,0,0,0,''),
+(10608,5875,'m425 quest zone 1608',601,-350.876,521.325,34.9,0,2,2,2,-0,0,0,0,''),
+(10609,5875,'m425 quest zone 1609',623,-29.0533,82.2847,3.95843,0,8,8,8,-0,0,0,0,''),
+(10610,5875,'m425 quest zone 1610',606,360.65,-970.169,37.8389,0,8,8,8,-0,0,0,0,''),
+(10611,5875,'m425 quest zone 1611',604,1247.9,-2584.96,9.40243,0,8,8,8,-0,0,0,0,''),
+(10612,5875,'m425 quest zone 1612',601,2071.33,737.959,-3,0,8,8,8,-0,0,0,0,''),
+(10613,5875,'m425 quest zone 1613',604,136.281,-773.712,-3.75254,0,8,8,8,-0,0,0,0,''),
+(10614,5875,'m425 quest zone 1614',623,198.288,754.536,61.6674,0,8,8,8,-0,0,0,0,''),
+(10615,5875,'m425 quest zone 1615',639,-208.411,233.703,78.08,0,8,8,8,-0,0,0,0,''),
+(10616,5875,'m425 quest zone 1616',601,-351.406,481.902,41.05,0,2,2,2,-0,0,0,0,''),
+(10617,5875,'m425 quest zone 1617',601,569.601,2671.6,39.4201,0,2,2,2,-0,0,0,0,''),
+(10618,5875,'m425 quest zone 1618',614,2343.32,548.297,11.6,0,2,2,2,-0,0,0,0,''),
+(10619,5875,'m425 quest zone 1619',601,1911.11,872.487,-7.52059,0,2,2,2,-0,0,0,0,''),
+(10620,5875,'m425 quest zone 1620',615,-210.983,209.727,40.0521,0,2,2,2,-0,0,0,0,''),
+(10621,5875,'m425 quest zone 1621',615,-143.007,132.723,43.2507,0,8,8,8,-0,0,0,0,''),
+(10622,5875,'m425 quest zone 1622',617,-236.488,-137.126,20.2399,0,8,8,8,-0,0,0,0,''),
+(10623,5875,'m425 quest zone 1623',617,-154.209,121.507,-10,0,2,2,2,3.5364354,0,0,0,''),
+(10624,5875,'m425 quest zone 1624',604,1525.78,-2023.56,70.9852,0,2,2,2,-0,0,0,0,''),
+(10625,5875,'m425 quest zone 1625',604,136.406,-1182.85,7.59338,0,2,2,2,-0,0,0,0,''),
+(10627,5875,'m425 quest zone 1627',618,1072.4,-1529.77,12.3125,0,2,2,2,-0,0,0,0,''),
+(10628,5875,'m425 quest zone 1628',619,1130.14,-1392.78,5.04589,0,2,2,2,-0,0,0,0,''),
+(10629,5875,'m425 quest zone 1629',604,-1529.49,253.826,49.9339,0,2,2,2,-0,0,0,0,''),
+(10630,5875,'m425 quest zone 1630',622,-1581.26,153.452,50.0602,0,2,2,2,-0,0,0,0,''),
+(10631,5875,'m425 quest zone 1631',622,-200.347,-218.412,163.33,0,8,8,8,-0,0,0,0,''),
+(10632,5875,'m425 quest zone 1632',651,549.365,-931.766,3.87887,0,8,8,8,-0,0,0,0,''),
+(10633,5875,'m425 quest zone 1633',651,660.41,-974.03,-11.3026,0,100,30,16,5.9742694,0,0,0,''),
+(10634,5875,'m425 quest zone 1634',651,503.641,-999.441,3.04534,0,8,8,8,-0,0,0,0,''),
+(10635,5875,'m425 quest zone 1635',651,693.389,-1413.86,3.36889,0,200,160,8,-0,0,0,0,''),
+(10636,5875,'m425 quest zone 1636',651,609.143,-1106.48,21.1195,0,8,8,8,-0,0,0,0,''),
+(10637,5875,'m425 quest zone 1637',651,602.234,-1157.19,20.9745,0,35,30,8,-0,0,0,0,''),
+(10638,5875,'m425 quest zone 1638',651,530.29,-1171.5,19.8,0,8,8,8,-0,0,0,0,''),
+(10639,5875,'m425 quest zone 1639',651,557.275,-993.178,4.50311,0,4,4,8,-0,0,0,0,''),
+(10640,5875,'m425 quest zone 1640',651,737.319,-1291.23,5.74395,0,12,12,8,-0,0,0,0,''),
+(10641,5875,'m425 quest zone 1641',651,736.369,-1268.97,5.71081,0,20,20,8,-0,0,0,0,''),
+(10642,5875,'m425 quest zone 1642',651,571.743,-993.277,4.50079,0,4,4,8,-0,0,0,0,''),
+(10643,5875,'m425 quest zone 1643',651,400.127,-777.34,27.0802,0,8,8,8,-0,0,0,0,''),
+(10644,5875,'m425 quest zone 1644',651,366.274,-885.018,25.0382,0,8,8,8,-0,0,0,0,''),
+(10645,5875,'m425 quest zone 1645',651,391.231,-842.684,15.3185,0,8,8,8,-0,0,0,0,''),
+(10646,5875,'m425 quest zone 1646',651,421.238,-864.893,15.9946,0,8,8,8,-0,0,0,0,''),
+(10647,5875,'m425 quest zone 1647',651,582.581,-578.533,40.4754,0,30,30,8,-0,0,0,0,''),
+(10648,5875,'m425 quest zone 1648',651,577.227,-587.565,39.8437,0,120,120,8,5.6723204,0,0,0,''),
+(10649,5875,'m425 quest zone 1649',651,405.777,-811.216,16.2865,0,8,8,8,-0,0,0,0,''),
+(10650,5875,'m425 quest zone 1650',651,232.574,-705.967,32.6315,0,30,60,8,-0,0,0,0,''),
+(10651,5875,'m425 quest zone 1651',651,252.047,-636.797,23,0,60,60,8,-0,0,0,0,''),
+(10652,5875,'m425 quest zone 1652',651,449.106,-820.842,17.4633,0,8,8,8,-0,0,0,0,''),
+(10653,5875,'m425 quest zone 1653',651,297.76,-838.58,20.4349,0,2,2,2,-0,0,0,0,''),
+(10654,5875,'m425 quest zone 1654',651,-385.192,-835.517,53.2468,0,2,2,2,-0,0,0,0,''),
+(10660,5875,'m425 quest zone 1660',651,515.313,-738.933,26.4185,0,40,80,8,5.8468533,0,0,0,''),
+(10661,5875,'m425 quest zone 1661',651,413.653,-527.662,52.6201,0,100,80,8,-0,0,0,0,''),
+(10662,5875,'m425 quest zone 1662',651,348.327,-612.346,55.768,0,100,30,8,-0,0,0,0,''),
+(10663,5875,'m425 quest zone 1663',651,-53.5547,-779.857,48.8444,0,2,2,2,-0,0,0,0,''),
+(10664,5875,'m425 quest zone 1664',651,-57.6421,-791.245,48.5476,0,2,2,2,-0,0,0,0,''),
+(10665,5875,'m425 quest zone 1665',651,-80.1116,-987.321,31,0,2,2,2,-0,0,0,0,''),
+(10666,5875,'m425 quest zone 1666',651,-19.4921,-998.253,30.5584,0,2,2,2,-0,0,0,0,''),
+(10667,5875,'m425 quest zone 1667',651,-173.824,-863.848,40.0759,0,2,2,2,-0,0,0,0,''),
+(10668,5875,'m425 quest zone 1668',651,3.1326,-993.549,34.0781,0,2,2,2,-0,0,0,0,''),
+(10669,5875,'m425 quest zone 1669',651,-191.261,-1047.37,45.5314,0,2,2,2,-0,0,0,0,''),
+(10670,5875,'m425 quest zone 1670',651,-73.5379,-614.994,36.951,0,2,2,2,-0,0,0,0,''),
+(10671,5875,'m425 quest zone 1671',651,-75.8113,-578.994,37.6382,0,138,138,2,-0,0,0,0,''),
+(10672,5875,'m425 quest zone 1672',651,-170.846,-1749.96,3.82149,0,8,8,8,-0,0,0,0,''),
+(10673,5875,'m425 quest zone 1673',651,-2411.89,-6069.78,-74.9268,0,24,128,8,-0,0,0,0,''),
+(10674,5875,'m425 quest zone 1674',651,-62.97,-1740.24,8.70004,0,48,128,8,-0,0,0,0,''),
+(10675,5875,'m425 quest zone 1675',651,-173.538,-1670.04,10,0,8,8,8,-0,0,0,0,''),
+(10676,5875,'m425 quest zone 1676',651,-373.241,-1479.75,17.3963,0,72,96,8,4.3051453,0,0,0,''),
+(10677,5875,'m425 quest zone 1677',651,-129.13,-1708.78,10.332,0,8,8,8,-0,0,0,0,''),
+(10678,5875,'m425 quest zone 1678',651,-505.959,-1491.45,1.60357,0,128,24,8,6.0213866,0,0,0,''),
+(10679,5875,'m425 quest zone 1679',651,-244.536,-1472.02,18,0,64,64,8,-0,0,0,0,''),
+(10680,5875,'m425 quest zone 1680',651,-196.397,-1681.65,10.7766,0,8,8,8,-0,0,0,0,''),
+(10681,5875,'m425 quest zone 1681',651,-189.619,-1685.05,10.3613,0,8,8,8,-0,0,0,0,''),
+(10682,5875,'m425 quest zone 1682',651,-300.197,-1360.47,33.6247,0,128,128,8,5.9632087,0,0,0,''),
+(10683,5875,'m425 quest zone 1683',651,-274.491,-1383.3,32.5,0,8,8,8,-0,0,0,0,''),
+(10684,5875,'m425 quest zone 1684',651,-281.874,-1321.67,37.4451,0,8,8,8,-0,0,0,0,''),
+(10685,5875,'m425 quest zone 1685',651,-606.708,-1137.19,36.51,0,8,8,8,-0,0,0,0,''),
+(10686,5875,'m425 quest zone 1686',651,-569.684,-1140.91,36.56,0,8,8,8,-0,0,0,0,''),
+(10687,5875,'m425 quest zone 1687',651,-499.406,-1401.55,2.5051,0,16,16,8,-0,0,0,0,''),
+(10688,5875,'m425 quest zone 1688',651,-555.963,-1151.42,36.56,0,8,8,8,-0,0,0,0,''),
+(10689,5875,'m425 quest zone 1689',651,-379.441,-1041.72,42.4789,0,150,32,8,5.2650757,0,0,0,''),
+(10690,5875,'m425 quest zone 1690',651,-86.744,-1508.02,45.0266,3,3,3,3,-0,0,0,0,''),
+(10691,5875,'m425 quest zone 1691',651,-77.3208,-1506.45,45,3,3,3,3,-0,0,0,0,''),
+(10692,5875,'m425 quest zone 1692',651,-80.2725,-1506.69,45,3,3,3,3,-0,0,0,0,''),
+(10693,5875,'m425 quest zone 1693',651,-71.8745,-1500.71,45,3,3,3,3,-0,0,0,0,''),
+(10694,5875,'m425 quest zone 1694',651,-76.2894,-1500.31,45,3,3,3,3,-0,0,0,0,''),
+(10695,5875,'m425 quest zone 1695',651,-90.2455,-1507.42,45,3,3,3,3,-0,0,0,0,''),
+(10696,5875,'m425 quest zone 1696',651,-110.099,-1501.06,44.9059,5,5,5,5,-0,0,0,0,''),
+(10697,5875,'m425 quest zone 1697',653,534.551,-593.815,10.2909,0,80,35,8,-0,0,0,0,''),
+(10698,5875,'m425 quest zone 1698',651,-20.1763,-979.981,27.1784,0,2,2,2,-0,0,0,0,''),
+(10699,5875,'m425 quest zone 1699',651,-181.705,-1053.58,45.9501,0,2,2,2,-0,0,0,0,''),
+(10700,5875,'m425 quest zone 1700',651,-341.652,-1560.09,1.82855,0,100,20,8,5.5268764,0,0,0,''),
+(10701,5875,'m425 quest zone 1701',651,-62.8995,-1000.27,31,0,2,2,2,-0,0,0,0,''),
+(10702,5875,'m425 quest zone 1702',651,-113.378,-1354.62,72.8212,0,2,2,2,-0,0,0,0,''),
+(10703,5875,'m425 quest zone 1703',651,-15.5644,-991.853,30.9153,0,2,2,2,-0,0,0,0,''),
+(10704,5875,'m425 quest zone 1704',651,-81.5768,-864.907,44.3962,0,8,8,8,-0,0,0,0,''),
+(10705,5875,'m425 quest zone 1705',651,-531.616,-1330.82,6.68472,0,70,100,8,3.6070154,0,0,0,''),
+(10706,5875,'m425 quest zone 1706',651,-283.435,-1387.26,33,0,8,8,8,-0,0,0,0,''),
+(10707,5875,'m425 quest zone 1707',651,-72.0789,-895.058,40.2981,0,2,2,2,-0,0,0,0,''),
+(10708,5875,'m425 quest zone 1708',651,-37.3791,-1011.07,32.1839,0,2,2,2,-0,0,0,0,''),
+(10709,5875,'m425 quest zone 1709',651,-104.682,-613.638,39.7225,0,2,2,2,-0,0,0,0,''),
+(10710,5875,'m425 quest zone 1710',637,26.7352,270.279,19.5262,0,218,218,2,-0,0,0,0,''),
+(10711,5875,'m425 quest zone 1711',637,27.8778,414.066,10.3394,0,8,8,2,-0,0,0,0,''),
+(10712,5875,'m425 quest zone 1712',606,-581.635,-1085.94,53.51,0,128,128,8,-0,0,0,0,''),
+(10713,5875,'m425 quest zone 1713',606,-558.32,-1176.22,36.17,0,2,2,2,-0,0,0,0,''),
+(10714,5875,'m425 quest zone 1714',606,-544.658,-1168.34,36.17,0,2,2,2,-0,0,0,0,''),
+(10715,5875,'m425 quest zone 1715',651,641.682,-1003.09,0.24,0,90,20,8,5.9050317,0,0,0,''),
+(10716,5875,'m425 quest zone 1716',651,505.786,-958.251,0.392587,0,8,8,8,-0,0,0,0,''),
+(10717,5875,'m425 quest zone 1717',651,-495.604,-1322.98,6.76614,0,120,30,8,5.2650757,0,0,0,''),
+(10718,5875,'m425 quest zone 1718',651,-547.234,-1241.29,16.79,0,8,8,8,-0,0,0,0,''),
+(10719,5875,'m425 quest zone 1719',651,-553.145,-1231.17,17.6249,0,40,40,8,-0,0,0,0,''),
+(10720,5875,'m425 quest zone 1720',651,-140.434,-1689.21,10.0417,0,8,8,8,-0,0,0,0,''),
+(10721,5875,'m425 quest zone 1721',613,-308.16,103.989,-11.508,0,8,8,8,-0,0,0,0,''),
+(10722,5875,'m425 quest zone 1722',638,331.837,1184.42,-12.9586,0,8,8,8,-0,0,0,0,''),
+(10723,5875,'m425 quest zone 1723',606,-5.15319,889.212,-10.7421,0,2,2,2,-0,0,0,0,''),
+(10724,5875,'m425 quest zone 1724',651,-348.051,-500.634,-20,0,8,8,8,-0,0,0,0,''),
+(10726,5875,'m425 quest zone 1726',651,9.14198,-1506.31,34.84,0,68,68,8,-0,0,0,0,''),
+(10728,5875,'m425 quest zone 1728',651,-114.129,-1396.21,64.7581,0,2,2,2,-0,0,0,0,''),
+(10729,5875,'m425 quest zone 1729',651,-82.9382,-1442.73,61.5096,0,2,2,2,-0,0,0,0,''),
+(10730,5875,'m425 quest zone 1730',651,163.528,-1540.83,40,0,2,2,2,-0,0,0,0,''),
+(10731,5875,'m425 quest zone 1731',651,73.6565,-1431.07,38.1296,0,68,68,8,-0,0,0,0,''),
+(10732,5875,'m425 quest zone 1732',651,132.538,-1451.54,34.713,0,38,38,8,-0,0,0,0,''),
+(10733,5875,'m425 quest zone 1733',651,22.256,-1381.35,34.7265,0,58,58,8,-0,0,0,0,''),
+(10734,5875,'m425 quest zone 1734',651,48.6262,-1142.36,33,0,2,2,2,-0,0,0,0,''),
+(10735,5875,'m425 quest zone 1735',651,67.7197,-1238.11,37.7322,0,68,68,8,-0,0,0,0,''),
+(10736,5875,'m425 quest zone 1736',651,65.8726,-1178.51,39.9853,0,38,38,8,-0,0,0,0,''),
+(10737,5875,'m425 quest zone 1737',651,103.611,-1144.44,51,0,2,2,2,-0,0,0,0,''),
+(10738,5875,'m425 quest zone 1738',651,115.351,-1235.04,49.3504,0,2,2,2,-0,0,0,0,''),
+(10739,5875,'m425 quest zone 1739',651,140.392,-1156.43,59,0,2,2,2,-0,0,0,0,''),
+(10740,5875,'m425 quest zone 1740',651,180.469,-1332.37,40,0,2,2,2,-0,0,0,0,''),
+(10741,5875,'m425 quest zone 1741',651,177.878,-1213.67,70,0,2,2,2,-0,0,0,0,''),
+(10742,5875,'m425 quest zone 1742',651,188.778,-1280.66,70,0,2,2,2,-0,0,0,0,''),
+(10743,5875,'m425 quest zone 1743',651,-306.095,-890.138,48.4933,0,100,250,20,6.0213866,0,0,0,''),
+(10744,5875,'m425 quest zone 1744',604,2172.34,-2004.71,12.0419,0,2,2,2,-0,0,0,0,''),
+(10745,5875,'m425 quest zone 1745',604,2178.1,-2001.81,12.0504,0,2,2,2,-0,0,0,0,''),
+(10746,5875,'m425 quest zone 1746',604,2220.77,-2031.81,11.7476,0,2,2,2,-0,0,0,0,''),
+(10747,5875,'m425 quest zone 1747',604,2264.65,-2087.19,5.89,0,2,2,2,-0,0,0,0,''),
+(10748,5875,'m425 quest zone 1748',604,2211.37,-2005.76,12,0,2,2,2,-0,0,0,0,''),
+(10749,5875,'m425 quest zone 1749',604,2189.76,-2014.93,12.02,0,2,2,2,-0,0,0,0,''),
+(10750,5875,'m425 quest zone 1750',604,2215.02,-2032.54,12.02,0,98,68,8,-0,0,0,0,''),
+(10751,5875,'m425 quest zone 1751',651,-244.502,-780.465,50,0,8,8,8,-0,0,0,0,''),
+(10752,5875,'m425 quest zone 1752',651,-318.204,-1005.61,50,0,8,8,8,-0,0,0,0,''),
+(10753,5875,'m425 quest zone 1753',651,238.6,-1663.01,45,0,2,2,2,-0,0,0,0,''),
+(10754,5875,'m425 quest zone 1754',651,264.763,-1660.85,45,0,2,2,2,-0,0,0,0,''),
+(10755,5875,'m425 quest zone 1755',651,247.039,-1646.71,45,0,2,2,2,-0,0,0,0,''),
+(10756,5875,'m425 quest zone 1756',651,240.93,-1649.57,45,0,2,2,2,-0,0,0,0,''),
+(10757,5875,'m425 quest zone 1757',651,323.718,-1705.56,55,0,28,28,8,-0,0,0,0,''),
+(10758,5875,'m425 quest zone 1758',651,435.088,-1608.58,48.0752,0,2,2,2,-0,0,0,0,''),
+(10759,5875,'m425 quest zone 1759',651,379.154,-1692.04,55.8946,0,2,2,2,-0,0,0,0,''),
+(10760,5875,'m425 quest zone 1760',651,373.524,-1692.49,56.1012,0,8,8,2,-0,0,0,0,''),
+(10761,5875,'m425 quest zone 1761',651,369.299,-1700.14,56.0894,0,2,2,2,-0,0,0,0,''),
+(10762,5875,'m425 quest zone 1762',651,472.826,-1766.74,66.2149,0,18,18,8,-0,0,0,0,''),
+(10763,5875,'m425 quest zone 1763',651,412.164,-1677,54.9583,0,2,2,2,-0,0,0,0,''),
+(10764,5875,'m425 quest zone 1764',651,398.375,-1717.12,59.997,0,2,2,2,-0,0,0,0,''),
+(10765,5875,'m425 quest zone 1765',651,441.478,-1759.28,60.08,0,128,128,8,-0,0,0,0,''),
+(10766,5875,'m425 quest zone 1766',651,386.498,-1668.95,55.5965,0,2,2,2,-0,0,0,0,''),
+(10767,5875,'m425 quest zone 1767',651,373.742,-1670.47,55.3075,0,2,2,2,-0,0,0,0,''),
+(10768,5875,'m425 quest zone 1768',651,480.465,-1822.05,65.5966,0,38,38,2,-0,0,0,0,''),
+(10769,5875,'m425 quest zone 1769',651,174.458,-1211.13,70,0,18,28,8,-0,0,0,0,''),
+(10770,5875,'m425 quest zone 1770',651,422.575,-1743.56,61.1765,0,28,28,2,-0,0,0,0,''),
+(10771,5875,'m425 quest zone 1771',613,-206.755,179.568,7.60054,0,8,8,8,-0,0,0,0,''),
+(10772,5875,'m425 quest zone 1772',614,2480.8,546.667,11.2819,0,10,10,10,-0,0,0,0,''),
+(10773,5875,'m425 quest zone 1773',613,11.1106,52.4766,-5,0,2,2,2,-0,0,0,0,''),
+(10774,5875,'m425 quest zone 1774',606,-511.518,-48.8223,55,0,2,2,2,-0,0,0,0,''),
+(10775,5875,'m425 quest zone 1775',601,-63.7816,-2.11395,6.99104,0,2,2,2,-0,0,0,0,''),
+(10776,5875,'m425 quest zone 1776',607,-99.9948,2652.78,32.3524,0,2,2,2,-0,0,0,0,''),
+(10777,5875,'m425 quest zone 1777',604,835.43,-2433.22,65.9083,0,2,2,2,-0,0,0,0,''),
+(10778,5875,'m425 quest zone 1778',604,808.209,-2467.3,62.2886,0,2,2,2,-0,0,0,0,''),
+(10779,5875,'m425 quest zone 1779',657,-160.572,-2399.96,12.3169,0,8,8,8,-0,0,0,0,''),
+(10780,5875,'m425 quest zone 1780',604,907.769,-2407.46,74.23,0,8,8,8,-0,0,0,0,''),
+(10781,5875,'m425 quest zone 1781',604,785.337,-2438.51,70.7598,0,2,2,2,-0,0,0,0,''),
+(10782,5875,'m425 quest zone 1782',604,778.574,-2461.06,62.1909,0,2,2,2,-0,0,0,0,''),
+(10783,5875,'m425 quest zone 1783',604,829.415,-2412.27,70.1043,0,2,2,2,-0,0,0,0,''),
+(10784,5875,'m425 quest zone 1784',651,425.664,-1670.89,55.0758,0,2,2,2,-0,0,0,0,''),
+(10785,5875,'m425 quest zone 1785',656,478.625,-1634.86,53.67,0,2,2,2,-0,0,0,0,''),
+(10786,5875,'m425 quest zone 1786',604,853.286,-2446.46,66.1778,0,19,19,2,-0,0,0,0,''),
+(10787,5875,'m425 quest zone 1787',604,772.879,-2483.44,56.5659,0,19,19,2,-0,0,0,0,''),
+(10788,5875,'m425 quest zone 1788',604,772.377,-2436.12,68.6116,0,18,18,8,-0,0,0,0,''),
+(10789,5875,'m425 quest zone 1789',613,-60.4814,152.131,5,0,2,2,2,-0,0,0,0,''),
+(10790,5875,'m425 quest zone 1790',651,312.274,-1802.03,50.6483,0,8,8,8,-0,0,0,0,''),
+(10791,5875,'m425 quest zone 1791',601,-369.891,491.762,41.8081,0,3,3,3,-0,0,0,0,''),
+(10792,5875,'m425 quest zone 1792',601,-362.626,485.818,41.254,0,1,1,1,-0,0,0,0,''),
+(10793,5875,'m425 quest zone 1793',601,-352.272,615.798,10.6433,0,1,1,1,-0,0,0,0,''),
+(10794,5875,'m425 quest zone 1794',601,-320.609,602.046,11.0601,0,1,1,1,-0,0,0,0,''),
+(10795,5875,'m425 quest zone 1795',601,-334.478,616.364,10.9255,0,1,1,1,-0,0,0,0,''),
+(10796,5875,'m425 quest zone 1796',601,-349.373,468.786,44.2154,0,1,1,1,-0,0,0,0,''),
+(10797,5875,'m425 quest zone 1797',601,17.4933,1596.66,66.4876,0,1,1,1,-0,0,0,0,''),
+(10798,5875,'m425 quest zone 1798',601,29.2923,1592.54,67.4167,0,16,16,16,-0,0,0,0,''),
+(10799,5875,'m425 quest zone 1799',601,21.4733,1623.77,57.1707,0,1,1,1,-0,0,0,0,''),
+(10800,5875,'m425 quest zone 1800',601,-60.2967,557.205,0.946449,0,1,1,1,-0,0,0,0,''),
+(10801,5875,'m425 quest zone 1801',606,-919.839,-231.955,70.6555,0,8,8,8,-0,0,0,0,''),
+(10802,5875,'m425 quest zone 1802',601,-68.2009,271.082,4.59542,0,20,20,20,-0,0,0,0,''),
+(10803,5875,'m425 quest zone 1803',651,-517.767,-1072.4,14.0783,0,50,20,20,-0,0,0,0,''),
+(10804,5875,'m425 quest zone 1804',651,-77.871,-1487.73,45.1976,0,1,1,1,-0,0,0,0,''),
+(10805,5875,'m425 quest zone 1805',613,4.83723,-6.02225,-5,0,1,1,1,-0,0,0,0,''),
+(10806,5875,'m425 quest zone 1806',613,5.50765,0.519108,-5,0,1,1,1,-0,0,0,0,''),
+(10807,5875,'m425 quest zone 1807',643,439.851,-1067.55,5.2501,0,8,2,1,-0,0,0,0,''),
+(10808,5875,'m425 quest zone 1808',643,440.473,-1067.74,5.2501,0,4,6,6,-0,0,0,0,''),
+(10809,5875,'m425 quest zone 1809',645,766.957,492.634,7.9064,0,2,2,2,6.248279,0,0,0,''),
+(10810,5875,'m425 quest zone 1810',645,628.537,625.65,27.32,0,2,2,2,-0,0,0,0,''),
+(10811,5875,'m425 quest zone 1811',645,653.979,570.751,26.0344,0,2,2,2,-0,0,0,0,''),
+(10812,5875,'m425 quest zone 1812',645,656.895,594.758,27.2847,0,2,2,2,-0,0,0,0,''),
+(10814,5875,'m425 quest zone 1814',645,704.745,408.687,15.5862,0,50,50,2,-0,0,0,0,''),
+(10815,5875,'m425 quest zone 1815',645,761.679,437.024,8.20889,0,18,18,2,-0,0,0,0,''),
+(10816,5875,'m425 quest zone 1816',645,636.592,429.006,8.9859,0,18,18,2,-0,0,0,0,''),
+(10817,5875,'m425 quest zone 1817',645,777.185,506.386,8.16421,0,8,8,2,-0,0,0,0,''),
+(10818,5875,'m425 quest zone 1818',645,788.315,442.827,7.82056,0,8,8,2,-0,0,0,0,''),
+(10819,5875,'m425 quest zone 1819',645,620.568,495.813,12.5274,0,8,8,2,-0,0,0,0,''),
+(10820,5875,'m425 quest zone 1820',645,810.728,478.027,5.46984,0,8,8,2,-0,0,0,0,''),
+(10821,5875,'m425 quest zone 1821',645,746.683,498.726,4.27059,0,8,8,2,-0,0,0,0,''),
+(10822,5875,'m425 quest zone 1822',601,268.29,2701.43,-0.305312,0,8,8,8,-0,0,0,0,''),
+(10823,5875,'m425 quest zone 1823',601,346.112,2728.8,-0.153426,0,2,2,2,-0,0,0,0,''),
+(10824,5875,'m425 quest zone 1824',613,-149.393,267.602,25,0,8,5,1,-0,0,0,0,''),
+(10825,5875,'m425 quest zone 1825',613,-32.8461,170.523,-5,0,1,1,1,6.2657323,0,0,0,''),
+(10826,5875,'m425 quest zone 1826',601,295.593,2693.44,-0.0565869,0,68,68,2,-0,0,0,0,'');
 INSERT INTO `game_tele` (`position_x`,`position_y`,`position_z`,`orientation`,`map`,`name`) VALUES
-(-24.2052,298.675,8.00608,3.1415927,601,'m425_map1'),
-(-604.008,-1106.36,0,3.1415927,609,'m425_map9'),
-(-358.397,-1466.57,0,3.1415927,604,'m425_map4'),
-(-97.2158,2739.28,20.0052,3.1415927,607,'m425_map7'),
-(-53.8663,111.415,-4.95372,3.1415927,613,'m425_map13'),
-(-215.512,948.738,21.4803,3.1415927,606,'m425_map6'),
-(-396.306,-2180.42,197.287,3.1415927,620,'m425_map20'),
-(-472.802,1478.96,-58.1845,3.1415927,623,'m425_map23'),
-(495.469,359.09,33.13,3.1415927,636,'m425_map36'),
-(-102.634,1136.04,21.24,3.1415927,630,'m425_map30'),
-(284.172,282.912,10.0842,3.1415927,638,'m425_map38'),
-(694.938,612.35,27.93,3.1415927,645,'m425_map45'),
-(-340.189,-1207.95,7.03809,3.1415927,646,'m425_map46'),
-(-172.356,-1662.36,10.0021,3.1415927,651,'m425_map51'),
-(-147.4,507,5.8,1.5715927,601,'m425_hf_silent_town'),
-(16,45,7,3.1415927,601,'m425_hf_adventurebar'),
-(-514,-1127,0,3.1415927,609,'m425_sand_box'),
-(-15.6,2228,1,3.1415927,601,'m425_tc_town_shore'),
-(1378,1260,16,3.1415927,601,'m425_ds_shieldguard'),
-(-300,-643,0,3.1415927,604,'m425_teleport_to_desert'),
-(87.4,959,36,1.7215928,601,'m425_hf_stronghold_cliffwatch'),
-(180,1227,5.8,1.0515928,601,'m425_hf_windmill_farm'),
-(-468,1700,26.8,4.834778,601,'m425_tc_salty_wind'),
-(405,2261,67,6.0247784,601,'m425_tc_reevis_manor'),
-(2418,851,6.8,5.294778,601,'m425_ds_thensair'),
-(1968,1070,-3,1.6715927,601,'m425_ds_moonswamp'),
-(2174,1492,-2.5,0.3415928,601,'m425_ds_port_verecy'),
-(1966,367,-2.7,2.7915928,601,'m425_ds_dragon_library'),
-(1798,1366,-2.5,4.6547785,601,'m425_ds_phalanx_academy'),
-(1229,-2744,39.5,5.6047783,604,'m425_ms_vega_square'),
-(1746,-2781,8,3.1415927,604,'m425_ms_evensummer_port'),
-(484,-2395,37,2.7015927,604,'m425_ms_seashore_keep'),
-(1328,-1797,25.5,4.4047785,604,'m425_ms_hall_of_reverie'),
-(2222,-2633,40,4.254778,604,'m425_ms_hemir_s_camp'),
-(-501,-702,3,0.011592627,604,'m425_gd_sandy_city'),
-(232,-2068,21,0.8415928,604,'m425_gd_end_of_sand'),
-(173,-332.5,5,2.7615929,604,'m425_gd_tower_citadel__antoria'),
-(-387,-1257,3.7,2.8515928,604,'m425_gd_wind_s_end'),
-(-126,2733,29,3.1415927,607,'m425_orcnewbie'),
-(-1016,-554,21,3.1415927,604,'m425_br_stranger_s_roost'),
-(-1522.5,183,58.5,3.1415927,604,'m425_br_suspension_city'),
-(-1938,-237,56.5,3.1415927,604,'m425_br_outpost_farstrider'),
-(-1992,486,52.5,3.1415927,604,'m425_br_outpost_bulrinto'),
-(405,2621,38,3.1415927,601,'m425_tc_crystal_camp'),
-(935,1713,40.5,3.1415927,601,'m425_tc_crystal_cave'),
-(1023,-2026,4.2,3.1415927,604,'m425_ms_fallen_star'),
-(1286,1313,16,3.1415927,601,'m425_tc_ds'),
-(518,1546,4,3.1415927,601,'m425_tc_lavawall'),
-(-345,285,1.5,3.1415927,613,'m425_in_main_city'),
-(293,915,60,0.0015926361,601,'m425_out_main_city'),
-(-54,-828,20,3.1415927,604,'m425_gd_1'),
-(250,-595,0,3.1415927,604,'m425_gd_2'),
-(-131,344,-5,3.1415927,613,'m425_irar_flamethroat'),
-(-186,-40,10,3.1415927,613,'m425_ferrin_mulberrywhisper'),
-(-121,182,30,3.1415927,613,'m425_main_city'),
-(-83,104,6,3.1415927,613,'m425_greenmont'),
-(-215,220,40,2.4215927,615,'m425_dungeon_swamp_eye'),
-(1903,871,-7.86,0.6815927,601,'m425_map_swamp_eye'),
-(582,2678,40,1.1215928,601,'m425_map_knahswahs'),
-(2328,547,11,4.6647778,614,'m425_dungeon_knahswahs'),
-(-283,-177,106,0.4315927,617,'m425_the_one_shrone'),
-(-160,127,-12,6.2347784,617,'m425_eristars_map_to_dungeon'),
-(1522,-2022,72,5.294778,604,'m425_eristars_dungeon_to_map'),
-(-235,-142,21,3.9647782,617,'m425_eristars_throne_to_map'),
-(833,-2546,55,5.2047787,604,'m425_to_winter_solstice_land'),
-(-80,138,5,3.1415927,613,'m425_winter_solstice_to_city'),
-(1076,-1527,11,5.1547785,618,'m425_sailen_lower_map_to_dungeon'),
-(154,-1187,15,0.0015926361,604,'m425_sailen_lower_dungeon_to_map'),
-(-232,180,5,3.1415927,613,'m425_gm_warrior'),
-(-53,279,4,3.1415927,613,'m425_gm_mage'),
-(-62,281,4,3.1415927,613,'m425_gm_monk'),
-(-146,127,-20,3.1415927,613,'m425_gm_ranger'),
-(1125,-1395,5,0.0015926361,619,'m425_sailen_the_palace_map_to_dungeon'),
-(134,-1202,7.6,4.714778,604,'m425_sailen_the_palace_dungeon_to_map'),
-(969.2,-1299.8,10.5,4.714778,619,'m425_sailen_the_palace_well_out'),
-(848,-1407,22,3.1415927,619,'m425_sailen_the_palace_well_back'),
-(-460,-1427,295,0.23159266,620,'m425_caligula_skygarden_leave_king'),
-(-188,-1116,-10,3.1415927,620,'m425_caligula_skygarden_to_king'),
-(-530,-2416,146,3.1415927,620,'m425_caligula_skygarden_to_sandcliff'),
-(-548,-1427,292,1.7415928,620,'m425_caligula_skygarden_to_peak_palace'),
-(-1758,390,11,0.74159265,604,'m425_caligula_skygarden_to_sinskaald'),
-(528,-1389,40,1.6371508,604,'m425_mendels_to_desert'),
-(-340,-194,78,4.094778,622,'m425_eidolons_scene_1_to__2_left'),
-(-1425,164,73.6,1.0915928,622,'m425_eidolons_scene_2_to__1_left'),
-(-341.8,-251,78,1.9915928,622,'m425_eidolons_scene_1_to__2_right'),
-(-211,-225,163.32,3.7447784,622,'m425_eidolons_scene_2_to_boss_3'),
-(-1590,156,51,3.1415927,622,'m425_eidonlons_map_to_dungeon'),
-(-1525,247,50,3.564778,604,'m425_eidonlons_dungeon_to_map'),
-(-45.68,903.85,-7,2.5745928,606,'m425_mendel_novice_village'),
-(193,-1302,13,5.325778,604,'m425_maincity_to_shadow_gate'),
-(-237,70,30,2.5115929,606,'m425_shadow_gate_to_ep1'),
-(-240.22,-343.18,86.2,3.406778,606,'m425_ur_cold_ring'),
-(-236,-1042,63,3.7791495,606,'m425_ur_arid_moor'),
-(-586,-20,55,3.1415927,606,'m425_ur_mendel_village'),
-(-796.91,-355.64,59,4.191478,606,'m425_ur_mechanical_dungeon'),
-(67,43,35,2.3565927,606,'m425_ur_darkelf_clan'),
-(324,-446,50,2.0425928,606,'m425_ur_darkelf_prison'),
-(213,-1302,12,0.38159275,604,'m425_desert_shadow_gate'),
-(682,958,79,3.1415927,623,'m425_quest_1026_find_kawa'),
-(874,1049,66,0.14159274,623,'m425_quest_1026_kawa_back'),
-(-549,1370,-57,4.764778,623,'m425_fl_hero_s_landing'),
-(55,1519,-6,4.174778,623,'m425_fl_blackjail'),
-(627,1873,65,5.7747784,623,'m425_fl_pilgrim_s_steps'),
-(1121,1565,25,1.5715927,623,'m425_fl_alanruti_s_refuge'),
-(608,933,74,2.3515928,623,'m425_fl_heart_of_moor'),
-(984,55,141,4.714778,623,'m425_fl_generator_s_temple'),
-(826,-410,37,0.5915928,623,'m425_fl_village_of_grove'),
-(-656,-645,-54,0.15159273,623,'m425_fl_duthilm_island'),
-(-215,-449,-52,3.1415927,623,'m425_fl_stone_coast'),
-(-491,1803,7,1.5715927,623,'m425_under_realm_to_frostlund'),
-(-492,-1366,76,3.794778,606,'m425_frostlund_to_under_realm'),
-(1189,322,122,0.0015926361,623,'m425_moor_to_temple'),
-(855,824,117,0.0015926361,623,'m425_temple_to_moor'),
-(-147,1795,-14,4.714778,623,'m425_fl_icehill'),
-(365,289,32,3.1415927,623,'m425_fl_red_city'),
-(-317,805,21,3.1415927,623,'m425_fl_pillar_of_water'),
-(-521,1773,8,1.5715927,623,'m425_fl_cave_to_under_realm'),
-(237,-450,11,3.9647782,623,'m425_fl_grey_wood'),
-(438,1591,1,2.3565927,623,'m425_fl_haracil'),
-(-224,1508,-31,2.4415927,623,'m425_fl_bruto_s_camp'),
-(231,-955.5,45,5.184778,606,'m425_ur_exile_village'),
-(-64.75,-1406,41,0.47159266,606,'m425_ur_stonebranch_village'),
-(-382,-1306,68,4.624778,606,'m425_ur_darksteel_corridor'),
-(51,1526,-8,5.424778,623,'m425_icewall_to_altar'),
-(813.2,860,66.5,0.0015926361,625,'m425_ziggurat_map_to_dungeon'),
-(-948,-265,67,3.1415927,606,'m425_ziggurat_dungeon_to_map'),
-(-952,-384,72,4.724778,606,'m425_abyss_dungeon_to_map'),
-(547,681,34,4.714778,626,'m425_abyss_map_to_dungeon'),
-(642,388,60,1.6015928,626,'m425_abyss_dungeon_to_boss'),
-(-328,-23,-10,3.1415927,627,'m425_ring_of_merciless'),
-(-37,642,0,3.1415927,629,'m425_the_insane_in_arcadian'),
-(-106,584,5,0.47159266,601,'m425_madness_arcadian_dungeon_to_map'),
-(2,720,9,3.1415927,630,'m425_amusement_park'),
-(-31,745,75,4.754778,631,'m425_trail'),
-(330,817,61,3.1415927,623,'m425_trail_exit'),
-(-144,192,30,3.1415927,613,'m425_ruin_of_vliya_to_map'),
-(140,-181,170,5.714778,632,'m425_map_to_ruin_of_vliya'),
-(-126,245,-9,6.254778,633,'m425_map_to_fate_of_collapse'),
-(-85,214,-5,2.0415926,613,'m425_fate_of_collapse_to_map'),
-(-147,246,-10,6.254778,633,'m425_quest_to_fate_of_collapse'),
-(-69,208,-5,3.1415927,613,'m425_fate_of_collapse_to_quest'),
-(269.49,894.321,60,1.2615927,601,'m425_to_forest_amusement_park_enter'),
-(-810,-290,38,3.1415927,634,'m425_to_dungeon_khalins_rebirth'),
-(-287.506,1562.72,4.07,3.1415927,601,'m425_dungeon_khalins_rebirth_to_map'),
-(17.1861,-2005.39,4.53,5.934778,604,'m425_greenmont_to_black_market'),
-(-107.623,143.107,5,0.6715927,613,'m425_black_market_to_greenmont'),
-(262,998,23,0.6715927,630,'m425_teleport_to_bomb_area'),
-(-103,1139,21,5.0247784,630,'m425_teleport_to_bomb_entry'),
-(30,130,0,3.1415927,613,'m425_3th_anniversary_teleport__to_greenmont'),
-(734.51,737,132,1.5615927,625,'m425_teleport_to_t3_boss'),
-(1242,901,-1.58,0.021592855,638,'m425_land1_to_flare_island'),
-(715,2262,17,1.1315928,601,'m425_flare_island_to_land1'),
-(-31.3,46,15,1.5815928,637,'m425_ghostcastle_hall'),
-(-114.6,112.2,15,3.1415927,637,'m425_ghostcastle_l_corridor_head'),
-(-83.4,107.8,15,3.1415927,637,'m425_ghostcastle_l_corridor_middle'),
-(64.7,46.7,15,3.1415927,637,'m425_ghostcastle_bathroom'),
-(34.5,126.6,15,3.1415927,637,'m425_ghostcastle_kitchen'),
-(-49.1,151.3,15,3.1415927,637,'m425_ghostcastle_t_corridor_head'),
-(-36.5,167.1,15,3.1415927,637,'m425_ghostcastle_t_corridor_middle'),
-(-36.3,368.9,15,3.1415927,637,'m425_ghostcastle_bedroom'),
-(96,305.8,15,3.1415927,637,'m425_ghostcastle_study'),
-(-32.8,243.7,15,3.1415927,637,'m425_ghostcastle_boss_room'),
-(40,-20.45,36.57,4.8647785,639,'m425_land1_to_flare_risen_chasing_shadow'),
-(1677,874,-7,2.7615929,601,'m425_flare_risen_chasing_shadow_to_land1'),
-(-549,-1177,36,3.1415927,606,'m425_halloween_teleport_to_underworld_halloween'),
-(-589,-1075,55,3.1415927,606,'m425_normal_dungeon_teleport_to_underworld'),
-(-626,-1069,53,3.1415927,606,'m425_summon_halloween_dungeon'),
-(-31,49,10,3.1415927,637,'m425_map_to_halloween_dungeon'),
-(5,-37,4,3.1415927,601,'m425_hf_human_newbie_village_teleport'),
-(-424,571,8,3.1415927,601,'m425_hf_orinetal_trader_organization_teleporter'),
-(-6,-2042,7,3.1415927,604,'m425_gd_black_market_teleporter'),
-(1681,-1908,3,3.1415927,604,'m425_telepoet_to_rosy_island'),
-(-410,-317,1.5,3.1415927,640,'m425_middle_land_to_into_the_darkness'),
-(951,-2496,11,3.1415927,604,'m425_into_the_darkness_to_middle_land'),
-(779.5,869,29.32,3.1415927,638,'m425_sanctuary'),
-(-455,-1186,9,6.224778,641,'m425_middle_land_to_burn_out_the_night'),
-(-1861,177,-7.37,3.1415927,604,'m425_burn_out_the_night_to_middle_land'),
-(-22.05,1756.89,10.93,3.1415927,601,'m425_teleport_to_cherry_bossom_festival'),
-(975,863,25,3.1415927,638,'m425_boot_camp_to_flare_island_main_city'),
-(-130,571,5,3.1415927,601,'m425_teleport_to_easter'),
-(-306,606,11,3.1415927,601,'m425_teleport_to_dragon_boat'),
-(337,-1245,17,3.1415927,643,'m425_map_to_7'),
-(339.3,-1006.2,17,3.1415927,643,'m425_4th_magic_portals_3'),
-(524.5,-1184.1,17,3.1415927,643,'m425_4th_magic_portals_5'),
-(528.1,-1000.89,17,3.1415927,643,'m425_4th_magic_portals_7'),
-(25,12,-5,3.1415927,613,'m425_summon_7'),
-(1045.42,804.62,66.94,4.7347784,642,'m425_map_to_stardust_realm'),
-(886,928,70,3.1415927,623,'m425_stardust_realm_to_map'),
-(-32,806,15.9,3.1415927,630,'m425_teleport_to_mount_area'),
-(100.19,724.03,16.97,3.1415927,630,'m425_teleport_to_parkour_area'),
-(76.9,725.9,11.86,3.1415927,630,'m425_teleport_to_parkour_entry'),
-(-19.6,794.19,10.48,3.1415927,630,'m425_teleport_to_mount_entry'),
-(522,-929,17,3.1415927,643,'m425_1f_to_2f'),
-(523,-1246,17,3.1415927,643,'m425_2f_to_3f'),
-(335,-930,17,3.1415927,643,'m425_3f_to_4f'),
-(592,-1086,17,3.1415927,643,'m425_4f_to_5f'),
-(272,-1087,17,3.1415927,643,'m425_5f_to_6f'),
-(426,-1086,10,3.1415927,643,'m425_6f_to_7f'),
-(337,-1245,17,3.1415927,643,'m425_all_to_1f'),
-(25,12,-5,3.1415927,613,'m425_7_to_map'),
-(1184.02,988.59,144.52,0.15159273,642,'m425_af08_to_nigel'),
-(1144.23,866.35,132.59,6.214778,642,'m425_af08_to_luyunfei'),
-(-208.198,306.199,-5,3.1415927,613,'m425_the_hooligan_teleport'),
-(293.85,2652.51,2.18,3.1415927,601,'m425_summer_carnival'),
-(-426.44,617.55,6.95,3.624778,601,'m425_teleport_to_mid'),
-(663,600.4,27,0.3415928,645,'m425_teleport_to_ghost'),
-(-320.9,-1278.8,0.56,3.1415927,646,'m425_teleport_to_porkour_entry'),
-(664,-1599,27,3.1415927,645,'m425_teleport_to_ghost_item'),
-(-397,542,15,3.1415927,601,'m425_teleport_to_mag'),
-(-362.84,-1252.29,5,3.1415927,646,'m425_teleport_to_amusement_park'),
-(2286,-2085.9,3.97,6.1547785,604,'m425_teleport_thx'),
-(-626,-1069,53,3.1415927,606,'m425_teleport_halloween'),
-(1881.36,-2447.9,4.6,3.1415927,604,'m425_teleport_wine'),
-(-18,28.59,10,0.041592836,648,'m425_teleport_thx_dungeon'),
-(2181,-2071,15,1.7615927,604,'m425_thx_dungeon_to_map'),
-(1917,-2407,13,3.1415927,604,'m425_greenmont_to_soul_brewing_island'),
-(-46,346,10,3.1415927,637,'m425_teleport_to_halloween_entry_1'),
-(-43,123,10,3.1415927,637,'m425_teleport_to_halloween_entry_2'),
-(25,267,10,3.1415927,637,'m425_teleport_to_halloween_entry_3'),
-(26,195,10,3.1415927,637,'m425_teleport_to_halloween_entry_4'),
-(-377,29,45,3.1415927,640,'m425_surma_entry_to_boss'),
-(-282,-20,-11.5,3.1415927,640,'m425_surma_boss_to_entry'),
-(-299,287,5,3.1415927,649,'m425_map_to_spd'),
-(-436,469,5,3.9247782,649,'m425_teleport_to_bull'),
-(-358,61,6.5,4.3147783,649,'m425_teleport_to_monkey'),
-(-161,496,10,5.754778,649,'m425_teleport_to_skeleton'),
-(-351.36,491.37,41.05,6.254778,601,'m425_spd_to_map'),
-(-245,-812,35,4.5647783,650,'m425_newland_eve_boss1_to_boss2'),
-(-245,-715,20,1.7615927,650,'m425_newland_eve_boss2_to_boss1'),
-(540,1393,-18,3.1415927,638,'m425_newland_eve_to_map'),
-(-142,-729,60,1.5115927,650,'m425_newland_eve_to_dungeon'),
-(-142,510,5,3.1415927,601,'m425_silence_to_silence'),
-(82,956,35,3.1415927,601,'m425_cliffwatch_to_silence'),
-(-11,2232,0,3.1415927,601,'m425_bellshoal_to_bellshoal'),
-(-472,1706,26,3.1415927,601,'m425_salty_wind_to_bellshoal'),
-(400,2263,56,3.1415927,601,'m425_reeves_manor_to_bellshoal'),
-(1374,1264,15,3.1415927,601,'m425_bordhill_to_bellshoal'),
-(2413,847,6,3.1415927,601,'m425_miskatonia_to_glimmermoor'),
-(1973,1074,-4,3.1415927,601,'m425_glimmermoor_to_glimmermoor'),
-(1965,371,-3,3.1415927,601,'m425_wyrgast_s_library_to_glimmermoor'),
-(2176,1497,-3,3.1415927,601,'m425_port_verecy_to_glimmermoor'),
-(1743,-2770,8,3.1415927,604,'m425_port_eversummer_to_vega_square'),
-(2224,-2638,40,3.1415927,604,'m425_camp_of_hemir_to_vega_square'),
-(1235,-2744,39,3.1415927,604,'m425_vega_square_to_vega_square'),
-(1326,-1802,25,3.1415927,604,'m425_hall_of_reverie_to_vega_square'),
-(488,-2391,36,3.1415927,604,'m425_sea_shore_to_vega_square'),
-(231,-2062,204,3.1415927,604,'m425_end_of_sand_to_wind_s_end'),
-(-388,-1250,3,3.1415927,604,'m425_wind_s_end_to_wind_s_end'),
-(-512,-705,2,3.1415927,604,'m425_sdukar_to_wind_s_end'),
-(183,-327,4,3.1415927,604,'m425_crimson_tower__antoria_to_wind_s_end'),
-(-1020,-558,20,3.1415927,604,'m425_stranger_s_roost_to_the_suspended_city'),
-(-1526,178,57,3.1415927,604,'m425_the_suspended_city__to_the_suspended_city'),
-(-1933,-239,56,3.1415927,604,'m425_farstrider_outpost_to_the_suspended_city'),
-(-1994,481,51,3.1415927,604,'m425_bulrinto_outpost_to_the_suspended_city'),
-(-583,-12,55,3.1415927,606,'m425_dimvalley_village_to_coldring'),
-(-236,-349,85,3.1415927,606,'m425_coldring_to_coldring'),
-(67,35,36,3.1415927,606,'m425_colding_castle_to_coldring'),
-(-241,-1041,63,3.1415927,606,'m425_arid_moor_to_coldring'),
-(-556,1378,-58,3.1415927,623,'m425_hero_s_landing_to_hero_s_landing'),
-(446,1592,0,3.1415927,623,'m425_haracil_to_hero_s_landing'),
-(980,60,140,3.1415927,623,'m425_generator_s_temple_to_hero_s_landing'),
-(-662,-650,-56,3.1415927,623,'m425_duthilm_island_to_hero_s_landing'),
-(623,1880,64,3.1415927,623,'m425_pilgrim_s_steps_to_hero_s_landing'),
-(-93,577,10,3.1415927,601,'m425_silence_board'),
-(-45,2166,20,3.1415927,601,'m425_bellshoal_board'),
-(2071,1097,-6,3.1415927,601,'m425_glimmermoor_board'),
-(1235,-2736,39,3.1415927,604,'m425_vega_square_board'),
-(-376,-1272,2,3.1415927,604,'m425_wind_s_end_board'),
-(-1545,151,56,3.1415927,604,'m425_the_suspended_city__board'),
-(-280,-240,75,3.1415927,606,'m425_coldring_board'),
-(-558,1386,-58,3.1415927,623,'m425_hero_s_landing_board'),
-(-238,-470,11,3.1415927,652,'m425_map_to_rainbow'),
-(-43,-799,11,3.1415927,652,'m425_rainbow_to_cake'),
-(-396,-1194,74,1.5315927,652,'m425_rainbow_to_starry'),
-(17,25,-5,3.1415927,613,'m425_teleport_to_ann'),
-(-90,125,9,3.1415927,613,'m425_teleport_to_ran'),
-(-221,65,31,3.1415927,606,'m425_yang2_wei'),
-(528.31,-757.64,12.32,4.7347784,653,'m425_map_to_treasure'),
-(-83,-1508,45,3.1415927,651,'m425_treasure_to_map'),
-(480,-1258,22,5.044778,654,'m425_map_to_sommen__the_altar_of_failure'),
-(-388,-840,54,5.8647785,651,'m425_sommen__the_altar_of_failure_to_map'),
-(-164.8,-1748,3.77,5.6247783,651,'m425_teleport_to_coral_2'),
-(544,-930,4,2.5315928,651,'m425_teleport_to_coral_1'),
-(570,2658,-40,3.1415927,601,'m425_knahswahs_prison_gate'),
-(1916,883,-6,3.1415927,601,'m425_relic_s_key_gate'),
-(1529,-2033,70,3.1415927,604,'m425_young_deity_s_realm_gate'),
-(154,-1187,15,3.1415927,604,'m425_sailen_the_lower_city_gate'),
-(-94.2,-1543.9,66,3.1415927,651,'m425_the_grey_market'),
-(779,869,29,3.1415927,638,'m425_dragonborn_to_city2'),
-(-83,103,6,3.1415927,613,'m425_dragonborn_to_city'),
-(15,-971,40.5,3.1415927,651,'m425_the_last_garrison'),
-(-620,-1155,37,3.1415927,651,'m425_ancestor_s_ruins'),
-(678.5,-1224,23.3,3.1415927,651,'m425_dawnwalk_bridge'),
-(421,-872,16.5,3.1415927,651,'m425_high_daisauros_fort'),
-(-300,104,-12.5,3.1415927,613,'m425_to_city'),
-(358,1173,-14.2,3.1415927,638,'m425_to_city2'),
-(264,-1674,45.5,3.1415927,651,'m425_sacrifice_altar'),
-(274,-1676,44,3.1415927,651,'m425_teleport_tp_the_breach'),
-(1253.62,-1480,0.51,6.2747784,655,'m425_map_to_reptilia_s_trove'),
-(-320,-512,-6,3.1415927,651,'m425_reptilia_s_trove_to_map'),
-(478.3,-1644.75,54.4,0.4215927,656,'m425_map_to_delusion_of_power'),
-(477.44,-1647.56,54.56,3.1415927,651,'m425_delusion_of_power_to_map'),
-(-189.23,-2413,12.32,3.584778,657,'m425_map_to_2016_xmas'),
-(890.41,-2412.69,74.23,3.3447783,604,'m425_2016_xmas_to_map'),
-(825,-2495,54,3.1415927,604,'m425_crismas_land'),
-(355,-1785,65,3.1415927,658,'m425_map_to_final_seal'),
-(302,-1788,51,3.1415927,651,'m425_final_seal_to_map'),
-(-353,-1857,10,3.1415927,659,'m425_manaprism_portaliii'),
-(398,-1879,10,3.1415927,659,'m425_manaprism_portal2'),
-(323,-1875,10,3.1415927,659,'m425_manaprism_portal1'),
-(351.64,-1879.47,1.56,4.7447786,660,'m425_map_to_easter_day_dungeon_2017'),
-(-66.39,553.99,1.83,4.1547785,601,'m425_easter_dungeon_2017_to_map'),
-(352,-1891,10,3.1415927,659,'m425_map_to_manaprism_dungeon'),
-(-916,-229,71,3.1415927,606,'m425_manaprism_dungeon_to_map'),
-(681,-941.81,6.91,4.5647783,643,'m425_7_to_goose'),
-(252.233,-1260.9,14.7,4.5647783,643,'m425_7_to_kangaroo'),
-(665.584,-1263.31,12.81,3.1315928,643,'m425_greenmont_to_boxing'),
-(455.3,-1898,10,3.1415927,661,'m425_map_to_manaprism_dungeon_02'),
-(-152,250,25,3.1415927,613,'m425_manaprism_dungeon_02_to_map'),
-(516,-1745,10,3.1415927,661,'m425_manaprism_to_02_boss'),
-(455,-1837,10,3.1415927,661,'m425_manaprism_to_01_boss'),
-(572,364,7,3.1415927,662,'m425_ghost_dungeon_in'),
-(587,418,4,3.1415927,645,'m425_ghost_dungeon_out');
+(-24.2052,298.675,8.00608,-0,601,'m425_map1'),
+(-604.008,-1106.36,0,-0,609,'m425_map9'),
+(-358.397,-1466.57,0,-0,604,'m425_map4'),
+(-97.2158,2739.28,20.0052,-0,607,'m425_map7'),
+(-53.8663,111.415,-4.95372,-0,613,'m425_map13'),
+(-215.512,948.738,21.4803,-0,606,'m425_map6'),
+(-396.306,-2180.42,197.287,-0,620,'m425_map20'),
+(-472.802,1478.96,-58.1845,-0,623,'m425_map23'),
+(495.469,359.09,33.13,-0,636,'m425_map36'),
+(-102.634,1136.04,21.24,-0,630,'m425_map30'),
+(284.172,282.912,10.0842,-0,638,'m425_map38'),
+(694.938,612.35,27.93,-0,645,'m425_map45'),
+(-340.189,-1207.95,7.03809,-0,646,'m425_map46'),
+(-172.356,-1662.36,10.0021,-0,651,'m425_map51'),
+(-147.4,507,5.8,4.7131853,601,'m425_hf_silent_town'),
+(16,45,7,-0,601,'m425_hf_adventurebar'),
+(-514,-1127,0,-0,609,'m425_sand_box'),
+(-15.6,2228,1,-0,601,'m425_tc_town_shore'),
+(1378,1260,16,-0,601,'m425_ds_shieldguard'),
+(-300,-643,0,-0,604,'m425_teleport_to_desert'),
+(87.4,959,36,4.8631854,601,'m425_hf_stronghold_cliffwatch'),
+(180,1227,5.8,4.193186,601,'m425_hf_windmill_farm'),
+(-468,1700,26.8,1.6931853,601,'m425_tc_salty_wind'),
+(405,2261,67,2.8831854,601,'m425_tc_reevis_manor'),
+(2418,851,6.8,2.1531854,601,'m425_ds_thensair'),
+(1968,1070,-3,4.8131857,601,'m425_ds_moonswamp'),
+(2174,1492,-2.5,3.4831855,601,'m425_ds_port_verecy'),
+(1966,367,-2.7,5.9331856,601,'m425_ds_dragon_library'),
+(1798,1366,-2.5,1.5131855,601,'m425_ds_phalanx_academy'),
+(1229,-2744,39.5,2.4631855,604,'m425_ms_vega_square'),
+(1746,-2781,8,-0,604,'m425_ms_evensummer_port'),
+(484,-2395,37,5.8431854,604,'m425_ms_seashore_keep'),
+(1328,-1797,25.5,1.2631855,604,'m425_ms_hall_of_reverie'),
+(2222,-2633,40,1.1131854,604,'m425_ms_hemir_s_camp'),
+(-501,-702,3,3.1531854,604,'m425_gd_sandy_city'),
+(232,-2068,21,3.9831855,604,'m425_gd_end_of_sand'),
+(173,-332.5,5,5.9031854,604,'m425_gd_tower_citadel__antoria'),
+(-387,-1257,3.7,5.9931855,604,'m425_gd_wind_s_end'),
+(-126,2733,29,-0,607,'m425_orcnewbie'),
+(-1016,-554,21,-0,604,'m425_br_stranger_s_roost'),
+(-1522.5,183,58.5,-0,604,'m425_br_suspension_city'),
+(-1938,-237,56.5,-0,604,'m425_br_outpost_farstrider'),
+(-1992,486,52.5,-0,604,'m425_br_outpost_bulrinto'),
+(405,2621,38,-0,601,'m425_tc_crystal_camp'),
+(935,1713,40.5,-0,601,'m425_tc_crystal_cave'),
+(1023,-2026,4.2,-0,604,'m425_ms_fallen_star'),
+(1286,1313,16,-0,601,'m425_tc_ds'),
+(518,1546,4,-0,601,'m425_tc_lavawall'),
+(-345,285,1.5,-0,613,'m425_in_main_city'),
+(293,915,60,3.1431854,601,'m425_out_main_city'),
+(-54,-828,20,-0,604,'m425_gd_1'),
+(250,-595,0,-0,604,'m425_gd_2'),
+(-131,344,-5,-0,613,'m425_irar_flamethroat'),
+(-186,-40,10,-0,613,'m425_ferrin_mulberrywhisper'),
+(-121,182,30,-0,613,'m425_main_city'),
+(-83,104,6,-0,613,'m425_greenmont'),
+(-215,220,40,5.5631857,615,'m425_dungeon_swamp_eye'),
+(1903,871,-7.86,3.8231854,601,'m425_map_swamp_eye'),
+(582,2678,40,4.2631855,601,'m425_map_knahswahs'),
+(2328,547,11,1.5231853,614,'m425_dungeon_knahswahs'),
+(-283,-177,106,3.5731854,617,'m425_the_one_shrone'),
+(-160,127,-12,3.0931854,617,'m425_eristars_map_to_dungeon'),
+(1522,-2022,72,2.1531854,604,'m425_eristars_dungeon_to_map'),
+(-235,-142,21,0.82318544,617,'m425_eristars_throne_to_map'),
+(833,-2546,55,2.0631857,604,'m425_to_winter_solstice_land'),
+(-80,138,5,-0,613,'m425_winter_solstice_to_city'),
+(1076,-1527,11,2.0131855,618,'m425_sailen_lower_map_to_dungeon'),
+(154,-1187,15,3.1431854,604,'m425_sailen_lower_dungeon_to_map'),
+(-232,180,5,-0,613,'m425_gm_warrior'),
+(-53,279,4,-0,613,'m425_gm_mage'),
+(-62,281,4,-0,613,'m425_gm_monk'),
+(-146,127,-20,-0,613,'m425_gm_ranger'),
+(1125,-1395,5,3.1431854,619,'m425_sailen_the_palace_map_to_dungeon'),
+(134,-1202,7.6,1.5731854,604,'m425_sailen_the_palace_dungeon_to_map'),
+(969.2,-1299.8,10.5,1.5731854,619,'m425_sailen_the_palace_well_out'),
+(848,-1407,22,-0,619,'m425_sailen_the_palace_well_back'),
+(-460,-1427,295,3.3731854,620,'m425_caligula_skygarden_leave_king'),
+(-188,-1116,-10,-0,620,'m425_caligula_skygarden_to_king'),
+(-530,-2416,146,-0,620,'m425_caligula_skygarden_to_sandcliff'),
+(-548,-1427,292,4.8831854,620,'m425_caligula_skygarden_to_peak_palace'),
+(-1758,390,11,3.8831854,604,'m425_caligula_skygarden_to_sinskaald'),
+(528,-1389,40,4.77875,604,'m425_mendels_to_desert'),
+(-340,-194,78,0.95318556,622,'m425_eidolons_scene_1_to__2_left'),
+(-1425,164,73.6,4.233186,622,'m425_eidolons_scene_2_to__1_left'),
+(-341.8,-251,78,5.1331854,622,'m425_eidolons_scene_1_to__2_right'),
+(-211,-225,163.32,0.60318565,622,'m425_eidolons_scene_2_to_boss_3'),
+(-1590,156,51,-0,622,'m425_eidonlons_map_to_dungeon'),
+(-1525,247,50,0.42318535,604,'m425_eidonlons_dungeon_to_map'),
+(-45.68,903.85,-7,5.7161856,606,'m425_mendel_novice_village'),
+(193,-1302,13,2.1841855,604,'m425_maincity_to_shadow_gate'),
+(-237,70,30,5.6531854,606,'m425_shadow_gate_to_ep1'),
+(-240.22,-343.18,86.2,0.26518536,606,'m425_ur_cold_ring'),
+(-236,-1042,63,0.63755655,606,'m425_ur_arid_moor'),
+(-586,-20,55,-0,606,'m425_ur_mendel_village'),
+(-796.91,-355.64,59,1.0498853,606,'m425_ur_mechanical_dungeon'),
+(67,43,35,5.4981856,606,'m425_ur_darkelf_clan'),
+(324,-446,50,5.1841855,606,'m425_ur_darkelf_prison'),
+(213,-1302,12,3.5231855,604,'m425_desert_shadow_gate'),
+(682,958,79,-0,623,'m425_quest_1026_find_kawa'),
+(874,1049,66,3.2831855,623,'m425_quest_1026_kawa_back'),
+(-549,1370,-57,1.6231856,623,'m425_fl_hero_s_landing'),
+(55,1519,-6,1.0331855,623,'m425_fl_blackjail'),
+(627,1873,65,2.6331854,623,'m425_fl_pilgrim_s_steps'),
+(1121,1565,25,4.7131853,623,'m425_fl_alanruti_s_refuge'),
+(608,933,74,5.4931855,623,'m425_fl_heart_of_moor'),
+(984,55,141,1.5731854,623,'m425_fl_generator_s_temple'),
+(826,-410,37,3.7331855,623,'m425_fl_village_of_grove'),
+(-656,-645,-54,3.2931855,623,'m425_fl_duthilm_island'),
+(-215,-449,-52,-0,623,'m425_fl_stone_coast'),
+(-491,1803,7,4.7131853,623,'m425_under_realm_to_frostlund'),
+(-492,-1366,76,0.65318537,606,'m425_frostlund_to_under_realm'),
+(1189,322,122,3.1431854,623,'m425_moor_to_temple'),
+(855,824,117,3.1431854,623,'m425_temple_to_moor'),
+(-147,1795,-14,1.5731854,623,'m425_fl_icehill'),
+(365,289,32,-0,623,'m425_fl_red_city'),
+(-317,805,21,-0,623,'m425_fl_pillar_of_water'),
+(-521,1773,8,4.7131853,623,'m425_fl_cave_to_under_realm'),
+(237,-450,11,0.82318544,623,'m425_fl_grey_wood'),
+(438,1591,1,5.4981856,623,'m425_fl_haracil'),
+(-224,1508,-31,5.5831857,623,'m425_fl_bruto_s_camp'),
+(231,-955.5,45,2.0431857,606,'m425_ur_exile_village'),
+(-64.75,-1406,41,3.6131854,606,'m425_ur_stonebranch_village'),
+(-382,-1306,68,1.4831853,606,'m425_ur_darksteel_corridor'),
+(51,1526,-8,2.2831855,623,'m425_icewall_to_altar'),
+(813.2,860,66.5,3.1431854,625,'m425_ziggurat_map_to_dungeon'),
+(-948,-265,67,-0,606,'m425_ziggurat_dungeon_to_map'),
+(-952,-384,72,1.5831857,606,'m425_abyss_dungeon_to_map'),
+(547,681,34,1.5731854,626,'m425_abyss_map_to_dungeon'),
+(642,388,60,4.7431855,626,'m425_abyss_dungeon_to_boss'),
+(-328,-23,-10,-0,627,'m425_ring_of_merciless'),
+(-37,642,0,-0,629,'m425_the_insane_in_arcadian'),
+(-106,584,5,3.6131854,601,'m425_madness_arcadian_dungeon_to_map'),
+(2,720,9,-0,630,'m425_amusement_park'),
+(-31,745,75,1.6131854,631,'m425_trail'),
+(330,817,61,-0,623,'m425_trail_exit'),
+(-144,192,30,-0,613,'m425_ruin_of_vliya_to_map'),
+(140,-181,170,2.5731854,632,'m425_map_to_ruin_of_vliya'),
+(-126,245,-9,3.1131854,633,'m425_map_to_fate_of_collapse'),
+(-85,214,-5,5.1831856,613,'m425_fate_of_collapse_to_map'),
+(-147,246,-10,3.1131854,633,'m425_quest_to_fate_of_collapse'),
+(-69,208,-5,-0,613,'m425_fate_of_collapse_to_quest'),
+(269.49,894.321,60,4.4031854,601,'m425_to_forest_amusement_park_enter'),
+(-810,-290,38,-0,634,'m425_to_dungeon_khalins_rebirth'),
+(-287.506,1562.72,4.07,-0,601,'m425_dungeon_khalins_rebirth_to_map'),
+(17.1861,-2005.39,4.53,2.7931855,604,'m425_greenmont_to_black_market'),
+(-107.623,143.107,5,3.8131855,613,'m425_black_market_to_greenmont'),
+(262,998,23,3.8131855,630,'m425_teleport_to_bomb_area'),
+(-103,1139,21,1.8831854,630,'m425_teleport_to_bomb_entry'),
+(30,130,0,-0,613,'m425_3th_anniversary_teleport__to_greenmont'),
+(734.51,737,132,4.7031856,625,'m425_teleport_to_t3_boss'),
+(1242,901,-1.58,3.1631856,638,'m425_land1_to_flare_island'),
+(715,2262,17,4.2731857,601,'m425_flare_island_to_land1'),
+(-31.3,46,15,4.7231855,637,'m425_ghostcastle_hall'),
+(-114.6,112.2,15,-0,637,'m425_ghostcastle_l_corridor_head'),
+(-83.4,107.8,15,-0,637,'m425_ghostcastle_l_corridor_middle'),
+(64.7,46.7,15,-0,637,'m425_ghostcastle_bathroom'),
+(34.5,126.6,15,-0,637,'m425_ghostcastle_kitchen'),
+(-49.1,151.3,15,-0,637,'m425_ghostcastle_t_corridor_head'),
+(-36.5,167.1,15,-0,637,'m425_ghostcastle_t_corridor_middle'),
+(-36.3,368.9,15,-0,637,'m425_ghostcastle_bedroom'),
+(96,305.8,15,-0,637,'m425_ghostcastle_study'),
+(-32.8,243.7,15,-0,637,'m425_ghostcastle_boss_room'),
+(40,-20.45,36.57,1.7231855,639,'m425_land1_to_flare_risen_chasing_shadow'),
+(1677,874,-7,5.9031854,601,'m425_flare_risen_chasing_shadow_to_land1'),
+(-549,-1177,36,-0,606,'m425_halloween_teleport_to_underworld_halloween'),
+(-589,-1075,55,-0,606,'m425_normal_dungeon_teleport_to_underworld'),
+(-626,-1069,53,-0,606,'m425_summon_halloween_dungeon'),
+(-31,49,10,-0,637,'m425_map_to_halloween_dungeon'),
+(5,-37,4,-0,601,'m425_hf_human_newbie_village_teleport'),
+(-424,571,8,-0,601,'m425_hf_orinetal_trader_organization_teleporter'),
+(-6,-2042,7,-0,604,'m425_gd_black_market_teleporter'),
+(1681,-1908,3,-0,604,'m425_telepoet_to_rosy_island'),
+(-410,-317,1.5,-0,640,'m425_middle_land_to_into_the_darkness'),
+(951,-2496,11,-0,604,'m425_into_the_darkness_to_middle_land'),
+(779.5,869,29.32,-0,638,'m425_sanctuary'),
+(-455,-1186,9,3.0831854,641,'m425_middle_land_to_burn_out_the_night'),
+(-1861,177,-7.37,-0,604,'m425_burn_out_the_night_to_middle_land'),
+(-22.05,1756.89,10.93,-0,601,'m425_teleport_to_cherry_bossom_festival'),
+(975,863,25,-0,638,'m425_boot_camp_to_flare_island_main_city'),
+(-130,571,5,-0,601,'m425_teleport_to_easter'),
+(-306,606,11,-0,601,'m425_teleport_to_dragon_boat'),
+(337,-1245,17,-0,643,'m425_map_to_7'),
+(339.3,-1006.2,17,-0,643,'m425_4th_magic_portals_3'),
+(524.5,-1184.1,17,-0,643,'m425_4th_magic_portals_5'),
+(528.1,-1000.89,17,-0,643,'m425_4th_magic_portals_7'),
+(25,12,-5,-0,613,'m425_summon_7'),
+(1045.42,804.62,66.94,1.5931854,642,'m425_map_to_stardust_realm'),
+(886,928,70,-0,623,'m425_stardust_realm_to_map'),
+(-32,806,15.9,-0,630,'m425_teleport_to_mount_area'),
+(100.19,724.03,16.97,-0,630,'m425_teleport_to_parkour_area'),
+(76.9,725.9,11.86,-0,630,'m425_teleport_to_parkour_entry'),
+(-19.6,794.19,10.48,-0,630,'m425_teleport_to_mount_entry'),
+(522,-929,17,-0,643,'m425_1f_to_2f'),
+(523,-1246,17,-0,643,'m425_2f_to_3f'),
+(335,-930,17,-0,643,'m425_3f_to_4f'),
+(592,-1086,17,-0,643,'m425_4f_to_5f'),
+(272,-1087,17,-0,643,'m425_5f_to_6f'),
+(426,-1086,10,-0,643,'m425_6f_to_7f'),
+(337,-1245,17,-0,643,'m425_all_to_1f'),
+(25,12,-5,-0,613,'m425_7_to_map'),
+(1184.02,988.59,144.52,3.2931855,642,'m425_af08_to_nigel'),
+(1144.23,866.35,132.59,3.0731854,642,'m425_af08_to_luyunfei'),
+(-208.198,306.199,-5,-0,613,'m425_the_hooligan_teleport'),
+(293.85,2652.51,2.18,-0,601,'m425_summer_carnival'),
+(-426.44,617.55,6.95,0.4831853,601,'m425_teleport_to_mid'),
+(663,600.4,27,3.4831855,645,'m425_teleport_to_ghost'),
+(-320.9,-1278.8,0.56,-0,646,'m425_teleport_to_porkour_entry'),
+(664,-1599,27,-0,645,'m425_teleport_to_ghost_item'),
+(-397,542,15,-0,601,'m425_teleport_to_mag'),
+(-362.84,-1252.29,5,-0,646,'m425_teleport_to_amusement_park'),
+(2286,-2085.9,3.97,3.0131855,604,'m425_teleport_thx'),
+(-626,-1069,53,-0,606,'m425_teleport_halloween'),
+(1881.36,-2447.9,4.6,-0,604,'m425_teleport_wine'),
+(-18,28.59,10,3.1831856,648,'m425_teleport_thx_dungeon'),
+(2181,-2071,15,4.9031854,604,'m425_thx_dungeon_to_map'),
+(1917,-2407,13,-0,604,'m425_greenmont_to_soul_brewing_island'),
+(-46,346,10,-0,637,'m425_teleport_to_halloween_entry_1'),
+(-43,123,10,-0,637,'m425_teleport_to_halloween_entry_2'),
+(25,267,10,-0,637,'m425_teleport_to_halloween_entry_3'),
+(26,195,10,-0,637,'m425_teleport_to_halloween_entry_4'),
+(-377,29,45,-0,640,'m425_surma_entry_to_boss'),
+(-282,-20,-11.5,-0,640,'m425_surma_boss_to_entry'),
+(-299,287,5,-0,649,'m425_map_to_spd'),
+(-436,469,5,0.7831855,649,'m425_teleport_to_bull'),
+(-358,61,6.5,1.1731853,649,'m425_teleport_to_monkey'),
+(-161,496,10,2.6131854,649,'m425_teleport_to_skeleton'),
+(-351.36,491.37,41.05,3.1131854,601,'m425_spd_to_map'),
+(-245,-812,35,1.4231853,650,'m425_newland_eve_boss1_to_boss2'),
+(-245,-715,20,4.9031854,650,'m425_newland_eve_boss2_to_boss1'),
+(540,1393,-18,-0,638,'m425_newland_eve_to_map'),
+(-142,-729,60,4.6531854,650,'m425_newland_eve_to_dungeon'),
+(-142,510,5,-0,601,'m425_silence_to_silence'),
+(82,956,35,-0,601,'m425_cliffwatch_to_silence'),
+(-11,2232,0,-0,601,'m425_bellshoal_to_bellshoal'),
+(-472,1706,26,-0,601,'m425_salty_wind_to_bellshoal'),
+(400,2263,56,-0,601,'m425_reeves_manor_to_bellshoal'),
+(1374,1264,15,-0,601,'m425_bordhill_to_bellshoal'),
+(2413,847,6,-0,601,'m425_miskatonia_to_glimmermoor'),
+(1973,1074,-4,-0,601,'m425_glimmermoor_to_glimmermoor'),
+(1965,371,-3,-0,601,'m425_wyrgast_s_library_to_glimmermoor'),
+(2176,1497,-3,-0,601,'m425_port_verecy_to_glimmermoor'),
+(1743,-2770,8,-0,604,'m425_port_eversummer_to_vega_square'),
+(2224,-2638,40,-0,604,'m425_camp_of_hemir_to_vega_square'),
+(1235,-2744,39,-0,604,'m425_vega_square_to_vega_square'),
+(1326,-1802,25,-0,604,'m425_hall_of_reverie_to_vega_square'),
+(488,-2391,36,-0,604,'m425_sea_shore_to_vega_square'),
+(231,-2062,204,-0,604,'m425_end_of_sand_to_wind_s_end'),
+(-388,-1250,3,-0,604,'m425_wind_s_end_to_wind_s_end'),
+(-512,-705,2,-0,604,'m425_sdukar_to_wind_s_end'),
+(183,-327,4,-0,604,'m425_crimson_tower__antoria_to_wind_s_end'),
+(-1020,-558,20,-0,604,'m425_stranger_s_roost_to_the_suspended_city'),
+(-1526,178,57,-0,604,'m425_the_suspended_city__to_the_suspended_city'),
+(-1933,-239,56,-0,604,'m425_farstrider_outpost_to_the_suspended_city'),
+(-1994,481,51,-0,604,'m425_bulrinto_outpost_to_the_suspended_city'),
+(-583,-12,55,-0,606,'m425_dimvalley_village_to_coldring'),
+(-236,-349,85,-0,606,'m425_coldring_to_coldring'),
+(67,35,36,-0,606,'m425_colding_castle_to_coldring'),
+(-241,-1041,63,-0,606,'m425_arid_moor_to_coldring'),
+(-556,1378,-58,-0,623,'m425_hero_s_landing_to_hero_s_landing'),
+(446,1592,0,-0,623,'m425_haracil_to_hero_s_landing'),
+(980,60,140,-0,623,'m425_generator_s_temple_to_hero_s_landing'),
+(-662,-650,-56,-0,623,'m425_duthilm_island_to_hero_s_landing'),
+(623,1880,64,-0,623,'m425_pilgrim_s_steps_to_hero_s_landing'),
+(-93,577,10,-0,601,'m425_silence_board'),
+(-45,2166,20,-0,601,'m425_bellshoal_board'),
+(2071,1097,-6,-0,601,'m425_glimmermoor_board'),
+(1235,-2736,39,-0,604,'m425_vega_square_board'),
+(-376,-1272,2,-0,604,'m425_wind_s_end_board'),
+(-1545,151,56,-0,604,'m425_the_suspended_city__board'),
+(-280,-240,75,-0,606,'m425_coldring_board'),
+(-558,1386,-58,-0,623,'m425_hero_s_landing_board'),
+(-238,-470,11,-0,652,'m425_map_to_rainbow'),
+(-43,-799,11,-0,652,'m425_rainbow_to_cake'),
+(-396,-1194,74,4.6731853,652,'m425_rainbow_to_starry'),
+(17,25,-5,-0,613,'m425_teleport_to_ann'),
+(-90,125,9,-0,613,'m425_teleport_to_ran'),
+(-221,65,31,-0,606,'m425_yang2_wei'),
+(528.31,-757.64,12.32,1.5931854,653,'m425_map_to_treasure'),
+(-83,-1508,45,-0,651,'m425_treasure_to_map'),
+(480,-1258,22,1.9031854,654,'m425_map_to_sommen__the_altar_of_failure'),
+(-388,-840,54,2.7231855,651,'m425_sommen__the_altar_of_failure_to_map'),
+(-164.8,-1748,3.77,2.4831855,651,'m425_teleport_to_coral_2'),
+(544,-930,4,5.6731853,651,'m425_teleport_to_coral_1'),
+(570,2658,-40,-0,601,'m425_knahswahs_prison_gate'),
+(1916,883,-6,-0,601,'m425_relic_s_key_gate'),
+(1529,-2033,70,-0,604,'m425_young_deity_s_realm_gate'),
+(154,-1187,15,-0,604,'m425_sailen_the_lower_city_gate'),
+(-94.2,-1543.9,66,-0,651,'m425_the_grey_market'),
+(779,869,29,-0,638,'m425_dragonborn_to_city2'),
+(-83,103,6,-0,613,'m425_dragonborn_to_city'),
+(15,-971,40.5,-0,651,'m425_the_last_garrison'),
+(-620,-1155,37,-0,651,'m425_ancestor_s_ruins'),
+(678.5,-1224,23.3,-0,651,'m425_dawnwalk_bridge'),
+(421,-872,16.5,-0,651,'m425_high_daisauros_fort'),
+(-300,104,-12.5,-0,613,'m425_to_city'),
+(358,1173,-14.2,-0,638,'m425_to_city2'),
+(264,-1674,45.5,-0,651,'m425_sacrifice_altar'),
+(274,-1676,44,-0,651,'m425_teleport_tp_the_breach'),
+(1253.62,-1480,0.51,3.1331854,655,'m425_map_to_reptilia_s_trove'),
+(-320,-512,-6,-0,651,'m425_reptilia_s_trove_to_map'),
+(478.3,-1644.75,54.4,3.5631855,656,'m425_map_to_delusion_of_power'),
+(477.44,-1647.56,54.56,-0,651,'m425_delusion_of_power_to_map'),
+(-189.23,-2413,12.32,0.44318533,657,'m425_map_to_2016_xmas'),
+(890.41,-2412.69,74.23,0.20318556,604,'m425_2016_xmas_to_map'),
+(825,-2495,54,-0,604,'m425_crismas_land'),
+(355,-1785,65,-0,658,'m425_map_to_final_seal'),
+(302,-1788,51,-0,651,'m425_final_seal_to_map'),
+(-353,-1857,10,-0,659,'m425_manaprism_portaliii'),
+(398,-1879,10,-0,659,'m425_manaprism_portal2'),
+(323,-1875,10,-0,659,'m425_manaprism_portal1'),
+(351.64,-1879.47,1.56,1.6031857,660,'m425_map_to_easter_day_dungeon_2017'),
+(-66.39,553.99,1.83,1.0131855,601,'m425_easter_dungeon_2017_to_map'),
+(352,-1891,10,-0,659,'m425_map_to_manaprism_dungeon'),
+(-916,-229,71,-0,606,'m425_manaprism_dungeon_to_map'),
+(681,-941.81,6.91,1.4231853,643,'m425_7_to_goose'),
+(252.233,-1260.9,14.7,1.4231853,643,'m425_7_to_kangaroo'),
+(665.584,-1263.31,12.81,6.2731853,643,'m425_greenmont_to_boxing'),
+(455.3,-1898,10,-0,661,'m425_map_to_manaprism_dungeon_02'),
+(-152,250,25,-0,613,'m425_manaprism_dungeon_02_to_map'),
+(516,-1745,10,-0,661,'m425_manaprism_to_02_boss'),
+(455,-1837,10,-0,661,'m425_manaprism_to_01_boss'),
+(572,364,7,-0,662,'m425_ghost_dungeon_in'),
+(587,418,4,-0,645,'m425_ghost_dungeon_out');
