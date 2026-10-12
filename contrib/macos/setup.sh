@@ -344,6 +344,19 @@ raise SystemExit("没有找到 MySQL 数据库压缩包")
   printf '%s\n' "$(dirname "$mangos")"
 }
 
+# Player saves run in one transaction. Homebrew MySQL enables GTID, which
+# rejects a transaction that writes both InnoDB and MyISAM tables.
+convert_character_tables() {
+  local names name
+  names="$(mysql_root -N -e "SELECT table_name FROM information_schema.tables WHERE table_schema='characters' AND engine='MyISAM' ORDER BY table_name")"
+  [[ -n "$names" ]] || return 0
+  step "将 characters 的 MyISAM 表改为 InnoDB"
+  while IFS= read -r name; do
+    [[ -n "$name" ]] || continue
+    mysql_root -e "ALTER TABLE \`characters\`.\`${name}\` ENGINE=InnoDB ROW_FORMAT=DYNAMIC"
+  done <<<"$names"
+}
+
 cmd_db() {
   load_brew || die "找不到 Homebrew。请先运行 deps。"
   ensure_database_server
@@ -352,6 +365,7 @@ cmd_db() {
   existing="$(mysql_root -N -e "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema='mangos' AND table_name='creature';")"
   if [[ "$existing" != "0" && "$RESET_DB" != "1" ]]; then
     printf 'mangos 库已有数据，跳过导入。要重来请加 --reset 或 RESET_DB=1。\n'
+    convert_character_tables
     return
   fi
 
@@ -405,6 +419,7 @@ SQL
   import_dump logs "$dump_dir/logs.sql"
   import_dump mangos "$dump_dir/mangos.sql"
   import_dump characters "$dump_dir/characters.sql"
+  convert_character_tables
   printf '数据库导入完成。\n'
 }
 

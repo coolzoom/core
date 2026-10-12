@@ -1,0 +1,7 @@
+2026-10-08 21:14:46 Core revision: 625ee34542df7525c8e2 / 2026-10-08 20:20:40 +0800 / MacOSX_AArch64 (little-endian) [realm-daemon]
+2026-10-08 21:14:46 <Ctrl-C> to stop.
+2026-10-08 21:14:46 Using configuration file /Users/mac/Downloads/git/wow1121cn/vmangos/opt/vmangos/etc/realmd.conf.
+2026-10-08 21:14:46 Daemon PID: 6406
+
+2026-10-08 21:14:46 Database: 127.0.0.1;3306;root;*;realmd
+2026-10-08 21:14:46 Added realm "VMaNGOS"

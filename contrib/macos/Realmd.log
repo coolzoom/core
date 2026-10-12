@@ -1,0 +1,18 @@
+2026-10-08 18:55:10 Core revision: 0e3ff01e76d4758e8a7c / 2026-10-03 10:54:49 +0200 / MacOSX_AArch64 (little-endian) [realm-daemon]
+2026-10-08 18:55:10 <Ctrl-C> to stop.
+2026-10-08 18:55:10 Using configuration file /Users/mac/Downloads/git/vmangos/opt/vmangos/etc/realmd.conf.
+2026-10-08 18:55:10 Daemon PID: 69845
+
+2026-10-08 18:55:10 Database: 127.0.0.1;3306;root;*;realmd
+2026-10-08 18:55:10 Added realm "VMaNGOS"
+2026-10-08 18:55:22 [127.0.0.1] Connection accepted
+2026-10-08 18:55:22 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
+2026-10-08 18:56:11 [127.0.0.1] Connection closed
+2026-10-08 18:56:48 [127.0.0.1] Connection accepted
+2026-10-08 18:56:48 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
+2026-10-08 18:57:34 [127.0.0.1] Connection closed
+2026-10-08 18:57:34 [127.0.0.1] Connection accepted
+2026-10-08 18:57:34 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
+2026-10-08 18:57:34 [127.0.0.1] Connection closed
+2026-10-08 20:15:25 Waiting for IO thread to finish
+2026-10-08 20:15:25 Halting process...
