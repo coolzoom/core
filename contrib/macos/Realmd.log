@@ -1,18 +1,35 @@
-2026-10-08 18:55:10 Core revision: 0e3ff01e76d4758e8a7c / 2026-10-03 10:54:49 +0200 / MacOSX_AArch64 (little-endian) [realm-daemon]
-2026-10-08 18:55:10 <Ctrl-C> to stop.
-2026-10-08 18:55:10 Using configuration file /Users/mac/Downloads/git/vmangos/opt/vmangos/etc/realmd.conf.
-2026-10-08 18:55:10 Daemon PID: 69845
+2026-10-15 21:25:21 Core revision: 625ee34542df7525c8e2 / 2026-10-08 20:20:40 +0800 / MacOSX_AArch64 (little-endian) [realm-daemon]
+2026-10-15 21:25:21 <Ctrl-C> to stop.
+2026-10-15 21:25:21 Using configuration file /Users/mac/Downloads/git/wow1121cn/vmangos/opt/vmangos/etc/realmd.conf.
+2026-10-15 21:25:21 Daemon PID: 45533
 
-2026-10-08 18:55:10 Database: 127.0.0.1;3306;root;*;realmd
-2026-10-08 18:55:10 Added realm "VMaNGOS"
-2026-10-08 18:55:22 [127.0.0.1] Connection accepted
-2026-10-08 18:55:22 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
-2026-10-08 18:56:11 [127.0.0.1] Connection closed
-2026-10-08 18:56:48 [127.0.0.1] Connection accepted
-2026-10-08 18:56:48 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
-2026-10-08 18:57:34 [127.0.0.1] Connection closed
-2026-10-08 18:57:34 [127.0.0.1] Connection accepted
-2026-10-08 18:57:34 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
-2026-10-08 18:57:34 [127.0.0.1] Connection closed
-2026-10-08 20:15:25 Waiting for IO thread to finish
-2026-10-08 20:15:25 Halting process...
+2026-10-15 21:25:21 Database: 127.0.0.1;3306;root;*;realmd
+2026-10-15 21:25:21 Added realm "VMaNGOS"
+2026-10-15 21:25:31 [127.0.0.1] Connection accepted
+2026-10-15 21:25:31 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
+2026-10-15 21:25:31 [127.0.0.1] Connection closed
+2026-10-15 21:25:40 [127.0.0.1] Connection accepted
+2026-10-15 21:25:40 [127.0.0.1] Connection closed
+2026-10-15 21:25:46 [127.0.0.1] Connection accepted
+2026-10-15 21:25:46 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' successfully authenticated
+2026-10-15 21:25:46 [127.0.0.1] Connection closed
+2026-10-15 21:27:05 [127.0.0.1] Connection accepted
+2026-10-15 21:27:05 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' successfully authenticated
+2026-10-15 21:27:05 [127.0.0.1] Connection closed
+2026-10-15 21:30:55 [127.0.0.1] Connection accepted
+2026-10-15 21:30:55 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' successfully authenticated
+2026-10-15 21:30:55 [127.0.0.1] Connection closed
+2026-10-15 21:40:55 [127.0.0.1] Connection accepted
+2026-10-15 21:40:55 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' tried to login with wrong password!
+2026-10-15 21:40:55 [127.0.0.1] Connection closed
+2026-10-15 21:40:56 [127.0.0.1] Connection accepted
+2026-10-15 21:40:56 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' successfully authenticated
+2026-10-15 21:40:56 [127.0.0.1] Connection closed
+2026-10-15 23:14:19 [127.0.0.1] Connection accepted
+2026-10-15 23:14:19 [AuthChallenge] Account 'ADMIN' using IP '127.0.0.1' successfully authenticated
+2026-10-15 23:14:19 [127.0.0.1] Connection closed
+2026-10-15 23:14:27 [127.0.0.1] Connection accepted
+2026-10-15 23:14:27 [AuthChallenge] Account 'TEST' using IP '127.0.0.1' successfully authenticated
+2026-10-15 23:14:27 [127.0.0.1] Connection closed
+2026-10-16 00:59:05 [127.0.0.1] Connection accepted
+2026-10-16 00:59:05 [127.0.0.1] Connection closed
